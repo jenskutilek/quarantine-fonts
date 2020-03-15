@@ -1,0 +1,6663 @@
+{
+.appVersion = "1098";
+DisplayStrings = (
+W
+);
+customParameters = (
+{
+name = isFixedPitch;
+value = 1;
+}
+);
+date = "2017-12-19 14:57:33 +0000";
+designer = "Jens Kutilek";
+familyName = Cotillion;
+fontMaster = (
+{
+ascender = 800;
+capHeight = 700;
+descender = -200;
+id = "83692D61-586C-413E-9B5A-1AF652750951";
+xHeight = 500;
+}
+);
+glyphs = (
+{
+glyphname = A;
+lastChange = "2017-12-19 15:31:59 +0000";
+layers = (
+{
+components = (
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 0}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 80}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 160}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 240}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 320}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 400}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 480}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 560}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 160, 640}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 640}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 320, 640}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 560}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 480}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 400}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 320}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 240}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 160}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 80}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 0}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 160, 240}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 240}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 320, 240}";
+}
+);
+layerId = "83692D61-586C-413E-9B5A-1AF652750951";
+width = 560;
+}
+);
+unicode = 0041;
+},
+{
+glyphname = B;
+lastChange = "2017-12-19 15:31:48 +0000";
+layers = (
+{
+components = (
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 640}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 560}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 480}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 400}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 320}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 240}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 160}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 80}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 0}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 160, 0}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 0}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 320, 0}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 80}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 160}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 240}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 320, 320}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 320}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 160, 320}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 400}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 480}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 560}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 320, 640}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 640}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 160, 640}";
+}
+);
+layerId = "83692D61-586C-413E-9B5A-1AF652750951";
+width = 560;
+}
+);
+unicode = 0042;
+},
+{
+glyphname = C;
+lastChange = "2017-12-19 15:32:14 +0000";
+layers = (
+{
+components = (
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 560}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 480}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 400}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 320}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 240}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 160}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 80}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 160, 0}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 0}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 320, 0}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 80}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 160, 640}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 640}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 320, 640}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 560}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 480}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 160}";
+}
+);
+layerId = "83692D61-586C-413E-9B5A-1AF652750951";
+width = 560;
+}
+);
+unicode = 0043;
+},
+{
+glyphname = D;
+lastChange = "2017-12-19 15:32:27 +0000";
+layers = (
+{
+components = (
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 640}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 560}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 480}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 320}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 240}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 160}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 80}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 0}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 400}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 160, 640}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 640}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 320, 560}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 480}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 400}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 320}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 240}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 160}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 320, 80}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 0}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 160, 0}";
+}
+);
+layerId = "83692D61-586C-413E-9B5A-1AF652750951";
+width = 560;
+}
+);
+unicode = 0044;
+},
+{
+glyphname = E;
+lastChange = "2017-12-19 15:32:44 +0000";
+layers = (
+{
+components = (
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 640}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 560}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 480}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 400}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 320}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 240}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 160}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 80}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 0}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 160, 0}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 0}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 320, 0}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 160, 320}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 320}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 160, 640}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 640}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 320, 640}";
+}
+);
+layerId = "83692D61-586C-413E-9B5A-1AF652750951";
+width = 560;
+}
+);
+unicode = 0045;
+},
+{
+glyphname = F;
+lastChange = "2017-12-19 15:32:53 +0000";
+layers = (
+{
+components = (
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 640}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 560}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 480}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 400}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 320}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 240}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 160}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 80}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 0}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 160, 640}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 640}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 320, 640}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 160, 320}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 320}";
+}
+);
+layerId = "83692D61-586C-413E-9B5A-1AF652750951";
+width = 560;
+}
+);
+unicode = 0046;
+},
+{
+glyphname = G;
+lastChange = "2017-12-19 15:33:41 +0000";
+layers = (
+{
+components = (
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 160, 640}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 640}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 320, 640}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 560}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 480}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 400}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 320}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 240}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 160}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 80}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 160, 0}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 0}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 320, 0}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 0}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 80}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 160}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 240}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 560}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 480}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 320, 240}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 240}";
+}
+);
+layerId = "83692D61-586C-413E-9B5A-1AF652750951";
+width = 560;
+}
+);
+unicode = 0047;
+},
+{
+glyphname = H;
+lastChange = "2017-12-19 15:30:11 +0000";
+layers = (
+{
+components = (
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 0}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 80}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 160}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 240}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 320}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 400}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 480}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 560}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 640}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 640}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 560}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 480}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 400}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 320}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 240}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 160}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 80}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 0}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 160, 320}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 320}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 320, 320}";
+}
+);
+layerId = "83692D61-586C-413E-9B5A-1AF652750951";
+width = 560;
+}
+);
+unicode = 0048;
+},
+{
+glyphname = I;
+lastChange = "2017-12-19 15:30:45 +0000";
+layers = (
+{
+components = (
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 640}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 560}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 480}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 400}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 320}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 240}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 160}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 80}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 0}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 640}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 160, 640}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 320, 640}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 640}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 0}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 320, 0}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 160, 0}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 0}";
+}
+);
+layerId = "83692D61-586C-413E-9B5A-1AF652750951";
+width = 560;
+}
+);
+unicode = 0049;
+},
+{
+glyphname = J;
+lastChange = "2017-12-19 15:33:51 +0000";
+layers = (
+{
+components = (
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 160, 0}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 0}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 320, 0}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 80}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 160}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 240}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 320}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 400}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 480}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 560}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 640}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 320, 640}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 640}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 160, 640}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 80}";
+}
+);
+layerId = "83692D61-586C-413E-9B5A-1AF652750951";
+width = 560;
+}
+);
+unicode = 004A;
+},
+{
+glyphname = K;
+lastChange = "2017-12-19 15:34:01 +0000";
+layers = (
+{
+components = (
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 640}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 560}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 480}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 400}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 320}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 240}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 160}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 80}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 0}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 160, 320}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 400}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 320, 480}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 560}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 640}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 240}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 320, 160}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 80}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 0}";
+}
+);
+layerId = "83692D61-586C-413E-9B5A-1AF652750951";
+width = 560;
+}
+);
+unicode = 004B;
+},
+{
+glyphname = L;
+lastChange = "2017-12-19 15:34:07 +0000";
+layers = (
+{
+components = (
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 640}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 560}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 480}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 400}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 320}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 240}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 160}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 80}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 0}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 160, 0}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 0}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 320, 0}";
+}
+);
+layerId = "83692D61-586C-413E-9B5A-1AF652750951";
+width = 560;
+}
+);
+unicode = 004C;
+},
+{
+glyphname = M;
+lastChange = "2017-12-19 15:34:21 +0000";
+layers = (
+{
+components = (
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 0}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 80}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 160}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 240}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 320}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 400}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 480}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 560}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 640}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 160, 640}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 640}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 320, 640}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 640}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 560}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 480}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 400}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 320}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 240}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 160}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 80}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 0}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 560}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 480}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 400}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 240}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 160}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 80}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 0}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 320}";
+}
+);
+layerId = "83692D61-586C-413E-9B5A-1AF652750951";
+width = 560;
+}
+);
+unicode = 004D;
+},
+{
+glyphname = N;
+lastChange = "2017-12-19 15:34:33 +0000";
+layers = (
+{
+components = (
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 640}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 560}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 480}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 400}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 320}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 240}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 160}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 80}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 0}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 0}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 80}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 160}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 240}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 320}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 400}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 480}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 560}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 640}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 160, 560}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 160, 480}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 400}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 320}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 320, 240}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 320, 160}";
+}
+);
+layerId = "83692D61-586C-413E-9B5A-1AF652750951";
+width = 560;
+}
+);
+unicode = 004E;
+},
+{
+glyphname = O;
+lastChange = "2017-12-19 15:34:43 +0000";
+layers = (
+{
+components = (
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 160, 640}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 640}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 320, 640}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 560}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 480}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 400}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 320}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 240}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 160}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 80}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 160, 0}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 0}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 320, 0}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 80}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 160}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 240}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 320}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 400}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 480}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 560}";
+}
+);
+layerId = "83692D61-586C-413E-9B5A-1AF652750951";
+width = 560;
+}
+);
+unicode = 004F;
+},
+{
+glyphname = P;
+lastChange = "2017-12-19 15:31:39 +0000";
+layers = (
+{
+components = (
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 640}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 560}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 480}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 400}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 320}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 240}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 160}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 80}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 0}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 160, 640}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 640}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 320, 640}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 560}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 480}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 400}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 320}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 320, 240}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 240}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 160, 240}";
+}
+);
+layerId = "83692D61-586C-413E-9B5A-1AF652750951";
+width = 560;
+}
+);
+unicode = 0050;
+},
+{
+glyphname = Q;
+lastChange = "2017-12-19 15:34:58 +0000";
+layers = (
+{
+components = (
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 160, 640}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 640}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 320, 640}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 560}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 480}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 400}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 320}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 240}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 160}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 80}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 160, 0}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 0}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 320, 0}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 80}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 160}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 240}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 320}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 400}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 480}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 560}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, -80}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 320, -160}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, -160}";
+}
+);
+layerId = "83692D61-586C-413E-9B5A-1AF652750951";
+width = 560;
+}
+);
+unicode = 0051;
+},
+{
+glyphname = R;
+lastChange = "2017-12-19 15:35:13 +0000";
+layers = (
+{
+components = (
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 640}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 560}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 480}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 400}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 320}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 240}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 160}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 80}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 0}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 160, 640}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 640}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 320, 640}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 560}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 480}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 400}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 320, 320}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 320}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 160, 320}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 240}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 0}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 80}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 320, 160}";
+}
+);
+layerId = "83692D61-586C-413E-9B5A-1AF652750951";
+width = 560;
+}
+);
+unicode = 0052;
+},
+{
+glyphname = S;
+lastChange = "2017-12-19 15:35:25 +0000";
+layers = (
+{
+components = (
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 160, 640}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 640}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 320, 640}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 560}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 480}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 400}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 160, 0}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 0}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 320, 0}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 80}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 160}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 240}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 320, 320}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 320}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 160, 320}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 80}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 560}";
+}
+);
+layerId = "83692D61-586C-413E-9B5A-1AF652750951";
+width = 560;
+}
+);
+unicode = 0053;
+},
+{
+glyphname = T;
+lastChange = "2017-12-19 15:35:41 +0000";
+layers = (
+{
+components = (
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 640}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 160, 640}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 640}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 320, 640}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 640}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 560}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 480}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 400}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 320}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 240}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 160}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 80}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 0}";
+}
+);
+layerId = "83692D61-586C-413E-9B5A-1AF652750951";
+width = 560;
+}
+);
+unicode = 0054;
+},
+{
+glyphname = U;
+lastChange = "2017-12-19 15:35:48 +0000";
+layers = (
+{
+components = (
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 640}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 560}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 480}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 400}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 320}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 240}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 160}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 80}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 160, 0}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 0}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 320, 0}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 80}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 160}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 240}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 320}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 400}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 480}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 560}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 640}";
+}
+);
+layerId = "83692D61-586C-413E-9B5A-1AF652750951";
+width = 560;
+}
+);
+unicode = 0055;
+},
+{
+glyphname = V;
+lastChange = "2017-12-19 15:35:58 +0000";
+layers = (
+{
+components = (
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 640}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 560}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 480}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 400}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 320}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 160, 240}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 160, 160}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 80}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 320, 0}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 0}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 80}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 160}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 240}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 320}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 400}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 480}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 560}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 640}";
+}
+);
+layerId = "83692D61-586C-413E-9B5A-1AF652750951";
+width = 560;
+}
+);
+unicode = 0056;
+},
+{
+glyphname = W;
+lastChange = "2017-12-19 15:46:07 +0000";
+layers = (
+{
+components = (
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 0, 640}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 0, 560}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 0, 480}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 0, 400}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 0, 320}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 0, 240}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 0, 160}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 0, 80}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 0}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 160, 0}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 80}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 160}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 240}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 320}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 400}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 480}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 560}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 640}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 320, 0}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 0}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 480, 80}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 480, 160}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 480, 240}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 480, 320}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 480, 400}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 480, 480}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 480, 560}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 480, 640}";
+}
+);
+layerId = "83692D61-586C-413E-9B5A-1AF652750951";
+width = 560;
+}
+);
+unicode = 0057;
+},
+{
+glyphname = X;
+lastChange = "2017-12-19 15:36:47 +0000";
+layers = (
+{
+components = (
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 640}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 560}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 480}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 0}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 80}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 160}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 0}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 80}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 160}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 640}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 560}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 480}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 160, 400}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 320}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 320, 240}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 160, 240}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 320, 400}";
+}
+);
+layerId = "83692D61-586C-413E-9B5A-1AF652750951";
+width = 560;
+}
+);
+unicode = 0058;
+},
+{
+glyphname = Y;
+lastChange = "2017-12-19 15:36:56 +0000";
+layers = (
+{
+components = (
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 640}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 560}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 640}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 560}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 160, 480}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 160, 400}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 320, 480}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 320, 400}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 320}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 240}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 160}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 80}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 0}";
+}
+);
+layerId = "83692D61-586C-413E-9B5A-1AF652750951";
+width = 560;
+}
+);
+unicode = 0059;
+},
+{
+glyphname = Z;
+lastChange = "2017-12-19 15:38:11 +0000";
+layers = (
+{
+components = (
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 640}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 160, 640}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 640}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 320, 640}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 640}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 0}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 160, 0}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 0}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 320, 0}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 0}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 80}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 160}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 560}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 480}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 320, 400}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 320}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 160, 240}";
+}
+);
+layerId = "83692D61-586C-413E-9B5A-1AF652750951";
+width = 560;
+}
+);
+unicode = 005A;
+},
+{
+glyphname = a;
+lastChange = "2017-12-19 15:17:00 +0000";
+layers = (
+{
+components = (
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 0}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 80}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 160}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 240}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 320}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 400}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 320, 480}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 480}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 160, 480}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 320, 240}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 240}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 160}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 80}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 160, 0}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 0}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 160, 240}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 320, 80}";
+}
+);
+layerId = "83692D61-586C-413E-9B5A-1AF652750951";
+width = 560;
+}
+);
+unicode = 0061;
+},
+{
+glyphname = b;
+lastChange = "2017-12-19 15:08:53 +0000";
+layers = (
+{
+components = (
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 720}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 640}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 560}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 480}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 400}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 320}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 240}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 160}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 80}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 0}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 0}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 160}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 240}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 320}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 480}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 160, 400}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 160, 0}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 400}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 320, 480}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 320, 80}";
+}
+);
+layerId = "83692D61-586C-413E-9B5A-1AF652750951";
+width = 560;
+}
+);
+unicode = 0062;
+},
+{
+glyphname = c;
+lastChange = "2017-12-19 15:09:44 +0000";
+layers = (
+{
+components = (
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 480}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 320, 480}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 320}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 240}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 160}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 80}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 160, 0}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 0}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 400}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 320, 0}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 80}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 400}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 160, 480}";
+}
+);
+layerId = "83692D61-586C-413E-9B5A-1AF652750951";
+width = 560;
+}
+);
+unicode = 0063;
+},
+{
+glyphname = d;
+lastChange = "2017-12-19 15:10:13 +0000";
+layers = (
+{
+components = (
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 720}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 640}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 560}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 480}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 400}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 320}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 240}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 160}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 80}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 0}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 320, 80}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 0}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 160, 0}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 80}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 160}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 240}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 320}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 480}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 320, 480}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 400}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 160, 480}";
+}
+);
+layerId = "83692D61-586C-413E-9B5A-1AF652750951";
+width = 560;
+}
+);
+unicode = 0064;
+},
+{
+glyphname = e;
+lastChange = "2017-12-19 15:07:43 +0000";
+layers = (
+{
+components = (
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 160, 0}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 0}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 320, 0}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 80}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 160}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 240}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 320}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 160, 240}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 240}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 320, 240}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 240}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 320}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 0}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 400}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 320, 480}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 480}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 160, 480}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 400}";
+}
+);
+layerId = "83692D61-586C-413E-9B5A-1AF652750951";
+width = 560;
+}
+);
+unicode = 0065;
+},
+{
+glyphname = f;
+lastChange = "2017-12-19 15:08:14 +0000";
+layers = (
+{
+components = (
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 480}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 160, 480}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 480}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 320, 480}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 480}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 560}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 400}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 320}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 240}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 160}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 80}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 0}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 640}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 320, 720}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 720}";
+}
+);
+layerId = "83692D61-586C-413E-9B5A-1AF652750951";
+width = 560;
+}
+);
+unicode = 0066;
+},
+{
+glyphname = g;
+lastChange = "2017-12-19 15:11:23 +0000";
+layers = (
+{
+components = (
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 320, 480}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 480}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 160, 480}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 400}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 320}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 160, 240}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 240}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 320, 240}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 320}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 160}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, -80}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 160, 80}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 80}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 320, 80}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 160, -160}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, -160}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 320, -160}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 0}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 400}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 0}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, -80}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 560}";
+}
+);
+layerId = "83692D61-586C-413E-9B5A-1AF652750951";
+width = 560;
+}
+);
+unicode = 0067;
+},
+{
+glyphname = h;
+lastChange = "2017-12-19 15:10:26 +0000";
+layers = (
+{
+components = (
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 720}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 640}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 560}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 480}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 400}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 320}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 240}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 160}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 80}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 0}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 160, 400}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 480}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 320, 480}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 400}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 320}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 240}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 160}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 80}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 0}";
+}
+);
+layerId = "83692D61-586C-413E-9B5A-1AF652750951";
+width = 560;
+}
+);
+unicode = 0068;
+},
+{
+glyphname = i;
+lastChange = "2017-12-19 15:11:40 +0000";
+layers = (
+{
+components = (
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 480}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 400}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 320}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 240}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 160}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 80}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 720}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 640}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 160, 480}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 480}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 0}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 160, 0}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 320, 0}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 0}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 0}";
+}
+);
+layerId = "83692D61-586C-413E-9B5A-1AF652750951";
+width = 560;
+}
+);
+unicode = 0069;
+},
+{
+glyphname = j;
+lastChange = "2017-12-19 15:12:29 +0000";
+layers = (
+{
+components = (
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 160, -160}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, -160}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, -80}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 0}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 80}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 160}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 240}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 320}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 400}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 480}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 160, 480}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 480}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 720}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 640}";
+}
+);
+layerId = "83692D61-586C-413E-9B5A-1AF652750951";
+width = 560;
+}
+);
+unicode = 006A;
+},
+{
+glyphname = k;
+lastChange = "2017-12-19 15:12:45 +0000";
+layers = (
+{
+components = (
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 720}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 640}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 560}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 480}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 400}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 320}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 240}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 160}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 80}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 0}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 160, 240}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 320}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 320, 400}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 480}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 160}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 320, 80}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 0}";
+}
+);
+layerId = "83692D61-586C-413E-9B5A-1AF652750951";
+width = 560;
+}
+);
+unicode = 006B;
+},
+{
+glyphname = l;
+lastChange = "2017-12-19 15:12:56 +0000";
+layers = (
+{
+components = (
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 720}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 640}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 560}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 480}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 400}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 320}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 240}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 160}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 80}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 0}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 160, 0}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 0}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 320, 0}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 0}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 160, 720}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 720}";
+}
+);
+layerId = "83692D61-586C-413E-9B5A-1AF652750951";
+width = 560;
+}
+);
+unicode = 006C;
+},
+{
+glyphname = m;
+lastChange = "2017-12-19 15:13:14 +0000";
+layers = (
+{
+components = (
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 480}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 400}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 320}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 240}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 160}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 80}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 0}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 320, 480}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 400}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 320}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 240}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 160}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 80}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 0}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 160, 480}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 400}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 320}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 240}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 80}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 0}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 160}";
+}
+);
+layerId = "83692D61-586C-413E-9B5A-1AF652750951";
+width = 560;
+}
+);
+unicode = 006D;
+},
+{
+glyphname = n;
+lastChange = "2017-12-19 15:06:56 +0000";
+layers = (
+{
+components = (
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 0}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 80}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 160}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 240}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 320}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 400}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 320}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 240}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 160}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 80}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 0}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 480}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 480}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 320, 480}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 400}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 160, 400}";
+}
+);
+layerId = "83692D61-586C-413E-9B5A-1AF652750951";
+width = 560;
+}
+);
+unicode = 006E;
+},
+{
+glyphname = o;
+lastChange = "2017-12-19 15:06:58 +0000";
+layers = (
+{
+components = (
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 160, 0}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 0}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 320, 0}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 80}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 160}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 240}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 320}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 320}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 240}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 160}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 80}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 160, 480}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 480}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 320, 480}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 400}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 400}";
+}
+);
+layerId = "83692D61-586C-413E-9B5A-1AF652750951";
+width = 560;
+}
+);
+unicode = 006F;
+},
+{
+glyphname = p;
+lastChange = "2017-12-19 15:14:02 +0000";
+layers = (
+{
+components = (
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 480}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 400}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 320}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 240}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 160}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 80}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 0}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, -80}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, -160}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 160, 400}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 480}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 320, 480}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 400}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 320}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 240}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 160}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 80}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 320, 0}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 0}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 160, 80}";
+}
+);
+layerId = "83692D61-586C-413E-9B5A-1AF652750951";
+width = 560;
+}
+);
+unicode = 0070;
+},
+{
+glyphname = q;
+lastChange = "2017-12-19 15:14:18 +0000";
+layers = (
+{
+components = (
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 480}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 400}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 320}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 240}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 160}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 80}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 0}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, -80}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, -160}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 320, 80}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 0}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 160, 0}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 80}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 160}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 240}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 320}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 480}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 320, 480}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 160, 400}";
+}
+);
+layerId = "83692D61-586C-413E-9B5A-1AF652750951";
+width = 560;
+}
+);
+unicode = 0071;
+},
+{
+glyphname = r;
+lastChange = "2017-12-19 15:14:37 +0000";
+layers = (
+{
+components = (
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 160, 480}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 160, 400}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 160, 320}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 160, 240}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 160, 160}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 160, 80}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 160, 0}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 400}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 320, 480}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 480}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 0}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 0}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 320, 0}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 480}";
+}
+);
+layerId = "83692D61-586C-413E-9B5A-1AF652750951";
+width = 560;
+}
+);
+unicode = 0072;
+},
+{
+glyphname = s;
+lastChange = "2017-12-19 15:14:54 +0000";
+layers = (
+{
+components = (
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 160, 0}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 0}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 320, 0}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 160, 480}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 480}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 320, 480}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 400}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 320}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 160, 240}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 240}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 320, 240}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 160}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 80}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 400}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 80}";
+}
+);
+layerId = "83692D61-586C-413E-9B5A-1AF652750951";
+width = 560;
+}
+);
+unicode = 0073;
+},
+{
+glyphname = t;
+lastChange = "2017-12-19 15:15:16 +0000";
+layers = (
+{
+components = (
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 480}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 160, 480}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 480}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 320, 480}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 480}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 320, 0}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 0}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 160, 640}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 160, 560}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 160, 400}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 160, 320}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 160, 240}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 160, 160}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 160, 80}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 0}";
+}
+);
+layerId = "83692D61-586C-413E-9B5A-1AF652750951";
+width = 560;
+}
+);
+unicode = 0074;
+},
+{
+glyphname = u;
+lastChange = "2017-12-19 15:15:24 +0000";
+layers = (
+{
+components = (
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 480}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 400}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 320}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 240}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 160}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 80}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 160, 0}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 0}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 320, 80}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 480}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 400}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 320}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 240}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 160}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 80}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 0}";
+}
+);
+layerId = "83692D61-586C-413E-9B5A-1AF652750951";
+width = 560;
+}
+);
+unicode = 0075;
+},
+{
+glyphname = v;
+lastChange = "2017-12-19 15:16:10 +0000";
+layers = (
+{
+components = (
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 160, 240}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 320}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 320, 240}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 400}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 480}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 480}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 400}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 320}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 160, 160}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 160, 80}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 320, 80}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 320, 160}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 0}";
+}
+);
+layerId = "83692D61-586C-413E-9B5A-1AF652750951";
+width = 560;
+}
+);
+unicode = 0076;
+},
+{
+glyphname = w;
+lastChange = "2017-12-19 15:17:51 +0000";
+layers = (
+{
+components = (
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 0, 400}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 0, 320}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 160, 0}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 160}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 240}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 320}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 320, 0}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 480, 320}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 480, 400}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 0, 480}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 480, 480}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 400}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 0, 240}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 0, 160}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 0}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 0, 80}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 80}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 0}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 480, 80}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 480, 160}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 480, 240}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 480}";
+}
+);
+layerId = "83692D61-586C-413E-9B5A-1AF652750951";
+width = 560;
+}
+);
+unicode = 0077;
+},
+{
+glyphname = x;
+lastChange = "2017-12-19 15:21:53 +0000";
+layers = (
+{
+components = (
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 480}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 400}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 80}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 0}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 80}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 0}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 160, 160}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 240}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 320, 320}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 160, 320}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 320, 160}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 400}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 480}";
+}
+);
+layerId = "83692D61-586C-413E-9B5A-1AF652750951";
+width = 560;
+}
+);
+unicode = 0078;
+},
+{
+glyphname = y;
+lastChange = "2017-12-19 15:21:40 +0000";
+layers = (
+{
+components = (
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 480}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 400}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 320}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 160, 240}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 160, 160}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 160, 80}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 480}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 400}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 320}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 320, 240}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 320, 160}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 320, 80}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 0}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, -80}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 160, -160}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, -160}";
+}
+);
+layerId = "83692D61-586C-413E-9B5A-1AF652750951";
+width = 560;
+}
+);
+unicode = 0079;
+},
+{
+glyphname = z;
+lastChange = "2017-12-19 15:21:24 +0000";
+layers = (
+{
+components = (
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 480}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 160, 480}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 480}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 320, 480}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 480}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 0}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 160, 0}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 0}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 320, 0}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 0}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 80}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 400}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 320, 320}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 240}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 160, 160}";
+}
+);
+layerId = "83692D61-586C-413E-9B5A-1AF652750951";
+width = 560;
+}
+);
+unicode = 007A;
+},
+{
+glyphname = zero;
+lastChange = "2017-12-19 15:22:54 +0000";
+layers = (
+{
+components = (
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 160, 0}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 0}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 320, 0}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 160, 560}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 560}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 320, 560}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 480}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 400}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 320}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 240}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 160}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 80}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 80}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 160}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 240}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 320}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 400}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 480}";
+}
+);
+layerId = "83692D61-586C-413E-9B5A-1AF652750951";
+width = 560;
+}
+);
+unicode = 0030;
+},
+{
+glyphname = one;
+lastChange = "2017-12-19 15:23:06 +0000";
+layers = (
+{
+components = (
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 560}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 480}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 400}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 320}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 240}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 160}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 80}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 0}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 0}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 160, 0}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 320, 0}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 0}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 160, 560}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 560}";
+}
+);
+layerId = "83692D61-586C-413E-9B5A-1AF652750951";
+width = 560;
+}
+);
+unicode = 0031;
+},
+{
+glyphname = two;
+lastChange = "2017-12-19 15:23:28 +0000";
+layers = (
+{
+components = (
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 0}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 160, 0}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 0}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 320, 0}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 0}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 80}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 160, 560}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 560}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 320, 560}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 480}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 400}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 320, 320}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 240}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 160, 160}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 480}";
+}
+);
+layerId = "83692D61-586C-413E-9B5A-1AF652750951";
+width = 560;
+}
+);
+unicode = 0032;
+},
+{
+glyphname = three;
+lastChange = "2017-12-19 15:24:03 +0000";
+layers = (
+{
+components = (
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 160, 560}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 560}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 320, 560}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 480}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 480}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 400}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 0}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 160, 240}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 240}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 80}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 320, 160}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, -160}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 160, -160}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, -160}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 320, -80}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 320, 320}";
+}
+);
+layerId = "83692D61-586C-413E-9B5A-1AF652750951";
+width = 560;
+}
+);
+unicode = 0033;
+},
+{
+glyphname = four;
+lastChange = "2017-12-19 15:24:44 +0000";
+layers = (
+{
+components = (
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 0}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 160, 0}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 0}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 320, 0}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 0}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 480}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 560}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 320, 160}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 320, 80}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 320, -80}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 320, -160}";
+},
+{
+name = pixel;
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 0, 80}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 160}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 240}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 160, 320}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 160, 400}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 320, 240}";
+}
+);
+layerId = "83692D61-586C-413E-9B5A-1AF652750951";
+width = 560;
+}
+);
+unicode = 0034;
+},
+{
+glyphname = five;
+lastChange = "2017-12-19 15:25:34 +0000";
+layers = (
+{
+components = (
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 560}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 160, 560}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 560}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 320, 560}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 480}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 400}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 320}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 240}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 240}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 80}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 0}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 320, -80}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, -160}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 160, -160}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, -160}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 560}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 160}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 320, 240}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 160, 240}";
+}
+);
+layerId = "83692D61-586C-413E-9B5A-1AF652750951";
+width = 560;
+}
+);
+unicode = 0035;
+},
+{
+glyphname = six;
+lastChange = "2017-12-19 15:25:49 +0000";
+layers = (
+{
+components = (
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 320, 640}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 640}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 160, 560}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 480}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 400}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 320}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 240}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 160}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 80}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 160, 0}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 0}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 320, 0}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 80}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 160}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 240}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 320}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 400}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 320, 400}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 160, 320}";
+}
+);
+layerId = "83692D61-586C-413E-9B5A-1AF652750951";
+width = 560;
+}
+);
+unicode = 0036;
+},
+{
+glyphname = seven;
+lastChange = "2017-12-19 15:26:09 +0000";
+layers = (
+{
+components = (
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 560}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 160, 560}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 560}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 320, 560}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 560}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 480}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 400}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 320, 320}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 320, 240}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 160}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 80}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 160, 0}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 160, -80}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 160, -160}";
+}
+);
+layerId = "83692D61-586C-413E-9B5A-1AF652750951";
+width = 560;
+}
+);
+unicode = 0037;
+},
+{
+glyphname = eight;
+lastChange = "2017-12-19 15:26:25 +0000";
+layers = (
+{
+components = (
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 160, 0}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 0}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 320, 0}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 80}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 160}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 240}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 160, 320}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 320}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 240}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 160}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 80}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 320, 320}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 400}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 480}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 560}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 160, 640}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 640}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 320, 640}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 560}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 480}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 400}";
+}
+);
+layerId = "83692D61-586C-413E-9B5A-1AF652750951";
+width = 560;
+}
+);
+unicode = 0038;
+},
+{
+glyphname = nine;
+lastChange = "2017-12-19 15:26:48 +0000";
+layers = (
+{
+components = (
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 160, 560}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 560}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 320, 560}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 480}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 400}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 320}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 240}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 480}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 400}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 320}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 240}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 160, 160}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 160}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 320, 240}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 160}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 80}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 160, -160}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 320, -80}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, -160}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 0}";
+}
+);
+layerId = "83692D61-586C-413E-9B5A-1AF652750951";
+width = 560;
+}
+);
+unicode = 0039;
+},
+{
+glyphname = period;
+lastChange = "2017-12-19 15:27:06 +0000";
+layers = (
+{
+components = (
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 80}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 0}";
+}
+);
+layerId = "83692D61-586C-413E-9B5A-1AF652750951";
+width = 560;
+}
+);
+unicode = 002E;
+},
+{
+glyphname = comma;
+lastChange = "2017-12-19 15:27:12 +0000";
+layers = (
+{
+components = (
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 80}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 0}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 160, -80}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 160, -160}";
+}
+);
+layerId = "83692D61-586C-413E-9B5A-1AF652750951";
+width = 560;
+}
+);
+unicode = 002C;
+},
+{
+glyphname = colon;
+lastChange = "2017-12-19 15:41:39 +0000";
+layers = (
+{
+components = (
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 400}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 480}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 0}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 80}";
+}
+);
+layerId = "83692D61-586C-413E-9B5A-1AF652750951";
+width = 560;
+}
+);
+unicode = 003A;
+},
+{
+glyphname = semicolon;
+lastChange = "2017-12-19 15:41:39 +0000";
+layers = (
+{
+components = (
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 480}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 400}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 80}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 0}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 160, -80}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 160, -160}";
+}
+);
+layerId = "83692D61-586C-413E-9B5A-1AF652750951";
+width = 560;
+}
+);
+unicode = 003B;
+},
+{
+glyphname = ellipsis;
+lastChange = "2017-12-19 15:41:39 +0000";
+layers = (
+{
+components = (
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 80}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 0}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 80}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 0}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 80}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 0}";
+}
+);
+layerId = "83692D61-586C-413E-9B5A-1AF652750951";
+width = 560;
+}
+);
+unicode = 2026;
+},
+{
+glyphname = exclam;
+lastChange = "2017-12-19 15:41:39 +0000";
+layers = (
+{
+components = (
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 640}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 560}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 480}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 400}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 320}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 240}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 80}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 0}";
+}
+);
+layerId = "83692D61-586C-413E-9B5A-1AF652750951";
+width = 560;
+}
+);
+unicode = 0021;
+},
+{
+glyphname = exclamdown;
+lastChange = "2017-12-19 15:41:39 +0000";
+layers = (
+{
+layerId = "83692D61-586C-413E-9B5A-1AF652750951";
+width = 560;
+}
+);
+unicode = 00A1;
+},
+{
+glyphname = question;
+lastChange = "2017-12-19 15:41:39 +0000";
+layers = (
+{
+components = (
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 80}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 0}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 240}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 320, 320}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 400}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 480}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 560}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 320, 640}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 640}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 160, 640}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 640}";
+}
+);
+layerId = "83692D61-586C-413E-9B5A-1AF652750951";
+width = 560;
+}
+);
+unicode = 003F;
+},
+{
+glyphname = questiondown;
+lastChange = "2017-12-19 15:41:39 +0000";
+layers = (
+{
+layerId = "83692D61-586C-413E-9B5A-1AF652750951";
+width = 560;
+}
+);
+unicode = 00BF;
+},
+{
+glyphname = periodcentered;
+lastChange = "2017-12-19 15:41:39 +0000";
+layers = (
+{
+components = (
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 320}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 240}";
+}
+);
+layerId = "83692D61-586C-413E-9B5A-1AF652750951";
+width = 560;
+}
+);
+unicode = 00B7;
+},
+{
+glyphname = bullet;
+lastChange = "2017-12-19 15:41:39 +0000";
+layers = (
+{
+layerId = "83692D61-586C-413E-9B5A-1AF652750951";
+width = 560;
+}
+);
+unicode = 2022;
+},
+{
+glyphname = asterisk;
+lastChange = "2017-12-19 15:41:39 +0000";
+layers = (
+{
+components = (
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 240}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 160, 240}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 240}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 320, 240}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 240}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 480, 240}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 400}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 160, 80}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 80}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 480, 400}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 400}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 80}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 480, 80}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 320, 160}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 320}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 160, 400}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 320, 320}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 160}";
+}
+);
+layerId = "83692D61-586C-413E-9B5A-1AF652750951";
+width = 560;
+}
+);
+unicode = 002A;
+},
+{
+glyphname = numbersign;
+lastChange = "2017-12-19 15:41:39 +0000";
+layers = (
+{
+components = (
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 160, 560}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 160, 480}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 160, 400}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 160, 320}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 160, 240}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 160, 160}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 160, 80}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 160, 0}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 0}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 80}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 160}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 240}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 320}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 400}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 480}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 560}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 400}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 400}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 320, 400}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 480, 400}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 160}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 160}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 320, 160}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 480, 160}";
+}
+);
+layerId = "83692D61-586C-413E-9B5A-1AF652750951";
+width = 560;
+}
+);
+unicode = 0023;
+},
+{
+glyphname = slash;
+lastChange = "2017-12-19 15:41:39 +0000";
+layers = (
+{
+components = (
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 640}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 560}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 320, 480}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 320, 400}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 320}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 240}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 160, 160}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 160, 80}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 0}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, -80}";
+}
+);
+layerId = "83692D61-586C-413E-9B5A-1AF652750951";
+width = 560;
+}
+);
+unicode = 002F;
+},
+{
+glyphname = backslash;
+lastChange = "2017-12-19 15:41:46 +0000";
+layers = (
+{
+components = (
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 160, 640}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 160, 560}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 480}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 400}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 320, 320}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 320, 240}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 160}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 80}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 480, 0}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 480, -80}";
+}
+);
+layerId = "83692D61-586C-413E-9B5A-1AF652750951";
+width = 560;
+}
+);
+unicode = 005C;
+},
+{
+glyphname = parenleft;
+lastChange = "2017-12-19 15:42:59 +0000";
+layers = (
+{
+components = (
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 160, 480}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 160, 400}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 160, 320}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 160, 240}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 160, 160}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 560}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 640}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 320, 720}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 720}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 0}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, -160}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 320, -160}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, -80}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 160, 80}";
+}
+);
+layerId = "83692D61-586C-413E-9B5A-1AF652750951";
+width = 560;
+}
+);
+unicode = 0028;
+},
+{
+glyphname = parenright;
+lastChange = "2017-12-19 15:43:07 +0000";
+layers = (
+{
+components = (
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 720}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 160, 720}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 640}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 560}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 320, 480}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 320, 400}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 320, 320}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 320, 240}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 320, 160}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 0}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, -160}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 160, -160}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, -80}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 320, 80}";
+}
+);
+layerId = "83692D61-586C-413E-9B5A-1AF652750951";
+width = 560;
+}
+);
+unicode = 0029;
+},
+{
+glyphname = braceleft;
+lastChange = "2017-12-19 15:42:53 +0000";
+layers = (
+{
+components = (
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 640}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 320, 640}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 560}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 480}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 400}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 240}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 80}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 0}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, -160}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 320, -160}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, -80}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 160, 240}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 320}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 160}";
+}
+);
+layerId = "83692D61-586C-413E-9B5A-1AF652750951";
+width = 560;
+}
+);
+unicode = 007B;
+},
+{
+glyphname = braceright;
+lastChange = "2017-12-19 15:42:39 +0000";
+layers = (
+{
+components = (
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 640}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 160, 640}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 560}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 480}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 400}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 320}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 320, 240}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 240}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 160}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 80}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 0}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, -80}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 160, -160}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, -160}";
+}
+);
+layerId = "83692D61-586C-413E-9B5A-1AF652750951";
+width = 560;
+}
+);
+unicode = 007D;
+},
+{
+glyphname = bracketleft;
+lastChange = "2017-12-19 15:43:29 +0000";
+layers = (
+{
+components = (
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 320, 640}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 640}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 160, 640}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 160, -160}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, -160}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 320, -160}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 160, 560}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 160, 480}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 160, 400}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 160, 320}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 160, 240}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 160, 160}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 160, 80}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 160, 0}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 160, -80}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, -160}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 640}";
+}
+);
+layerId = "83692D61-586C-413E-9B5A-1AF652750951";
+width = 560;
+}
+);
+unicode = 005B;
+},
+{
+glyphname = bracketright;
+lastChange = "2017-12-19 15:43:36 +0000";
+layers = (
+{
+components = (
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 640}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 160, 640}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 640}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 320, 640}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 320, 560}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 320, 480}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 320, 400}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 320, 320}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 320, 240}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 320, 160}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 320, 80}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 320, 0}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 320, -80}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 320, -160}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, -160}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 160, -160}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, -160}";
+}
+);
+layerId = "83692D61-586C-413E-9B5A-1AF652750951";
+width = 560;
+}
+);
+unicode = 005D;
+},
+{
+glyphname = hyphen;
+lastChange = "2017-12-19 15:27:18 +0000";
+layers = (
+{
+components = (
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 320}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 160, 320}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 320}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 320, 320}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 320}";
+}
+);
+layerId = "83692D61-586C-413E-9B5A-1AF652750951";
+width = 560;
+}
+);
+unicode = 002D;
+},
+{
+glyphname = endash;
+lastChange = "2017-12-19 15:43:45 +0000";
+layers = (
+{
+components = (
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 0, 320}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 320}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 160, 320}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 320}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 320, 320}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 320}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 480, 320}";
+}
+);
+layerId = "83692D61-586C-413E-9B5A-1AF652750951";
+width = 560;
+}
+);
+unicode = 2013;
+},
+{
+glyphname = emdash;
+lastChange = "2017-12-19 15:43:52 +0000";
+layers = (
+{
+components = (
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 0, 320}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 320}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 160, 320}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 320}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 320, 320}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 320}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 480, 320}";
+}
+);
+layerId = "83692D61-586C-413E-9B5A-1AF652750951";
+width = 560;
+}
+);
+unicode = 2014;
+},
+{
+glyphname = underscore;
+lastChange = "2017-12-19 15:43:59 +0000";
+layers = (
+{
+components = (
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 0, -80}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, -80}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 160, -80}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, -80}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 320, -80}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, -80}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 480, -80}";
+}
+);
+layerId = "83692D61-586C-413E-9B5A-1AF652750951";
+width = 560;
+}
+);
+unicode = 005F;
+},
+{
+glyphname = quotedbl;
+lastChange = "2017-12-19 15:44:08 +0000";
+layers = (
+{
+components = (
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 160, 640}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 160, 560}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 160, 480}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 160, 400}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 640}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 560}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 480}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 400}";
+}
+);
+layerId = "83692D61-586C-413E-9B5A-1AF652750951";
+width = 560;
+}
+);
+unicode = 0022;
+},
+{
+glyphname = quotesingle;
+lastChange = "2017-12-19 15:44:14 +0000";
+layers = (
+{
+components = (
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 640}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 560}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 480}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 400}";
+}
+);
+layerId = "83692D61-586C-413E-9B5A-1AF652750951";
+width = 560;
+}
+);
+unicode = 0027;
+},
+{
+glyphname = space;
+lastChange = "2017-12-19 15:03:56 +0000";
+layers = (
+{
+layerId = "83692D61-586C-413E-9B5A-1AF652750951";
+width = 560;
+}
+);
+unicode = 0020;
+},
+{
+glyphname = asciicircum;
+lastChange = "2017-12-19 15:44:29 +0000";
+layers = (
+{
+components = (
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 640}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 240, 560}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 160, 480}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 160, 400}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 320}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 80, 240}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 320, 480}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 320, 400}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 320}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 400, 240}";
+}
+);
+layerId = "83692D61-586C-413E-9B5A-1AF652750951";
+width = 560;
+}
+);
+unicode = 005E;
+},
+{
+glyphname = pixel;
+lastChange = "2017-12-19 15:41:39 +0000";
+layers = (
+{
+layerId = "83692D61-586C-413E-9B5A-1AF652750951";
+paths = (
+{
+closed = 1;
+nodes = (
+"-2 -2 LINE",
+"82 -2 LINE",
+"82 82 LINE",
+"-2 82 LINE"
+);
+}
+);
+width = 560;
+}
+);
+}
+);
+gridLength = 80;
+gridSubDivision = 80;
+instances = (
+{
+interpolationWeight = 80;
+instanceInterpolations = {
+"83692D61-586C-413E-9B5A-1AF652750951" = 1;
+};
+name = Regular;
+},
+{
+customParameters = (
+{
+name = Filter;
+value = "Transformations;Slant:11.31;";
+},
+{
+name = "Decompose Glyphs";
+value = (
+a
+);
+}
+);
+interpolationWeight = 80;
+instanceInterpolations = {
+"83692D61-586C-413E-9B5A-1AF652750951" = 1;
+};
+isItalic = 1;
+name = Italic;
+}
+);
+unitsPerEm = 1000;
+versionMajor = 1;
+versionMinor = 0;
+}
