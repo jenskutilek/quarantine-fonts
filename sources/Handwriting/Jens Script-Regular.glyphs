@@ -20,12 +20,6 @@ fontMaster = (
 {
 ascender = 800;
 capHeight = 700;
-customParameters = (
-{
-name = Filter;
-value = "GlyphsFilterOffsetCurve;2;2;1;0.50;";
-}
-);
 descender = -200;
 horizontalStems = (
 20
@@ -498,7 +492,7 @@ unicode = 006D;
 },
 {
 glyphname = n;
-lastChange = "2015-03-25 19:33:49 +0000";
+lastChange = "2020-03-16 16:51:28 +0000";
 layers = (
 {
 layerId = "B7F4AA0E-2ADF-41B3-881B-9BBFFD14821D";
@@ -678,6 +672,12 @@ unicode = 0020;
 );
 instances = (
 {
+customParameters = (
+{
+name = Filter;
+value = "OffsetCurve;20;20;1;0.5;";
+}
+);
 instanceInterpolations = {
 "B7F4AA0E-2ADF-41B3-881B-9BBFFD14821D" = 1;
 };
