@@ -5,220 +5,12 @@ g
 );
 customParameters = (
 {
-name = glyphOrder;
-value = (
-A,
-Agrave,
-Aacute,
-Acircumflex,
-Atilde,
-Adieresis,
-Aring,
-B,
-C,
-Ccedilla,
-D,
-E,
-Egrave,
-Eacute,
-Ecircumflex,
-Edieresis,
-F,
-G,
-H,
-I,
-Igrave,
-Iacute,
-Icircumflex,
-Idieresis,
-J,
-K,
-L,
-M,
-N,
-Ntilde,
-O,
-Ograve,
-Oacute,
-Ocircumflex,
-Otilde,
-Odieresis,
-P,
-Q,
-R,
-S,
-T,
-U,
-Ugrave,
-Uacute,
-Ucircumflex,
-Udieresis,
-V,
-W,
-X,
-Y,
-Yacute,
-Z,
-AE,
-Eth,
-Oslash,
-Thorn,
-a,
-agrave,
-aacute,
-acircumflex,
-atilde,
-adieresis,
-aring,
-b,
-c,
-ccedilla,
-d,
-e,
-egrave,
-eacute,
-ecircumflex,
-edieresis,
-f,
-g,
-h,
-i,
-igrave,
-iacute,
-icircumflex,
-idieresis,
-j,
-k,
-l,
-m,
-n,
-ntilde,
-o,
-ograve,
-oacute,
-ocircumflex,
-otilde,
-odieresis,
-p,
-q,
-r,
-s,
-t,
-u,
-ugrave,
-uacute,
-ucircumflex,
-udieresis,
-v,
-w,
-x,
-y,
-yacute,
-ydieresis,
-z,
-ordfeminine,
-ordmasculine,
-germandbls,
-ae,
-eth,
-oslash,
-thorn,
-dotlessi,
-mu,
-circumflex,
-caron,
-zero,
-one,
-two,
-three,
-four,
-five,
-six,
-seven,
-eight,
-nine,
-twosuperior,
-threesuperior,
-onesuperior,
-onequarter,
-onehalf,
-threequarters,
-underscore,
-hyphen,
-parenleft,
-bracketleft,
-braceleft,
-parenright,
-bracketright,
-braceright,
-quoteleft,
-quoteright,
-exclam,
-quotedbl,
-numbersign,
-percent,
-ampersand,
-asterisk,
-comma,
-period,
-slash,
-colon,
-semicolon,
-question,
-at,
-backslash,
-exclamdown,
-periodcentered,
-questiondown,
-plus,
-less,
-equal,
-greater,
-bar,
-asciitilde,
-logicalnot,
-plusminus,
-multiply,
-divide,
-minus,
-dollar,
-cent,
-sterling,
-currency,
-yen,
-asciicircum,
-grave,
-dieresis,
-macron,
-acute,
-cedilla,
-breve,
-dotaccent,
-ring,
-ogonek,
-tilde,
-hungarumlaut,
-brokenbar,
-section,
-copyright,
-registered,
-degree,
-paragraph,
-space,
-guillemotleft,
-guillemotright,
-quotesingle,
-dagger,
-emdash,
-temp3,
-temp2,
-temp5,
-temp4,
-temp
-);
+name = vendorID;
+value = JENS;
 }
 );
 date = "2020-03-15 11:35:44 +0000";
+designer = "Adrian Frutiger";
 disablesAutomaticAlignment = 1;
 disablesNiceNames = 1;
 familyName = Uncomposed;
@@ -2587,16 +2379,6 @@ width = 600;
 unicode = 0039;
 },
 {
-glyphname = onequarter;
-layers = (
-{
-layerId = master01;
-width = 800;
-}
-);
-unicode = 00BC;
-},
-{
 glyphname = onehalf;
 layers = (
 {
@@ -2607,6 +2389,16 @@ width = 800;
 unicode = 00BD;
 },
 {
+glyphname = onequarter;
+layers = (
+{
+layerId = master01;
+width = 800;
+}
+);
+unicode = 00BC;
+},
+{
 glyphname = threequarters;
 layers = (
 {
@@ -2615,174 +2407,6 @@ width = 800;
 }
 );
 unicode = 00BE;
-},
-{
-glyphname = hyphen;
-layers = (
-{
-layerId = master01;
-paths = (
-{
-closed = 1;
-nodes = (
-"260 217 LINE",
-"260 309 LINE",
-"40 309 LINE",
-"40 217 LINE"
-);
-}
-);
-width = 300;
-}
-);
-unicode = 002D;
-},
-{
-glyphname = parenleft;
-layers = (
-{
-layerId = master01;
-width = 400;
-}
-);
-unicode = 0028;
-},
-{
-glyphname = bracketleft;
-layers = (
-{
-layerId = master01;
-width = 500;
-}
-);
-unicode = 005B;
-},
-{
-glyphname = parenright;
-layers = (
-{
-layerId = master01;
-width = 400;
-}
-);
-unicode = 0029;
-},
-{
-glyphname = bracketright;
-layers = (
-{
-layerId = master01;
-width = 600;
-}
-);
-unicode = 005D;
-},
-{
-glyphname = exclam;
-layers = (
-{
-layerId = master01;
-width = 400;
-}
-);
-unicode = 0021;
-},
-{
-glyphname = percent;
-layers = (
-{
-layerId = master01;
-width = 800;
-}
-);
-unicode = 0025;
-},
-{
-glyphname = ampersand;
-layers = (
-{
-layerId = master01;
-width = 800;
-}
-);
-unicode = 0026;
-},
-{
-glyphname = asterisk;
-layers = (
-{
-layerId = master01;
-width = 600;
-}
-);
-unicode = 002A;
-},
-{
-glyphname = comma;
-layers = (
-{
-layerId = master01;
-paths = (
-{
-closed = 1;
-nodes = (
-"122 -121 LINE",
-"238 128 LINE",
-"86 128 LINE",
-"32 -121 LINE"
-);
-}
-);
-userData = {
-com.typemytype.robofont.layerData = {
-background = {
-anchors = (
-);
-components = (
-);
-contours = (
-{
-points = (
-{
-segmentType = line;
-smooth = 0;
-x = 32;
-y = -163;
-},
-{
-segmentType = line;
-smooth = 0;
-x = 122;
-y = -163;
-},
-{
-segmentType = line;
-smooth = 0;
-x = 238;
-y = 86;
-},
-{
-segmentType = line;
-smooth = 0;
-x = 86;
-y = 86;
-}
-);
-}
-);
-lib = {
-};
-name = comma;
-unicodes = (
-);
-width = 300;
-};
-};
-};
-width = 300;
-}
-);
-unicode = 002C;
 },
 {
 glyphname = period;
@@ -2852,14 +2476,71 @@ width = 300;
 unicode = 002E;
 },
 {
-glyphname = slash;
+glyphname = comma;
 layers = (
 {
 layerId = master01;
-width = 400;
+paths = (
+{
+closed = 1;
+nodes = (
+"122 -121 LINE",
+"238 128 LINE",
+"86 128 LINE",
+"32 -121 LINE"
+);
 }
 );
-unicode = 002F;
+userData = {
+com.typemytype.robofont.layerData = {
+background = {
+anchors = (
+);
+components = (
+);
+contours = (
+{
+points = (
+{
+segmentType = line;
+smooth = 0;
+x = 32;
+y = -163;
+},
+{
+segmentType = line;
+smooth = 0;
+x = 122;
+y = -163;
+},
+{
+segmentType = line;
+smooth = 0;
+x = 238;
+y = 86;
+},
+{
+segmentType = line;
+smooth = 0;
+x = 86;
+y = 86;
+}
+);
+}
+);
+lib = {
+};
+name = comma;
+unicodes = (
+);
+width = 300;
+};
+};
+};
+width = 300;
+}
+);
+unicode = 002C;
 },
 {
 glyphname = colon;
@@ -2882,14 +2563,135 @@ width = 300;
 unicode = 003B;
 },
 {
-glyphname = at;
+glyphname = exclam;
+layers = (
+{
+layerId = master01;
+width = 400;
+}
+);
+unicode = 0021;
+},
+{
+glyphname = asterisk;
+layers = (
+{
+layerId = master01;
+width = 600;
+}
+);
+unicode = 002A;
+},
+{
+glyphname = slash;
+layers = (
+{
+layerId = master01;
+width = 400;
+}
+);
+unicode = 002F;
+},
+{
+glyphname = parenleft;
+layers = (
+{
+layerId = master01;
+width = 400;
+}
+);
+unicode = 0028;
+},
+{
+glyphname = parenright;
+layers = (
+{
+layerId = master01;
+width = 400;
+}
+);
+unicode = 0029;
+},
+{
+glyphname = bracketleft;
+layers = (
+{
+layerId = master01;
+width = 500;
+}
+);
+unicode = 005B;
+},
+{
+glyphname = bracketright;
+layers = (
+{
+layerId = master01;
+width = 600;
+}
+);
+unicode = 005D;
+},
+{
+glyphname = hyphen;
+layers = (
+{
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"260 217 LINE",
+"260 309 LINE",
+"40 309 LINE",
+"40 217 LINE"
+);
+}
+);
+width = 300;
+}
+);
+unicode = 002D;
+},
+{
+glyphname = emdash;
 layers = (
 {
 layerId = master01;
 width = 800;
 }
 );
-unicode = 0040;
+unicode = 2014;
+},
+{
+glyphname = quotesingle;
+layers = (
+{
+layerId = master01;
+width = 300;
+}
+);
+unicode = 0027;
+},
+{
+glyphname = space;
+layers = (
+{
+layerId = master01;
+width = 300;
+}
+);
+unicode = 0020;
+},
+{
+glyphname = dollar;
+layers = (
+{
+layerId = master01;
+width = 600;
+}
+);
+unicode = 0024;
 },
 {
 glyphname = plus;
@@ -2912,44 +2714,34 @@ width = 600;
 unicode = 003D;
 },
 {
-glyphname = dollar;
+glyphname = percent;
 layers = (
 {
 layerId = master01;
-width = 600;
+width = 800;
 }
 );
-unicode = 0024;
+unicode = 0025;
 },
 {
-glyphname = grave;
+glyphname = at;
 layers = (
 {
 layerId = master01;
-width = 300;
+width = 800;
 }
 );
-unicode = 0060;
+unicode = 0040;
 },
 {
-glyphname = space;
+glyphname = ampersand;
 layers = (
 {
 layerId = master01;
-width = 300;
+width = 800;
 }
 );
-unicode = 0020;
-},
-{
-glyphname = quotesingle;
-layers = (
-{
-layerId = master01;
-width = 300;
-}
-);
-unicode = 0027;
+unicode = 0026;
 },
 {
 glyphname = dagger;
@@ -2962,14 +2754,14 @@ width = 600;
 unicode = 2020;
 },
 {
-glyphname = emdash;
+glyphname = grave;
 layers = (
 {
 layerId = master01;
-width = 800;
+width = 300;
 }
 );
-unicode = 2014;
+unicode = 0060;
 },
 {
 glyphname = temp3;
@@ -3013,7 +2805,7 @@ transform = (
 0,
 0,
 6.92267,
--5862.92267,
+-5863,
 -1782
 );
 };
@@ -3197,7 +2989,7 @@ transform = (
 0,
 0,
 6.92267,
--3184.30934,
+-3184,
 -3298
 );
 };
@@ -3270,8 +3062,8 @@ transform = (
 0,
 0,
 6.92267,
--1951.20408,
--293.67925
+-1951,
+-294
 );
 };
 com.typemytype.robofont.mark = (
@@ -3298,8 +3090,8 @@ transform = (
 0,
 0,
 6.92267,
--1791.84533,
--1298.84533
+-1792,
+-1299
 );
 };
 com.typemytype.robofont.mark = (
@@ -3432,8 +3224,8 @@ transform = (
 0,
 0,
 6.92267,
--211.20408,
--3299.67925
+-211,
+-3300
 );
 };
 com.typemytype.robofont.mark = (
