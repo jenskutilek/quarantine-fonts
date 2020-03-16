@@ -1,8 +1,8 @@
 {
-.appVersion = "1235";
+.appVersion = "1303";
 DisplayStrings = (
 HandglovesHHTH,
-"All die anderen \012Adaptionen sind ein überwiegend trauriges Kapitel.",
+"All/space die/space anderen/space \012Adaptionen/space sind/space ein/space überwiegend/space trauriges/space Kapitel.",
 H,
 "H/K.mono H",
 "nn/k.mono nn"
@@ -52,6 +52,10 @@ value = "conta (f) - Portuguese\012\012From Old Portuguese conta, from Latin com
 {
 name = "Name Table Entry";
 value = "19 3 1 1033;conta (f) - Portuguese: From Old Portuguese conta, from Latin computō (‘I calculate’).";
+},
+{
+name = vendorID;
+value = JENS;
 }
 );
 date = "2017-12-19 14:57:33 +0000";

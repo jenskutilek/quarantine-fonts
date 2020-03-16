@@ -13,6 +13,12 @@ name = Uppercase;
 }
 );
 copyright = "Copyright (c) 2011 by Jens Kutilek. All rights reserved.";
+customParameters = (
+{
+name = vendorID;
+value = JENS;
+}
+);
 date = "2011-08-12 16:20:00 +0000";
 designer = "Jens Kutilek";
 designerURL = "https://www.kutilek.de/";

@@ -1,11 +1,17 @@
 {
-.appVersion = "1143";
+.appVersion = "1303";
 DisplayStrings = (
-"Tomo Friedrich Kutílek\01222. 02. 2018\01253 cm\0123795 g",
+"Tomo/space Friedrich/space Kutílek\01222./space 02./space 2018\01253/space cm\0123795/space g",
 Tomo,
 nnutnn
 );
 copyright = "Copyright 2009 Jens, created using www.fontcapture.com";
+customParameters = (
+{
+name = vendorID;
+value = JENS;
+}
+);
 date = "2009-10-08 18:11:00 +0000";
 designer = "Jens Kutilek";
 disablesAutomaticAlignment = 1;

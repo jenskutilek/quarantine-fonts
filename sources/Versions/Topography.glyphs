@@ -1,5 +1,5 @@
 {
-.appVersion = "1272";
+.appVersion = "1303";
 DisplayStrings = (
 a,
 Topographye
@@ -21,6 +21,10 @@ Name = Contrast;
 Tag = CNTR;
 }
 );
+},
+{
+name = vendorID;
+value = JENS;
 }
 );
 date = "2018-07-12 08:58:22 +0000";

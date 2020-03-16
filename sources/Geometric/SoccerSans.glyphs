@@ -1,10 +1,10 @@
 {
-.appVersion = "1172";
+.appVersion = "1303";
 copyright = "Copyright 2018 by Jens Kutilek";
 customParameters = (
 {
 name = vendorID;
-value = jens;
+value = JENS;
 }
 );
 date = "2018-10-01 13:04:45 +0000";

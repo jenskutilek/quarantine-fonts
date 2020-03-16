@@ -39,10 +39,14 @@ value = "As the glyph widths are on a grid of 1 to 9 units per em, I figured the
 {
 name = "Disable Last Change";
 value = 1;
+},
+{
+name = vendorID;
+value = JENS;
 }
 );
 date = "2019-04-01 08:05:36 +0000";
-designer = IBM;
+designer = "IBM, Jens Kutilek";
 familyName = "Selectric Century";
 featurePrefixes = (
 {

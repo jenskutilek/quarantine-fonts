@@ -1,6 +1,12 @@
 {
 .appVersion = "1303";
 copyright = "Copyright (c) 2007 by Jens Kutilek. All rights reserved.";
+customParameters = (
+{
+name = vendorID;
+value = JENS;
+}
+);
 date = "2007-08-18 08:58:00 +0000";
 designer = "Jens Kutilek";
 designerURL = "http://www.kutilek.de/";

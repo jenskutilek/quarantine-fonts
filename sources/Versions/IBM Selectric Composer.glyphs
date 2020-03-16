@@ -1,9 +1,15 @@
 {
-.appVersion = "1092";
+.appVersion = "1303";
 DisplayStrings = (
 D,
 HWH,
 n
+);
+customParameters = (
+{
+name = vendorID;
+value = JENS;
+}
 );
 date = "2017-11-28 11:01:49 +0000";
 familyName = "IBM Selectric Composer";
@@ -15,20 +21,18 @@ custom = Master;
 customParameters = (
 {
 name = "CJK Grid";
-value = 100;
+value = "100";
 }
 );
 descender = -200;
-iconName = Regular;
 id = "87410FD4-54DA-4328-9944-625314575885";
-name = Master;
 weightValue = 1;
 xHeight = 500;
 },
 {
 ascender = 800;
 capHeight = 0;
-custom = "Univers Regular";
+custom = "Unitized Regular";
 customParameters = (
 {
 name = "Link Metrics With First Master";
@@ -36,13 +40,11 @@ value = 1;
 },
 {
 name = "CJK Grid";
-value = 100;
+value = "100";
 }
 );
 descender = -200;
-iconName = Regular;
 id = "F1972085-501F-4FCA-A4B1-04CE8319F3BE";
-name = "Univers Regular";
 visible = 1;
 weightValue = 80;
 xHeight = 0;
@@ -50,7 +52,7 @@ xHeight = 0;
 {
 ascender = 800;
 capHeight = 0;
-custom = Univers;
+custom = Unitized;
 customParameters = (
 {
 name = "Link Metrics With First Master";
@@ -58,13 +60,12 @@ value = 1;
 },
 {
 name = "CJK Grid";
-value = 100;
+value = "100";
 }
 );
 descender = -200;
-iconName = Regular;
 id = "3ACAB61B-A119-4C08-A89F-8C1D7ECDA8FD";
-name = "Univers Bold";
+name = "Unitized Bold";
 weight = Bold;
 weightValue = 160;
 xHeight = 0;
@@ -105528,6 +105529,34 @@ width = 300;
 }
 );
 unicode = 0060;
+}
+);
+instances = (
+{
+customParameters = (
+{
+name = familyName;
+value = Unitized;
+}
+);
+interpolationWeight = 80;
+instanceInterpolations = {
+"F1972085-501F-4FCA-A4B1-04CE8319F3BE" = 1;
+};
+name = Regular;
+},
+{
+customParameters = (
+{
+name = familyName;
+value = Unitized;
+}
+);
+interpolationWeight = 160;
+instanceInterpolations = {
+"3ACAB61B-A119-4C08-A89F-8C1D7ECDA8FD" = 1;
+};
+name = Bold;
 }
 );
 unitsPerEm = 900;

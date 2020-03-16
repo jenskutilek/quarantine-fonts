@@ -1,7 +1,13 @@
 {
-.appVersion = "1204";
+.appVersion = "1303";
 DisplayStrings = (
 doco
+);
+customParameters = (
+{
+name = vendorID;
+value = JENS;
+}
 );
 date = "2019-02-01 17:20:41 +0000";
 designer = "Jens Kutilek";

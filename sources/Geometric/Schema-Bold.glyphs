@@ -1,9 +1,9 @@
 {
-.appVersion = "1239";
+.appVersion = "1303";
 DisplayStrings = (
-"Handgloves ",
+"Handgloves/space",
 "/alef-ar.short/alefHamzaabove-ar/hamzaabove-ar",
-"/qaf-ar/beh-ar/alef-ar/yehHamzaabove-ar/lam-ar  /alef-ar/lam-ar/ain-ar/reh-ar/beh-ar \012/teh-ar/sad-ar/noon-ar/yeh-ar/feh-ar :/qaf-ar/beh-ar/alef-ar/yehHamzaabove-ar/lam-ar  /alef-ar/lam-ar/ain-ar/reh-ar/beh-ar  /feh-ar/yeh-ar  /alef-ar/lam-ar/jeem-ar/alef-ar/heh-ar/lam-ar/yeh-ar/tehMarbuta-ar  - /waw-ar/yeh-ar/kaf-ar/yeh-ar/beh-ar/yeh-ar/dal-ar/yeh-ar/alef-ar/comma-ar  /alef-ar/lam-ar/meem-ar/waw-ar/seen-ar/waw-ar  /ain-ar  /ain-ar/tehMarbuta-ar  /alef-ar/lam-ar/hah-ar/reh-ar/tehMarbuta-ar",
+"/qaf-ar/beh-ar/alef-ar/yehHamzaabove-ar/lam-ar/space/alef-ar/lam-ar/ain-ar/reh-ar/beh-ar \012/teh-ar/sad-ar/noon-ar/yeh-ar/feh-ar :/qaf-ar/beh-ar/alef-ar/yehHamzaabove-ar/lam-ar/space/alef-ar/lam-ar/ain-ar/reh-ar/beh-ar/space/feh-ar/yeh-ar/space/alef-ar/lam-ar/jeem-ar/alef-ar/heh-ar/lam-ar/yeh-ar/tehMarbuta-ar/space -/space/waw-ar/yeh-ar/kaf-ar/yeh-ar/beh-ar/yeh-ar/dal-ar/yeh-ar/alef-ar/comma-ar/space/alef-ar/lam-ar/meem-ar/waw-ar/seen-ar/waw-ar/space/ain-ar/space/ain-ar/tehMarbuta-ar/space/alef-ar/lam-ar/hah-ar/reh-ar/tehMarbuta-ar",
 "/dal-ar"
 );
 classes = (
@@ -14,9 +14,15 @@ name = ArabicLetters;
 }
 );
 copyright = "Copyright (c) 2007 by Jens Kutilek. All rights reserved.";
+customParameters = (
+{
+name = vendorID;
+value = JENS;
+}
+);
 date = "2007-04-10 19:37:00 +0000";
 designer = "Jens Kutilek";
-designerURL = "http://iacute.de/";
+designerURL = "http://www.kutilek.de/";
 familyName = Schema;
 featurePrefixes = (
 {
@@ -20262,7 +20268,7 @@ unicode = FECB;
 {
 color = 2;
 glyphname = "ghain-ar";
-lastChange = "2019-05-17 23:32:30 +0000";
+lastChange = "2020-03-16 16:13:42 +0000";
 layers = (
 {
 background = {
@@ -20343,7 +20349,7 @@ name = "dotabove-ar";
 }
 );
 layerId = "65DE19D7-C0F2-4D8D-9C1D-34999E633ECA";
-width = 600;
+width = 560;
 },
 {
 layerId = "FCEAB5BF-AFE7-45BC-83DB-D0DE89866BD6";
@@ -20516,7 +20522,7 @@ unicode = FED0;
 {
 color = 2;
 glyphname = "ghain-ar.init";
-lastChange = "2019-05-17 23:32:30 +0000";
+lastChange = "2020-03-16 16:13:42 +0000";
 layers = (
 {
 background = {
@@ -20585,7 +20591,7 @@ name = "dotabove-ar";
 }
 );
 layerId = "65DE19D7-C0F2-4D8D-9C1D-34999E633ECA";
-width = 600;
+width = 620;
 },
 {
 layerId = "FCEAB5BF-AFE7-45BC-83DB-D0DE89866BD6";

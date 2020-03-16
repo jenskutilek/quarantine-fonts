@@ -1,9 +1,15 @@
 {
-.appVersion = "1128";
+.appVersion = "1303";
 DisplayStrings = (
 g
 );
 copyright = "2014 by Jens Kutilek";
+customParameters = (
+{
+name = vendorID;
+value = JENS;
+}
+);
 date = "2018-04-11 19:16:24 +0000";
 designer = "Jens Kutilek";
 disablesAutomaticAlignment = 1;

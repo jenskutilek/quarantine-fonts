@@ -1,8 +1,8 @@
 {
-.appVersion = "1270";
+.appVersion = "1303";
 DisplayStrings = (
 HEH,
-"HH HHIH",
+"HH/space HHIH",
 HEINLEIN,
 A.H,
 HNA,
@@ -43,6 +43,10 @@ Tag = FLAR;
 {
 name = "Variable Font Origin";
 value = "2682E274-A140-4EF8-A7FA-3FEBF3FFA247";
+},
+{
+name = vendorID;
+value = JENS;
 }
 );
 date = "2017-08-09 10:12:54 +0000";

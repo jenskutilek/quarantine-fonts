@@ -1,5 +1,11 @@
 {
-.appVersion = "1128";
+.appVersion = "1303";
+customParameters = (
+{
+name = vendorID;
+value = JENS;
+}
+);
 date = "2013-10-04 19:17:44 +0000";
 disablesAutomaticAlignment = 1;
 disablesNiceNames = 1;

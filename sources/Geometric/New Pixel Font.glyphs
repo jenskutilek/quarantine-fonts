@@ -1,5 +1,5 @@
 {
-.appVersion = "1296";
+.appVersion = "1303";
 DisplayStrings = (
 "HAH/pixel BHCHDHEH\012abcdefghijklmnopqrstuvwxyz",
 n0n1n2n3n4n5n6n7n8n9n
@@ -17,6 +17,10 @@ Name = Width;
 Tag = wdth;
 }
 );
+},
+{
+name = vendorID;
+value = JENS;
 }
 );
 date = "2020-02-24 15:00:02 +0000";

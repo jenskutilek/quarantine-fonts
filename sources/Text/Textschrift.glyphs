@@ -20,6 +20,10 @@ Name = Width;
 Tag = wdth;
 }
 );
+},
+{
+name = vendorID;
+value = JENS;
 }
 );
 date = "2018-07-04 15:03:59 +0000";

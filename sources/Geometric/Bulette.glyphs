@@ -1,12 +1,18 @@
 {
-.appVersion = "1128";
+.appVersion = "1303";
 copyright = "Copyright (c) 2008 by Jens Kutilek. All rights reserved.";
+customParameters = (
+{
+name = vendorID;
+value = JENS;
+}
+);
 date = "2008-12-14 12:35:00 +0000";
 designer = "Jens Kutilek";
-designerURL = "http://iacute.de/";
+designerURL = "http://www.kutilek.de/";
 disablesAutomaticAlignment = 1;
 disablesNiceNames = 1;
-familyName = "Bulette IA";
+familyName = Bulette;
 fontMaster = (
 {
 alignmentZones = (
@@ -3194,20 +3200,6 @@ com.typemytype.robofont.mark = (
 );
 instances = (
 {
-customParameters = (
-{
-name = postscriptFontName;
-value = "BuletteIA-Bold";
-},
-{
-name = postscriptFullName;
-value = "Bulette IA Bold";
-},
-{
-name = styleMapFamilyName;
-value = "Bulette IA";
-}
-);
 instanceInterpolations = {
 "8F25ED4B-E6CE-471D-AC3A-5083AB5EDC3A" = 1;
 };
@@ -3217,52 +3209,52 @@ weightClass = Bold;
 );
 kerning = {
 "8F25ED4B-E6CE-471D-AC3A-5083AB5EDC3A" = {
-"@MMK_L_W" = {
-"@MMK_R_O" = -15;
-"@MMK_R_A" = -80;
-};
-"@MMK_L_K" = {
-"@MMK_R_O" = -55;
-};
 "@MMK_L_A" = {
-"@MMK_R_Y" = -75;
 "@MMK_R_T" = -60;
-"@MMK_R_W" = -55;
 "@MMK_R_V" = -55;
-};
-"@MMK_L_V" = {
-"@MMK_R_O" = -20;
-"@MMK_R_A" = -85;
+"@MMK_R_W" = -55;
+"@MMK_R_Y" = -75;
 };
 "@MMK_L_D" = {
 "@MMK_R_Y" = -10;
 };
-"@MMK_L_Y" = {
-"@MMK_R_O" = -35;
-"@MMK_R_A" = -80;
+"@MMK_L_K" = {
+"@MMK_R_O" = -55;
 };
 "@MMK_L_L" = {
-"@MMK_R_Y" = -110;
 "@MMK_R_T" = -75;
-"@MMK_R_W" = -60;
 "@MMK_R_V" = -50;
+"@MMK_R_W" = -60;
+"@MMK_R_Y" = -110;
 "@MMK_R_quoteright" = -120;
+};
+"@MMK_L_O" = {
+"@MMK_R_V" = -10;
+"@MMK_R_W" = -5;
+"@MMK_R_X" = -40;
+"@MMK_R_Y" = -30;
+};
+"@MMK_L_S" = {
+"@MMK_R_T" = -15;
 };
 "@MMK_L_T" = {
 "@MMK_R_A" = -60;
 "@MMK_R_M" = -30;
 };
+"@MMK_L_V" = {
+"@MMK_R_A" = -85;
+"@MMK_R_O" = -20;
+};
+"@MMK_L_W" = {
+"@MMK_R_A" = -80;
+"@MMK_R_O" = -15;
+};
 "@MMK_L_X" = {
 "@MMK_R_O" = -30;
 };
-"@MMK_L_O" = {
-"@MMK_R_Y" = -30;
-"@MMK_R_X" = -40;
-"@MMK_R_W" = -5;
-"@MMK_R_V" = -10;
-};
-"@MMK_L_S" = {
-"@MMK_R_T" = -15;
+"@MMK_L_Y" = {
+"@MMK_R_A" = -80;
+"@MMK_R_O" = -35;
 };
 };
 };

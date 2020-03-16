@@ -1,8 +1,8 @@
 {
-.appVersion = "1239";
+.appVersion = "1303";
 DisplayStrings = (
-"From the devil\012came a daughter",
-" ae",
+"From/space the/space devil\012came/space a/space daughter",
+"/space ae",
 y,
 g
 );
@@ -71,6 +71,10 @@ value = 7;
 {
 name = trademark;
 value = "Mergenthaler Antiqua is probably a trademark of Linotype.";
+},
+{
+name = vendorID;
+value = JENS;
 }
 );
 date = "2012-03-18 19:20:00 +0000";
@@ -408,14 +412,16 @@ unicode = 0041;
 {
 color = 6;
 glyphname = Adieresis;
-lastChange = "2019-05-17 22:14:23 +0000";
+lastChange = "2020-03-16 16:14:49 +0000";
 layers = (
 {
 components = (
 {
+alignment = -1;
 name = A;
 },
 {
+alignment = -1;
 name = dieresiscomb.case;
 transform = "{1, 0, 0, 1, 650, 0}";
 }
@@ -434,9 +440,11 @@ width = 1300;
 {
 components = (
 {
+alignment = -1;
 name = A;
 },
 {
+alignment = -1;
 name = dieresiscomb.case;
 transform = "{1, 0, 0, 1, 650, 0}";
 }
@@ -3291,14 +3299,16 @@ unicode = 004F;
 {
 color = 6;
 glyphname = Odieresis;
-lastChange = "2019-05-17 22:14:23 +0000";
+lastChange = "2020-03-16 16:14:49 +0000";
 layers = (
 {
 components = (
 {
+alignment = -1;
 name = O;
 },
 {
+alignment = -1;
 name = dieresiscomb.case;
 transform = "{1, 0, 0, 1, 600, 0}";
 }
@@ -3317,9 +3327,11 @@ width = 1200;
 {
 components = (
 {
+alignment = -1;
 name = O;
 },
 {
+alignment = -1;
 name = dieresiscomb.case;
 transform = "{1, 0, 0, 1, 600, 0}";
 }
@@ -4415,14 +4427,16 @@ unicode = 0055;
 {
 color = 6;
 glyphname = Udieresis;
-lastChange = "2019-05-17 22:14:23 +0000";
+lastChange = "2020-03-16 16:14:49 +0000";
 layers = (
 {
 components = (
 {
+alignment = -1;
 name = U;
 },
 {
+alignment = -1;
 name = dieresiscomb.case;
 transform = "{1, 0, 0, 1, 675, 0}";
 }
@@ -4441,9 +4455,11 @@ width = 1300;
 {
 components = (
 {
+alignment = -1;
 name = U;
 },
 {
+alignment = -1;
 name = dieresiscomb.case;
 transform = "{1, 0, 0, 1, 675, 0}";
 }
@@ -9054,14 +9070,16 @@ unicode = 006F;
 {
 color = 6;
 glyphname = odieresis;
-lastChange = "2019-05-17 22:14:23 +0000";
+lastChange = "2020-03-16 16:14:49 +0000";
 layers = (
 {
 components = (
 {
+alignment = -1;
 name = o;
 },
 {
+alignment = -1;
 name = dieresiscomb;
 transform = "{1, 0, 0, 1, 450, 0}";
 }
@@ -9080,9 +9098,11 @@ width = 900;
 {
 components = (
 {
+alignment = -1;
 name = o;
 },
 {
+alignment = -1;
 name = dieresiscomb;
 transform = "{1, 0, 0, 1, 450, 0}";
 }
@@ -10462,14 +10482,16 @@ unicode = 0075;
 {
 color = 6;
 glyphname = udieresis;
-lastChange = "2019-05-17 22:14:23 +0000";
+lastChange = "2020-03-16 16:14:49 +0000";
 layers = (
 {
 components = (
 {
+alignment = -1;
 name = u;
 },
 {
+alignment = -1;
 name = dieresiscomb;
 transform = "{1, 0, 0, 1, 475, 0}";
 }
@@ -10488,9 +10510,11 @@ width = 975;
 {
 components = (
 {
+alignment = -1;
 name = u;
 },
 {
+alignment = -1;
 name = dieresiscomb;
 transform = "{1, 0, 0, 1, 475, 0}";
 }

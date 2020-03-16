@@ -50,6 +50,10 @@ Name = Italic;
 Tag = ital;
 }
 );
+},
+{
+name = vendorID;
+value = JENS;
 }
 );
 date = "2017-12-19 14:57:33 +0000";

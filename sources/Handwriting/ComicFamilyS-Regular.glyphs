@@ -1,10 +1,10 @@
 {
-.appVersion = "1238";
+.appVersion = "1303";
 DisplayStrings = (
 "intere/longs/longs ant/longs.base nn",
 an,
 "/fina.n a",
-"h /longs t",
+"h/space/longs t",
 "nntnn/longs nn",
 "n/longs.base/longs no",
 ""
@@ -14,6 +14,12 @@ classes = (
 automatic = 1;
 code = "A Aacute Abreve Acircumflex Adieresis Agrave Amacron Aogonek Aring Aringacute Atilde AE AEacute B C Cacute Ccaron Ccedilla Ccedilla.latn_TRK Ccircumflex Cdotaccent D Eth Dcaron Dcroat E Eacute Ebreve Ecaron Ecircumflex Edieresis Edotaccent Egrave Emacron Eogonek F G G.ss02 Gbreve Gbreve.ss02 Gcircumflex Gcircumflex.ss02 Gcommaaccent Gcommaaccent.ss02 Gdotaccent Gdotaccent.ss02 H Hbar Hcircumflex I I.isol I.latn_DEU I.ss03 IJ IJ.ss03 Iacute Iacute.isol Iacute.ss03 Ibreve Ibreve.isol Ibreve.ss03 Icircumflex Icircumflex.isol Icircumflex.ss03 Idieresis Idieresis.isol Idieresis.ss03 Idotaccent Idotaccent.isol Idotaccent.ss03 Igrave Igrave.isol Igrave.ss03 Imacron Imacron.isol Imacron.ss03 Iogonek Iogonek.isol Iogonek.ss03 Itilde Itilde.isol Itilde.ss03 J J.latn_DEU J.ss03 Jcircumflex Jcircumflex.ss03 K K.ss03 Kcommaaccent Kcommaaccent.ss03 L Lacute Lcaron Lcommaaccent Ldot Lslash Lslash.latn_PLK M M.ss03 N Nacute Ncaron Ncommaaccent Eng Ntilde O Oacute Obreve Ocircumflex Odieresis Ograve Ohungarumlaut Omacron Oslash Oslashacute Otilde OE P Thorn Q R Racute Rcaron Rcommaaccent S Sacute Scaron Scedilla Scedilla.latn_TRK Scircumflex Scommaaccent Germandbls Schwa T Tbar Tcaron Tcommaaccent Tcommaaccent U Uacute Ubreve Ucircumflex Udieresis Ugrave Uhungarumlaut Umacron Uogonek Uring Utilde V W W.ss03 Wacute Wacute.ss03 Wcircumflex Wcircumflex.ss03 Wdieresis Wdieresis.ss03 Wgrave Wgrave.ss03 X Y Yacute Ycircumflex Ydieresis Ygrave Z Zacute Zcaron Zdotaccent Delta Omega";
 name = Uppercase;
+}
+);
+customParameters = (
+{
+name = vendorID;
+value = JENS;
 }
 );
 date = "2019-04-08 15:24:12 +0000";
