@@ -7664,6 +7664,10 @@ name = "Decompose Glyphs";
 value = (
 a
 );
+},
+{
+name = italicAngle;
+value = "11.31";
 }
 );
 interpolationWeight = 80;

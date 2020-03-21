@@ -16428,6 +16428,10 @@ value = "Transformations;Slant:11.31;";
 {
 name = "Scale to UPM";
 value = "2048";
+},
+{
+name = italicAngle;
+value = "11.31";
 }
 );
 interpolationWeight = 80;
@@ -16649,6 +16653,10 @@ name = "Remove Features";
 value = (
 ss20
 );
+},
+{
+name = italicAngle;
+value = "11.31";
 }
 );
 interpolationWeight = 80;

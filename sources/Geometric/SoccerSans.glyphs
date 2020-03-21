@@ -554,13 +554,12 @@ unicode = "00C7,00E7";
 },
 {
 glyphname = D;
-lastChange = "2018-10-15 19:44:34 +0000";
+lastChange = "2020-03-21 20:54:32 +0000";
 layers = (
 {
 components = (
 {
 name = O;
-transform = "{1, 0, 0, 1, 50, 0}";
 }
 );
 layerId = "483A4B3C-018A-49B6-8662-B0C36EA930DB";
