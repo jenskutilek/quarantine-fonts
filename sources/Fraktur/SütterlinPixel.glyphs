@@ -1,5 +1,5 @@
 {
-.appVersion = "1303";
+.appVersion = "1306";
 copyright = "Copyright 2011 by Jens Kutilek";
 customParameters = (
 {
@@ -9,9 +9,24 @@ value = JENS;
 );
 date = "2011-11-19 10:33:00 +0000";
 designer = "Jens Kutilek";
+designerURL = "https://www.kutilek.de/";
 disablesAutomaticAlignment = 1;
 disablesNiceNames = 1;
 familyName = "Sütterlin Pixel";
+featurePrefixes = (
+{
+automatic = 1;
+code = "languagesystem DFLT dflt;\012";
+name = Languagesystems;
+}
+);
+features = (
+{
+automatic = 1;
+code = "lookupflag IgnoreMarks;\012sub f i by fi;\012sub f l by fl;\012";
+name = liga;
+}
+);
 fontMaster = (
 {
 alignmentZones = (
@@ -19,48 +34,6 @@ alignmentZones = (
 );
 ascender = 704;
 capHeight = 704;
-customParameters = (
-{
-name = typoAscender;
-value = 704;
-},
-{
-name = typoDescender;
-value = -320;
-},
-{
-name = typoLineGap;
-value = 0;
-},
-{
-name = hheaAscender;
-value = 750;
-},
-{
-name = hheaDescender;
-value = -250;
-},
-{
-name = hheaLineGap;
-value = 0;
-},
-{
-name = winAscent;
-value = 750;
-},
-{
-name = winDescent;
-value = 250;
-},
-{
-name = underlineThickness;
-value = 50;
-},
-{
-name = underlinePosition;
-value = -75;
-}
-);
 descender = -320;
 id = master01;
 xHeight = 384;
@@ -9072,20 +9045,6 @@ unicode = 02D8;
 );
 instances = (
 {
-customParameters = (
-{
-name = postscriptFontName;
-value = SuetterlinPixel;
-},
-{
-name = postscriptFullName;
-value = "SÃ¼tterlin Pixel";
-},
-{
-name = styleMapFamilyName;
-value = "Stterlin Pixel";
-}
-);
 instanceInterpolations = {
 master01 = 1;
 };
@@ -9093,6 +9052,7 @@ name = Regular;
 weightClass = Normal;
 }
 );
+manufacturer = "Jens Kutilek";
 manufacturerURL = "https://www.kutilek.de/";
 unitsPerEm = 1024;
 userData = {
