@@ -15,7 +15,7 @@ source fonts in the hope that it may be useful to somebody. I’m thinking mainl
 type designers, as this really is raw material that needs to be refined and
 developed before it can be useful for type users.
 
-If you are searching for more advanced typefaces, check these out:
+If you are searching for the more advanced typefaces among these, check out:
 
 * Conta: Another coding font. Monospaced and proportional variants, italics.
 * Grotesk 812: A condensed grotesque typeface.
@@ -31,6 +31,9 @@ If you are searching for more advanced typefaces, check these out:
 * Stecker: A typeface made of round elements.
 * Topography: A version of the classic German cartography typeface.
 
-Some other fonts that I designed are not part of this collection: [Sudo](https://www.kutilek.de/sudo-font/), [FF Hertz](https://www.kutilek.de/ff-hertz/), [FF Uberhand](https://www.kutilek.de/ff-uberhand/).
+Some other fonts that I designed are not part of this collection:
+[Sudo](https://www.kutilek.de/sudo-font/),
+[FF Hertz](https://www.kutilek.de/ff-hertz/),
+[FF Uberhand](https://www.kutilek.de/ff-uberhand/).
 
 <img src="images/overview.png">
