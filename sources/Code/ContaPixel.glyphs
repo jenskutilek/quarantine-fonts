@@ -1,5 +1,5 @@
 {
-.appVersion = "1303";
+.appVersion = "1306";
 customParameters = (
 {
 name = isFixedPitch;
@@ -8,10 +8,19 @@ value = 1;
 {
 name = vendorID;
 value = JENS;
+},
+{
+name = license;
+value = "SIL Open Font License";
+},
+{
+name = licenseURL;
+value = "https://scripts.sil.org/OFL";
 }
 );
 date = "2017-12-19 14:57:33 +0000";
 designer = "Jens Kutilek";
+designerURL = "https://www.kutilek.de/";
 familyName = "Conta Pixel";
 fontMaster = (
 {
@@ -7665,6 +7674,8 @@ isItalic = 1;
 name = Italic;
 }
 );
+manufacturer = "Jens Kutilek";
+manufacturerURL = "https://www.kutilek.de/";
 unitsPerEm = 1000;
 versionMajor = 1;
 versionMinor = 0;

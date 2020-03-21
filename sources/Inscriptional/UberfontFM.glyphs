@@ -1,5 +1,5 @@
 {
-.appVersion = "1303";
+.appVersion = "1306";
 DisplayStrings = (
 HEH,
 "HH/space HHIH",
@@ -47,9 +47,18 @@ value = "2682E274-A140-4EF8-A7FA-3FEBF3FFA247";
 {
 name = vendorID;
 value = JENS;
+},
+{
+name = license;
+value = "SIL Open Font License";
+},
+{
+name = licenseURL;
+value = "https://scripts.sil.org/OFL";
 }
 );
 date = "2017-08-09 10:12:54 +0000";
+designerURL = "https://www.kutilek.de/";
 familyName = Uberfont;
 fontMaster = (
 {
@@ -5039,6 +5048,8 @@ instanceInterpolations = {
 name = Semi;
 }
 );
+manufacturer = "Jens Kutilek";
+manufacturerURL = "https://www.kutilek.de/";
 unitsPerEm = 1000;
 versionMajor = 1;
 versionMinor = 0;

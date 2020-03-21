@@ -1,5 +1,5 @@
 {
-.appVersion = "1303";
+.appVersion = "1306";
 copyright = "Copyright (c) 2009 by Jens Kutilek. All rights reserved.";
 customParameters = (
 {
@@ -9,17 +9,48 @@ value = "Another variation of the Comic Jens style";
 {
 name = vendorID;
 value = JENS;
+},
+{
+name = license;
+value = "SIL Open Font License";
+},
+{
+name = licenseURL;
+value = "https://scripts.sil.org/OFL";
 }
 );
 date = "2009-03-19 16:59:00 +0000";
 designer = "Jens Kutilek";
+designerURL = "https://www.kutilek.de/";
 disablesAutomaticAlignment = 1;
 disablesNiceNames = 1;
 familyName = "Mister J";
+featurePrefixes = (
+{
+automatic = 1;
+code = "languagesystem DFLT dflt;\012";
+name = Languagesystems;
+}
+);
 features = (
+{
+automatic = 1;
+code = "feature calt;\012feature init;\012feature fina;\012";
+name = aalt;
+},
 {
 code = "  sub s t' by t.init;";
 name = calt;
+},
+{
+automatic = 1;
+code = "sub t by t.init;\012";
+name = init;
+},
+{
+automatic = 1;
+code = "sub s by s.fina;\012";
+name = fina;
 }
 );
 fontMaster = (
@@ -29,48 +60,6 @@ alignmentZones = (
 );
 ascender = 750;
 capHeight = 700;
-customParameters = (
-{
-name = typoAscender;
-value = 750;
-},
-{
-name = typoDescender;
-value = -250;
-},
-{
-name = typoLineGap;
-value = 9;
-},
-{
-name = hheaAscender;
-value = 750;
-},
-{
-name = hheaDescender;
-value = -250;
-},
-{
-name = hheaLineGap;
-value = 9;
-},
-{
-name = winAscent;
-value = 0;
-},
-{
-name = winDescent;
-value = 0;
-},
-{
-name = underlineThickness;
-value = 50;
-},
-{
-name = underlinePosition;
-value = -75;
-}
-);
 descender = -250;
 id = master01;
 xHeight = 180;
@@ -857,20 +846,6 @@ unicode = 00A0;
 );
 instances = (
 {
-customParameters = (
-{
-name = postscriptFontName;
-value = MisterJ;
-},
-{
-name = postscriptFullName;
-value = "Mister J";
-},
-{
-name = styleMapFamilyName;
-value = "Mister J";
-}
-);
 instanceInterpolations = {
 master01 = 1;
 };
@@ -878,6 +853,7 @@ name = Regular;
 }
 );
 manufacturer = "Jens Kutilek";
+manufacturerURL = "https://www.kutilek.de/";
 unitsPerEm = 1000;
 userData = {
 UFO.lib = {

@@ -1,5 +1,5 @@
 {
-.appVersion = "1303";
+.appVersion = "1306";
 copyright = "Copyright Jens Kutilek 2008";
 customParameters = (
 {
@@ -8,11 +8,11 @@ value = "This font was created using FontStruct (http://fontstruct.fontshop.com)
 },
 {
 name = license;
-value = "Creative Commons Attribution No Derivatives";
+value = "SIL Open Font License";
 },
 {
 name = licenseURL;
-value = "http://creativecommons.org/licenses/by-nd/3.0/";
+value = "https://scripts.sil.org/OFL";
 },
 {
 name = openTypeNameSampleText;
@@ -25,7 +25,7 @@ value = JENS;
 );
 date = "2008-04-02 13:41:00 +0000";
 designer = "Jens Kutilek";
-designerURL = "http://fontstruct.fontshop.com/fontstructions/show/671";
+designerURL = "https://www.kutilek.de/";
 disablesAutomaticAlignment = 1;
 disablesNiceNames = 1;
 familyName = "Modular Fraktur";
@@ -73,46 +73,6 @@ position = -256;
 size = 0;
 }
 );
-},
-{
-name = typoAscender;
-value = 896;
-},
-{
-name = typoDescender;
-value = -256;
-},
-{
-name = typoLineGap;
-value = 0;
-},
-{
-name = hheaAscender;
-value = 1000;
-},
-{
-name = hheaDescender;
-value = -256;
-},
-{
-name = hheaLineGap;
-value = 0;
-},
-{
-name = winAscent;
-value = 1000;
-},
-{
-name = winDescent;
-value = 256;
-},
-{
-name = underlineThickness;
-value = 51;
-},
-{
-name = underlinePosition;
-value = 102.5;
 }
 );
 descender = -256;
@@ -4307,20 +4267,6 @@ unicode = 0000;
 );
 instances = (
 {
-customParameters = (
-{
-name = postscriptFontName;
-value = "Modular-Fraktur";
-},
-{
-name = postscriptFullName;
-value = "Modular Fraktur Regular";
-},
-{
-name = styleMapFamilyName;
-value = "Modular Fraktur";
-}
-);
 instanceInterpolations = {
 master01 = 1;
 };
@@ -4330,329 +4276,177 @@ weightClass = Normal;
 );
 kerning = {
 master01 = {
-p = {
-"@MMK_R_a" = -32;
-h = -32;
-period = -32;
-q = -32;
-b = -32;
-"@MMK_R_o" = -32;
-c = -32;
-s = -32;
-d = -32;
-l = -32;
-comma = -64;
-e = -32;
-g = -32;
-};
-c = {
-"@MMK_R_a" = -64;
-h = -64;
-period = -64;
-q = -32;
-b = -32;
-"@MMK_R_o" = -32;
-k = -32;
-s = -32;
-d = -64;
-l = -32;
-c = -64;
-e = -64;
-comma = -64;
-f = -32;
-g = -64;
-};
-q = {
-"@MMK_R_o" = -32;
-period = -16;
-c = -32;
-"@MMK_R_a" = -32;
-l = -32;
-q = -32;
-h = -32;
-d = -32;
-e = -32;
-s = -32;
-b = -32;
-};
-d = {
-comma = 32;
-};
-r = {
-"@MMK_R_a" = -64;
-h = -64;
-period = -128;
-q = -64;
-b = -64;
-"@MMK_R_o" = -32;
-germandbls = -64;
-s = -32;
-d = -64;
-l = -64;
-longs = -64;
-e = -64;
-c = -64;
-comma = -128;
-g = -64;
-};
 "@MMK_L_a" = {
 comma = 32;
 };
-s = {
-p = -32;
+"@MMK_L_o" = {
+"@MMK_R_a" = -32;
+"@MMK_R_o" = -32;
 b = -32;
 c = -32;
-q = -32;
 comma = -64;
 d = -32;
-r = -32;
 e = -32;
-s = -32;
-period = -32;
-f = -32;
-germandbls = -16;
-t = -32;
-"@MMK_R_u" = -32;
 g = -32;
 h = -32;
-v = -32;
-i = -32;
-w = -32;
-j = -32;
-x = -16;
-k = -32;
-y = -16;
 l = -32;
-"@MMK_R_o" = -32;
-z = -16;
-longs = -16;
-m = -32;
-n = -32;
-"@MMK_R_a" = -32;
-};
-e = {
-"@MMK_R_a" = -64;
-h = -64;
-period = -64;
-q = -64;
-b = -32;
-"@MMK_R_o" = -64;
-k = -32;
-"@MMK_R_u" = -32;
-s = -96;
-l = -64;
-t = -32;
-e = -64;
-d = -64;
-c = -64;
-f = -32;
-comma = -64;
-g = -64;
-};
-f = {
-"@MMK_R_o" = -64;
-g = -64;
-c = -32;
-"@MMK_R_a" = -64;
-period = -32;
-q = -64;
-d = -62;
-e = -64;
-f = 32;
-b = -32;
-};
-germandbls = {
-"@MMK_R_o" = -32;
-c = -32;
-"@MMK_R_a" = -32;
-l = -32;
-q = -32;
-h = -32;
-d = -32;
-e = -32;
-s = -32;
-b = -32;
-};
-t = {
-period = -64;
-g = -64;
-c = -32;
-"@MMK_R_a" = -64;
-comma = -32;
-q = -64;
-d = -44;
-e = -64;
-b = -32;
-};
-g = {
-"@MMK_R_o" = -32;
-g = -32;
-c = -32;
-"@MMK_R_a" = -32;
-l = -32;
-q = -32;
-h = -32;
-d = -32;
-e = -32;
-period = -16;
-b = -32;
-};
-period = {
-c = -32;
-q = -32;
-d = -32;
-r = -32;
-e = -32;
-f = -32;
-t = -32;
-"@MMK_R_u" = -32;
-g = -32;
-h = -32;
-v = -64;
-i = -32;
-w = -64;
-k = -32;
-y = -16;
-l = -32;
-"@MMK_R_o" = -32;
-m = -32;
-n = -32;
-b = -32;
-};
-h = {
-comma = 32;
-};
-v = {
-"@MMK_R_a" = -32;
-h = -32;
 period = -32;
 q = -32;
-b = -32;
-"@MMK_R_o" = -32;
-c = -32;
-d = -32;
-l = -32;
-comma = -64;
-e = -32;
-g = -32;
-};
-i = {
-comma = 32;
-};
-w = {
-"@MMK_R_a" = -32;
-h = -32;
-period = -32;
-q = -32;
-b = -32;
-"@MMK_R_o" = -32;
-c = -32;
-d = -32;
-l = -32;
-comma = -64;
-e = -32;
-g = -32;
 };
 "@MMK_L_u" = {
 comma = 32;
 };
-x = {
+b = {
+"@MMK_R_a" = -32;
+"@MMK_R_o" = -32;
+b = -32;
+c = -32;
+comma = -64;
+d = -32;
+e = -32;
+g = -32;
+h = -32;
+l = -32;
+period = -64;
+q = -32;
+s = -32;
+};
+c = {
 "@MMK_R_a" = -64;
-h = -64;
-period = -128;
-q = -64;
-b = -64;
-"@MMK_R_o" = -64;
-germandbls = -64;
-s = -64;
-d = -64;
-l = -64;
-longs = -64;
-e = -64;
+"@MMK_R_o" = -32;
+b = -32;
 c = -64;
-comma = -128;
+comma = -64;
+d = -64;
+e = -64;
+f = -32;
 g = -64;
+h = -64;
+k = -32;
+l = -32;
+period = -64;
+q = -32;
+s = -32;
+};
+d = {
+comma = 32;
+};
+e = {
+"@MMK_R_a" = -64;
+"@MMK_R_o" = -64;
+"@MMK_R_u" = -32;
+b = -32;
+c = -64;
+comma = -64;
+d = -64;
+e = -64;
+f = -32;
+g = -64;
+h = -64;
+k = -32;
+l = -64;
+period = -64;
+q = -64;
+s = -96;
+t = -32;
+};
+f = {
+"@MMK_R_a" = -64;
+"@MMK_R_o" = -64;
+b = -32;
+c = -32;
+d = -62;
+e = -64;
+f = 32;
+g = -64;
+period = -32;
+q = -64;
+};
+g = {
+"@MMK_R_a" = -32;
+"@MMK_R_o" = -32;
+b = -32;
+c = -32;
+d = -32;
+e = -32;
+g = -32;
+h = -32;
+l = -32;
+period = -16;
+q = -32;
+};
+germandbls = {
+"@MMK_R_a" = -32;
+"@MMK_R_o" = -32;
+b = -32;
+c = -32;
+d = -32;
+e = -32;
+h = -32;
+l = -32;
+q = -32;
+s = -32;
+};
+h = {
+comma = 32;
+};
+i = {
+comma = 32;
 };
 j = {
 "@MMK_R_a" = -32;
-h = -32;
-period = -32;
-q = -32;
-b = -32;
 "@MMK_R_o" = -32;
+b = -32;
 c = -32;
-s = -32;
 d = -32;
-l = -32;
 e = -32;
 g = -32;
+h = -32;
+l = -32;
+period = -32;
+q = -32;
+s = -32;
 };
 k = {
-"@MMK_R_o" = -64;
-g = -64;
-c = -64;
 "@MMK_R_a" = -64;
-period = -32;
-d = -62;
+"@MMK_R_o" = -64;
+c = -64;
 comma = -32;
+d = -62;
 e = -64;
+g = -64;
+period = -32;
 s = -32;
-};
-y = {
-"@MMK_R_o" = -32;
-g = -32;
-c = -32;
-"@MMK_R_a" = -32;
-l = -32;
-q = -32;
-h = -32;
-d = -32;
-e = -32;
-period = -16;
-b = -32;
 };
 l = {
 comma = 32;
 };
-z = {
-"@MMK_R_o" = -32;
-g = -32;
-c = -32;
-"@MMK_R_a" = -32;
-l = -32;
-q = -32;
-h = -32;
-d = -32;
-e = -32;
-s = -32;
-b = -32;
-};
 longs = {
-p = -64;
+"@MMK_R_a" = -64;
+"@MMK_R_o" = -64;
 b = -32;
 c = -64;
-q = -64;
 d = -64;
-r = -64;
 e = -64;
-s = -64;
 f = -32;
-t = -64;
 g = -64;
-v = -64;
 i = -64;
-w = -64;
 j = -64;
-x = -32;
 k = -64;
-y = -64;
 l = -32;
-"@MMK_R_o" = -64;
-z = -64;
 longs = -64;
 m = -64;
 n = -64;
-"@MMK_R_a" = -64;
+p = -64;
+q = -64;
+r = -64;
+s = -64;
+t = -64;
+v = -64;
+w = -64;
+x = -32;
+y = -64;
+z = -64;
 };
 m = {
 comma = 32;
@@ -4660,39 +4454,191 @@ comma = 32;
 n = {
 comma = 32;
 };
-"@MMK_L_o" = {
+p = {
 "@MMK_R_a" = -32;
+"@MMK_R_o" = -32;
+b = -32;
+c = -32;
+comma = -64;
+d = -32;
+e = -32;
+g = -32;
 h = -32;
+l = -32;
 period = -32;
 q = -32;
-b = -32;
-"@MMK_R_o" = -32;
-c = -32;
-d = -32;
-l = -32;
-comma = -64;
-e = -32;
-g = -32;
-};
-b = {
-"@MMK_R_a" = -32;
-h = -32;
-period = -64;
-q = -32;
-b = -32;
-"@MMK_R_o" = -32;
-c = -32;
 s = -32;
+};
+period = {
+"@MMK_R_o" = -32;
+"@MMK_R_u" = -32;
+b = -32;
+c = -32;
 d = -32;
+e = -32;
+f = -32;
+g = -32;
+h = -32;
+i = -32;
+k = -32;
 l = -32;
+m = -32;
+n = -32;
+q = -32;
+r = -32;
+t = -32;
+v = -64;
+w = -64;
+y = -16;
+};
+q = {
+"@MMK_R_a" = -32;
+"@MMK_R_o" = -32;
+b = -32;
+c = -32;
+d = -32;
+e = -32;
+h = -32;
+l = -32;
+period = -16;
+q = -32;
+s = -32;
+};
+r = {
+"@MMK_R_a" = -64;
+"@MMK_R_o" = -32;
+b = -64;
+c = -64;
+comma = -128;
+d = -64;
+e = -64;
+g = -64;
+germandbls = -64;
+h = -64;
+l = -64;
+longs = -64;
+period = -128;
+q = -64;
+s = -32;
+};
+s = {
+"@MMK_R_a" = -32;
+"@MMK_R_o" = -32;
+"@MMK_R_u" = -32;
+b = -32;
+c = -32;
 comma = -64;
+d = -32;
+e = -32;
+f = -32;
+g = -32;
+germandbls = -16;
+h = -32;
+i = -32;
+j = -32;
+k = -32;
+l = -32;
+longs = -16;
+m = -32;
+n = -32;
+p = -32;
+period = -32;
+q = -32;
+r = -32;
+s = -32;
+t = -32;
+v = -32;
+w = -32;
+x = -16;
+y = -16;
+z = -16;
+};
+t = {
+"@MMK_R_a" = -64;
+b = -32;
+c = -32;
+comma = -32;
+d = -44;
+e = -64;
+g = -64;
+period = -64;
+q = -64;
+};
+v = {
+"@MMK_R_a" = -32;
+"@MMK_R_o" = -32;
+b = -32;
+c = -32;
+comma = -64;
+d = -32;
 e = -32;
 g = -32;
+h = -32;
+l = -32;
+period = -32;
+q = -32;
+};
+w = {
+"@MMK_R_a" = -32;
+"@MMK_R_o" = -32;
+b = -32;
+c = -32;
+comma = -64;
+d = -32;
+e = -32;
+g = -32;
+h = -32;
+l = -32;
+period = -32;
+q = -32;
+};
+x = {
+"@MMK_R_a" = -64;
+"@MMK_R_o" = -64;
+b = -64;
+c = -64;
+comma = -128;
+d = -64;
+e = -64;
+g = -64;
+germandbls = -64;
+h = -64;
+l = -64;
+longs = -64;
+period = -128;
+q = -64;
+s = -64;
+};
+y = {
+"@MMK_R_a" = -32;
+"@MMK_R_o" = -32;
+b = -32;
+c = -32;
+d = -32;
+e = -32;
+g = -32;
+h = -32;
+l = -32;
+period = -16;
+q = -32;
+};
+z = {
+"@MMK_R_a" = -32;
+"@MMK_R_o" = -32;
+b = -32;
+c = -32;
+d = -32;
+e = -32;
+g = -32;
+h = -32;
+l = -32;
+q = -32;
+s = -32;
 };
 };
 };
-manufacturer = "http://fontstruct.fontshop.com";
-manufacturerURL = "http://www.fontshop.com";
+manufacturer = "Jens Kutilek";
+manufacturerURL = "https://www.kutilek.de/";
 unitsPerEm = 1024;
 userData = {
 UFO.lib = {

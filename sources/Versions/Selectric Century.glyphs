@@ -1,5 +1,5 @@
 {
-.appVersion = "1303";
+.appVersion = "1306";
 DisplayStrings = (
 "mohn\012mohn",
 nnrnnooroo,
@@ -8,6 +8,13 @@ r,
 HH0H,
 "ABCDEFGHIJKLMNOPQRSTUVWXYZ.,0123456789\012abcdefghijklmno\012pqrstuvwxyz",
 "Zuse/space Z010H"
+);
+classes = (
+{
+automatic = 1;
+code = "A Adieresis B C D E F G H I J K L M N O Odieresis P Q R S T U Udieresis V W X Y Z A.mark O.mark U.mark";
+name = Uppercase;
+}
 );
 customParameters = (
 {
@@ -43,10 +50,19 @@ value = 1;
 {
 name = vendorID;
 value = JENS;
+},
+{
+name = license;
+value = "SIL Open Font License";
+},
+{
+name = licenseURL;
+value = "https://scripts.sil.org/OFL";
 }
 );
 date = "2019-04-01 08:05:36 +0000";
 designer = "IBM, Jens Kutilek";
+designerURL = "https://www.kutilek.de/";
 familyName = "Selectric Century";
 featurePrefixes = (
 {
@@ -58,13 +74,23 @@ name = Languagesystems;
 features = (
 {
 automatic = 1;
-code = "feature frac;\012";
+code = "feature frac;\012feature case;\012";
 name = aalt;
+},
+{
+automatic = 1;
+code = "lookup ccmp_Other_1 {\012	@CombiningTopAccents = [dieresiscomb dotaccentcomb];\012	sub [i j]' @CombiningTopAccents by [idotless jdotless];\012	@Markscomb = [dieresiscomb];\012	@MarkscombCase = [dieresiscomb.case];\012	sub @Markscomb @Markscomb' by @MarkscombCase;\012	sub @Uppercase @Markscomb' by @MarkscombCase;\012} ccmp_Other_1;\012\012lookup ccmp_Other_2 {\012	sub @Markscomb' @MarkscombCase by @MarkscombCase;\012	sub @MarkscombCase @Markscomb' by @MarkscombCase;\012} ccmp_Other_2;\012";
+name = ccmp;
 },
 {
 automatic = 1;
 code = "sub one slash four by onequarter;\012sub one slash two by onehalf;\012sub three slash four by threequarters;\012";
 name = frac;
+},
+{
+automatic = 1;
+code = "sub dieresiscomb by dieresiscomb.case;\012";
+name = case;
 }
 );
 fontMaster = (
@@ -77615,6 +77641,7 @@ instanceInterpolations = {
 name = "Medium 8.5 Clean";
 },
 {
+exports = 0;
 interpolationCustom = 8;
 interpolationWeight = 0;
 instanceInterpolations = {
@@ -77623,6 +77650,7 @@ instanceInterpolations = {
 name = "Medium 8 Clean";
 },
 {
+exports = 0;
 interpolationCustom = 9;
 instanceInterpolations = {
 "664CC791-0498-4EB7-B1D0-E1FFFC98853E" = 1;
@@ -77630,6 +77658,7 @@ instanceInterpolations = {
 name = "Medium 9 Rough";
 },
 {
+exports = 0;
 interpolationCustom = 8;
 instanceInterpolations = {
 "9F6891F3-FE19-4DFC-8FDB-D5777C380353" = 1;
@@ -77637,6 +77666,8 @@ instanceInterpolations = {
 name = "Medium 8 Rough";
 }
 );
+manufacturer = "Jens Kutilek";
+manufacturerURL = "https://www.kutilek.de/";
 unitsPerEm = 900;
 versionMajor = 1;
 versionMinor = 0;

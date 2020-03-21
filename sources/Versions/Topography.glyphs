@@ -1,8 +1,9 @@
 {
-.appVersion = "1303";
+.appVersion = "1306";
 DisplayStrings = (
 a,
-Topographye
+Topographye,
+o
 );
 customParameters = (
 {
@@ -25,10 +26,19 @@ Tag = CNTR;
 {
 name = vendorID;
 value = JENS;
+},
+{
+name = license;
+value = "SIL Open Font License";
+},
+{
+name = licenseURL;
+value = "https://scripts.sil.org/OFL";
 }
 );
 date = "2018-07-12 08:58:22 +0000";
 designer = "Jens Kutilek";
+designerURL = "https://www.kutilek.de/";
 familyName = Topography;
 featurePrefixes = (
 {
@@ -60,11 +70,34 @@ name = case;
 },
 {
 automatic = 1;
-code = "sub C h by C_h;\012sub c h by c_h;\012sub c k by c_k;\012";
+code = "lookupflag IgnoreMarks;\012sub C h by C_h;\012sub c h by c_h;\012sub c k by c_k;\012";
 name = dlig;
 }
 );
 fontMaster = (
+{
+alignmentZones = (
+"{725, 16}",
+"{670, 16}",
+"{440, 16}",
+"{0, -16}",
+"{-275, -16}"
+);
+ascender = 725;
+capHeight = 670;
+customValue = 300;
+descender = -275;
+horizontalStems = (
+32
+);
+id = "484F8FD9-52EC-47CF-91D8-DA5450121283";
+verticalStems = (
+100,
+105,
+115
+);
+xHeight = 440;
+},
 {
 alignmentZones = (
 "{725, 16}",
@@ -81,21 +114,6 @@ descender = -275;
 id = "ADE64B87-3839-4AD4-BD35-A3CFF79840FC";
 weightValue = 32;
 widthValue = 50;
-xHeight = 440;
-},
-{
-alignmentZones = (
-"{725, 16}",
-"{670, 16}",
-"{440, 16}",
-"{0, -16}",
-"{-275, -16}"
-);
-ascender = 725;
-capHeight = 670;
-customValue = 300;
-descender = -275;
-id = "484F8FD9-52EC-47CF-91D8-DA5450121283";
 xHeight = 440;
 },
 {
@@ -41032,6 +41050,238 @@ width = 0;
 );
 instances = (
 {
+interpolationCustom = 300;
+instanceInterpolations = {
+"484F8FD9-52EC-47CF-91D8-DA5450121283" = 1;
+};
+name = "Roman Upright";
+},
+{
+customParameters = (
+{
+name = "Rename Glyphs";
+value = (
+"C=C.ss01",
+"G=G.ss01",
+"K=K.ss01",
+"R=R.ss01",
+"S=S.ss01",
+"a=a.ss01",
+"adieresis=adieresis.ss01",
+"c=c.ss01",
+"d=d.ss01",
+"e=e.ss01",
+"f=f.ss01",
+"g=g.ss01",
+"h=h.ss01",
+"i=i.ss01",
+"j=j.ss01",
+"k=k.ss01",
+"l=l.ss01",
+"m=m.ss01",
+"n=n.ss01",
+"p=p.ss01",
+"q=q.ss01",
+"r=r.ss01",
+"s=s.ss01",
+"germandbls=germandbls.ss01",
+"longs=longs.ss01",
+"t=t.ss01",
+"u=u.ss01",
+"udieresis=udieresis.ss01",
+"v=v.ss01",
+"w=w.ss01",
+"x=x.ss01",
+"y=y.ss01",
+"C_h=C_h.ss01",
+"c_h=c_h.ss01",
+"c_k=c_k.ss01",
+"one=one.ss01",
+"two=two.ss01",
+"four=four.ss01",
+"five=five.ss01",
+"seven=seven.ss01",
+"eight=eight.ss01",
+"one.tf=one.tf.ss01",
+"comma=comma.ss01",
+"semicolon=semicolon.ss01"
+);
+}
+);
+interpolationCustom = 300;
+instanceInterpolations = {
+"484F8FD9-52EC-47CF-91D8-DA5450121283" = 1;
+};
+name = "Italic Upright";
+},
+{
+customParameters = (
+{
+name = Filter;
+value = "Transformations;Slant:-21.801409486351815;";
+},
+{
+name = italicAngle;
+value = "-21.801409486351815";
+}
+);
+interpolationCustom = 300;
+instanceInterpolations = {
+"484F8FD9-52EC-47CF-91D8-DA5450121283" = 1;
+};
+name = "Roman Left";
+},
+{
+customParameters = (
+{
+name = Filter;
+value = "Transformations;Slant:21.801409486351815;";
+},
+{
+name = italicAngle;
+value = "-21.801409486351815";
+}
+);
+interpolationCustom = 300;
+instanceInterpolations = {
+"484F8FD9-52EC-47CF-91D8-DA5450121283" = 1;
+};
+name = "Roman Right";
+},
+{
+customParameters = (
+{
+name = "Rename Glyphs";
+value = (
+"C=C.ss01",
+"G=G.ss01",
+"K=K.ss01",
+"R=R.ss01",
+"S=S.ss01",
+"a=a.ss01",
+"adieresis=adieresis.ss01",
+"c=c.ss01",
+"d=d.ss01",
+"e=e.ss01",
+"f=f.ss01",
+"g=g.ss01",
+"h=h.ss01",
+"i=i.ss01",
+"j=j.ss01",
+"k=k.ss01",
+"l=l.ss01",
+"m=m.ss01",
+"n=n.ss01",
+"p=p.ss01",
+"q=q.ss01",
+"r=r.ss01",
+"s=s.ss01",
+"germandbls=germandbls.ss01",
+"longs=longs.ss01",
+"t=t.ss01",
+"u=u.ss01",
+"udieresis=udieresis.ss01",
+"v=v.ss01",
+"w=w.ss01",
+"x=x.ss01",
+"y=y.ss01",
+"C_h=C_h.ss01",
+"c_h=c_h.ss01",
+"c_k=c_k.ss01",
+"one=one.ss01",
+"two=two.ss01",
+"four=four.ss01",
+"five=five.ss01",
+"seven=seven.ss01",
+"eight=eight.ss01",
+"one.tf=one.tf.ss01",
+"comma=comma.ss01",
+"semicolon=semicolon.ss01"
+);
+},
+{
+name = Filter;
+value = "Transformations;Slant:-21.801409486351815;";
+},
+{
+name = italicAngle;
+value = 21.801409486351815;
+}
+);
+interpolationCustom = 300;
+instanceInterpolations = {
+"484F8FD9-52EC-47CF-91D8-DA5450121283" = 1;
+};
+name = "Italic Left";
+},
+{
+customParameters = (
+{
+name = "Rename Glyphs";
+value = (
+"C=C.ss01",
+"G=G.ss01",
+"K=K.ss01",
+"R=R.ss01",
+"S=S.ss01",
+"a=a.ss01",
+"adieresis=adieresis.ss01",
+"c=c.ss01",
+"d=d.ss01",
+"e=e.ss01",
+"f=f.ss01",
+"g=g.ss01",
+"h=h.ss01",
+"i=i.ss01",
+"j=j.ss01",
+"k=k.ss01",
+"l=l.ss01",
+"m=m.ss01",
+"n=n.ss01",
+"p=p.ss01",
+"q=q.ss01",
+"r=r.ss01",
+"s=s.ss01",
+"germandbls=germandbls.ss01",
+"longs=longs.ss01",
+"t=t.ss01",
+"u=u.ss01",
+"udieresis=udieresis.ss01",
+"v=v.ss01",
+"w=w.ss01",
+"x=x.ss01",
+"y=y.ss01",
+"C_h=C_h.ss01",
+"c_h=c_h.ss01",
+"c_k=c_k.ss01",
+"one=one.ss01",
+"two=two.ss01",
+"four=four.ss01",
+"five=five.ss01",
+"seven=seven.ss01",
+"eight=eight.ss01",
+"one.tf=one.tf.ss01",
+"comma=comma.ss01",
+"semicolon=semicolon.ss01"
+);
+},
+{
+name = Filter;
+value = "Transformations;Slant:21.801409486351815;";
+},
+{
+name = italicAngle;
+value = "-21.801409486351815";
+}
+);
+interpolationCustom = 300;
+instanceInterpolations = {
+"484F8FD9-52EC-47CF-91D8-DA5450121283" = 1;
+};
+name = "Italic Right";
+},
+{
+exports = 0;
 interpolationCustom = 100;
 interpolationWeight = 32;
 interpolationWidth = 50;
@@ -41041,252 +41291,7 @@ instanceInterpolations = {
 name = "Thin Narrow Low";
 },
 {
-interpolationCustom = 300;
-instanceInterpolations = {
-"484F8FD9-52EC-47CF-91D8-DA5450121283" = 1;
-};
-name = "Roman Upright";
-},
-{
 exports = 0;
-customParameters = (
-{
-name = "Rename Glyphs";
-value = (
-"C=C.ss01",
-"G=G.ss01",
-"K=K.ss01",
-"R=R.ss01",
-"S=S.ss01",
-"a=a.ss01",
-"adieresis=adieresis.ss01",
-"c=c.ss01",
-"d=d.ss01",
-"e=e.ss01",
-"f=f.ss01",
-"g=g.ss01",
-"h=h.ss01",
-"i=i.ss01",
-"j=j.ss01",
-"k=k.ss01",
-"l=l.ss01",
-"m=m.ss01",
-"n=n.ss01",
-"p=p.ss01",
-"q=q.ss01",
-"r=r.ss01",
-"s=s.ss01",
-"germandbls=germandbls.ss01",
-"longs=longs.ss01",
-"t=t.ss01",
-"u=u.ss01",
-"udieresis=udieresis.ss01",
-"v=v.ss01",
-"w=w.ss01",
-"x=x.ss01",
-"y=y.ss01",
-"C_h=C_h.ss01",
-"c_h=c_h.ss01",
-"c_k=c_k.ss01",
-"one=one.ss01",
-"two=two.ss01",
-"four=four.ss01",
-"five=five.ss01",
-"seven=seven.ss01",
-"eight=eight.ss01",
-"one.tf=one.tf.ss01",
-"comma=comma.ss01",
-"semicolon=semicolon.ss01"
-);
-}
-);
-interpolationCustom = 3;
-instanceInterpolations = {
-"28D540C6-4B1C-4739-9DB3-C8E6E4DDF73A" = 0.7425;
-"484F8FD9-52EC-47CF-91D8-DA5450121283" = -1.2275;
-"ADE64B87-3839-4AD4-BD35-A3CFF79840FC" = 1.485;
-};
-name = "Italic Upright";
-},
-{
-exports = 0;
-customParameters = (
-{
-name = Filter;
-value = "Transformations;Slant:-21.801409486351815;";
-},
-{
-name = italicAngle;
-value = "0";
-}
-);
-interpolationCustom = 3;
-instanceInterpolations = {
-"28D540C6-4B1C-4739-9DB3-C8E6E4DDF73A" = 0.7425;
-"484F8FD9-52EC-47CF-91D8-DA5450121283" = -1.2275;
-"ADE64B87-3839-4AD4-BD35-A3CFF79840FC" = 1.485;
-};
-name = "Roman Left";
-},
-{
-exports = 0;
-customParameters = (
-{
-name = Filter;
-value = "Transformations;Slant:21.801409486351815;";
-},
-{
-name = italicAngle;
-value = "-21.801409486351815";
-}
-);
-interpolationCustom = 3;
-instanceInterpolations = {
-"28D540C6-4B1C-4739-9DB3-C8E6E4DDF73A" = 0.7425;
-"484F8FD9-52EC-47CF-91D8-DA5450121283" = -1.2275;
-"ADE64B87-3839-4AD4-BD35-A3CFF79840FC" = 1.485;
-};
-name = "Roman Right";
-},
-{
-exports = 0;
-customParameters = (
-{
-name = "Rename Glyphs";
-value = (
-"C=C.ss01",
-"G=G.ss01",
-"K=K.ss01",
-"R=R.ss01",
-"S=S.ss01",
-"a=a.ss01",
-"adieresis=adieresis.ss01",
-"c=c.ss01",
-"d=d.ss01",
-"e=e.ss01",
-"f=f.ss01",
-"g=g.ss01",
-"h=h.ss01",
-"i=i.ss01",
-"j=j.ss01",
-"k=k.ss01",
-"l=l.ss01",
-"m=m.ss01",
-"n=n.ss01",
-"p=p.ss01",
-"q=q.ss01",
-"r=r.ss01",
-"s=s.ss01",
-"germandbls=germandbls.ss01",
-"longs=longs.ss01",
-"t=t.ss01",
-"u=u.ss01",
-"udieresis=udieresis.ss01",
-"v=v.ss01",
-"w=w.ss01",
-"x=x.ss01",
-"y=y.ss01",
-"C_h=C_h.ss01",
-"c_h=c_h.ss01",
-"c_k=c_k.ss01",
-"one=one.ss01",
-"two=two.ss01",
-"four=four.ss01",
-"five=five.ss01",
-"seven=seven.ss01",
-"eight=eight.ss01",
-"one.tf=one.tf.ss01",
-"comma=comma.ss01",
-"semicolon=semicolon.ss01"
-);
-},
-{
-name = Filter;
-value = "Transformations;Slant:-21.801409486351815;";
-},
-{
-name = italicAngle;
-value = "0";
-}
-);
-interpolationCustom = 3;
-instanceInterpolations = {
-"28D540C6-4B1C-4739-9DB3-C8E6E4DDF73A" = 0.7425;
-"484F8FD9-52EC-47CF-91D8-DA5450121283" = -1.2275;
-"ADE64B87-3839-4AD4-BD35-A3CFF79840FC" = 1.485;
-};
-name = "Italic Left";
-},
-{
-exports = 0;
-customParameters = (
-{
-name = "Rename Glyphs";
-value = (
-"C=C.ss01",
-"G=G.ss01",
-"K=K.ss01",
-"R=R.ss01",
-"S=S.ss01",
-"a=a.ss01",
-"adieresis=adieresis.ss01",
-"c=c.ss01",
-"d=d.ss01",
-"e=e.ss01",
-"f=f.ss01",
-"g=g.ss01",
-"h=h.ss01",
-"i=i.ss01",
-"j=j.ss01",
-"k=k.ss01",
-"l=l.ss01",
-"m=m.ss01",
-"n=n.ss01",
-"p=p.ss01",
-"q=q.ss01",
-"r=r.ss01",
-"s=s.ss01",
-"germandbls=germandbls.ss01",
-"longs=longs.ss01",
-"t=t.ss01",
-"u=u.ss01",
-"udieresis=udieresis.ss01",
-"v=v.ss01",
-"w=w.ss01",
-"x=x.ss01",
-"y=y.ss01",
-"C_h=C_h.ss01",
-"c_h=c_h.ss01",
-"c_k=c_k.ss01",
-"one=one.ss01",
-"two=two.ss01",
-"four=four.ss01",
-"five=five.ss01",
-"seven=seven.ss01",
-"eight=eight.ss01",
-"one.tf=one.tf.ss01",
-"comma=comma.ss01",
-"semicolon=semicolon.ss01"
-);
-},
-{
-name = Filter;
-value = "Transformations;Slant:21.801409486351815;";
-},
-{
-name = italicAngle;
-value = "-21.801409486351815";
-}
-);
-interpolationCustom = 3;
-instanceInterpolations = {
-"28D540C6-4B1C-4739-9DB3-C8E6E4DDF73A" = 0.7425;
-"484F8FD9-52EC-47CF-91D8-DA5450121283" = -1.2275;
-"ADE64B87-3839-4AD4-BD35-A3CFF79840FC" = 1.485;
-};
-name = "Italic Right";
-},
-{
 interpolationCustom = 300;
 interpolationWeight = 32;
 interpolationWidth = 200;
@@ -41297,18 +41302,19 @@ name = Regular;
 }
 );
 kerning = {
-"ADE64B87-3839-4AD4-BD35-A3CFF79840FC" = {
-"@MMK_L_T" = {
-"@MMK_R_c" = -30;
-};
-};
 "484F8FD9-52EC-47CF-91D8-DA5450121283" = {
 "@MMK_L_T" = {
 "@MMK_R_c" = -50;
 };
 };
+"ADE64B87-3839-4AD4-BD35-A3CFF79840FC" = {
+"@MMK_L_T" = {
+"@MMK_R_c" = -30;
+};
+};
 };
 manufacturer = "Jens Kutilek";
+manufacturerURL = "https://www.kutilek.de/";
 unitsPerEm = 1000;
 userData = {
 GSDimensionPlugin.Dimensions = {

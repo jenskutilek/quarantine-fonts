@@ -1,5 +1,5 @@
 {
-.appVersion = "1303";
+.appVersion = "1306";
 DisplayStrings = (
 "Handgloves/space",
 "/alef-ar.short/alefHamzaabove-ar/hamzaabove-ar",
@@ -18,34 +18,47 @@ customParameters = (
 {
 name = vendorID;
 value = JENS;
+},
+{
+name = license;
+value = "SIL Open Font License";
+},
+{
+name = licenseURL;
+value = "https://scripts.sil.org/OFL";
 }
 );
 date = "2007-04-10 19:37:00 +0000";
 designer = "Jens Kutilek";
-designerURL = "http://www.kutilek.de/";
+designerURL = "https://www.kutilek.de/";
 familyName = Schema;
 featurePrefixes = (
 {
 automatic = 1;
-code = "languagesystem DFLT dflt;\012languagesystem arab dflt;\012";
+code = "languagesystem DFLT dflt;\012\012languagesystem arab dflt;\012";
 name = Languagesystems;
 }
 );
 features = (
 {
 automatic = 1;
-code = "feature ccmp;\012feature subs;\012feature sups;\012feature numr;\012feature dnom;\012feature frac;\012feature pnum;\012feature tnum;\012feature onum;\012feature case;\012feature isol;\012feature init;\012feature medi;\012feature fina;\012feature rlig;\012feature hlig;\012feature salt;\012feature ss01;\012feature ss02;\012feature ss03;\012feature ss04;\012feature ss05;\012feature ss20;\012";
+code = "feature subs;\012feature sups;\012feature numr;\012feature dnom;\012feature frac;\012feature pnum;\012feature tnum;\012feature onum;\012feature case;\012feature isol;\012feature init;\012feature medi;\012feature fina;\012feature salt;\012feature ss01;\012feature ss02;\012feature ss03;\012feature ss04;\012feature ss05;\012feature ss20;\012feature sinf;\012";
 name = aalt;
 },
 {
 automatic = 1;
-code = "lookup ccmp_Other_1 {\012	@CombiningTopAccents = [acutecomb brevecomb caroncomb circumflexcomb commaturnedabovecomb dieresiscomb dotaccentcomb gravecomb hungarumlautcomb macroncomb ringcomb tildecomb];\012	@CombiningNonTopAccents = [cedillacomb ogonekcomb slashlongcomb slashshortcomb strokeshortcomb];\012	sub [i j]' @CombiningTopAccents by [idotless jdotless];\012	sub [i j]' @CombiningNonTopAccents @CombiningTopAccents by [idotless jdotless];\012} ccmp_Other_1;\012\012lookup ccmp_arab_1 {\012	script arab;\012	sub hamzaabove-ar damma-ar by hamzaaboveDamma-ar;\012	sub damma-ar hamzaabove-ar by hamzaaboveDamma-ar;\012	sub hamzaabove-ar dammatan-ar by hamzaaboveDammatan-ar;\012	sub dammatan-ar hamzaabove-ar by hamzaaboveDammatan-ar;\012	sub hamzaabove-ar fatha-ar by hamzaaboveFatha-ar;\012	sub fatha-ar hamzaabove-ar by hamzaaboveFatha-ar;\012	sub hamzaabove-ar fathatan-ar by hamzaaboveFathatan-ar;\012	sub fathatan-ar hamzaabove-ar by hamzaaboveFathatan-ar;\012	sub hamzaabove-ar sukun-ar by hamzaaboveSukun-ar;\012	sub sukun-ar hamzaabove-ar by hamzaaboveSukun-ar;\012	sub hamzabelow-ar kasra-ar by hamzabelowKasra-ar;\012	sub kasra-ar hamzabelow-ar by hamzabelowKasra-ar;\012	sub hamzabelow-ar kasratan-ar by hamzabelowKasratan-ar;\012	sub kasratan-ar hamzabelow-ar by hamzabelowKasratan-ar;\012	sub shadda-ar alefabove-ar by shaddaAlefabove-ar;\012	sub alefabove-ar shadda-ar by shaddaAlefabove-ar;\012	sub shadda-ar damma-ar by shaddaDamma-ar;\012	sub damma-ar shadda-ar by shaddaDamma-ar;\012	sub shadda-ar dammatan-ar by shaddaDammatan-ar;\012	sub dammatan-ar shadda-ar by shaddaDammatan-ar;\012	sub shadda-ar fatha-ar by shaddaFatha-ar;\012	sub fatha-ar shadda-ar by shaddaFatha-ar;\012	sub shadda-ar fathatan-ar by shaddaFathatan-ar;\012	sub fathatan-ar shadda-ar by shaddaFathatan-ar;\012	sub shadda-ar kasra-ar by shaddaKasra-ar;\012	sub kasra-ar shadda-ar by shaddaKasra-ar;\012	sub shadda-ar kasratan-ar by shaddaKasratan-ar;\012	sub kasratan-ar shadda-ar by shaddaKasratan-ar;\012} ccmp_arab_1;\012";
+code = "lookup ccmp_Other_1 {\012	@CombiningTopAccents = [acutecomb brevecomb caroncomb circumflexcomb commaturnedabovecomb dieresiscomb dotaccentcomb gravecomb hungarumlautcomb macroncomb ringcomb tildecomb];\012	@CombiningNonTopAccents = [cedillacomb ogonekcomb slashlongcomb slashshortcomb strokeshortcomb];\012	sub [i j]' @CombiningTopAccents by [idotless jdotless];\012	sub [i j]' @CombiningNonTopAccents @CombiningTopAccents by [idotless jdotless];\012} ccmp_Other_1;\012\012lookup ccmp_arab_1 {\012	sub hamzaabove-ar damma-ar by hamzaaboveDamma-ar;\012	sub damma-ar hamzaabove-ar by hamzaaboveDamma-ar;\012	sub hamzaabove-ar dammatan-ar by hamzaaboveDammatan-ar;\012	sub dammatan-ar hamzaabove-ar by hamzaaboveDammatan-ar;\012	sub hamzaabove-ar fatha-ar by hamzaaboveFatha-ar;\012	sub fatha-ar hamzaabove-ar by hamzaaboveFatha-ar;\012	sub hamzaabove-ar fathatan-ar by hamzaaboveFathatan-ar;\012	sub fathatan-ar hamzaabove-ar by hamzaaboveFathatan-ar;\012	sub hamzaabove-ar sukun-ar by hamzaaboveSukun-ar;\012	sub sukun-ar hamzaabove-ar by hamzaaboveSukun-ar;\012	sub hamzabelow-ar kasra-ar by hamzabelowKasra-ar;\012	sub kasra-ar hamzabelow-ar by hamzabelowKasra-ar;\012	sub hamzabelow-ar kasratan-ar by hamzabelowKasratan-ar;\012	sub kasratan-ar hamzabelow-ar by hamzabelowKasratan-ar;\012	sub shadda-ar alefabove-ar by shaddaAlefabove-ar;\012	sub alefabove-ar shadda-ar by shaddaAlefabove-ar;\012	sub shadda-ar damma-ar by shaddaDamma-ar;\012	sub damma-ar shadda-ar by shaddaDamma-ar;\012	sub shadda-ar dammatan-ar by shaddaDammatan-ar;\012	sub dammatan-ar shadda-ar by shaddaDammatan-ar;\012	sub shadda-ar fatha-ar by shaddaFatha-ar;\012	sub fatha-ar shadda-ar by shaddaFatha-ar;\012	sub shadda-ar fathatan-ar by shaddaFathatan-ar;\012	sub fathatan-ar shadda-ar by shaddaFathatan-ar;\012	sub shadda-ar kasra-ar by shaddaKasra-ar;\012	sub kasra-ar shadda-ar by shaddaKasra-ar;\012	sub shadda-ar kasratan-ar by shaddaKasratan-ar;\012	sub kasratan-ar shadda-ar by shaddaKasratan-ar;\012} ccmp_arab_1;\012\012script arab;\012lookup ccmp_arab_1;\012";
 name = ccmp;
 },
 {
 automatic = 1;
 code = "sub zero by zeroinferior;\012sub one by oneinferior;\012sub two by twoinferior;\012sub three by threeinferior;\012sub four by fourinferior;\012sub five by fiveinferior;\012sub six by sixinferior;\012sub seven by seveninferior;\012sub eight by eightinferior;\012sub nine by nineinferior;\012";
 name = subs;
+},
+{
+automatic = 1;
+code = "sub zero by zeroinferior;\012sub one by oneinferior;\012sub two by twoinferior;\012sub three by threeinferior;\012sub four by fourinferior;\012sub five by fiveinferior;\012sub six by sixinferior;\012sub seven by seveninferior;\012sub eight by eightinferior;\012sub nine by nineinferior;\012";
+name = sinf;
 },
 {
 automatic = 1;
@@ -84,7 +97,7 @@ name = onum;
 },
 {
 automatic = 1;
-code = "sub bullet by bullet.case;\012sub bracketleft by bracketleft.case;\012sub bracketright by bracketright.case;\012sub parenleft by parenleft.case;\012sub parenright by parenright.case;\012sub one by one.lf;\012sub one.tosf by one.lf;\012";
+code = "sub bullet by bullet.case;\012sub parenleft by parenleft.case;\012sub parenright by parenright.case;\012sub bracketleft by bracketleft.case;\012sub bracketright by bracketright.case;\012sub one by one.lf;\012sub one.tosf by one.lf;\012";
 name = case;
 },
 {
@@ -109,22 +122,22 @@ name = fina;
 },
 {
 automatic = 1;
-code = "lookupflag IgnoreMarks RightToLeft;\012	sub lam-ar.init alef-ar.fina by lam_alef-ar;\012	sub lam-ar.medi alef-ar.fina by lam_alef-ar.fina;\012	sub lam-ar.init alefHamzaabove-ar.fina by lam_alefHamzaabove-ar;\012	sub lam-ar.medi alefHamzaabove-ar.fina by lam_alefHamzaabove-ar.fina;\012	sub lam-ar.init alefHamzabelow-ar.fina by lam_alefHamzabelow-ar;\012	sub lam-ar.medi alefHamzabelow-ar.fina by lam_alefHamzabelow-ar.fina;\012	sub lam-ar.init alefMadda-ar.fina by lam_alefMadda-ar;\012	sub lam-ar.medi alefMadda-ar.fina by lam_alefMadda-ar.fina;\012	sub lam-ar.init alefWasla-ar.fina by lam_alefWasla-ar;\012	sub lam-ar.medi alefWasla-ar.fina by lam_alefWasla-ar.fina;\012";
+code = "lookup rlig_arabic_0 {\012	lookupflag IgnoreMarks RightToLeft;\012	sub lam-ar.init alef-ar.fina by lam_alef-ar;\012	sub lam-ar.medi alef-ar.fina by lam_alef-ar.fina;\012	sub lam-ar.init alefHamzaabove-ar.fina by lam_alefHamzaabove-ar;\012	sub lam-ar.medi alefHamzaabove-ar.fina by lam_alefHamzaabove-ar.fina;\012	sub lam-ar.init alefHamzabelow-ar.fina by lam_alefHamzabelow-ar;\012	sub lam-ar.medi alefHamzabelow-ar.fina by lam_alefHamzabelow-ar.fina;\012	sub lam-ar.init alefMadda-ar.fina by lam_alefMadda-ar;\012	sub lam-ar.medi alefMadda-ar.fina by lam_alefMadda-ar.fina;\012	sub lam-ar.init alefWasla-ar.fina by lam_alefWasla-ar;\012	sub lam-ar.medi alefWasla-ar.fina by lam_alefWasla-ar.fina;\012} rlig_arabic_0;\012\012script arab;\012lookup rlig_arabic_0;\012";
 name = rlig;
 },
 {
 automatic = 1;
-code = "sub longs t by longs_t;\012sub longs longs by longs_longs;\012";
+code = "sub longs longs by longs_longs;\012sub longs t by longs_t;\012";
 name = hlig;
 },
 {
 automatic = 1;
-code = "sub C J by C_J;\012sub longs t by longs_t;\012sub longs longs by longs_longs;\012";
+code = "lookupflag IgnoreMarks;\012sub C J by C_J;\012sub longs longs by longs_longs;\012sub longs t by longs_t;\012";
 name = dlig;
 },
 {
 automatic = 1;
-code = "sub f i by fi;\012sub f l by fl;\012";
+code = "lookupflag IgnoreMarks;\012sub f i by fi;\012sub f l by fl;\012";
 name = liga;
 },
 {
@@ -37854,6 +37867,7 @@ A = -80;
 };
 };
 manufacturer = "Jens Kutilek";
+manufacturerURL = "https://www.kutilek.de/";
 unitsPerEm = 1000;
 userData = {
 UFOFormat = 2;

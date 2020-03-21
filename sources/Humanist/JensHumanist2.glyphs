@@ -1,13 +1,22 @@
 {
-.appVersion = "1303";
+.appVersion = "1306";
 customParameters = (
 {
 name = vendorID;
 value = JENS;
+},
+{
+name = license;
+value = "SIL Open Font License";
+},
+{
+name = licenseURL;
+value = "https://scripts.sil.org/OFL";
 }
 );
 date = "2013-10-06 19:15:10 +0000";
 designer = "Jens Kutilek";
+designerURL = "https://www.kutilek.de/";
 disablesAutomaticAlignment = 1;
 disablesNiceNames = 1;
 familyName = "Jens Humanist 2";
@@ -5846,6 +5855,8 @@ instanceInterpolations = {
 name = Book;
 }
 );
+manufacturer = "Jens Kutilek";
+manufacturerURL = "https://www.kutilek.de/";
 unitsPerEm = 200;
 userData = {
 UFO.lib = {

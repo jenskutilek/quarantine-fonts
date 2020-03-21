@@ -1,5 +1,5 @@
 {
-.appVersion = "1303";
+.appVersion = "1306";
 DisplayStrings = (
 "Tomo/space Friedrich/space Kutílek\01222./space 02./space 2018\01253/space cm\0123795/space g",
 Tomo,
@@ -10,55 +10,99 @@ customParameters = (
 {
 name = vendorID;
 value = JENS;
+},
+{
+name = license;
+value = "SIL Open Font License";
+},
+{
+name = licenseURL;
+value = "https://scripts.sil.org/OFL";
 }
 );
 date = "2009-10-08 18:11:00 +0000";
 designer = "Jens Kutilek";
+designerURL = "https://www.kutilek.de/";
 disablesAutomaticAlignment = 1;
 disablesNiceNames = 1;
 familyName = "Jenswriter Two";
 featurePrefixes = (
 {
-code = "languagesystem DFLT dflt; languagesystem latn MOL; languagesystem latn ROM; languagesystem latn dflt; ";
+automatic = 1;
+code = "languagesystem DFLT dflt;\012\012languagesystem latn dflt;\012languagesystem latn ROM;\012languagesystem latn MOL;\012";
 name = Languagesystems;
-},
-{
-code = "@salt_source = [\012# 16 glyph(s)\012a f j r y agrave aacute acircumflex adieresis yacute amacron ij jcircumflex ycircumflex uni0237 ygrave\012];\012\012@salt_target = [\012# 16 glyph(s)\012a.ss01 f.ss01 j.ss01 r.ss01 y.ss01 agrave.ss01 aacute.ss01 acircumflex.ss01 adieresis.ss01 yacute.ss01 amacron.ss01 ij.ss01 jcircumflex.ss01 ycircumflex.ss01 uni0237.ss01 ygrave.ss01\012];\012\012@ss01_source = [\012# 16 glyph(s)\012a f j r y agrave aacute acircumflex adieresis yacute amacron ij jcircumflex ycircumflex uni0237 ygrave\012];\012\012@ss01_target = [\012# 16 glyph(s)\012a.ss01 f.ss01 j.ss01 r.ss01 y.ss01 agrave.ss01 aacute.ss01 acircumflex.ss01 adieresis.ss01 yacute.ss01 amacron.ss01 ij.ss01 jcircumflex.ss01 ycircumflex.ss01 uni0237.ss01 ygrave.ss01\012];\012\012@ss02_source = [\012# 2 glyph(s)\012one seven\012];\012\012@ss02_target = [\012# 2 glyph(s)\012one.ss02 seven.ss02\012];\012\012@ss03_source = [\012# 1 glyph(s)\012g\012];\012\012@ss03_target = [\012# 1 glyph(s)\012g.ss03\012];\012\012@uni_Lu = [\012# 38 glyph(s)\012A B C D E F G H I J K L M N O P Q R S T U V W X Y Z Aacute Adieresis Aring AE Eacute Iacute Ntilde Oacute Odieresis Oslash Uacute Udieresis\012];\012\012# Dancing Shoes 0.1.3 OpenType feature code generator by Yanone, Copyright 2009\012# Code generated for AFDKO version 2.5\012# Default, Default\012# Latin, Moldavian\012# Latin, Romanian\012# Latin, Default";
-name = Prefix;
 }
 );
 features = (
 {
-code = "# Access All Alternates\012\012  feature locl; \012  feature sups; \012  feature salt; \012  feature ss01; \012  feature ss02; \012  feature ss03; \012  feature cpsp; ";
+automatic = 1;
+code = "feature locl;\012feature subs;\012feature sinf;\012feature sups;\012feature numr;\012feature dnom;\012feature frac;\012feature salt;\012feature ss01;\012feature ss02;\012feature ss03;\012";
 name = aalt;
 },
 {
-code = "# Localized Forms\012\012\012  # Latin\012  script latn;\012    # Moldavian\012    language MOL;\012      sub scedilla by scommaaccent; \012      sub tcommaaccent by uni021B; \012    # Romanian\012    language ROM;\012      sub scedilla by scommaaccent; \012      sub tcommaaccent by uni021B; ";
+automatic = 1;
+code = "lookup ccmp_Other_1 {\012	@CombiningTopAccents = [acutecomb caroncomb circumflexcomb commaturnedabovecomb dieresiscomb dotaccentcomb gravecomb macroncomb tildecomb];\012	@CombiningNonTopAccents = [cedillacomb];\012	sub [i j]' @CombiningTopAccents by [idotless jdotless];\012	sub [i j]' @CombiningNonTopAccents @CombiningTopAccents by [idotless jdotless];\012} ccmp_Other_1;\012";
+name = ccmp;
+},
+{
+automatic = 1;
+code = "lookup locl_latn_0 {\012	script latn;\012	language ROM;\012	language MOL;\012	sub scedilla by scommaaccent;\012	sub tcedilla by tcommaaccent;\012} locl_latn_0;\012";
 name = locl;
 },
 {
-code = "# Superscript\012\012  sub one by onesuperior; \012  sub two by twosuperior; \012  sub three by threesuperior; ";
+automatic = 1;
+code = "sub zero by zeroinferior;\012sub one by oneinferior;\012sub two by twoinferior;\012sub three by threeinferior;\012sub four by fourinferior;\012sub five by fiveinferior;\012sub six by sixinferior;\012sub seven by seveninferior;\012sub eight by eightinferior;\012sub nine by nineinferior;\012";
+name = subs;
+},
+{
+automatic = 1;
+code = "sub zero by zeroinferior;\012sub one by oneinferior;\012sub two by twoinferior;\012sub three by threeinferior;\012sub four by fourinferior;\012sub five by fiveinferior;\012sub six by sixinferior;\012sub seven by seveninferior;\012sub eight by eightinferior;\012sub nine by nineinferior;\012";
+name = sinf;
+},
+{
+automatic = 1;
+code = "sub zero by zerosuperior;\012sub one by onesuperior;\012sub two by twosuperior;\012sub three by threesuperior;\012sub four by foursuperior;\012sub five by fivesuperior;\012sub six by sixsuperior;\012sub seven by sevensuperior;\012sub eight by eightsuperior;\012sub nine by ninesuperior;\012";
 name = sups;
 },
 {
-code = "# Stylistic Alternates\012\012  sub @salt_source by @salt_target; ";
+automatic = 1;
+code = "sub zero by zero.numr;\012sub one by one.numr;\012sub two by two.numr;\012sub three by three.numr;\012sub four by four.numr;\012sub five by five.numr;\012sub six by six.numr;\012sub seven by seven.numr;\012sub eight by eight.numr;\012sub nine by nine.numr;\012";
+name = numr;
+},
+{
+automatic = 1;
+code = "sub zero by zero.dnom;\012sub one by one.dnom;\012sub two by two.dnom;\012sub three by three.dnom;\012sub four by four.dnom;\012sub five by five.dnom;\012sub six by six.dnom;\012sub seven by seven.dnom;\012sub eight by eight.dnom;\012sub nine by nine.dnom;\012";
+name = dnom;
+},
+{
+automatic = 1;
+code = "lookup FRAC {\012	sub slash by fraction;\012} FRAC;\012lookup UP {\012	sub [zero one two three four five six seven eight nine] by [zero.numr one.numr two.numr three.numr four.numr five.numr six.numr seven.numr eight.numr nine.numr];\012} UP;\012lookup DOWN {\012	sub fraction [zero.numr one.numr two.numr three.numr four.numr five.numr six.numr seven.numr eight.numr nine.numr]' by [zero.dnom one.dnom two.dnom three.dnom four.dnom five.dnom six.dnom seven.dnom eight.dnom nine.dnom];\012	sub [zero.dnom one.dnom two.dnom three.dnom four.dnom five.dnom six.dnom seven.dnom eight.dnom nine.dnom] [zero.numr one.numr two.numr three.numr four.numr five.numr six.numr seven.numr eight.numr nine.numr]' by [zero.dnom one.dnom two.dnom three.dnom four.dnom five.dnom six.dnom seven.dnom eight.dnom nine.dnom];\012} DOWN;\012";
+name = frac;
+},
+{
+automatic = 1;
+code = "lookupflag IgnoreMarks;\012sub f i by fi;\012sub f l by fl;\012";
+name = liga;
+},
+{
+automatic = 1;
+code = "sub a by a.ss01;\012sub aacute by aacute.ss01;\012sub acircumflex by acircumflex.ss01;\012sub adieresis by adieresis.ss01;\012sub agrave by agrave.ss01;\012sub amacron by amacron.ss01;\012sub atilde by atilde.ss01;\012sub f by f.ss01;\012sub ij by ij.ss01;\012sub j by j.ss01;\012sub jdotless by jdotless.ss01;\012sub jcircumflex by jcircumflex.ss01;\012sub r by r.ss01;\012sub y by y.ss01;\012sub yacute by yacute.ss01;\012sub ycircumflex by ycircumflex.ss01;\012sub ydieresis by ydieresis.ss01;\012sub ygrave by ygrave.ss01;\012";
 name = salt;
 },
 {
-code = "# Stylistic Set 1\012\012  sub @ss01_source by @ss01_target; ";
+automatic = 1;
+code = "sub a by a.ss01;\012sub aacute by aacute.ss01;\012sub acircumflex by acircumflex.ss01;\012sub adieresis by adieresis.ss01;\012sub agrave by agrave.ss01;\012sub amacron by amacron.ss01;\012sub atilde by atilde.ss01;\012sub f by f.ss01;\012sub ij by ij.ss01;\012sub j by j.ss01;\012sub jdotless by jdotless.ss01;\012sub jcircumflex by jcircumflex.ss01;\012sub r by r.ss01;\012sub y by y.ss01;\012sub yacute by yacute.ss01;\012sub ycircumflex by ycircumflex.ss01;\012sub ydieresis by ydieresis.ss01;\012sub ygrave by ygrave.ss01;\012";
 name = ss01;
 },
 {
-code = "# Stylistic Set 2\012\012  sub @ss02_source by @ss02_target; ";
+automatic = 1;
+code = "sub one by one.ss02;\012sub seven by seven.ss02;\012";
 name = ss02;
 },
 {
-code = "# Stylistic Set 3\012\012  sub @ss03_source by @ss03_target; ";
+automatic = 1;
+code = "sub g by g.ss03;\012";
 name = ss03;
-},
-{
-code = "# Capital Spacing\012\012  pos @uni_Lu <5 0 10 0>; ";
-name = cpsp;
 }
 );
 fontMaster = (
@@ -33544,6 +33588,7 @@ t = -10;
 };
 };
 manufacturer = "Jens Kutilek";
+manufacturerURL = "https://www.kutilek.de/";
 unitsPerEm = 1000;
 userData = {
 UFO.lib = {
