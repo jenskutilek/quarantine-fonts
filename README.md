@@ -13,7 +13,8 @@ wildly. Some can’t even be used to write a complete test word, as you can see
 below. Nevertheless I decided to release this collection of unfinished fonts as
 open source in the hope that it may be useful to somebody. I’m thinking mainly
 type designers, as this really is raw material that needs to be refined and
-developed before it can be useful for type users.
+developed before it can be useful for type users. Source files in
+[Glyphs](https://glyphsapp.com) format are included.
 
 If you are looking for the more advanced typefaces among this bunch, check
 these out:
@@ -36,5 +37,7 @@ Some other fonts that I designed are not part of this collection:
 [Sudo](https://www.kutilek.de/sudo-font/),
 [FF Hertz](https://www.kutilek.de/ff-hertz/),
 [FF Uberhand](https://www.kutilek.de/ff-uberhand/).
+
+—Jens Kutilek, 21 March 2020
 
 <img src="images/overview.png">
