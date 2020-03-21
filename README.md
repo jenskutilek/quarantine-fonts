@@ -9,13 +9,14 @@ to worst.
 I have been starting out in type design in 2007. Since then, a lot of stuff
 accumulated in my font folders. To start designing a typeface is easy.
 Finishing it is the hard part. The state of these font projects differs
-wildly. Some can’t even write a complete test word, as you can see below.
-Nevertheless I decided to release this collection of unfinished fonts as open
-source fonts in the hope that it may be useful to somebody. I’m thinking mainly
+wildly. Some can’t even be used to write a complete test word, as you can see
+below. Nevertheless I decided to release this collection of unfinished fonts as
+open source in the hope that it may be useful to somebody. I’m thinking mainly
 type designers, as this really is raw material that needs to be refined and
 developed before it can be useful for type users.
 
-If you are searching for the more advanced typefaces among these, check out:
+If you are looking for the more advanced typefaces among this bunch, check
+these out:
 
 * Conta: Another coding font. Monospaced and proportional variants, italics.
 * Grotesk 812: A condensed grotesque typeface.
