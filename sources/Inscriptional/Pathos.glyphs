@@ -1,5 +1,5 @@
 {
-.appVersion = "1303";
+.appVersion = "1306";
 copyright = "Copyright 2008 by Jens Kutilek";
 customParameters = (
 {
@@ -9,15 +9,9 @@ value = JENS;
 );
 date = "2008-04-22 14:48:00 +0000";
 designer = "Jens Kutilek";
+designerURL = "https://www.kutilek.de/";
 disablesAutomaticAlignment = 1;
 familyName = Pathos;
-features = (
-{
-code = "   enum pos @_LAT_T Adieresis -40;\012   enum pos @_LAT_V Adieresis -30;\012   enum pos @_LAT_W Adieresis -30;\012   enum pos @_LAT_Y Adieresis -30;\012   subtable;\012   enum pos U @_period -30;\012   enum pos Adieresis @_LAT_T -40;\012   enum pos Adieresis @_LAT_V -30;\012   enum pos Adieresis @_LAT_W -30;\012   enum pos Adieresis @_LAT_Y -30;\012   subtable;\012   pos @_LAT_O_LEFT @_HYPHEN 20;\012   pos @_LAT_O_LEFT @_period -40;\012   pos @_LAT_O_LEFT @_LAT_A -20;\012   pos @_LAT_O_LEFT @_LAT_J -20;\012   pos @_LAT_O_LEFT @_LAT_X -25;\012   pos @_LAT_A @_HYPHEN -40;\012   pos @_LAT_A @_LAT_A -20;\012   pos @_LAT_A @_LAT_M -10;\012   pos @_LAT_A @_LAT_O_RIGHT -20;\012   pos @_LAT_A @_LAT_T -80;\012   pos @_LAT_A @_LAT_V -60;\012   pos @_LAT_A @_LAT_W -70;\012   pos @_LAT_A @_LAT_X -5;\012   pos @_LAT_A @_LAT_Y -85;\012   pos @_LAT_B @_LAT_A -15;\012   pos @_LAT_B @_LAT_V -30;\012   pos @_LAT_F @_period -50;\012   pos @_LAT_F @_LAT_A -20;\012   pos @_LAT_F @_LAT_J -60;\012   pos @_LAT_G_LEFT @_period -10;\012   pos @_LAT_G_LEFT @_LAT_A -10;\012   pos @_LAT_K @_HYPHEN -80;\012   pos @_LAT_K @_LAT_O_RIGHT -40;\012   pos @_LAT_L @_HYPHEN -80;\012   pos @_LAT_L @_period 20;\012   pos @_LAT_L @_LAT_O_RIGHT -40;\012   pos @_LAT_L @_LAT_T -60;\012   pos @_LAT_L @_LAT_U_RIGHT -20;\012   pos @_LAT_L @_LAT_V -80;\012   pos @_LAT_L @_LAT_W -80;\012   pos @_LAT_L @_LAT_Y -80;\012   pos @_LAT_M @_HYPHEN 20;\012   pos @_LAT_M @_LAT_A -10;\012   pos @_LAT_M @_LAT_T -20;\012   pos @_LAT_P @_HYPHEN -20;\012   pos @_LAT_P @_LAT_A -65;\012   pos @_LAT_P @_LAT_O_RIGHT -10;\012   pos @_LAT_P @_LAT_V -30;\012   pos @_LAT_S @_HYPHEN -30;\012   pos @_LAT_S @_LAT_T -30;\012   pos @_LAT_T @_HYPHEN -50;\012   pos @_LAT_T @_period -60;\012   pos @_LAT_T @_LAT_A -80;\012   pos @_LAT_T @_LAT_J -50;\012   pos @_LAT_T @_LAT_M -20;\012   pos @_LAT_V @_HYPHEN -30;\012   pos @_LAT_V @_LAT_A -60;\012   pos @_LAT_W @_LAT_A -70;\012   pos @_LAT_X @_HYPHEN -60;\012   pos @_LAT_X @_LAT_A -5;\012   pos @_LAT_X @_LAT_O_RIGHT -25;\012   pos @_LAT_Y @_HYPHEN -50;\012   pos @_LAT_Y @_LAT_A -85;\012   pos @_LAT_Z @_HYPHEN -60;\012   pos @_HYPHEN @_LAT_A -40;\012   pos @_HYPHEN @_LAT_J -160;\012   pos @_HYPHEN @_LAT_M 20;\012   pos @_HYPHEN @_LAT_O_RIGHT 20;\012   pos @_HYPHEN @_LAT_S -30;\012   pos @_HYPHEN @_LAT_T -50;\012   pos @_HYPHEN @_LAT_V -30;\012   pos @_HYPHEN @_LAT_X -60;\012   pos @_HYPHEN @_LAT_Y -50;\012   pos @_HYPHEN @_LAT_Z -60;\012   pos @_period @_LAT_O_RIGHT -40;\012   pos @_period @_LAT_T -60;\012   pos @_period @_LAT_U_RIGHT -30;";
-disabled = 1;
-name = kern;
-}
-);
 fontMaster = (
 {
 alignmentZones = (
@@ -2506,68 +2500,6 @@ width = 1138;
 leftKerningGroup = S;
 rightKerningGroup = S;
 unicode = 00DF;
-},
-{
-color = 6;
-glyphname = fi;
-lastChange = "2020-03-16 16:25:19 +0000";
-layers = (
-{
-components = (
-{
-name = F;
-},
-{
-name = I;
-transform = "{1, 0, 0, 1, 530, 0}";
-}
-);
-layerId = master01;
-userData = {
-com.typemytype.robofont.mark = (
-0.6,
-0.986,
-1,
-1
-);
-};
-width = 820;
-}
-);
-leftKerningGroup = I;
-rightKerningGroup = I;
-unicode = FB01;
-},
-{
-color = 6;
-glyphname = fl;
-lastChange = "2020-03-16 16:25:19 +0000";
-layers = (
-{
-components = (
-{
-name = F;
-},
-{
-name = L;
-transform = "{1, 0, 0, 1, 530, 0}";
-}
-);
-layerId = master01;
-userData = {
-com.typemytype.robofont.mark = (
-0.6,
-0.986,
-1,
-1
-);
-};
-width = 1070;
-}
-);
-leftKerningGroup = E;
-rightKerningGroup = L;
-unicode = FB02;
 },
 {
 color = 6;
@@ -6505,8 +6437,9 @@ width = 937;
 unicode = 0026;
 },
 {
+export = 0;
 glyphname = ampersand.001;
-lastChange = "2020-03-16 16:27:01 +0000";
+lastChange = "2020-03-21 16:17:30 +0000";
 layers = (
 {
 layerId = master01;
@@ -6575,37 +6508,6 @@ nodes = (
 "857 367 LINE",
 "857 437 LINE"
 );
-},
-{
-closed = 0;
-nodes = (
-"1821 418 LINE",
-"1476 418 LINE",
-"1559 410 OFFCURVE",
-"1652 348 OFFCURVE",
-"1652 251 CURVE SMOOTH",
-"1652 105 OFFCURVE",
-"1493 20 OFFCURVE",
-"1344 20 CURVE SMOOTH",
-"1235 20 OFFCURVE",
-"1131 78 OFFCURVE",
-"1131 194 CURVE SMOOTH",
-"1131 384 OFFCURVE",
-"1421 413 OFFCURVE",
-"1421 570 CURVE SMOOTH",
-"1421 627 OFFCURVE",
-"1374 677 OFFCURVE",
-"1303 677 CURVE SMOOTH",
-"1232 677 OFFCURVE",
-"1175 622 OFFCURVE",
-"1175 538 CURVE SMOOTH",
-"1175 270 OFFCURVE",
-"1541 20 OFFCURVE",
-"1863 20 CURVE SMOOTH",
-"1890 20 OFFCURVE",
-"1922 22 OFFCURVE",
-"1945 26 CURVE"
-);
 }
 );
 userData = {
@@ -6621,8 +6523,9 @@ width = 966;
 );
 },
 {
+export = 0;
 glyphname = ampersand.002;
-lastChange = "2020-03-16 16:27:01 +0000";
+lastChange = "2020-03-21 16:17:30 +0000";
 layers = (
 {
 layerId = master01;
@@ -7407,6 +7310,7 @@ seven = -15;
 };
 };
 manufacturer = "Jens Kutilek";
+manufacturerURL = "https://www.kutilek.de/";
 unitsPerEm = 1000;
 userData = {
 UFO.lib = {
