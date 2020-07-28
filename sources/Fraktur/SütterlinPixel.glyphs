@@ -1,5 +1,5 @@
 {
-.appVersion = "1306";
+.appVersion = "1342";
 copyright = "Copyright 2011 by Jens Kutilek";
 customParameters = (
 {
@@ -13,13 +13,16 @@ value = "SIL Open Font License";
 {
 name = licenseURL;
 value = "https://scripts.sil.org/OFL";
+},
+{
+name = "Disable Last Change";
+value = 1;
 }
 );
 date = "2011-11-19 10:33:00 +0000";
 designer = "Jens Kutilek";
 designerURL = "https://www.kutilek.de/";
 disablesAutomaticAlignment = 1;
-disablesNiceNames = 1;
 familyName = "Sütterlin Pixel";
 featurePrefixes = (
 {
@@ -640,6 +643,7 @@ width = 704;
 unicode = 0061;
 },
 {
+color = 6;
 glyphname = adieresis;
 layers = (
 {
@@ -2536,7 +2540,7 @@ width = 320;
 unicode = 0069;
 },
 {
-glyphname = dotlessi;
+glyphname = idotless;
 layers = (
 {
 layerId = master01;
@@ -4015,6 +4019,7 @@ width = 576;
 unicode = 006F;
 },
 {
+color = 6;
 glyphname = odieresis;
 layers = (
 {
@@ -5835,6 +5840,7 @@ width = 448;
 unicode = 0074;
 },
 {
+color = 6;
 glyphname = u;
 layers = (
 {
@@ -5861,6 +5867,7 @@ width = 640;
 unicode = 0075;
 },
 {
+color = 6;
 glyphname = udieresis;
 layers = (
 {
@@ -7297,6 +7304,7 @@ width = 512;
 unicode = 007A;
 },
 {
+color = 6;
 glyphname = fi;
 layers = (
 {
@@ -7324,6 +7332,7 @@ width = 704;
 unicode = FB01;
 },
 {
+color = 6;
 glyphname = fl;
 layers = (
 {
@@ -7849,7 +7858,8 @@ width = 320;
 unicode = 002D;
 },
 {
-glyphname = uni00AD;
+color = 6;
+glyphname = softhyphen;
 layers = (
 {
 components = (
@@ -8265,6 +8275,7 @@ width = 384;
 unicode = 201C;
 },
 {
+color = 6;
 glyphname = quotedblright;
 layers = (
 {
@@ -8337,6 +8348,7 @@ width = 256;
 unicode = 2018;
 },
 {
+color = 6;
 glyphname = quoteright;
 layers = (
 {
@@ -8476,7 +8488,7 @@ width = 256;
 unicode = 0020;
 },
 {
-glyphname = uni00A0;
+glyphname = nbspace;
 layers = (
 {
 layerId = master01;
@@ -8784,7 +8796,6 @@ layerId = master01;
 width = 0;
 }
 );
-unicode = 0000;
 },
 {
 glyphname = equal;
