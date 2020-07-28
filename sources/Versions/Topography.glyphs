@@ -1,9 +1,8 @@
 {
-.appVersion = "1306";
+.appVersion = "1342";
 DisplayStrings = (
 a,
-Topographye,
-o
+Topographye
 );
 customParameters = (
 {
@@ -34,6 +33,10 @@ value = "SIL Open Font License";
 {
 name = licenseURL;
 value = "https://scripts.sil.org/OFL";
+},
+{
+name = note;
+value = "Italic angle: 90 - degrees(atan2(3, 1))";
 }
 );
 date = "2018-07-12 08:58:22 +0000";
@@ -41118,11 +41121,11 @@ name = "Italic Upright";
 customParameters = (
 {
 name = Filter;
-value = "Transformations;Slant:-21.801409486351815;";
+value = "Transformations;Slant:-18.43494882292201;";
 },
 {
 name = italicAngle;
-value = "-21.801409486351815";
+value = "-18.43494882292201";
 }
 );
 interpolationCustom = 300;
@@ -41135,11 +41138,11 @@ name = "Roman Left";
 customParameters = (
 {
 name = Filter;
-value = "Transformations;Slant:21.801409486351815;";
+value = "Transformations;Slant:18.43494882292201;";
 },
 {
 name = italicAngle;
-value = "-21.801409486351815";
+value = 18.434948822922;
 }
 );
 interpolationCustom = 300;
@@ -41201,11 +41204,11 @@ value = (
 },
 {
 name = Filter;
-value = "Transformations;Slant:-21.801409486351815;";
+value = "Transformations;Slant:-18.43494882292201;";
 },
 {
 name = italicAngle;
-value = 21.801409486351815;
+value = "-18.43494882292201";
 }
 );
 interpolationCustom = 300;
@@ -41267,11 +41270,11 @@ value = (
 },
 {
 name = Filter;
-value = "Transformations;Slant:21.801409486351815;";
+value = "Transformations;Slant:18.43494882292201;";
 },
 {
 name = italicAngle;
-value = "-21.801409486351815";
+value = 18.434948822922;
 }
 );
 interpolationCustom = 300;
