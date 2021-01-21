@@ -1,5 +1,5 @@
 {
-.appVersion = "1348";
+.appVersion = "1352";
 DisplayStrings = (
 "Life/space ain/quoteright t/space all/space bad",
 "/quotedblbase/endash/quotedblbase WH/quotedblleft/quotedblbase/endash/quotedblleft/endash/quotedblright",
@@ -14,7 +14,7 @@ code = "A Aacute Acircumflex Adieresis Agrave B C Cacute Cdotaccent D E Eacute E
 name = Uppercase;
 }
 );
-copyright = "Copyright (c) 2011 by Jens Kutilek. All rights reserved.";
+copyright = "Copyright (c) 2011-2021 by Jens Kutilek. All rights reserved.";
 customParameters = (
 {
 name = vendorID;
@@ -27,9 +27,13 @@ value = "SIL Open Font License";
 {
 name = licenseURL;
 value = "https://scripts.sil.org/OFL";
+},
+{
+name = "Disable Last Change";
+value = 1;
 }
 );
-date = "2011-08-12 16:20:00 +0000";
+date = "2021-01-21 08:35:00 +0000";
 designer = "Jens Kutilek";
 designerURL = "https://www.kutilek.de/";
 familyName = "Grotesk 812";
@@ -115,7 +119,6 @@ xHeight = 504;
 glyphs = (
 {
 glyphname = A;
-lastChange = "2020-10-29 22:24:06 +0000";
 layers = (
 {
 anchors = (
@@ -175,7 +178,6 @@ unicode = 0041;
 {
 color = 6;
 glyphname = Aacute;
-lastChange = "2020-10-29 22:14:10 +0000";
 layers = (
 {
 components = (
@@ -205,7 +207,6 @@ com.typemytype.robofont.mark = (
 {
 color = 6;
 glyphname = Acircumflex;
-lastChange = "2020-10-29 22:14:10 +0000";
 layers = (
 {
 components = (
@@ -227,7 +228,6 @@ unicode = 00C2;
 {
 color = 6;
 glyphname = Adieresis;
-lastChange = "2020-10-29 22:14:10 +0000";
 layers = (
 {
 components = (
@@ -257,7 +257,6 @@ com.typemytype.robofont.mark = (
 {
 color = 6;
 glyphname = Agrave;
-lastChange = "2020-10-29 22:14:10 +0000";
 layers = (
 {
 components = (
@@ -279,7 +278,6 @@ unicode = 00C0;
 {
 color = 6;
 glyphname = Amacron;
-lastChange = "2020-10-29 22:47:09 +0000";
 layers = (
 {
 components = (
@@ -301,7 +299,6 @@ unicode = 0100;
 {
 color = 7;
 glyphname = B;
-lastChange = "2020-10-29 22:14:48 +0000";
 layers = (
 {
 components = (
@@ -396,7 +393,6 @@ unicode = 0042;
 {
 color = 7;
 glyphname = C;
-lastChange = "2020-10-29 22:14:19 +0000";
 layers = (
 {
 anchors = (
@@ -472,7 +468,6 @@ com.typemytype.robofont.mark = (
 {
 color = 6;
 glyphname = Cacute;
-lastChange = "2020-10-29 22:14:19 +0000";
 layers = (
 {
 components = (
@@ -495,7 +490,6 @@ unicode = 0106;
 {
 color = 6;
 glyphname = Cdotaccent;
-lastChange = "2020-10-29 22:14:19 +0000";
 layers = (
 {
 components = (
@@ -518,7 +512,6 @@ unicode = 010A;
 {
 color = 7;
 glyphname = D;
-lastChange = "2020-10-29 22:15:16 +0000";
 layers = (
 {
 anchors = (
@@ -595,7 +588,6 @@ com.typemytype.robofont.mark = (
 },
 {
 glyphname = E;
-lastChange = "2020-10-29 22:14:28 +0000";
 layers = (
 {
 anchors = (
@@ -654,7 +646,6 @@ unicode = 0045;
 {
 color = 6;
 glyphname = Eacute;
-lastChange = "2020-10-29 22:14:28 +0000";
 layers = (
 {
 components = (
@@ -677,7 +668,6 @@ unicode = 00C9;
 {
 color = 6;
 glyphname = Ecircumflex;
-lastChange = "2020-10-29 22:14:28 +0000";
 layers = (
 {
 components = (
@@ -700,7 +690,6 @@ unicode = 00CA;
 {
 color = 6;
 glyphname = Edieresis;
-lastChange = "2020-10-29 22:14:28 +0000";
 layers = (
 {
 components = (
@@ -723,7 +712,6 @@ unicode = 00CB;
 {
 color = 6;
 glyphname = Edotaccent;
-lastChange = "2020-10-29 22:14:28 +0000";
 layers = (
 {
 components = (
@@ -746,7 +734,6 @@ unicode = 0116;
 {
 color = 6;
 glyphname = Egrave;
-lastChange = "2020-10-29 22:14:28 +0000";
 layers = (
 {
 components = (
@@ -769,7 +756,6 @@ unicode = 00C8;
 {
 color = 6;
 glyphname = Emacron;
-lastChange = "2020-10-29 22:47:09 +0000";
 layers = (
 {
 components = (
@@ -789,7 +775,6 @@ unicode = 0112;
 },
 {
 glyphname = F;
-lastChange = "2020-10-29 22:15:03 +0000";
 layers = (
 {
 anchors = (
@@ -839,7 +824,6 @@ unicode = 0046;
 {
 color = 7;
 glyphname = G;
-lastChange = "2020-10-29 22:15:10 +0000";
 layers = (
 {
 anchors = (
@@ -924,7 +908,6 @@ com.typemytype.robofont.mark = (
 {
 color = 6;
 glyphname = Gdotaccent;
-lastChange = "2020-10-29 22:15:10 +0000";
 layers = (
 {
 components = (
@@ -946,7 +929,6 @@ unicode = 0120;
 },
 {
 glyphname = H;
-lastChange = "2020-10-29 22:15:23 +0000";
 layers = (
 {
 anchors = (
@@ -994,7 +976,6 @@ unicode = 0048;
 },
 {
 glyphname = I;
-lastChange = "2020-10-29 22:15:23 +0000";
 layers = (
 {
 anchors = (
@@ -1027,7 +1008,6 @@ unicode = 0049;
 {
 color = 6;
 glyphname = Iacute;
-lastChange = "2020-10-29 22:15:23 +0000";
 layers = (
 {
 components = (
@@ -1050,7 +1030,6 @@ unicode = 00CD;
 {
 color = 6;
 glyphname = Icircumflex;
-lastChange = "2020-10-29 22:15:23 +0000";
 layers = (
 {
 components = (
@@ -1073,7 +1052,6 @@ unicode = 00CE;
 {
 color = 6;
 glyphname = Idieresis;
-lastChange = "2020-10-29 22:15:23 +0000";
 layers = (
 {
 components = (
@@ -1096,7 +1074,6 @@ unicode = 00CF;
 {
 color = 6;
 glyphname = Idotaccent;
-lastChange = "2020-10-29 22:15:23 +0000";
 layers = (
 {
 components = (
@@ -1118,7 +1095,6 @@ unicode = 0130;
 {
 color = 6;
 glyphname = Igrave;
-lastChange = "2020-10-29 22:15:23 +0000";
 layers = (
 {
 components = (
@@ -1141,7 +1117,6 @@ unicode = 00CC;
 {
 color = 6;
 glyphname = Imacron;
-lastChange = "2020-10-29 22:47:35 +0000";
 layers = (
 {
 components = (
@@ -1162,7 +1137,6 @@ unicode = 012A;
 {
 color = 7;
 glyphname = J;
-lastChange = "2020-10-29 22:24:43 +0000";
 layers = (
 {
 anchors = (
@@ -1228,7 +1202,6 @@ com.typemytype.robofont.mark = (
 },
 {
 glyphname = K;
-lastChange = "2020-10-29 22:14:57 +0000";
 layers = (
 {
 anchors = (
@@ -1277,7 +1250,6 @@ unicode = 004B;
 },
 {
 glyphname = L;
-lastChange = "2020-10-29 22:48:10 +0000";
 layers = (
 {
 anchors = (
@@ -1318,7 +1290,6 @@ unicode = 004C;
 {
 color = 6;
 glyphname = Lacute;
-lastChange = "2020-10-29 22:48:10 +0000";
 layers = (
 {
 components = (
@@ -1340,7 +1311,6 @@ unicode = 0139;
 },
 {
 glyphname = M;
-lastChange = "2020-10-29 22:14:48 +0000";
 layers = (
 {
 anchors = (
@@ -1427,7 +1397,6 @@ y = 0;
 },
 {
 glyphname = N;
-lastChange = "2020-10-29 22:14:48 +0000";
 layers = (
 {
 anchors = (
@@ -1477,7 +1446,6 @@ unicode = 004E;
 {
 color = 6;
 glyphname = Nacute;
-lastChange = "2020-10-29 22:14:48 +0000";
 layers = (
 {
 components = (
@@ -1498,7 +1466,6 @@ unicode = 0143;
 {
 color = 7;
 glyphname = O;
-lastChange = "2018-04-11 18:10:11 +0000";
 layers = (
 {
 anchors = (
@@ -1562,7 +1529,6 @@ com.typemytype.robofont.mark = (
 {
 color = 6;
 glyphname = Oacute;
-lastChange = "2020-10-28 14:25:34 +0000";
 layers = (
 {
 components = (
@@ -1583,7 +1549,6 @@ unicode = 00D3;
 {
 color = 6;
 glyphname = Ocircumflex;
-lastChange = "2020-10-29 22:34:08 +0000";
 layers = (
 {
 components = (
@@ -1606,7 +1571,6 @@ unicode = 00D4;
 {
 color = 6;
 glyphname = Odieresis;
-lastChange = "2018-04-11 18:13:44 +0000";
 layers = (
 {
 components = (
@@ -1640,7 +1604,6 @@ com.typemytype.robofont.mark = (
 {
 color = 6;
 glyphname = Ograve;
-lastChange = "2020-10-29 21:58:56 +0000";
 layers = (
 {
 components = (
@@ -1661,7 +1624,6 @@ unicode = 00D2;
 {
 color = 6;
 glyphname = Omacron;
-lastChange = "2020-10-29 22:47:09 +0000";
 layers = (
 {
 components = (
@@ -1682,7 +1644,6 @@ unicode = 014C;
 {
 color = 7;
 glyphname = P;
-lastChange = "2020-10-29 22:14:48 +0000";
 layers = (
 {
 anchors = (
@@ -1758,7 +1719,6 @@ com.typemytype.robofont.mark = (
 {
 color = 7;
 glyphname = Q;
-lastChange = "2018-04-11 18:11:36 +0000";
 layers = (
 {
 anchors = (
@@ -1832,7 +1792,6 @@ com.typemytype.robofont.mark = (
 {
 color = 7;
 glyphname = R;
-lastChange = "2020-10-29 22:14:48 +0000";
 layers = (
 {
 anchors = (
@@ -1917,7 +1876,6 @@ com.typemytype.robofont.mark = (
 {
 color = 6;
 glyphname = Racute;
-lastChange = "2020-10-29 22:14:48 +0000";
 layers = (
 {
 components = (
@@ -1938,7 +1896,6 @@ unicode = 0154;
 {
 color = 7;
 glyphname = S;
-lastChange = "2020-10-29 22:49:04 +0000";
 layers = (
 {
 anchors = (
@@ -2027,7 +1984,6 @@ com.typemytype.robofont.mark = (
 {
 color = 6;
 glyphname = Sacute;
-lastChange = "2020-10-29 22:49:23 +0000";
 layers = (
 {
 components = (
@@ -2047,7 +2003,6 @@ unicode = 015A;
 },
 {
 glyphname = T;
-lastChange = "2020-10-29 22:29:32 +0000";
 layers = (
 {
 anchors = (
@@ -2082,7 +2037,6 @@ unicode = 0054;
 {
 color = 7;
 glyphname = U;
-lastChange = "2020-10-29 22:15:40 +0000";
 layers = (
 {
 anchors = (
@@ -2140,7 +2094,6 @@ com.typemytype.robofont.mark = (
 {
 color = 6;
 glyphname = Uacute;
-lastChange = "2020-10-29 22:15:40 +0000";
 layers = (
 {
 components = (
@@ -2163,7 +2116,6 @@ unicode = 00DA;
 {
 color = 6;
 glyphname = Ucircumflex;
-lastChange = "2020-10-29 22:15:40 +0000";
 layers = (
 {
 components = (
@@ -2186,7 +2138,6 @@ unicode = 00DB;
 {
 color = 6;
 glyphname = Udieresis;
-lastChange = "2020-10-29 22:15:40 +0000";
 layers = (
 {
 components = (
@@ -2217,7 +2168,6 @@ com.typemytype.robofont.mark = (
 {
 color = 6;
 glyphname = Ugrave;
-lastChange = "2020-10-29 22:15:40 +0000";
 layers = (
 {
 components = (
@@ -2240,7 +2190,6 @@ unicode = 00D9;
 {
 color = 6;
 glyphname = Umacron;
-lastChange = "2020-10-29 22:47:09 +0000";
 layers = (
 {
 components = (
@@ -2260,7 +2209,6 @@ unicode = 016A;
 },
 {
 glyphname = V;
-lastChange = "2020-10-29 22:29:44 +0000";
 layers = (
 {
 anchors = (
@@ -2316,7 +2264,6 @@ unicode = 0056;
 },
 {
 glyphname = W;
-lastChange = "2020-10-29 22:29:54 +0000";
 layers = (
 {
 anchors = (
@@ -2425,7 +2372,6 @@ unicode = 0057;
 {
 color = 6;
 glyphname = Wacute;
-lastChange = "2020-10-29 22:15:53 +0000";
 layers = (
 {
 components = (
@@ -2448,7 +2394,6 @@ unicode = 1E82;
 {
 color = 6;
 glyphname = Wcircumflex;
-lastChange = "2020-10-29 22:15:53 +0000";
 layers = (
 {
 components = (
@@ -2471,7 +2416,6 @@ unicode = 0174;
 {
 color = 6;
 glyphname = Wdieresis;
-lastChange = "2020-10-29 22:15:53 +0000";
 layers = (
 {
 components = (
@@ -2494,7 +2438,6 @@ unicode = 1E84;
 {
 color = 6;
 glyphname = Wgrave;
-lastChange = "2020-10-29 22:15:53 +0000";
 layers = (
 {
 components = (
@@ -2516,7 +2459,6 @@ unicode = 1E80;
 },
 {
 glyphname = X;
-lastChange = "2020-10-29 22:26:03 +0000";
 layers = (
 {
 anchors = (
@@ -2580,7 +2522,6 @@ unicode = 0058;
 },
 {
 glyphname = Y;
-lastChange = "2020-10-29 22:49:51 +0000";
 layers = (
 {
 anchors = (
@@ -2629,7 +2570,6 @@ unicode = 0059;
 {
 color = 6;
 glyphname = Yacute;
-lastChange = "2020-10-29 22:49:55 +0000";
 layers = (
 {
 components = (
@@ -2652,7 +2592,6 @@ unicode = 00DD;
 {
 color = 6;
 glyphname = Ycircumflex;
-lastChange = "2020-10-29 22:49:55 +0000";
 layers = (
 {
 components = (
@@ -2675,7 +2614,6 @@ unicode = 0176;
 {
 color = 6;
 glyphname = Ydieresis;
-lastChange = "2020-10-29 22:49:55 +0000";
 layers = (
 {
 components = (
@@ -2698,7 +2636,6 @@ unicode = 0178;
 {
 color = 6;
 glyphname = Ygrave;
-lastChange = "2020-10-29 22:49:55 +0000";
 layers = (
 {
 components = (
@@ -2720,7 +2657,6 @@ unicode = 1EF2;
 },
 {
 glyphname = Z;
-lastChange = "2020-10-29 22:26:23 +0000";
 layers = (
 {
 anchors = (
@@ -2771,7 +2707,6 @@ unicode = 005A;
 {
 color = 6;
 glyphname = Zacute;
-lastChange = "2020-10-29 22:07:29 +0000";
 layers = (
 {
 components = (
@@ -2792,7 +2727,6 @@ unicode = 0179;
 {
 color = 6;
 glyphname = Zdotaccent;
-lastChange = "2020-10-29 22:09:05 +0000";
 layers = (
 {
 components = (
@@ -2812,7 +2746,6 @@ unicode = 017B;
 },
 {
 glyphname = C.loclDEU;
-lastChange = "2020-10-29 22:31:52 +0000";
 layers = (
 {
 components = (
@@ -2863,7 +2796,6 @@ leftMetricsKey = C;
 },
 {
 glyphname = A.ss01;
-lastChange = "2018-04-11 18:22:20 +0000";
 layers = (
 {
 anchors = (
@@ -2924,7 +2856,6 @@ com.typemytype.robofont.mark = (
 {
 color = 6;
 glyphname = Aacute.ss01;
-lastChange = "2018-04-11 18:25:33 +0000";
 layers = (
 {
 components = (
@@ -2952,7 +2883,6 @@ com.typemytype.robofont.mark = (
 {
 color = 6;
 glyphname = Acircumflex.ss01;
-lastChange = "2020-10-29 22:06:38 +0000";
 layers = (
 {
 components = (
@@ -2972,7 +2902,6 @@ width = 252;
 {
 color = 6;
 glyphname = Adieresis.ss01;
-lastChange = "2018-04-11 18:22:22 +0000";
 layers = (
 {
 components = (
@@ -3000,7 +2929,6 @@ com.typemytype.robofont.mark = (
 {
 color = 6;
 glyphname = Agrave.ss01;
-lastChange = "2020-10-29 22:06:41 +0000";
 layers = (
 {
 components = (
@@ -3020,7 +2948,6 @@ width = 252;
 {
 color = 7;
 glyphname = M.ss01;
-lastChange = "2018-04-11 18:22:30 +0000";
 layers = (
 {
 anchors = (
@@ -3094,7 +3021,6 @@ com.typemytype.robofont.mark = (
 {
 color = 7;
 glyphname = W.ss01;
-lastChange = "2018-04-11 18:22:33 +0000";
 layers = (
 {
 anchors = (
@@ -3168,7 +3094,6 @@ com.typemytype.robofont.mark = (
 {
 color = 6;
 glyphname = Wacute.ss01;
-lastChange = "2020-10-29 21:53:50 +0000";
 layers = (
 {
 components = (
@@ -3188,7 +3113,6 @@ width = 380;
 {
 color = 6;
 glyphname = Wcircumflex.ss01;
-lastChange = "2020-10-29 22:06:02 +0000";
 layers = (
 {
 components = (
@@ -3208,7 +3132,6 @@ width = 380;
 {
 color = 6;
 glyphname = Wdieresis.ss01;
-lastChange = "2020-10-29 21:53:50 +0000";
 layers = (
 {
 components = (
@@ -3228,7 +3151,6 @@ width = 380;
 {
 color = 6;
 glyphname = Wgrave.ss01;
-lastChange = "2020-10-29 22:06:02 +0000";
 layers = (
 {
 components = (
@@ -3248,7 +3170,6 @@ width = 380;
 {
 color = 7;
 glyphname = Y.ss01;
-lastChange = "2020-10-29 22:33:18 +0000";
 layers = (
 {
 anchors = (
@@ -3314,7 +3235,6 @@ com.typemytype.robofont.mark = (
 {
 color = 6;
 glyphname = Yacute.ss01;
-lastChange = "2020-10-29 21:45:03 +0000";
 layers = (
 {
 components = (
@@ -3335,7 +3255,6 @@ rightKerningGroup = Yss01;
 {
 color = 6;
 glyphname = Ycircumflex.ss01;
-lastChange = "2020-10-29 22:32:57 +0000";
 layers = (
 {
 components = (
@@ -3356,7 +3275,6 @@ rightKerningGroup = Yss01;
 {
 color = 6;
 glyphname = Ydieresis.ss01;
-lastChange = "2020-10-29 22:32:57 +0000";
 layers = (
 {
 components = (
@@ -3377,7 +3295,6 @@ rightKerningGroup = Yss01;
 {
 color = 6;
 glyphname = Ygrave.ss01;
-lastChange = "2020-10-29 22:32:57 +0000";
 layers = (
 {
 components = (
@@ -3397,7 +3314,6 @@ rightKerningGroup = Yss01;
 },
 {
 glyphname = N.ss03;
-lastChange = "2018-04-11 18:14:22 +0000";
 layers = (
 {
 anchors = (
@@ -3446,7 +3362,6 @@ rightMetricsKey = H;
 },
 {
 glyphname = V.ss03;
-lastChange = "2020-10-29 22:36:24 +0000";
 layers = (
 {
 anchors = (
@@ -3489,7 +3404,6 @@ rightMetricsKey = V;
 color = 0;
 export = 0;
 glyphname = Aring;
-lastChange = "2020-10-28 14:24:45 +0000";
 layers = (
 {
 layerId = "2FCEC9C4-D6B8-40A6-8432-FB04296B16B9";
@@ -3502,7 +3416,6 @@ unicode = 00C5;
 color = 0;
 export = 0;
 glyphname = Atilde;
-lastChange = "2020-10-28 14:24:45 +0000";
 layers = (
 {
 layerId = "2FCEC9C4-D6B8-40A6-8432-FB04296B16B9";
@@ -3515,7 +3428,6 @@ unicode = 00C3;
 color = 0;
 export = 0;
 glyphname = AE;
-lastChange = "2020-10-28 14:24:45 +0000";
 layers = (
 {
 layerId = "2FCEC9C4-D6B8-40A6-8432-FB04296B16B9";
@@ -3528,7 +3440,6 @@ unicode = 00C6;
 color = 0;
 export = 0;
 glyphname = Ccedilla;
-lastChange = "2020-10-28 14:24:45 +0000";
 layers = (
 {
 layerId = "2FCEC9C4-D6B8-40A6-8432-FB04296B16B9";
@@ -3541,7 +3452,6 @@ unicode = 00C7;
 color = 0;
 export = 0;
 glyphname = Eth;
-lastChange = "2020-10-28 14:24:45 +0000";
 layers = (
 {
 layerId = "2FCEC9C4-D6B8-40A6-8432-FB04296B16B9";
@@ -3554,7 +3464,6 @@ unicode = 00D0;
 color = 0;
 export = 0;
 glyphname = Ntilde;
-lastChange = "2020-10-28 14:24:45 +0000";
 layers = (
 {
 layerId = "2FCEC9C4-D6B8-40A6-8432-FB04296B16B9";
@@ -3567,7 +3476,6 @@ unicode = 00D1;
 color = 0;
 export = 0;
 glyphname = Oslash;
-lastChange = "2020-10-28 14:24:45 +0000";
 layers = (
 {
 layerId = "2FCEC9C4-D6B8-40A6-8432-FB04296B16B9";
@@ -3580,7 +3488,6 @@ unicode = 00D8;
 color = 0;
 export = 0;
 glyphname = Otilde;
-lastChange = "2020-10-28 14:24:45 +0000";
 layers = (
 {
 layerId = "2FCEC9C4-D6B8-40A6-8432-FB04296B16B9";
@@ -3593,7 +3500,6 @@ unicode = 00D5;
 color = 0;
 export = 0;
 glyphname = OE;
-lastChange = "2020-10-28 14:24:45 +0000";
 layers = (
 {
 layerId = "2FCEC9C4-D6B8-40A6-8432-FB04296B16B9";
@@ -3606,7 +3512,6 @@ unicode = 0152;
 color = 0;
 export = 0;
 glyphname = Thorn;
-lastChange = "2020-10-28 14:24:45 +0000";
 layers = (
 {
 layerId = "2FCEC9C4-D6B8-40A6-8432-FB04296B16B9";
@@ -3618,7 +3523,6 @@ unicode = 00DE;
 {
 export = 0;
 glyphname = W.001;
-lastChange = "2020-10-29 22:35:14 +0000";
 layers = (
 {
 layerId = "2FCEC9C4-D6B8-40A6-8432-FB04296B16B9";
@@ -3674,7 +3578,6 @@ rightMetricsKey = W;
 color = 0;
 export = 0;
 glyphname = X.ss01;
-lastChange = "2018-04-11 18:03:35 +0000";
 layers = (
 {
 layerId = "2FCEC9C4-D6B8-40A6-8432-FB04296B16B9";
@@ -3693,7 +3596,6 @@ com.typemytype.robofont.mark = (
 {
 color = 7;
 glyphname = a;
-lastChange = "2020-10-30 09:10:56 +0000";
 layers = (
 {
 anchors = (
@@ -3760,7 +3662,6 @@ com.typemytype.robofont.mark = (
 {
 color = 6;
 glyphname = aacute;
-lastChange = "2020-10-30 09:10:56 +0000";
 layers = (
 {
 components = (
@@ -3790,7 +3691,6 @@ com.typemytype.robofont.mark = (
 {
 color = 6;
 glyphname = acircumflex;
-lastChange = "2020-10-30 09:10:56 +0000";
 layers = (
 {
 components = (
@@ -3812,7 +3712,6 @@ unicode = 00E2;
 {
 color = 6;
 glyphname = adieresis;
-lastChange = "2020-10-30 09:11:52 +0000";
 layers = (
 {
 components = (
@@ -3842,7 +3741,6 @@ com.typemytype.robofont.mark = (
 {
 color = 6;
 glyphname = agrave;
-lastChange = "2020-10-30 09:10:56 +0000";
 layers = (
 {
 components = (
@@ -3864,7 +3762,6 @@ unicode = 00E0;
 {
 color = 6;
 glyphname = amacron;
-lastChange = "2020-10-30 09:10:56 +0000";
 layers = (
 {
 components = (
@@ -3886,7 +3783,6 @@ unicode = 0101;
 {
 color = 1;
 glyphname = ae;
-lastChange = "2020-10-30 09:10:22 +0000";
 layers = (
 {
 anchors = (
@@ -4011,7 +3907,6 @@ unicode = 00E6;
 {
 color = 6;
 glyphname = b;
-lastChange = "2020-10-29 22:37:50 +0000";
 layers = (
 {
 background = {
@@ -4071,7 +3966,6 @@ com.typemytype.robofont.mark = (
 {
 color = 7;
 glyphname = c;
-lastChange = "2020-10-29 22:37:45 +0000";
 layers = (
 {
 anchors = (
@@ -4146,7 +4040,6 @@ com.typemytype.robofont.mark = (
 {
 color = 6;
 glyphname = cacute;
-lastChange = "2020-10-29 22:37:45 +0000";
 layers = (
 {
 components = (
@@ -4168,7 +4061,6 @@ unicode = 0107;
 {
 color = 6;
 glyphname = cdotaccent;
-lastChange = "2020-10-29 22:37:45 +0000";
 layers = (
 {
 components = (
@@ -4191,7 +4083,6 @@ unicode = 010B;
 {
 color = 6;
 glyphname = d;
-lastChange = "2020-10-29 22:37:21 +0000";
 layers = (
 {
 background = {
@@ -4250,7 +4141,6 @@ com.typemytype.robofont.mark = (
 {
 color = 7;
 glyphname = e;
-lastChange = "2020-10-29 22:37:21 +0000";
 layers = (
 {
 anchors = (
@@ -4334,7 +4224,6 @@ com.typemytype.robofont.mark = (
 {
 color = 6;
 glyphname = eacute;
-lastChange = "2020-10-29 22:37:21 +0000";
 layers = (
 {
 components = (
@@ -4356,7 +4245,6 @@ unicode = 00E9;
 {
 color = 6;
 glyphname = ecircumflex;
-lastChange = "2020-10-29 22:37:21 +0000";
 layers = (
 {
 components = (
@@ -4378,7 +4266,6 @@ unicode = 00EA;
 {
 color = 6;
 glyphname = edieresis;
-lastChange = "2020-10-30 09:12:14 +0000";
 layers = (
 {
 components = (
@@ -4400,7 +4287,6 @@ unicode = 00EB;
 {
 color = 6;
 glyphname = edotaccent;
-lastChange = "2020-10-29 22:37:21 +0000";
 layers = (
 {
 components = (
@@ -4423,7 +4309,6 @@ unicode = 0117;
 {
 color = 6;
 glyphname = egrave;
-lastChange = "2020-10-29 22:37:21 +0000";
 layers = (
 {
 components = (
@@ -4445,7 +4330,6 @@ unicode = 00E8;
 {
 color = 6;
 glyphname = emacron;
-lastChange = "2020-10-30 09:12:44 +0000";
 layers = (
 {
 components = (
@@ -4467,7 +4351,6 @@ unicode = 0113;
 {
 color = 7;
 glyphname = f;
-lastChange = "2020-10-30 09:13:19 +0000";
 layers = (
 {
 components = (
@@ -4524,7 +4407,6 @@ com.typemytype.robofont.mark = (
 {
 color = 7;
 glyphname = g;
-lastChange = "2020-10-29 22:38:01 +0000";
 layers = (
 {
 anchors = (
@@ -4590,7 +4472,6 @@ com.typemytype.robofont.mark = (
 {
 color = 6;
 glyphname = gdotaccent;
-lastChange = "2020-10-29 22:38:01 +0000";
 layers = (
 {
 components = (
@@ -4613,7 +4494,6 @@ unicode = 0121;
 {
 color = 7;
 glyphname = h;
-lastChange = "2020-10-30 09:13:49 +0000";
 layers = (
 {
 components = (
@@ -4660,7 +4540,6 @@ com.typemytype.robofont.mark = (
 {
 color = 6;
 glyphname = i;
-lastChange = "2020-10-30 09:14:30 +0000";
 layers = (
 {
 components = (
@@ -4681,7 +4560,6 @@ unicode = 0069;
 },
 {
 glyphname = idotless;
-lastChange = "2020-10-29 22:38:07 +0000";
 layers = (
 {
 anchors = (
@@ -4712,7 +4590,6 @@ unicode = 0131;
 {
 color = 7;
 glyphname = iacute;
-lastChange = "2020-10-30 09:15:02 +0000";
 layers = (
 {
 components = (
@@ -4743,7 +4620,6 @@ com.typemytype.robofont.mark = (
 {
 color = 6;
 glyphname = icircumflex;
-lastChange = "2020-10-29 22:38:27 +0000";
 layers = (
 {
 components = (
@@ -4766,7 +4642,6 @@ unicode = 00EE;
 {
 color = 6;
 glyphname = idieresis;
-lastChange = "2020-10-30 09:15:27 +0000";
 layers = (
 {
 components = (
@@ -4789,7 +4664,6 @@ unicode = 00EF;
 {
 color = 6;
 glyphname = idotaccent;
-lastChange = "2020-10-29 22:38:14 +0000";
 layers = (
 {
 components = (
@@ -4810,7 +4684,6 @@ rightKerningGroup = i;
 {
 color = 6;
 glyphname = igrave;
-lastChange = "2020-10-29 22:38:27 +0000";
 layers = (
 {
 components = (
@@ -4833,7 +4706,6 @@ unicode = 00EC;
 {
 color = 6;
 glyphname = imacron;
-lastChange = "2020-10-30 09:15:51 +0000";
 layers = (
 {
 components = (
@@ -4856,7 +4728,6 @@ unicode = 012B;
 {
 color = 6;
 glyphname = j;
-lastChange = "2020-10-30 09:16:18 +0000";
 layers = (
 {
 components = (
@@ -4884,7 +4755,6 @@ com.typemytype.robofont.mark = (
 {
 color = 7;
 glyphname = jdotless;
-lastChange = "2018-04-11 18:31:55 +0000";
 layers = (
 {
 anchors = (
@@ -4935,7 +4805,6 @@ com.typemytype.robofont.mark = (
 },
 {
 glyphname = k;
-lastChange = "2020-03-15 11:04:32 +0000";
 layers = (
 {
 layerId = "2FCEC9C4-D6B8-40A6-8432-FB04296B16B9";
@@ -4976,7 +4845,6 @@ unicode = 006B;
 },
 {
 glyphname = l;
-lastChange = "2020-03-15 11:04:32 +0000";
 layers = (
 {
 anchors = (
@@ -5006,7 +4874,6 @@ unicode = 006C;
 {
 color = 6;
 glyphname = lacute;
-lastChange = "2020-10-29 22:07:29 +0000";
 layers = (
 {
 components = (
@@ -5027,7 +4894,6 @@ unicode = 013A;
 {
 color = 7;
 glyphname = m;
-lastChange = "2020-10-30 09:27:05 +0000";
 layers = (
 {
 anchors = (
@@ -5152,7 +5018,6 @@ com.typemytype.robofont.mark = (
 {
 color = 7;
 glyphname = n;
-lastChange = "2020-10-29 22:38:39 +0000";
 layers = (
 {
 anchors = (
@@ -5206,7 +5071,6 @@ com.typemytype.robofont.mark = (
 {
 color = 6;
 glyphname = nacute;
-lastChange = "2020-10-29 22:38:43 +0000";
 layers = (
 {
 components = (
@@ -5228,7 +5092,6 @@ unicode = 0144;
 {
 color = 7;
 glyphname = o;
-lastChange = "2020-10-30 09:08:01 +0000";
 layers = (
 {
 anchors = (
@@ -5294,7 +5157,6 @@ com.typemytype.robofont.mark = (
 {
 color = 6;
 glyphname = oacute;
-lastChange = "2020-10-29 22:37:37 +0000";
 layers = (
 {
 components = (
@@ -5316,7 +5178,6 @@ unicode = 00F3;
 {
 color = 6;
 glyphname = ocircumflex;
-lastChange = "2020-10-29 22:37:37 +0000";
 layers = (
 {
 components = (
@@ -5338,7 +5199,6 @@ unicode = 00F4;
 {
 color = 6;
 glyphname = odieresis;
-lastChange = "2020-10-30 09:17:10 +0000";
 layers = (
 {
 components = (
@@ -5368,7 +5228,6 @@ com.typemytype.robofont.mark = (
 {
 color = 6;
 glyphname = ograve;
-lastChange = "2020-10-29 22:37:37 +0000";
 layers = (
 {
 components = (
@@ -5390,7 +5249,6 @@ unicode = 00F2;
 {
 color = 6;
 glyphname = omacron;
-lastChange = "2020-10-30 09:17:24 +0000";
 layers = (
 {
 components = (
@@ -5412,7 +5270,6 @@ unicode = 014D;
 {
 color = 1;
 glyphname = oe;
-lastChange = "2020-10-29 22:37:25 +0000";
 layers = (
 {
 components = (
@@ -5438,7 +5295,6 @@ unicode = 0153;
 {
 color = 7;
 glyphname = p;
-lastChange = "2020-10-29 22:37:37 +0000";
 layers = (
 {
 anchors = (
@@ -5497,7 +5353,6 @@ com.typemytype.robofont.mark = (
 {
 color = 6;
 glyphname = q;
-lastChange = "2020-10-29 22:37:21 +0000";
 layers = (
 {
 background = {
@@ -5562,7 +5417,6 @@ com.typemytype.robofont.mark = (
 },
 {
 glyphname = r;
-lastChange = "2020-10-29 22:39:28 +0000";
 layers = (
 {
 anchors = (
@@ -5614,7 +5468,6 @@ unicode = 0072;
 {
 color = 6;
 glyphname = racute;
-lastChange = "2020-10-29 22:39:28 +0000";
 layers = (
 {
 components = (
@@ -5637,7 +5490,6 @@ unicode = 0155;
 {
 color = 7;
 glyphname = s;
-lastChange = "2020-10-30 09:18:03 +0000";
 layers = (
 {
 anchors = (
@@ -5744,7 +5596,6 @@ com.typemytype.robofont.mark = (
 {
 color = 6;
 glyphname = sacute;
-lastChange = "2020-10-29 22:40:08 +0000";
 layers = (
 {
 components = (
@@ -5766,7 +5617,6 @@ unicode = 015B;
 {
 color = 7;
 glyphname = germandbls;
-lastChange = "2020-10-30 09:18:12 +0000";
 layers = (
 {
 background = {
@@ -5925,7 +5775,6 @@ com.typemytype.robofont.mark = (
 {
 color = 7;
 glyphname = longs;
-lastChange = "2020-10-30 09:18:40 +0000";
 layers = (
 {
 components = (
@@ -5982,7 +5831,6 @@ com.typemytype.robofont.mark = (
 {
 color = 7;
 glyphname = t;
-lastChange = "2020-10-30 09:19:25 +0000";
 layers = (
 {
 components = (
@@ -6039,7 +5887,6 @@ com.typemytype.robofont.mark = (
 {
 color = 6;
 glyphname = u;
-lastChange = "2018-04-11 18:53:18 +0000";
 layers = (
 {
 anchors = (
@@ -6071,7 +5918,6 @@ com.typemytype.robofont.mark = (
 {
 color = 6;
 glyphname = uacute;
-lastChange = "2020-10-28 14:25:34 +0000";
 layers = (
 {
 components = (
@@ -6091,7 +5937,6 @@ unicode = 00FA;
 {
 color = 6;
 glyphname = ucircumflex;
-lastChange = "2020-10-29 22:03:08 +0000";
 layers = (
 {
 components = (
@@ -6111,7 +5956,6 @@ unicode = 00FB;
 {
 color = 6;
 glyphname = udieresis;
-lastChange = "2018-04-11 18:02:09 +0000";
 layers = (
 {
 components = (
@@ -6139,7 +5983,6 @@ com.typemytype.robofont.mark = (
 {
 color = 6;
 glyphname = ugrave;
-lastChange = "2020-10-29 21:56:29 +0000";
 layers = (
 {
 components = (
@@ -6159,7 +6002,6 @@ unicode = 00F9;
 {
 color = 6;
 glyphname = umacron;
-lastChange = "2020-10-29 22:47:09 +0000";
 layers = (
 {
 components = (
@@ -6178,7 +6020,6 @@ unicode = 016B;
 },
 {
 glyphname = v;
-lastChange = "2020-10-29 22:39:23 +0000";
 layers = (
 {
 anchors = (
@@ -6229,7 +6070,6 @@ unicode = 0076;
 {
 color = 1;
 glyphname = w;
-lastChange = "2020-10-29 22:39:19 +0000";
 layers = (
 {
 anchors = (
@@ -6391,7 +6231,6 @@ unicode = 0077;
 {
 color = 6;
 glyphname = wacute;
-lastChange = "2020-10-29 22:39:19 +0000";
 layers = (
 {
 components = (
@@ -6414,7 +6253,6 @@ unicode = 1E83;
 {
 color = 6;
 glyphname = wcircumflex;
-lastChange = "2020-10-29 22:39:19 +0000";
 layers = (
 {
 components = (
@@ -6437,7 +6275,6 @@ unicode = 0175;
 {
 color = 6;
 glyphname = wdieresis;
-lastChange = "2020-10-29 22:39:19 +0000";
 layers = (
 {
 components = (
@@ -6460,7 +6297,6 @@ unicode = 1E85;
 {
 color = 6;
 glyphname = wgrave;
-lastChange = "2020-10-29 22:39:19 +0000";
 layers = (
 {
 components = (
@@ -6483,7 +6319,6 @@ unicode = 1E81;
 {
 color = 1;
 glyphname = x;
-lastChange = "2020-10-28 14:28:52 +0000";
 layers = (
 {
 anchors = (
@@ -6532,7 +6367,6 @@ unicode = 0078;
 {
 color = 7;
 glyphname = y;
-lastChange = "2020-10-29 22:38:59 +0000";
 layers = (
 {
 anchors = (
@@ -6596,7 +6430,6 @@ com.typemytype.robofont.mark = (
 {
 color = 6;
 glyphname = yacute;
-lastChange = "2020-10-29 22:38:59 +0000";
 layers = (
 {
 components = (
@@ -6618,7 +6451,6 @@ unicode = 00FD;
 {
 color = 6;
 glyphname = ycircumflex;
-lastChange = "2020-10-29 22:38:59 +0000";
 layers = (
 {
 components = (
@@ -6640,7 +6472,6 @@ unicode = 0177;
 {
 color = 6;
 glyphname = ydieresis;
-lastChange = "2020-10-29 22:38:59 +0000";
 layers = (
 {
 components = (
@@ -6662,7 +6493,6 @@ unicode = 00FF;
 {
 color = 6;
 glyphname = ygrave;
-lastChange = "2020-10-29 22:38:59 +0000";
 layers = (
 {
 components = (
@@ -6683,7 +6513,6 @@ unicode = 1EF3;
 },
 {
 glyphname = z;
-lastChange = "2020-10-30 09:19:57 +0000";
 layers = (
 {
 anchors = (
@@ -6734,7 +6563,6 @@ unicode = 007A;
 {
 color = 6;
 glyphname = zacute;
-lastChange = "2020-10-29 22:38:50 +0000";
 layers = (
 {
 components = (
@@ -6756,7 +6584,6 @@ unicode = 017A;
 {
 color = 6;
 glyphname = zdotaccent;
-lastChange = "2020-10-29 22:38:50 +0000";
 layers = (
 {
 components = (
@@ -6779,7 +6606,6 @@ unicode = 017C;
 {
 color = 7;
 glyphname = w.ss01;
-lastChange = "2020-10-29 22:39:11 +0000";
 layers = (
 {
 anchors = (
@@ -6853,7 +6679,6 @@ com.typemytype.robofont.mark = (
 {
 color = 6;
 glyphname = wacute.ss01;
-lastChange = "2020-10-29 22:39:11 +0000";
 layers = (
 {
 components = (
@@ -6875,7 +6700,6 @@ rightKerningGroup = w01;
 {
 color = 6;
 glyphname = wcircumflex.ss01;
-lastChange = "2020-10-29 22:39:11 +0000";
 layers = (
 {
 components = (
@@ -6897,7 +6721,6 @@ rightKerningGroup = w01;
 {
 color = 6;
 glyphname = wdieresis.ss01;
-lastChange = "2020-10-29 22:39:11 +0000";
 layers = (
 {
 components = (
@@ -6919,7 +6742,6 @@ rightKerningGroup = w01;
 {
 color = 6;
 glyphname = wgrave.ss01;
-lastChange = "2020-10-29 22:39:11 +0000";
 layers = (
 {
 components = (
@@ -6942,7 +6764,6 @@ rightKerningGroup = w01;
 color = 0;
 export = 0;
 glyphname = aring;
-lastChange = "2020-10-28 14:24:45 +0000";
 layers = (
 {
 layerId = "2FCEC9C4-D6B8-40A6-8432-FB04296B16B9";
@@ -6955,7 +6776,6 @@ unicode = 00E5;
 color = 0;
 export = 0;
 glyphname = atilde;
-lastChange = "2020-10-28 14:24:45 +0000";
 layers = (
 {
 layerId = "2FCEC9C4-D6B8-40A6-8432-FB04296B16B9";
@@ -6968,7 +6788,6 @@ unicode = 00E3;
 color = 0;
 export = 0;
 glyphname = ccedilla;
-lastChange = "2020-10-28 14:24:45 +0000";
 layers = (
 {
 layerId = "2FCEC9C4-D6B8-40A6-8432-FB04296B16B9";
@@ -6981,7 +6800,6 @@ unicode = 00E7;
 color = 0;
 export = 0;
 glyphname = eth;
-lastChange = "2020-10-28 14:24:45 +0000";
 layers = (
 {
 layerId = "2FCEC9C4-D6B8-40A6-8432-FB04296B16B9";
@@ -6994,7 +6812,6 @@ unicode = 00F0;
 color = 0;
 export = 0;
 glyphname = ntilde;
-lastChange = "2020-10-28 14:24:45 +0000";
 layers = (
 {
 layerId = "2FCEC9C4-D6B8-40A6-8432-FB04296B16B9";
@@ -7007,7 +6824,6 @@ unicode = 00F1;
 color = 0;
 export = 0;
 glyphname = oslash;
-lastChange = "2020-10-28 14:24:45 +0000";
 layers = (
 {
 layerId = "2FCEC9C4-D6B8-40A6-8432-FB04296B16B9";
@@ -7020,7 +6836,6 @@ unicode = 00F8;
 color = 0;
 export = 0;
 glyphname = otilde;
-lastChange = "2020-10-28 14:24:45 +0000";
 layers = (
 {
 layerId = "2FCEC9C4-D6B8-40A6-8432-FB04296B16B9";
@@ -7033,7 +6848,6 @@ unicode = 00F5;
 color = 0;
 export = 0;
 glyphname = thorn;
-lastChange = "2020-10-28 14:24:45 +0000";
 layers = (
 {
 layerId = "2FCEC9C4-D6B8-40A6-8432-FB04296B16B9";
@@ -7045,7 +6859,6 @@ unicode = 00FE;
 {
 color = 7;
 glyphname = fi;
-lastChange = "2020-10-30 09:20:14 +0000";
 layers = (
 {
 components = (
@@ -7106,7 +6919,6 @@ com.typemytype.robofont.mark = (
 {
 color = 7;
 glyphname = fl;
-lastChange = "2020-10-30 09:20:20 +0000";
 layers = (
 {
 components = (
@@ -7167,7 +6979,6 @@ com.typemytype.robofont.mark = (
 {
 color = 7;
 glyphname = longs_t.liga;
-lastChange = "2020-10-30 09:20:26 +0000";
 layers = (
 {
 components = (
@@ -7250,7 +7061,6 @@ com.typemytype.robofont.mark = (
 {
 color = 7;
 glyphname = longs_i.liga;
-lastChange = "2020-10-30 09:20:32 +0000";
 layers = (
 {
 components = (
@@ -7311,7 +7121,6 @@ com.typemytype.robofont.mark = (
 color = 0;
 export = 0;
 glyphname = ordfeminine;
-lastChange = "2020-10-28 14:24:45 +0000";
 layers = (
 {
 components = (
@@ -7329,7 +7138,6 @@ unicode = 00AA;
 color = 0;
 export = 0;
 glyphname = ordmasculine;
-lastChange = "2020-10-28 14:24:45 +0000";
 layers = (
 {
 components = (
@@ -7346,7 +7154,6 @@ unicode = 00BA;
 {
 color = 7;
 glyphname = zero;
-lastChange = "2018-04-11 18:55:51 +0000";
 layers = (
 {
 components = (
@@ -7405,7 +7212,6 @@ com.typemytype.robofont.mark = (
 },
 {
 glyphname = one;
-lastChange = "2020-10-30 09:23:42 +0000";
 layers = (
 {
 layerId = "2FCEC9C4-D6B8-40A6-8432-FB04296B16B9";
@@ -7449,7 +7255,6 @@ unicode = 0031;
 {
 color = 7;
 glyphname = two;
-lastChange = "2020-10-29 22:30:26 +0000";
 layers = (
 {
 components = (
@@ -7517,7 +7322,6 @@ com.typemytype.robofont.mark = (
 {
 color = 7;
 glyphname = three;
-lastChange = "2020-10-29 22:30:32 +0000";
 layers = (
 {
 background = {
@@ -7729,7 +7533,6 @@ unicode = 0033;
 },
 {
 glyphname = four;
-lastChange = "2020-10-30 09:24:04 +0000";
 layers = (
 {
 layerId = "2FCEC9C4-D6B8-40A6-8432-FB04296B16B9";
@@ -7772,7 +7575,6 @@ unicode = 0034;
 {
 color = 7;
 glyphname = five;
-lastChange = "2018-04-11 18:45:10 +0000";
 layers = (
 {
 components = (
@@ -7930,7 +7732,6 @@ com.typemytype.robofont.mark = (
 {
 color = 7;
 glyphname = six;
-lastChange = "2020-10-28 14:29:55 +0000";
 layers = (
 {
 components = (
@@ -7994,7 +7795,6 @@ unicode = 0036;
 },
 {
 glyphname = seven;
-lastChange = "2020-10-29 22:30:44 +0000";
 layers = (
 {
 layerId = "2FCEC9C4-D6B8-40A6-8432-FB04296B16B9";
@@ -8036,7 +7836,6 @@ unicode = 0037;
 {
 color = 7;
 glyphname = eight;
-lastChange = "2018-04-11 18:51:38 +0000";
 layers = (
 {
 components = (
@@ -8143,7 +7942,6 @@ unicode = 0038;
 {
 color = 6;
 glyphname = nine;
-lastChange = "2020-10-28 14:29:59 +0000";
 layers = (
 {
 components = (
@@ -8171,7 +7969,6 @@ com.typemytype.robofont.mark = (
 color = 0;
 export = 0;
 glyphname = onesuperior;
-lastChange = "2020-10-28 14:24:45 +0000";
 layers = (
 {
 components = (
@@ -8191,7 +7988,6 @@ unicode = 00B9;
 color = 0;
 export = 0;
 glyphname = twosuperior;
-lastChange = "2020-10-28 14:24:45 +0000";
 layers = (
 {
 components = (
@@ -8211,7 +8007,6 @@ unicode = 00B2;
 color = 0;
 export = 0;
 glyphname = threesuperior;
-lastChange = "2020-10-28 14:24:45 +0000";
 layers = (
 {
 components = (
@@ -8231,7 +8026,6 @@ unicode = 00B3;
 color = 0;
 export = 0;
 glyphname = foursuperior;
-lastChange = "2020-10-28 14:24:45 +0000";
 layers = (
 {
 components = (
@@ -8251,7 +8045,6 @@ unicode = 2074;
 color = 0;
 export = 0;
 glyphname = fraction;
-lastChange = "2020-10-28 14:24:45 +0000";
 layers = (
 {
 layerId = "2FCEC9C4-D6B8-40A6-8432-FB04296B16B9";
@@ -8264,7 +8057,6 @@ unicode = 2044;
 color = 0;
 export = 0;
 glyphname = onehalf;
-lastChange = "2020-10-28 14:24:45 +0000";
 layers = (
 {
 layerId = "2FCEC9C4-D6B8-40A6-8432-FB04296B16B9";
@@ -8277,7 +8069,6 @@ unicode = 00BD;
 color = 0;
 export = 0;
 glyphname = onequarter;
-lastChange = "2020-10-28 14:24:45 +0000";
 layers = (
 {
 layerId = "2FCEC9C4-D6B8-40A6-8432-FB04296B16B9";
@@ -8290,7 +8081,6 @@ unicode = 00BC;
 color = 0;
 export = 0;
 glyphname = threequarters;
-lastChange = "2020-10-28 14:24:45 +0000";
 layers = (
 {
 layerId = "2FCEC9C4-D6B8-40A6-8432-FB04296B16B9";
@@ -8301,7 +8091,6 @@ unicode = 00BE;
 },
 {
 glyphname = period;
-lastChange = "2020-10-29 22:40:49 +0000";
 layers = (
 {
 layerId = "2FCEC9C4-D6B8-40A6-8432-FB04296B16B9";
@@ -8326,7 +8115,6 @@ unicode = 002E;
 {
 color = 6;
 glyphname = comma;
-lastChange = "2020-10-29 22:22:37 +0000";
 layers = (
 {
 components = (
@@ -8354,7 +8142,6 @@ com.typemytype.robofont.mark = (
 {
 color = 6;
 glyphname = colon;
-lastChange = "2018-04-11 18:27:03 +0000";
 layers = (
 {
 background = {
@@ -8397,7 +8184,6 @@ unicode = 003A;
 {
 color = 6;
 glyphname = semicolon;
-lastChange = "2018-04-11 18:27:05 +0000";
 layers = (
 {
 background = {
@@ -8439,7 +8225,6 @@ com.typemytype.robofont.mark = (
 },
 {
 glyphname = ellipsis;
-lastChange = "2020-10-29 22:19:58 +0000";
 layers = (
 {
 layerId = "2FCEC9C4-D6B8-40A6-8432-FB04296B16B9";
@@ -8482,7 +8267,6 @@ unicode = 2026;
 {
 color = 7;
 glyphname = exclam;
-lastChange = "2018-04-11 18:02:57 +0000";
 layers = (
 {
 components = (
@@ -8518,7 +8302,6 @@ com.typemytype.robofont.mark = (
 {
 color = 7;
 glyphname = exclamdown;
-lastChange = "2020-10-28 14:31:33 +0000";
 layers = (
 {
 components = (
@@ -8538,7 +8321,6 @@ unicode = 00A1;
 {
 color = 7;
 glyphname = question;
-lastChange = "2018-04-11 18:02:57 +0000";
 layers = (
 {
 components = (
@@ -8629,7 +8411,6 @@ com.typemytype.robofont.mark = (
 {
 color = 7;
 glyphname = questiondown;
-lastChange = "2020-10-28 14:32:05 +0000";
 layers = (
 {
 components = (
@@ -8649,7 +8430,6 @@ unicode = 00BF;
 {
 color = 6;
 glyphname = periodcentered;
-lastChange = "2020-10-29 22:20:06 +0000";
 layers = (
 {
 components = (
@@ -8676,7 +8456,6 @@ com.typemytype.robofont.mark = (
 },
 {
 glyphname = slash;
-lastChange = "2018-04-11 17:56:25 +0000";
 layers = (
 {
 layerId = "2FCEC9C4-D6B8-40A6-8432-FB04296B16B9";
@@ -8699,7 +8478,6 @@ unicode = 002F;
 {
 color = 6;
 glyphname = backslash;
-lastChange = "2018-04-11 18:27:30 +0000";
 layers = (
 {
 components = (
@@ -8727,7 +8505,6 @@ com.typemytype.robofont.mark = (
 color = 0;
 export = 0;
 glyphname = bullet;
-lastChange = "2020-10-28 14:24:45 +0000";
 layers = (
 {
 layerId = "2FCEC9C4-D6B8-40A6-8432-FB04296B16B9";
@@ -8740,7 +8517,6 @@ unicode = 2022;
 color = 0;
 export = 0;
 glyphname = asterisk;
-lastChange = "2020-10-28 14:24:45 +0000";
 layers = (
 {
 layerId = "2FCEC9C4-D6B8-40A6-8432-FB04296B16B9";
@@ -8753,7 +8529,6 @@ unicode = 002A;
 color = 0;
 export = 0;
 glyphname = numbersign;
-lastChange = "2020-10-28 14:24:45 +0000";
 layers = (
 {
 layerId = "2FCEC9C4-D6B8-40A6-8432-FB04296B16B9";
@@ -8766,7 +8541,6 @@ unicode = 0023;
 color = 0;
 export = 0;
 glyphname = tironiansignet;
-lastChange = "2018-04-11 18:03:35 +0000";
 layers = (
 {
 layerId = "2FCEC9C4-D6B8-40A6-8432-FB04296B16B9";
@@ -8778,7 +8552,6 @@ unicode = 204A;
 {
 color = 7;
 glyphname = parenleft;
-lastChange = "2018-04-11 18:02:57 +0000";
 layers = (
 {
 components = (
@@ -8819,7 +8592,6 @@ com.typemytype.robofont.mark = (
 {
 color = 6;
 glyphname = parenright;
-lastChange = "2018-04-11 18:26:05 +0000";
 layers = (
 {
 components = (
@@ -8847,7 +8619,6 @@ com.typemytype.robofont.mark = (
 color = 0;
 export = 0;
 glyphname = braceleft;
-lastChange = "2020-10-28 14:24:45 +0000";
 layers = (
 {
 layerId = "2FCEC9C4-D6B8-40A6-8432-FB04296B16B9";
@@ -8860,7 +8631,6 @@ unicode = 007B;
 color = 0;
 export = 0;
 glyphname = braceright;
-lastChange = "2020-10-28 14:24:45 +0000";
 layers = (
 {
 layerId = "2FCEC9C4-D6B8-40A6-8432-FB04296B16B9";
@@ -8873,7 +8643,6 @@ unicode = 007D;
 color = 0;
 export = 0;
 glyphname = bracketleft;
-lastChange = "2020-10-28 14:24:45 +0000";
 layers = (
 {
 layerId = "2FCEC9C4-D6B8-40A6-8432-FB04296B16B9";
@@ -8886,7 +8655,6 @@ unicode = 005B;
 color = 0;
 export = 0;
 glyphname = bracketright;
-lastChange = "2020-10-28 14:24:45 +0000";
 layers = (
 {
 layerId = "2FCEC9C4-D6B8-40A6-8432-FB04296B16B9";
@@ -8897,7 +8665,6 @@ unicode = 005D;
 },
 {
 glyphname = hyphen;
-lastChange = "2020-10-29 22:25:13 +0000";
 layers = (
 {
 layerId = "2FCEC9C4-D6B8-40A6-8432-FB04296B16B9";
@@ -8922,7 +8689,6 @@ unicode = 002D;
 {
 color = 6;
 glyphname = softhyphen;
-lastChange = "2020-10-29 22:19:35 +0000";
 layers = (
 {
 components = (
@@ -8948,7 +8714,6 @@ com.typemytype.robofont.mark = (
 },
 {
 glyphname = endash;
-lastChange = "2020-10-29 22:27:41 +0000";
 layers = (
 {
 layerId = "2FCEC9C4-D6B8-40A6-8432-FB04296B16B9";
@@ -8972,7 +8737,6 @@ unicode = 2013;
 },
 {
 glyphname = emdash;
-lastChange = "2020-10-29 22:19:35 +0000";
 layers = (
 {
 layerId = "2FCEC9C4-D6B8-40A6-8432-FB04296B16B9";
@@ -8996,7 +8760,6 @@ unicode = 2014;
 },
 {
 glyphname = underscore;
-lastChange = "2018-04-11 17:56:25 +0000";
 layers = (
 {
 layerId = "2FCEC9C4-D6B8-40A6-8432-FB04296B16B9";
@@ -9018,7 +8781,6 @@ unicode = 005F;
 },
 {
 glyphname = hyphen.case;
-lastChange = "2020-10-29 22:28:10 +0000";
 layers = (
 {
 components = (
@@ -9036,7 +8798,6 @@ rightKerningGroup = hyphen;
 },
 {
 glyphname = endash.case;
-lastChange = "2020-10-29 22:28:10 +0000";
 layers = (
 {
 components = (
@@ -9054,7 +8815,6 @@ rightKerningGroup = hyphen;
 },
 {
 glyphname = emdash.case;
-lastChange = "2020-10-29 22:28:10 +0000";
 layers = (
 {
 components = (
@@ -9073,7 +8833,6 @@ rightKerningGroup = hyphen;
 {
 color = 6;
 glyphname = quotesinglbase;
-lastChange = "2018-04-11 18:02:09 +0000";
 layers = (
 {
 components = (
@@ -9099,7 +8858,6 @@ com.typemytype.robofont.mark = (
 {
 color = 6;
 glyphname = quotedblbase;
-lastChange = "2020-10-29 22:18:40 +0000";
 layers = (
 {
 components = (
@@ -9131,7 +8889,6 @@ com.typemytype.robofont.mark = (
 {
 color = 6;
 glyphname = quotedblleft;
-lastChange = "2020-10-29 22:18:59 +0000";
 layers = (
 {
 components = (
@@ -9162,7 +8919,6 @@ com.typemytype.robofont.mark = (
 {
 color = 6;
 glyphname = quotedblright;
-lastChange = "2020-10-30 09:06:43 +0000";
 layers = (
 {
 components = (
@@ -9192,7 +8948,6 @@ com.typemytype.robofont.mark = (
 },
 {
 glyphname = quoteleft;
-lastChange = "2020-10-29 22:19:09 +0000";
 layers = (
 {
 layerId = "2FCEC9C4-D6B8-40A6-8432-FB04296B16B9";
@@ -9216,7 +8971,6 @@ unicode = 2018;
 },
 {
 glyphname = quoteright;
-lastChange = "2020-10-29 22:19:09 +0000";
 layers = (
 {
 layerId = "2FCEC9C4-D6B8-40A6-8432-FB04296B16B9";
@@ -9241,7 +8995,6 @@ unicode = 2019;
 {
 color = 6;
 glyphname = guillemetleft;
-lastChange = "2020-10-29 22:19:21 +0000";
 layers = (
 {
 background = {
@@ -9311,7 +9064,6 @@ com.typemytype.robofont.mark = (
 {
 color = 6;
 glyphname = guillemetright;
-lastChange = "2020-10-29 22:19:28 +0000";
 layers = (
 {
 background = {
@@ -9371,7 +9123,6 @@ com.typemytype.robofont.mark = (
 {
 color = 6;
 glyphname = guilsinglleft;
-lastChange = "2020-10-29 22:19:21 +0000";
 layers = (
 {
 background = {
@@ -9422,7 +9173,6 @@ com.typemytype.robofont.mark = (
 },
 {
 glyphname = guilsinglright;
-lastChange = "2020-10-29 22:19:28 +0000";
 layers = (
 {
 guideLines = (
@@ -9466,7 +9216,6 @@ y = 0;
 {
 color = 6;
 glyphname = quotedbl;
-lastChange = "2020-10-30 09:18:48 +0000";
 layers = (
 {
 components = (
@@ -9496,7 +9245,6 @@ com.typemytype.robofont.mark = (
 },
 {
 glyphname = quotesingle;
-lastChange = "2020-10-29 22:18:59 +0000";
 layers = (
 {
 layerId = "2FCEC9C4-D6B8-40A6-8432-FB04296B16B9";
@@ -9520,7 +9268,6 @@ unicode = 0027;
 },
 {
 glyphname = space;
-lastChange = "2018-04-11 17:56:25 +0000";
 layers = (
 {
 layerId = "2FCEC9C4-D6B8-40A6-8432-FB04296B16B9";
@@ -9543,7 +9290,6 @@ unicode = 00A0;
 {
 color = 7;
 glyphname = euro;
-lastChange = "2018-04-11 18:02:57 +0000";
 layers = (
 {
 components = (
@@ -9629,7 +9375,6 @@ com.typemytype.robofont.mark = (
 color = 0;
 export = 0;
 glyphname = cent;
-lastChange = "2020-10-28 14:24:45 +0000";
 layers = (
 {
 layerId = "2FCEC9C4-D6B8-40A6-8432-FB04296B16B9";
@@ -9642,7 +9387,6 @@ unicode = 00A2;
 color = 0;
 export = 0;
 glyphname = currency;
-lastChange = "2020-10-28 14:24:45 +0000";
 layers = (
 {
 layerId = "2FCEC9C4-D6B8-40A6-8432-FB04296B16B9";
@@ -9655,7 +9399,6 @@ unicode = 00A4;
 color = 0;
 export = 0;
 glyphname = dollar;
-lastChange = "2020-10-28 14:24:45 +0000";
 layers = (
 {
 layerId = "2FCEC9C4-D6B8-40A6-8432-FB04296B16B9";
@@ -9668,7 +9411,6 @@ unicode = 0024;
 color = 0;
 export = 0;
 glyphname = sterling;
-lastChange = "2020-10-28 14:24:45 +0000";
 layers = (
 {
 layerId = "2FCEC9C4-D6B8-40A6-8432-FB04296B16B9";
@@ -9681,7 +9423,6 @@ unicode = 00A3;
 color = 0;
 export = 0;
 glyphname = yen;
-lastChange = "2020-10-28 14:24:45 +0000";
 layers = (
 {
 layerId = "2FCEC9C4-D6B8-40A6-8432-FB04296B16B9";
@@ -9693,7 +9434,6 @@ unicode = 00A5;
 {
 color = 7;
 glyphname = micro;
-lastChange = "2018-04-11 18:55:28 +0000";
 layers = (
 {
 anchors = (
@@ -9736,7 +9476,6 @@ com.typemytype.robofont.mark = (
 color = 0;
 export = 0;
 glyphname = divisionslash;
-lastChange = "2020-10-28 14:24:45 +0000";
 layers = (
 {
 layerId = "2FCEC9C4-D6B8-40A6-8432-FB04296B16B9";
@@ -9749,7 +9488,6 @@ unicode = 2215;
 color = 0;
 export = 0;
 glyphname = plus;
-lastChange = "2020-10-28 14:24:45 +0000";
 layers = (
 {
 layerId = "2FCEC9C4-D6B8-40A6-8432-FB04296B16B9";
@@ -9762,7 +9500,6 @@ unicode = 002B;
 color = 0;
 export = 0;
 glyphname = minus;
-lastChange = "2020-10-28 14:24:45 +0000";
 layers = (
 {
 layerId = "2FCEC9C4-D6B8-40A6-8432-FB04296B16B9";
@@ -9775,7 +9512,6 @@ unicode = 2212;
 color = 0;
 export = 0;
 glyphname = multiply;
-lastChange = "2020-10-28 14:24:45 +0000";
 layers = (
 {
 layerId = "2FCEC9C4-D6B8-40A6-8432-FB04296B16B9";
@@ -9788,7 +9524,6 @@ unicode = 00D7;
 color = 0;
 export = 0;
 glyphname = divide;
-lastChange = "2020-10-28 14:24:45 +0000";
 layers = (
 {
 layerId = "2FCEC9C4-D6B8-40A6-8432-FB04296B16B9";
@@ -9801,7 +9536,6 @@ unicode = 00F7;
 color = 0;
 export = 0;
 glyphname = equal;
-lastChange = "2020-10-28 14:24:45 +0000";
 layers = (
 {
 layerId = "2FCEC9C4-D6B8-40A6-8432-FB04296B16B9";
@@ -9814,7 +9548,6 @@ unicode = 003D;
 color = 0;
 export = 0;
 glyphname = greater;
-lastChange = "2020-10-28 14:24:45 +0000";
 layers = (
 {
 layerId = "2FCEC9C4-D6B8-40A6-8432-FB04296B16B9";
@@ -9827,7 +9560,6 @@ unicode = 003E;
 color = 0;
 export = 0;
 glyphname = less;
-lastChange = "2020-10-28 14:24:45 +0000";
 layers = (
 {
 layerId = "2FCEC9C4-D6B8-40A6-8432-FB04296B16B9";
@@ -9840,7 +9572,6 @@ unicode = 003C;
 color = 0;
 export = 0;
 glyphname = plusminus;
-lastChange = "2020-10-28 14:24:45 +0000";
 layers = (
 {
 layerId = "2FCEC9C4-D6B8-40A6-8432-FB04296B16B9";
@@ -9853,7 +9584,6 @@ unicode = 00B1;
 color = 0;
 export = 0;
 glyphname = asciitilde;
-lastChange = "2020-10-28 14:24:45 +0000";
 layers = (
 {
 layerId = "2FCEC9C4-D6B8-40A6-8432-FB04296B16B9";
@@ -9866,7 +9596,6 @@ unicode = 007E;
 color = 0;
 export = 0;
 glyphname = logicalnot;
-lastChange = "2020-10-28 14:24:45 +0000";
 layers = (
 {
 layerId = "2FCEC9C4-D6B8-40A6-8432-FB04296B16B9";
@@ -9879,7 +9608,6 @@ unicode = 00AC;
 color = 0;
 export = 0;
 glyphname = asciicircum;
-lastChange = "2020-10-28 14:24:45 +0000";
 layers = (
 {
 layerId = "2FCEC9C4-D6B8-40A6-8432-FB04296B16B9";
@@ -9892,7 +9620,6 @@ unicode = 005E;
 color = 0;
 export = 0;
 glyphname = percent;
-lastChange = "2020-10-28 14:24:45 +0000";
 layers = (
 {
 layerId = "2FCEC9C4-D6B8-40A6-8432-FB04296B16B9";
@@ -9904,7 +9631,6 @@ unicode = 0025;
 {
 color = 7;
 glyphname = copyright;
-lastChange = "2018-04-11 18:55:38 +0000";
 layers = (
 {
 components = (
@@ -10019,7 +9745,6 @@ com.typemytype.robofont.mark = (
 },
 {
 glyphname = bar;
-lastChange = "2018-04-11 17:56:25 +0000";
 layers = (
 {
 layerId = "2FCEC9C4-D6B8-40A6-8432-FB04296B16B9";
@@ -10041,7 +9766,6 @@ unicode = 007C;
 },
 {
 glyphname = dagger;
-lastChange = "2018-04-11 17:56:25 +0000";
 layers = (
 {
 layerId = "2FCEC9C4-D6B8-40A6-8432-FB04296B16B9";
@@ -10072,7 +9796,6 @@ unicode = 2020;
 },
 {
 glyphname = daggerdbl;
-lastChange = "2018-04-11 17:56:25 +0000";
 layers = (
 {
 layerId = "2FCEC9C4-D6B8-40A6-8432-FB04296B16B9";
@@ -10114,7 +9837,6 @@ unicode = 2021;
 color = 0;
 export = 0;
 glyphname = at;
-lastChange = "2020-10-28 14:24:45 +0000";
 layers = (
 {
 layerId = "2FCEC9C4-D6B8-40A6-8432-FB04296B16B9";
@@ -10127,7 +9849,6 @@ unicode = 0040;
 color = 0;
 export = 0;
 glyphname = ampersand;
-lastChange = "2020-10-28 14:24:45 +0000";
 layers = (
 {
 layerId = "2FCEC9C4-D6B8-40A6-8432-FB04296B16B9";
@@ -10140,7 +9861,6 @@ unicode = 0026;
 color = 0;
 export = 0;
 glyphname = paragraph;
-lastChange = "2020-10-28 14:24:45 +0000";
 layers = (
 {
 layerId = "2FCEC9C4-D6B8-40A6-8432-FB04296B16B9";
@@ -10153,7 +9873,6 @@ unicode = 00B6;
 color = 0;
 export = 0;
 glyphname = section;
-lastChange = "2020-10-28 14:24:45 +0000";
 layers = (
 {
 layerId = "2FCEC9C4-D6B8-40A6-8432-FB04296B16B9";
@@ -10166,7 +9885,6 @@ unicode = 00A7;
 color = 0;
 export = 0;
 glyphname = registered;
-lastChange = "2020-10-28 14:24:45 +0000";
 layers = (
 {
 layerId = "2FCEC9C4-D6B8-40A6-8432-FB04296B16B9";
@@ -10179,7 +9897,6 @@ unicode = 00AE;
 color = 0;
 export = 0;
 glyphname = degree;
-lastChange = "2020-10-28 14:24:45 +0000";
 layers = (
 {
 layerId = "2FCEC9C4-D6B8-40A6-8432-FB04296B16B9";
@@ -10192,7 +9909,6 @@ unicode = 00B0;
 color = 0;
 export = 0;
 glyphname = brokenbar;
-lastChange = "2020-10-28 14:24:45 +0000";
 layers = (
 {
 layerId = "2FCEC9C4-D6B8-40A6-8432-FB04296B16B9";
@@ -10203,7 +9919,6 @@ unicode = 00A6;
 },
 {
 glyphname = dieresiscomb;
-lastChange = "2018-04-11 17:57:43 +0000";
 layers = (
 {
 anchors = (
@@ -10244,7 +9959,6 @@ unicode = 0308;
 },
 {
 glyphname = dotaccentcomb;
-lastChange = "2018-04-11 18:31:16 +0000";
 layers = (
 {
 anchors = (
@@ -10276,7 +9990,6 @@ unicode = 0307;
 },
 {
 glyphname = gravecomb;
-lastChange = "2020-10-29 21:55:43 +0000";
 layers = (
 {
 anchors = (
@@ -10304,7 +10017,6 @@ unicode = 0300;
 },
 {
 glyphname = acutecomb;
-lastChange = "2020-10-29 21:55:08 +0000";
 layers = (
 {
 anchors = (
@@ -10378,7 +10090,6 @@ y = 0;
 },
 {
 glyphname = circumflexcomb;
-lastChange = "2020-10-29 22:03:48 +0000";
 layers = (
 {
 anchors = (
@@ -10420,7 +10131,6 @@ unicode = 0302;
 },
 {
 glyphname = macroncomb;
-lastChange = "2020-10-29 22:45:23 +0000";
 layers = (
 {
 anchors = (
@@ -10449,7 +10159,6 @@ unicode = 0304;
 {
 color = 6;
 glyphname = dieresis;
-lastChange = "2018-04-11 18:02:22 +0000";
 layers = (
 {
 components = (
@@ -10474,7 +10183,6 @@ com.typemytype.robofont.mark = (
 {
 color = 6;
 glyphname = grave;
-lastChange = "2020-10-29 21:58:24 +0000";
 layers = (
 {
 components = (
@@ -10491,7 +10199,6 @@ unicode = 0060;
 {
 color = 6;
 glyphname = acute;
-lastChange = "2018-04-11 18:25:00 +0000";
 layers = (
 {
 components = (
@@ -10515,7 +10222,6 @@ com.typemytype.robofont.mark = (
 },
 {
 glyphname = dieresiscomb.case;
-lastChange = "2020-10-29 22:08:25 +0000";
 layers = (
 {
 anchors = (
@@ -10555,7 +10261,6 @@ width = 256;
 },
 {
 glyphname = dotaccentcomb.case;
-lastChange = "2020-10-29 22:08:11 +0000";
 layers = (
 {
 anchors = (
@@ -10586,7 +10291,6 @@ width = 128;
 },
 {
 glyphname = gravecomb.case;
-lastChange = "2020-10-29 21:59:20 +0000";
 layers = (
 {
 anchors = (
@@ -10613,7 +10317,6 @@ width = 256;
 },
 {
 glyphname = acutecomb.case;
-lastChange = "2020-10-29 21:59:38 +0000";
 layers = (
 {
 anchors = (
@@ -10676,7 +10379,6 @@ y = 0;
 },
 {
 glyphname = circumflexcomb.case;
-lastChange = "2020-10-29 22:04:24 +0000";
 layers = (
 {
 anchors = (
@@ -10704,7 +10406,6 @@ width = 256;
 },
 {
 glyphname = macroncomb.case;
-lastChange = "2020-10-29 22:46:50 +0000";
 layers = (
 {
 anchors = (
@@ -10733,7 +10434,6 @@ width = 256;
 color = 0;
 export = 0;
 glyphname = hungarumlautcomb;
-lastChange = "2020-10-29 22:34:31 +0000";
 layers = (
 {
 layerId = "2FCEC9C4-D6B8-40A6-8432-FB04296B16B9";
@@ -10746,7 +10446,6 @@ unicode = 030B;
 color = 0;
 export = 0;
 glyphname = caroncomb;
-lastChange = "2020-10-29 22:34:31 +0000";
 layers = (
 {
 layerId = "2FCEC9C4-D6B8-40A6-8432-FB04296B16B9";
@@ -10759,7 +10458,6 @@ unicode = 030C;
 color = 0;
 export = 0;
 glyphname = brevecomb;
-lastChange = "2020-10-29 22:34:31 +0000";
 layers = (
 {
 layerId = "2FCEC9C4-D6B8-40A6-8432-FB04296B16B9";
@@ -10772,7 +10470,6 @@ unicode = 0306;
 color = 0;
 export = 0;
 glyphname = ringcomb;
-lastChange = "2020-10-29 22:33:56 +0000";
 layers = (
 {
 layerId = "2FCEC9C4-D6B8-40A6-8432-FB04296B16B9";
@@ -10785,7 +10482,6 @@ unicode = 030A;
 color = 0;
 export = 0;
 glyphname = tildecomb;
-lastChange = "2020-10-29 22:33:56 +0000";
 layers = (
 {
 layerId = "2FCEC9C4-D6B8-40A6-8432-FB04296B16B9";
@@ -10798,7 +10494,6 @@ unicode = 0303;
 color = 0;
 export = 0;
 glyphname = commaturnedabovecomb;
-lastChange = "2020-10-29 22:34:31 +0000";
 layers = (
 {
 layerId = "2FCEC9C4-D6B8-40A6-8432-FB04296B16B9";
@@ -10811,7 +10506,6 @@ unicode = 0312;
 color = 0;
 export = 0;
 glyphname = commaaccentcomb;
-lastChange = "2020-10-29 22:34:31 +0000";
 layers = (
 {
 layerId = "2FCEC9C4-D6B8-40A6-8432-FB04296B16B9";
@@ -10824,7 +10518,6 @@ unicode = 0326;
 color = 0;
 export = 0;
 glyphname = cedillacomb;
-lastChange = "2020-10-29 22:33:56 +0000";
 layers = (
 {
 layerId = "2FCEC9C4-D6B8-40A6-8432-FB04296B16B9";
@@ -10837,7 +10530,6 @@ unicode = 0327;
 color = 0;
 export = 0;
 glyphname = ogonekcomb;
-lastChange = "2020-10-29 22:34:31 +0000";
 layers = (
 {
 layerId = "2FCEC9C4-D6B8-40A6-8432-FB04296B16B9";
@@ -10850,7 +10542,6 @@ unicode = 0328;
 color = 0;
 export = 0;
 glyphname = circumflex;
-lastChange = "2020-10-28 14:24:45 +0000";
 layers = (
 {
 layerId = "2FCEC9C4-D6B8-40A6-8432-FB04296B16B9";
@@ -10863,7 +10554,6 @@ unicode = 02C6;
 color = 0;
 export = 0;
 glyphname = ring;
-lastChange = "2020-10-28 14:24:45 +0000";
 layers = (
 {
 layerId = "2FCEC9C4-D6B8-40A6-8432-FB04296B16B9";
@@ -10876,7 +10566,6 @@ unicode = 02DA;
 color = 0;
 export = 0;
 glyphname = tilde;
-lastChange = "2020-10-28 14:24:45 +0000";
 layers = (
 {
 layerId = "2FCEC9C4-D6B8-40A6-8432-FB04296B16B9";
@@ -10889,7 +10578,6 @@ unicode = 02DC;
 color = 0;
 export = 0;
 glyphname = macron;
-lastChange = "2020-10-28 14:24:45 +0000";
 layers = (
 {
 layerId = "2FCEC9C4-D6B8-40A6-8432-FB04296B16B9";
@@ -10902,7 +10590,6 @@ unicode = 00AF;
 color = 0;
 export = 0;
 glyphname = cedilla;
-lastChange = "2020-10-28 14:24:45 +0000";
 layers = (
 {
 layerId = "2FCEC9C4-D6B8-40A6-8432-FB04296B16B9";
@@ -10914,7 +10601,6 @@ unicode = 00B8;
 {
 export = 0;
 glyphname = _part.ansatz;
-lastChange = "2020-03-15 11:01:40 +0000";
 layers = (
 {
 background = {
@@ -10983,7 +10669,6 @@ width = 128;
 {
 export = 0;
 glyphname = _part.bogen;
-lastChange = "2018-04-11 18:36:00 +0000";
 layers = (
 {
 layerId = "2FCEC9C4-D6B8-40A6-8432-FB04296B16B9";
@@ -11053,7 +10738,6 @@ topValue = 56;
 {
 color = (167,255,153,1);
 glyphname = uniE000;
-lastChange = "2018-04-11 17:56:25 +0000";
 layers = (
 {
 layerId = "2FCEC9C4-D6B8-40A6-8432-FB04296B16B9";
@@ -11520,5 +11204,5 @@ userData = {
 UFOFormat = 2;
 };
 versionMajor = 1;
-versionMinor = 1;
+versionMinor = 2;
 }
