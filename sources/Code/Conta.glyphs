@@ -7,7 +7,9 @@ Adaptionen sind ein überwiegend trauriges Kapitel.",
 "FEADO
 0xFE2AD0",
 "8",
-e
+e,
+"̧̈̇̀́̂̌̊̃̄̋/caroncomb.alt ̨̦̆̒",
+"Ęap"
 );
 axes = (
 {
@@ -5622,10 +5624,44 @@ unicode = 272;
 color = 0;
 export = 0;
 glyphname = Eogonek;
-lastChange = "2021-01-21 07:40:26 +0000";
+lastChange = "2021-05-06 08:04:19 +0000";
 layers = (
 {
+background = {
+shapes = (
+{
+closed = 1;
+nodes = (
+(434,-160,o),
+(457,-157,o),
+(477,-152,c),
+(469,-85,l),
+(454,-87,o),
+(440,-88,o),
+(427,-88,cs),
+(379,-88,o),
+(359,-69,o),
+(359,-27,cs),
+(359,-22,o),
+(396,-11,o),
+(471,0,c),
+(400,0,l),
+(343,-12,o),
+(285,-29,o),
+(285,-44,cs),
+(285,-124,o),
+(341,-160,o),
+(411,-160,cs)
+);
+}
+);
+};
 layerId = "83692D61-586C-413E-9B5A-1AF652750951";
+shapes = (
+{
+ref = E;
+}
+);
 width = 560;
 }
 );
@@ -14534,7 +14570,7 @@ width = 560;
 color = 0;
 export = 0;
 glyphname = aogonek.sc;
-lastChange = "2021-01-29 08:25:13 +0000";
+lastChange = "2021-05-06 08:04:13 +0000";
 layers = (
 {
 layerId = "83692D61-586C-413E-9B5A-1AF652750951";
@@ -14543,6 +14579,7 @@ shapes = (
 ref = a.sc;
 },
 {
+pos = (172,0);
 ref = ogonekcomb;
 }
 );
@@ -15105,7 +15142,7 @@ width = 560;
 color = 0;
 export = 0;
 glyphname = eogonek.sc;
-lastChange = "2021-01-29 08:25:13 +0000";
+lastChange = "2021-05-06 08:04:13 +0000";
 layers = (
 {
 layerId = "83692D61-586C-413E-9B5A-1AF652750951";
@@ -15114,6 +15151,7 @@ shapes = (
 ref = e.sc;
 },
 {
+pos = (121,0);
 ref = ogonekcomb;
 }
 );
@@ -15639,7 +15677,7 @@ width = 960;
 color = 0;
 export = 0;
 glyphname = iogonek.sc;
-lastChange = "2021-01-29 08:25:08 +0000";
+lastChange = "2021-05-06 08:04:13 +0000";
 layers = (
 {
 layerId = "83692D61-586C-413E-9B5A-1AF652750951";
@@ -15648,6 +15686,7 @@ shapes = (
 ref = i.sc;
 },
 {
+pos = (50,0);
 ref = ogonekcomb;
 }
 );
@@ -17444,7 +17483,7 @@ width = 560;
 color = 0;
 export = 0;
 glyphname = uogonek.sc;
-lastChange = "2021-01-29 08:37:04 +0000";
+lastChange = "2021-05-06 08:04:13 +0000";
 layers = (
 {
 layerId = "83692D61-586C-413E-9B5A-1AF652750951";
@@ -17453,6 +17492,7 @@ shapes = (
 ref = u.sc;
 },
 {
+pos = (3,0);
 ref = ogonekcomb;
 }
 );
@@ -18228,7 +18268,7 @@ width = 560;
 color = 0;
 export = 0;
 glyphname = iogonek.sc.mono;
-lastChange = "2021-01-29 08:58:35 +0000";
+lastChange = "2021-05-06 08:04:13 +0000";
 layers = (
 {
 layerId = "83692D61-586C-413E-9B5A-1AF652750951";
@@ -18237,6 +18277,7 @@ shapes = (
 ref = i.sc.mono;
 },
 {
+pos = (90,0);
 ref = ogonekcomb;
 }
 );
@@ -26003,10 +26044,43 @@ unicode = 806;
 color = 0;
 export = 0;
 glyphname = ogonekcomb;
-lastChange = "2021-01-21 07:45:49 +0000";
+lastChange = "2021-05-06 08:04:05 +0000";
 layers = (
 {
+anchors = (
+{
+name = _ogonek;
+pos = (350,0);
+}
+);
 layerId = "83692D61-586C-413E-9B5A-1AF652750951";
+shapes = (
+{
+closed = 1;
+nodes = (
+(320,-160,o),
+(345,-155,o),
+(364,-149,c),
+(353,-83,l),
+(340,-86,o),
+(328,-88,o),
+(315,-88,cs),
+(289,-88,o),
+(279,-78,o),
+(279,-62,cs),
+(279,-40,o),
+(299,-14,o),
+(350,0,c),
+(340,28,l),
+(260,10,o),
+(196,-26,o),
+(196,-84,cs),
+(196,-134,o),
+(235,-160,o),
+(295,-160,cs)
+);
+}
+);
 width = 560;
 }
 );
