@@ -1,5 +1,5 @@
 {
-.appVersion = "3081";
+.appVersion = "3088";
 .formatVersion = 3;
 DisplayStrings = (
 "All die anderen 
@@ -9,7 +9,8 @@ Adaptionen sind ein überwiegend trauriges Kapitel.",
 "8",
 e,
 "̧̈̇̀́̂̌̊̃̄̋/caroncomb.alt ̄̆̃̄́̒ģgġ.,̨̦",
-P
+P,
+"x/x.hex"
 );
 axes = (
 {
@@ -264,7 +265,10 @@ sub zero x
 	@num_all
 	@hex_src' by @hex_tgt;
 
-#sub zero [x x.prop] a' by a.x;";
+#sub zero [x x.prop] a' by a.x;
+lookup HEXX {
+	sub zero [x x.prop]' by x.hex;
+} HEXX;";
 tag = calt;
 },
 {
@@ -13351,6 +13355,143 @@ width = 480;
 }
 );
 unicode = 380;
+},
+{
+glyphname = x.hex;
+lastChange = "2021-06-19 22:09:25 +0000";
+layers = (
+{
+hints = (
+{
+horizontal = 1;
+origin = (0,2);
+type = TTSnap;
+},
+{
+horizontal = 1;
+origin = (2,2);
+type = TTSnap;
+},
+{
+horizontal = 1;
+origin = (0,0);
+type = TTSnap;
+},
+{
+horizontal = 1;
+origin = (1,2);
+type = TTSnap;
+},
+{
+horizontal = 1;
+options = 4;
+origin = (0,2);
+other1 = (0,0,1,3);
+target = (1,2);
+type = TTInterpolate;
+},
+{
+horizontal = 1;
+options = 4;
+origin = (0,2);
+other1 = (0,2,2,3);
+target = (1,2);
+type = TTInterpolate;
+}
+);
+layerId = "83692D61-586C-413E-9B5A-1AF652750951";
+shapes = (
+{
+closed = 1;
+nodes = (
+(407,0,l,{
+de.kutilek.instantAxis.effective = (
+409,
+0
+);
+}),
+(503,0,l,{
+de.kutilek.instantAxis.effective = (
+501,
+0
+);
+}),
+(158,480,l,{
+de.kutilek.instantAxis.effective = (
+156,
+560
+);
+}),
+(62,480,l,{
+de.kutilek.instantAxis.effective = (
+64,
+560
+);
+})
+);
+},
+{
+closed = 1;
+nodes = (
+(247,268,l,{
+de.kutilek.instantAxis.effective = (
+247,
+308
+);
+}),
+(61,0,l,{
+de.kutilek.instantAxis.effective = (
+61,
+0
+);
+}),
+(146,0,l,{
+de.kutilek.instantAxis.effective = (
+145,
+0
+);
+}),
+(293,211,l,{
+de.kutilek.instantAxis.effective = (
+292,
+251
+);
+})
+);
+},
+{
+closed = 1;
+nodes = (
+(309,211,l,{
+de.kutilek.instantAxis.effective = (
+309,
+251
+);
+}),
+(497,480,l,{
+de.kutilek.instantAxis.effective = (
+497,
+560
+);
+}),
+(412,480,l,{
+de.kutilek.instantAxis.effective = (
+413,
+560
+);
+}),
+(263,268,l,{
+de.kutilek.instantAxis.effective = (
+264,
+308
+);
+})
+);
+}
+);
+width = 560;
+}
+);
 },
 {
 color = 3;
