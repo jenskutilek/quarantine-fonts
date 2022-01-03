@@ -1,5 +1,5 @@
 {
-.appVersion = "3098";
+.appVersion = "3109";
 .formatVersion = 3;
 DisplayStrings = (
 "All die anderen 
@@ -11,7 +11,7 @@ e,
 "̧̈̇̀́̂̌̊̃̄̋/caroncomb.alt ̄̆̃̄́̒ģgġ.,̨̦",
 P,
 "x/x.hex",
-"nIH⤓Ht↑H↓↥H-→-–H←H"
+"nIH⤓Ht↑H↓↥H-→-–H←H_"
 );
 axes = (
 {
@@ -26043,7 +26043,7 @@ unicode = 165;
 },
 {
 glyphname = downArrowToBar;
-lastChange = "2021-09-22 14:49:13 +0000";
+lastChange = "2022-01-03 10:21:41 +0000";
 layers = (
 {
 background = {
@@ -26059,6 +26059,27 @@ nodes = (
 }
 );
 };
+hints = (
+{
+horizontal = 1;
+options = 4;
+origin = (1,2);
+target = (1,3);
+type = TTStem;
+},
+{
+horizontal = 1;
+origin = (0,5);
+type = TTSnap;
+},
+{
+horizontal = 1;
+origin = (1,2);
+stem = -1;
+target = (0,9);
+type = TTStem;
+}
+);
 layerId = "83692D61-586C-413E-9B5A-1AF652750951";
 shapes = (
 {
@@ -26867,9 +26888,21 @@ unicode = 8240;
 },
 {
 glyphname = upArrow;
-lastChange = "2021-09-22 14:49:54 +0000";
+lastChange = "2022-01-03 10:21:50 +0000";
 layers = (
 {
+hints = (
+{
+horizontal = 1;
+origin = (0,9);
+type = TTSnap;
+},
+{
+horizontal = 1;
+origin = (0,5);
+type = TTSnap;
+}
+);
 layerId = "83692D61-586C-413E-9B5A-1AF652750951";
 shapes = (
 {
@@ -26895,9 +26928,23 @@ unicode = 8593;
 },
 {
 glyphname = rightArrow;
-lastChange = "2021-09-22 15:03:21 +0000";
+lastChange = "2022-01-03 10:22:09 +0000";
 layers = (
 {
+hints = (
+{
+horizontal = 1;
+origin = (0,0);
+type = TTSnap;
+},
+{
+horizontal = 1;
+options = 4;
+origin = (0,0);
+target = (0,9);
+type = TTStem;
+}
+);
 layerId = "83692D61-586C-413E-9B5A-1AF652750951";
 shapes = (
 {
@@ -26923,9 +26970,21 @@ unicode = 8594;
 },
 {
 glyphname = downArrow;
-lastChange = "2021-09-22 14:50:06 +0000";
+lastChange = "2022-01-03 10:21:54 +0000";
 layers = (
 {
+hints = (
+{
+horizontal = 1;
+origin = (0,5);
+type = TTSnap;
+},
+{
+horizontal = 1;
+origin = (0,9);
+type = TTSnap;
+}
+);
 layerId = "83692D61-586C-413E-9B5A-1AF652750951";
 shapes = (
 {
@@ -26951,9 +27010,23 @@ unicode = 8595;
 },
 {
 glyphname = leftArrow;
-lastChange = "2021-09-22 15:03:32 +0000";
+lastChange = "2022-01-03 10:22:20 +0000";
 layers = (
 {
+hints = (
+{
+horizontal = 1;
+origin = (0,2);
+type = TTSnap;
+},
+{
+horizontal = 1;
+options = 4;
+origin = (0,2);
+target = (0,3);
+type = TTStem;
+}
+);
 layerId = "83692D61-586C-413E-9B5A-1AF652750951";
 shapes = (
 {
@@ -26979,9 +27052,30 @@ unicode = 8592;
 },
 {
 glyphname = upFrombarArrow;
-lastChange = "2021-09-22 14:49:35 +0000";
+lastChange = "2022-01-03 10:22:05 +0000";
 layers = (
 {
+hints = (
+{
+horizontal = 1;
+origin = (0,5);
+type = TTSnap;
+},
+{
+horizontal = 1;
+options = 4;
+origin = (1,2);
+target = (1,3);
+type = TTStem;
+},
+{
+horizontal = 1;
+origin = (1,2);
+stem = -1;
+target = (0,9);
+type = TTStem;
+}
+);
 layerId = "83692D61-586C-413E-9B5A-1AF652750951";
 shapes = (
 {
