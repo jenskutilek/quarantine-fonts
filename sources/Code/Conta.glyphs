@@ -7,11 +7,9 @@ Adaptionen sind ein überwiegend trauriges Kapitel.",
 "FEADO
 0xFE2AD0",
 "8",
-e,
 "̧̈̇̀́̂̌̊̃̄̋/caroncomb.alt ̄̆̃̄́̒ģgġ.,̨̦",
 P,
-"x/x.hex",
-"nIH⤓Ht↑H↓↥H-→-–H←H_"
+"x/x.hex"
 );
 axes = (
 {
@@ -6323,6 +6321,121 @@ width = 560;
 unicode = 198;
 },
 {
+export = 0;
+glyphname = Schwa;
+lastChange = "2022-01-03 16:03:12 +0000";
+layers = (
+{
+background = {
+shapes = (
+{
+closed = 1;
+nodes = (
+(415,-10,o),
+(506,113,o),
+(506,360,cs),
+(506,599,o),
+(441,730,o),
+(280,730,cs),
+(133,730,o),
+(54,603,o),
+(54,360,cs),
+(54,104,o),
+(133,-10,o),
+(280,-10,cs)
+);
+},
+{
+closed = 1;
+nodes = (
+(191,60,o),
+(138,137,o),
+(138,360,cs),
+(138,584,o),
+(182,660,o),
+(280,660,cs),
+(379,660,o),
+(422,579,o),
+(422,360,cs),
+(422,138,o),
+(371,60,o),
+(280,60,cs)
+);
+}
+);
+};
+hints = (
+{
+horizontal = 1;
+options = 4;
+origin = (0,27);
+target = (0,18);
+type = TTStem;
+},
+{
+horizontal = 1;
+options = 4;
+origin = (0,5);
+target = (0,12);
+type = TTStem;
+},
+{
+horizontal = 1;
+origin = (0,27);
+other1 = (0,24);
+target = (0,5);
+type = TTInterpolate;
+},
+{
+horizontal = 1;
+options = 4;
+origin = (0,24);
+target = (0,21);
+type = TTStem;
+}
+);
+layerId = "83692D61-586C-413E-9B5A-1AF652750951";
+shapes = (
+{
+closed = 1;
+nodes = (
+(410,-10,o),
+(494,110,o),
+(494,359,cs),
+(494,633,o),
+(392,730,o),
+(248,730,cs),
+(189,730,o),
+(136,714,o),
+(88,695,c),
+(108,630,l),
+(147,644,o),
+(193,658,o),
+(243,658,cs),
+(358,658,o),
+(412,567,o),
+(412,359,cs),
+(412,178,o),
+(381,60,o),
+(277,60,cs),
+(188,60,o),
+(149,178,o),
+(149,324,c),
+(430,324,l),
+(430,394,l),
+(67,394,l),
+(57,115,o),
+(150,-10,o),
+(275,-10,cs)
+);
+}
+);
+width = 560;
+}
+);
+unicode = 399;
+},
+{
 color = 0;
 export = 0;
 glyphname = Lcaron;
@@ -6413,19 +6526,6 @@ width = 560;
 }
 );
 unicode = 338;
-},
-{
-color = 0;
-export = 0;
-glyphname = Schwa;
-lastChange = "2021-01-21 07:53:05 +0000";
-layers = (
-{
-layerId = "83692D61-586C-413E-9B5A-1AF652750951";
-width = 560;
-}
-);
-unicode = 399;
 },
 {
 color = 0;
