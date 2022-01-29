@@ -1,5 +1,5 @@
 {
-.appVersion = "3097";
+.appVersion = "3110";
 .formatVersion = 3;
 DisplayStrings = (
 "A B C D E F G /_all.comp  I J K L M N O P Q R S T U V W X Y Z",
@@ -7,7 +7,8 @@ DisplayStrings = (
 Zapf präsentiert:
 Mergenthaler
 Antiqua Kursive",
-HHHMHHN
+HHHMHHN,
+"nnſhnn"
 );
 axes = (
 {
@@ -138,6 +139,12 @@ code = "  sub g by g.pt09;
   sub q by q.pt09;
   sub y by y.pt09;";
 disabled = 1;
+labels = (
+{
+language = dflt;
+value = "";
+}
+);
 tag = ss01;
 },
 {
@@ -145,6 +152,16 @@ automatic = 1;
 code = "pos @Uppercase <5 0 10 0>;
 ";
 tag = cpsp;
+},
+{
+code = "sub longs by s;";
+labels = (
+{
+language = dflt;
+value = "Long s to round s";
+}
+);
+tag = ss20;
 }
 );
 fontMaster = (
@@ -248,6 +265,7 @@ GSOffsetKeepCompatible = 1;
 GSOffsetProportional = 1;
 GSOffsetVertical = 10;
 };
+visible = 1;
 },
 {
 axesValues = (
@@ -33278,6 +33296,284 @@ width = 975;
 unicode = 223;
 },
 {
+glyphname = longs;
+lastChange = "2021-12-10 07:51:22 +0000";
+layers = (
+{
+hints = (
+{
+name = _corner.universal;
+origin = (1,2);
+type = Corner;
+},
+{
+name = _corner.universal;
+origin = (1,3);
+type = Corner;
+},
+{
+name = _corner.universal;
+origin = (0,42);
+type = Corner;
+},
+{
+name = _corner.universal;
+origin = (0,43);
+type = Corner;
+},
+{
+name = _corner.universal;
+origin = (0,5);
+type = Corner;
+},
+{
+name = _corner.universal;
+origin = (0,6);
+type = Corner;
+}
+);
+layerId = "CA4EC710-46DE-40B5-AF89-3BCF48EEB297";
+shapes = (
+{
+closed = 1;
+nodes = (
+(160,-2,o),
+(233,6,o),
+(288,6,cs),
+(349,6,o),
+(434,-2,o),
+(529,-2,c),
+(529,55,l),
+(430,60,o),
+(383,68,o),
+(371,95,cs),
+(365,109,o),
+(360,150,o),
+(360,208,cs),
+(360,993,ls),
+(360,1131,o),
+(389,1230,o),
+(480,1230,cs),
+(499,1230,o),
+(517,1226,o),
+(524,1221,c),
+(524,1190,l),
+(509,1171,o),
+(500,1157,o),
+(500,1131,cs),
+(500,1094,o),
+(527,1070,o),
+(565,1070,cs),
+(613,1070,o),
+(644,1104,o),
+(644,1156,cs),
+(644,1221,o),
+(592,1276,o),
+(477,1276,cs),
+(329,1276,o),
+(220,1170,o),
+(220,983,cs),
+(220,217,ls),
+(220,126,o),
+(211,97,o),
+(181,77,cs),
+(156,60,o),
+(116,57,o),
+(65,55,c),
+(65,-2,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(288,722,l),
+(288,782,l),
+(50,782,l),
+(50,722,l)
+);
+}
+);
+width = 600;
+},
+{
+hints = (
+{
+name = _corner.universal;
+origin = (1,2);
+type = Corner;
+},
+{
+name = _corner.universal;
+origin = (1,3);
+type = Corner;
+},
+{
+name = _corner.universal;
+origin = (0,42);
+type = Corner;
+},
+{
+name = _corner.universal;
+origin = (0,43);
+type = Corner;
+},
+{
+name = _corner.universal;
+origin = (0,5);
+type = Corner;
+},
+{
+name = _corner.universal;
+origin = (0,6);
+type = Corner;
+}
+);
+layerId = "25879A17-30FE-49F5-8BDD-4D78448C8558";
+shapes = (
+{
+closed = 1;
+nodes = (
+(155,-2,o),
+(232,6,o),
+(288,6,cs),
+(351,6,o),
+(439,-2,o),
+(539,-2,c),
+(539,75,l),
+(435,80,o),
+(390,86,o),
+(380,109,cs),
+(374,122,o),
+(370,161,o),
+(370,218,cs),
+(370,988,ls),
+(370,1124,o),
+(397,1215,o),
+(480,1215,cs),
+(494,1215,o),
+(506,1213,o),
+(514,1210,c),
+(514,1188,l),
+(500,1170,o),
+(490,1153,o),
+(490,1126,cs),
+(490,1084,o),
+(523,1055,o),
+(565,1055,cs),
+(617,1055,o),
+(654,1095,o),
+(654,1151,cs),
+(654,1220,o),
+(596,1281,o),
+(477,1281,cs),
+(325,1281,o),
+(210,1169,o),
+(210,978,cs),
+(210,227,ls),
+(210,138,o),
+(202,113,o),
+(175,95,cs),
+(151,79,o),
+(110,77,o),
+(55,75,c),
+(55,-2,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(288,707,l),
+(288,787,l),
+(40,787,l),
+(40,707,l)
+);
+}
+);
+width = 600;
+},
+{
+hints = (
+{
+name = _corner.universal;
+origin = (1,2);
+type = Corner;
+},
+{
+name = _corner.universal;
+origin = (1,3);
+type = Corner;
+}
+);
+layerId = master01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(101,-322,o),
+(150,-280,o),
+(212,-176,cs),
+(259,-97,o),
+(311,33,o),
+(350,178,cs),
+(389,323,o),
+(425,469,o),
+(449,734,cs),
+(468,944,o),
+(478,1024,o),
+(489,1067,cs),
+(510,1148,o),
+(531,1196,o),
+(594,1196,c),
+(620,1222,l),
+(586,1222,o),
+(543,1178,o),
+(543,1125,cs),
+(543,1072,o),
+(578,1047,o),
+(618,1047,cs),
+(666,1047,o),
+(702,1086,o),
+(702,1142,cs),
+(702,1204,o),
+(666,1265,o),
+(575,1265,cs),
+(501,1265,o),
+(417,1224,o),
+(352,1076,cs),
+(322,1009,o),
+(289,869,o),
+(256,633,cs),
+(202,246,ls),
+(187,135,o),
+(184,25,o),
+(158,-60,cs),
+(139,-123,o),
+(113,-168,o),
+(53,-180,cs),
+(16,-187,o),
+(2,-199,o),
+(2,-250,cs),
+(2,-304,o),
+(23,-322,o),
+(58,-322,cs)
+);
+},
+{
+closed = 1;
+nodes = (
+(360,709,l),
+(360,789,l),
+(88,789,l),
+(88,709,l)
+);
+}
+);
+width = 600;
+}
+);
+unicode = 383;
+},
+{
 glyphname = t;
 kernLeft = u;
 kernRight = t;
@@ -57276,10 +57572,26 @@ axesValues = (
 140,
 0
 );
+customParameters = (
+{
+name = "Has WWS Names";
+value = 0;
+}
+);
 instanceInterpolations = {
 "CA4EC710-46DE-40B5-AF89-3BCF48EEB297" = 1;
 };
 name = "Regular 09pt";
+properties = (
+{
+key = WWSFamilyName;
+value = "Mergenthaler Antiqua 09pt";
+},
+{
+key = WWSSubfamilyName;
+value = Regular;
+}
+);
 visible = 0;
 },
 {
@@ -57288,10 +57600,26 @@ axesValues = (
 160,
 0
 );
+customParameters = (
+{
+name = "Has WWS Names";
+value = 0;
+}
+);
 instanceInterpolations = {
 "25879A17-30FE-49F5-8BDD-4D78448C8558" = 1;
 };
 name = "Medium 09pt";
+properties = (
+{
+key = WWSFamilyName;
+value = "Mergenthaler Antiqua 09pt";
+},
+{
+key = WWSSubfamilyName;
+value = Medium;
+}
+);
 visible = 0;
 weightClass = 500;
 },
@@ -57301,10 +57629,26 @@ axesValues = (
 140,
 0
 );
+customParameters = (
+{
+name = "Has WWS Names";
+value = 0;
+}
+);
 instanceInterpolations = {
 "CA4EC710-46DE-40B5-AF89-3BCF48EEB297" = 1;
 };
 name = "Regular 10pt";
+properties = (
+{
+key = WWSFamilyName;
+value = "Mergenthaler Antiqua 10pt";
+},
+{
+key = WWSSubfamilyName;
+value = Regular;
+}
+);
 },
 {
 axesValues = (
@@ -57312,12 +57656,28 @@ axesValues = (
 150,
 0
 );
+customParameters = (
+{
+name = "Has WWS Names";
+value = 0;
+}
+);
 instanceInterpolations = {
 "25879A17-30FE-49F5-8BDD-4D78448C8558" = 0.5;
 "CA4EC710-46DE-40B5-AF89-3BCF48EEB297" = 0.5;
 };
 name = "Book 10pt";
-weightClass = 500;
+properties = (
+{
+key = WWSFamilyName;
+value = "Mergenthaler Antiqua 10pt";
+},
+{
+key = WWSSubfamilyName;
+value = Book;
+}
+);
+weightClass = 450;
 },
 {
 axesValues = (
@@ -57325,10 +57685,26 @@ axesValues = (
 160,
 0
 );
+customParameters = (
+{
+name = "Has WWS Names";
+value = 0;
+}
+);
 instanceInterpolations = {
 "25879A17-30FE-49F5-8BDD-4D78448C8558" = 1;
 };
 name = "Medium 10pt";
+properties = (
+{
+key = WWSFamilyName;
+value = "Mergenthaler Antiqua 10pt";
+},
+{
+key = WWSSubfamilyName;
+value = Medium;
+}
+);
 weightClass = 500;
 },
 {
@@ -57336,6 +57712,12 @@ axesValues = (
 10,
 160,
 0.5
+);
+customParameters = (
+{
+name = "Has WWS Names";
+value = 0;
+}
 );
 exports = 0;
 instanceInterpolations = {
@@ -57352,12 +57734,28 @@ axesValues = (
 160,
 1
 );
+customParameters = (
+{
+name = "Has WWS Names";
+value = 0;
+}
+);
 instanceInterpolations = {
 master01 = 1;
 };
 isItalic = 1;
 linkStyle = Regular;
 name = "Medium 09pt Italic";
+properties = (
+{
+key = WWSFamilyName;
+value = "Mergenthaler Antiqua 09pt";
+},
+{
+key = WWSSubfamilyName;
+value = "Medium Italic";
+}
+);
 weightClass = 500;
 },
 {
@@ -57366,12 +57764,28 @@ axesValues = (
 160,
 1
 );
+customParameters = (
+{
+name = "Has WWS Names";
+value = 0;
+}
+);
 instanceInterpolations = {
 master01 = 1;
 };
 isItalic = 1;
 linkStyle = Regular;
 name = "Medium 10pt Italic";
+properties = (
+{
+key = WWSFamilyName;
+value = "Mergenthaler Antiqua 10pt";
+},
+{
+key = WWSSubfamilyName;
+value = "Medium Italic";
+}
+);
 visible = 0;
 weightClass = 500;
 }
@@ -57550,5 +57964,5 @@ y = 0;
 UFOFormat = 2;
 };
 versionMajor = 2;
-versionMinor = 0;
+versionMinor = 1;
 }
