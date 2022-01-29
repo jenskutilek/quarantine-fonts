@@ -1,3 +1,5 @@
+<img src="Selectric%20docs/century-8-title.jpg">
+
 # Reviving the Selectric Century Fonts
 
 Before you can start drawing a revival of a typeface originating from any mechanical system, you need to do the math.
