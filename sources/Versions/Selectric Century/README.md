@@ -1,3 +1,5 @@
+The Century type style from the IBM Selectric Composer
+
 <img src="Selectric%20docs/century-8-title.jpg">
 
 # Reviving the Selectric Century Fonts
@@ -5,6 +7,12 @@
 Before you can start drawing a revival of a typeface originating from any mechanical system, you need to do the math.
 
 ## Unitized Glyph Widths
+
+<img src="Selectric%20docs/CenturyMedium9.png" width="800" alt="">
+
+<img src="Selectric%20docs/CenturyMedium8.png" width="800" alt="">
+
+Images: 9pt and 8pt Century. Notice the identical set width of both font sizes.
 
 The glyph widths of the IBM Composer are on a grid of 3 to 9 units per em. I figured the best grid setting for drawing an OpenType font would be 900 upm so that 1 composer unit corresponds to 100 font units.
 
@@ -15,7 +23,7 @@ Composer unit table (German):
 | 3     | i j l . , ‘ ’ - ; |
 | 4     | I f r s t ( ) / : ! |
 | 5     | J a c e g v z ä ü |
-| 6     | P S b d h k n o p q u x y ö ß § * = 0 1 2 3 4 5 6 7 8 9 |
+| 6     | P S b d h k n o p q u x y ö ß § * + = 0 1 2 3 4 5 6 7 8 9 |
 | 7     | B C E F L T Z |
 | 8     | A D G H K N O Q R U V X Y Ä Ö Ü w & % – ? |
 | 9     | M W m |
@@ -53,13 +61,13 @@ But to get the glyphs output at the correct size, we need to figure out if our s
 If tell our layout software to give us a 10 point font, the 900 font units are scaled to 10 points for display, so:
 
 ```
-900 font units -> 10 pt = 3.5277 mm
+900 font units → 10 pt = 3.5277 mm
 ```
 
 Dividing by 9, we get:
 
 ```
-100 font units -> 1.1111 pt = 0.3919666667 mm
+100 font units → 1.1111 pt = 0.3919666667 mm
 ```
 
 Remember, 100 font units are 1 composer unit for our font-internal drawing purposes.
@@ -71,42 +79,52 @@ We need to calculate a correction factor by dividing 0.3919666667 mm by 0.3527 m
 Let's check if the math works out:
 
 ```
-1000 font units -> 10 pt = 3.5277 mm
+1000 font units → 10 pt = 3.5277 mm
 ```
 
 Divide by 10, trivially:
 
 ```
-100 font units -> 1 pt = 0.3527 mm
+100 font units → 1 pt = 0.3527 mm
 ```
 
 Yay!
 
 So for the different font sizes we get:
 
-For 8 pt:
-
-```
-900 font units -> 8 pt = 2.82216 mm        | divide by 9
-100 font units -> 0.8889 pt = 0.313573 mm
-```
-
-For the yellow setting, 1 composer unit should be 0.3024 mm, so we need to calculate the correction factor by dividing 0.313573 mm / 0.3024 mm = 1.0369477513. To make the font smaller, the font units per em settings must be bigger, so we get 900 * 1.0369477513 = 933.
-
 For 9 pt:
 
 ```
-900 font units -> 9 pt = 3.17493 mm  | divide by 9
-100 font units -> 1 pt = 0.35277 mm
+900 font units → 9 pt = 3.17493 mm  | ÷ 9
+100 font units → 1 pt = 0.35277 mm
 ```
 
-As the 9 pt font also uses the yellow setting, 1 composer unit should again be 0.3024 mm, so we need to calculate the correction factor by dividing 0.35277 / 0.3024 = 1.1665674603. Our correct units per em setting is 900 * 1.1665674603 = 1050.
+For the yellow setting, 1 composer unit should be 0.3024 mm, so we need to calculate the correction factor by dividing 0.35277 mm / 0.3024 mm = 1.1665674603. Our correct units per em setting is 900 * 1.1665674603 = 1050.
+
+For 8 pt:
+
+```
+900 font units → 8 pt = 2.82216 mm        | ÷ 9
+100 font units → 0.8889 pt = 0.313573 mm
+```
+
+As the 8 pt font also uses the yellow setting, 1 composer unit should again be 0.3024 mm, so we need to calculate the correction factor by dividing 0.313573 mm / 0.3024 mm = 1.0369477513. To make the font smaller, the font units per em settings must be bigger, so we get 900 * 1.0369477513 = 933.
+
+For 11 pt:
+
+```
+900 font units → 11 pt = 3.88047 mm         | ÷ 9
+100 font units → 1,222222 pt = 0.431163 mm
+```
+
+As the 11 pt font also uses the red setting like the 10 pt font, 1 composer unit should again be 0.3527 mm, so we need to calculate the correction factor by dividing 0.431163 mm / 0.3527 mm = 1.2224638503. To make the font smaller, the font units per em settings must be bigger, so we get 900 * 1.2224638503 = 1100.
 
 ## Cap Heights
 
 As the Composer manual gives us the cap heights for each font and size, we can now calculate the cap heights in internal font units for each font size:
 
 ```
+1100 / 11 * 8   = 800  (11 pt, 8 pt cap height)
 1000 / 10 * 7   = 700  (10 pt, 7 pt cap height)
 1050 /  9 * 6.5 = 758  (9 pt, 6.5 pt cap height)
  933 /  8 * 6   = 700  (8 pt, 6 pt cap height)
