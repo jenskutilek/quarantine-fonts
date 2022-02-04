@@ -26,7 +26,7 @@ these out:
 * Mergenthaler Antiqua: A digitization of a forgotten typeface by Hermann Zapf.
 * Pathos: A monumental sans-serif with classical proportions. I designed it for
   our wedding rings and invitations.
-* Selectric Century: A digitization of the Century typeface from IBM’s
+* [Selectric Century](sources/Versions/Selectric%20Century): A digitization of the Century typeface from IBM’s
   Selectric Composer.
 * Soccer Sans: A constructivist sans with extra low legibility. Ideal for
   soccer kits.
