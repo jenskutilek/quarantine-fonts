@@ -386,12 +386,12 @@
     <!-- Most of this table will be recalculated by the compiler -->
     <tableVersion value="1.0"/>
     <fontRevision value="2.002"/>
-    <checkSumAdjustment value="0xa3a23799"/>
+    <checkSumAdjustment value="0xf02aacd9"/>
     <magicNumber value="0x5f0f3cf5"/>
     <flags value="00100000 00001111"/>
     <unitsPerEm value="2048"/>
     <created value="Wed Sep 22 14:51:06 2021"/>
-    <modified value="Sat May 21 08:51:02 2022"/>
+    <modified value="Sat May 21 08:52:04 2022"/>
     <xMin value="-119"/>
     <yMin value="-327"/>
     <xMax value="1178"/>
@@ -459,7 +459,7 @@
     <ySuperscriptXOffset value="0"/>
     <ySuperscriptYOffset value="715"/>
     <yStrikeoutSize value="100"/>
-    <yStrikeoutPosition value="1085"/>
+    <yStrikeoutPosition value="530"/>
     <sFamilyClass value="0"/>
     <panose>
       <bFamilyType value="0"/>
@@ -2435,7 +2435,7 @@
 
     <TTGlyph name=".notdef" xMin="151" yMin="-303" xMax="908" yMax="1513">
       <contour>
-        <pt x="151" y="1513" on="1" overlap="1"/>
+        <pt x="151" y="1513" on="1"/>
         <pt x="908" y="1513" on="1"/>
         <pt x="908" y="-303" on="1"/>
         <pt x="151" y="-303" on="1"/>
@@ -2467,7 +2467,7 @@
 
     <TTGlyph name="A" xMin="70" yMin="0" xMax="987" yMax="1362">
       <contour>
-        <pt x="454" y="1362" on="1" overlap="1"/>
+        <pt x="454" y="1362" on="1"/>
         <pt x="611" y="1362" on="1"/>
         <pt x="987" y="0" on="1"/>
         <pt x="819" y="0" on="1"/>
@@ -2517,7 +2517,7 @@
 
     <TTGlyph name="A.hex" xMin="70" yMin="0" xMax="987" yMax="1210">
       <contour>
-        <pt x="454" y="1210" on="1" overlap="1"/>
+        <pt x="454" y="1210" on="1"/>
         <pt x="611" y="1210" on="1"/>
         <pt x="987" y="0" on="1"/>
         <pt x="819" y="0" on="1"/>
@@ -2599,7 +2599,7 @@
 
     <TTGlyph name="Aogonek" xMin="70" yMin="-303" xMax="1013" yMax="1362">
       <contour>
-        <pt x="796" y="-303" on="0" overlap="1"/>
+        <pt x="796" y="-303" on="0"/>
         <pt x="696" y="-228" on="0"/>
         <pt x="696" y="-159" on="1"/>
         <pt x="696" y="-61" on="0"/>
@@ -2682,7 +2682,7 @@
 
     <TTGlyph name="B" xMin="151" yMin="0" xMax="923" yMax="1362">
       <contour>
-        <pt x="151" y="1362" on="1" overlap="1"/>
+        <pt x="151" y="1362" on="1"/>
         <pt x="454" y="1362" on="1"/>
         <pt x="673" y="1362" on="0"/>
         <pt x="896" y="1176" on="0"/>
@@ -2757,7 +2757,7 @@
 
     <TTGlyph name="B.hex" xMin="151" yMin="0" xMax="923" yMax="1210">
       <contour>
-        <pt x="151" y="1210" on="1" overlap="1"/>
+        <pt x="151" y="1210" on="1"/>
         <pt x="454" y="1210" on="1"/>
         <pt x="673" y="1210" on="0"/>
         <pt x="896" y="1045" on="0"/>
@@ -2833,7 +2833,7 @@
 
     <TTGlyph name="C" xMin="129" yMin="-21" xMax="902" yMax="1382">
       <contour>
-        <pt x="353" y="-21" on="0" overlap="1"/>
+        <pt x="353" y="-21" on="0"/>
         <pt x="129" y="326" on="0"/>
         <pt x="129" y="681" on="1"/>
         <pt x="129" y="1031" on="0"/>
@@ -2880,7 +2880,7 @@
 
     <TTGlyph name="C.hex" xMin="129" yMin="-21" xMax="902" yMax="1231">
       <contour>
-        <pt x="353" y="-21" on="0" overlap="1"/>
+        <pt x="353" y="-21" on="0"/>
         <pt x="129" y="289" on="0"/>
         <pt x="129" y="605" on="1"/>
         <pt x="129" y="917" on="0"/>
@@ -2937,7 +2937,7 @@
 
     <TTGlyph name="Ccedilla" xMin="129" yMin="-303" xMax="902" yMax="1382">
       <contour>
-        <pt x="353" y="-21" on="0" overlap="1"/>
+        <pt x="353" y="-21" on="0"/>
         <pt x="129" y="326" on="0"/>
         <pt x="129" y="681" on="1"/>
         <pt x="129" y="1031" on="0"/>
@@ -3019,7 +3019,7 @@
 
     <TTGlyph name="D" xMin="151" yMin="0" xMax="953" yMax="1362">
       <contour>
-        <pt x="717" y="1362" on="0" overlap="1"/>
+        <pt x="717" y="1362" on="0"/>
         <pt x="953" y="1019" on="0"/>
         <pt x="953" y="685" on="1"/>
         <pt x="953" y="463" on="0"/>
@@ -3061,7 +3061,7 @@
 
     <TTGlyph name="D.hex" xMin="151" yMin="0" xMax="953" yMax="1210">
       <contour>
-        <pt x="717" y="1210" on="0" overlap="1"/>
+        <pt x="717" y="1210" on="0"/>
         <pt x="953" y="906" on="0"/>
         <pt x="953" y="609" on="1"/>
         <pt x="953" y="411" on="0"/>
@@ -3112,7 +3112,7 @@
 
     <TTGlyph name="E" xMin="174" yMin="0" xMax="891" yMax="1362">
       <contour>
-        <pt x="174" y="1362" on="1" overlap="1"/>
+        <pt x="174" y="1362" on="1"/>
         <pt x="883" y="1362" on="1"/>
         <pt x="883" y="1225" on="1"/>
         <pt x="325" y="1225" on="1"/>
@@ -3157,7 +3157,7 @@
 
     <TTGlyph name="E.hex" xMin="174" yMin="0" xMax="891" yMax="1210">
       <contour>
-        <pt x="174" y="1210" on="1" overlap="1"/>
+        <pt x="174" y="1210" on="1"/>
         <pt x="883" y="1210" on="1"/>
         <pt x="883" y="1074" on="1"/>
         <pt x="325" y="1074" on="1"/>
@@ -3238,7 +3238,7 @@
 
     <TTGlyph name="Eogonek" xMin="174" yMin="-303" xMax="917" yMax="1362">
       <contour>
-        <pt x="174" y="1362" on="1" overlap="1"/>
+        <pt x="174" y="1362" on="1"/>
         <pt x="883" y="1362" on="1"/>
         <pt x="883" y="1225" on="1"/>
         <pt x="325" y="1225" on="1"/>
@@ -3305,7 +3305,7 @@
 
     <TTGlyph name="Eth" xMin="0" yMin="0" xMax="953" yMax="1362">
       <contour>
-        <pt x="0" y="756" on="1" overlap="1"/>
+        <pt x="0" y="756" on="1"/>
         <pt x="151" y="756" on="1"/>
         <pt x="151" y="1362" on="1"/>
         <pt x="469" y="1362" on="1"/>
@@ -3355,7 +3355,7 @@
 
     <TTGlyph name="F" xMin="189" yMin="0" xMax="908" yMax="1362">
       <contour>
-        <pt x="189" y="1362" on="1" overlap="1"/>
+        <pt x="189" y="1362" on="1"/>
         <pt x="908" y="1362" on="1"/>
         <pt x="908" y="1225" on="1"/>
         <pt x="340" y="1225" on="1"/>
@@ -3397,7 +3397,7 @@
 
     <TTGlyph name="F.hex" xMin="189" yMin="0" xMax="908" yMax="1210">
       <contour>
-        <pt x="189" y="1210" on="1" overlap="1"/>
+        <pt x="189" y="1210" on="1"/>
         <pt x="908" y="1210" on="1"/>
         <pt x="908" y="1074" on="1"/>
         <pt x="340" y="1074" on="1"/>
@@ -3440,7 +3440,7 @@
 
     <TTGlyph name="G" xMin="129" yMin="-21" xMax="908" yMax="1382">
       <contour>
-        <pt x="129" y="-21" on="0" overlap="1"/>
+        <pt x="129" y="-21" on="0"/>
         <pt x="129" y="681" on="1"/>
         <pt x="129" y="1032" on="0"/>
         <pt x="365" y="1382" on="0"/>
@@ -3522,7 +3522,7 @@
 
     <TTGlyph name="H" xMin="151" yMin="0" xMax="908" yMax="1362">
       <contour>
-        <pt x="151" y="1362" on="1" overlap="1"/>
+        <pt x="151" y="1362" on="1"/>
         <pt x="303" y="1362" on="1"/>
         <pt x="303" y="756" on="1"/>
         <pt x="756" y="756" on="1"/>
@@ -3567,7 +3567,7 @@
 
     <TTGlyph name="Hbar" xMin="0" yMin="0" xMax="1059" yMax="1362">
       <contour>
-        <pt x="151" y="1074" on="1" overlap="1"/>
+        <pt x="151" y="1074" on="1"/>
         <pt x="0" y="1074" on="1"/>
         <pt x="0" y="1210" on="1"/>
         <pt x="151" y="1210" on="1"/>
@@ -3631,7 +3631,7 @@
 
     <TTGlyph name="I" xMin="227" yMin="0" xMax="832" yMax="1362">
       <contour>
-        <pt x="227" y="121" on="1" overlap="1"/>
+        <pt x="227" y="121" on="1"/>
         <pt x="454" y="136" on="1"/>
         <pt x="454" y="1225" on="1"/>
         <pt x="227" y="1241" on="1"/>
@@ -3701,7 +3701,7 @@
 
     <TTGlyph name="Iogonek" xMin="227" yMin="-303" xMax="858" yMax="1362">
       <contour>
-        <pt x="227" y="121" on="1" overlap="1"/>
+        <pt x="227" y="121" on="1"/>
         <pt x="454" y="136" on="1"/>
         <pt x="454" y="1225" on="1"/>
         <pt x="227" y="1241" on="1"/>
@@ -3768,7 +3768,7 @@
 
     <TTGlyph name="J" xMin="127" yMin="-23" xMax="848" yMax="1362">
       <contour>
-        <pt x="375" y="-23" on="0" overlap="1"/>
+        <pt x="375" y="-23" on="0"/>
         <pt x="205" y="83" on="0"/>
         <pt x="127" y="189" on="1"/>
         <pt x="231" y="272" on="1"/>
@@ -3812,7 +3812,7 @@
 
     <TTGlyph name="K" xMin="151" yMin="0" xMax="981" yMax="1362">
       <contour>
-        <pt x="151" y="0" on="1" overlap="1"/>
+        <pt x="151" y="0" on="1"/>
         <pt x="151" y="1362" on="1"/>
         <pt x="303" y="1362" on="1"/>
         <pt x="303" y="746" on="1"/>
@@ -3853,7 +3853,7 @@
 
     <TTGlyph name="L" xMin="151" yMin="0" xMax="908" yMax="1362">
       <contour>
-        <pt x="151" y="1362" on="1" overlap="1"/>
+        <pt x="151" y="1362" on="1"/>
         <pt x="303" y="1362" on="1"/>
         <pt x="303" y="136" on="1"/>
         <pt x="908" y="136" on="1"/>
@@ -3884,7 +3884,7 @@
 
     <TTGlyph name="M" xMin="-15" yMin="0" xMax="1074" yMax="1362">
       <contour>
-        <pt x="536" y="225" on="1" overlap="1"/>
+        <pt x="536" y="225" on="1"/>
         <pt x="766" y="1362" on="1"/>
         <pt x="980" y="1362" on="1"/>
         <pt x="1074" y="0" on="1"/>
@@ -3936,7 +3936,7 @@
 
     <TTGlyph name="N" xMin="151" yMin="0" xMax="908" yMax="1362">
       <contour>
-        <pt x="151" y="1362" on="1" overlap="1"/>
+        <pt x="151" y="1362" on="1"/>
         <pt x="320" y="1362" on="1"/>
         <pt x="768" y="393" on="1"/>
         <pt x="768" y="1362" on="1"/>
@@ -3991,7 +3991,7 @@
 
     <TTGlyph name="O" xMin="102" yMin="-19" xMax="957" yMax="1380">
       <contour>
-        <pt x="318" y="-19" on="0" overlap="1"/>
+        <pt x="318" y="-19" on="0"/>
         <pt x="102" y="324" on="0"/>
         <pt x="102" y="681" on="1"/>
         <pt x="102" y="1024" on="0"/>
@@ -4071,7 +4071,7 @@
 
     <TTGlyph name="P" xMin="151" yMin="0" xMax="900" yMax="1362">
       <contour>
-        <pt x="151" y="1362" on="1" overlap="1"/>
+        <pt x="151" y="1362" on="1"/>
         <pt x="458" y="1362" on="1"/>
         <pt x="676" y="1362" on="0"/>
         <pt x="900" y="1127" on="0"/>
@@ -4129,7 +4129,7 @@
 
     <TTGlyph name="Q" xMin="102" yMin="-310" xMax="957" yMax="1380">
       <contour>
-        <pt x="497" y="-310" on="0" overlap="1"/>
+        <pt x="497" y="-310" on="0"/>
         <pt x="453" y="-13" on="1"/>
         <pt x="279" y="16" on="0"/>
         <pt x="102" y="358" on="0"/>
@@ -4193,7 +4193,7 @@
 
     <TTGlyph name="R" xMin="151" yMin="0" xMax="940" yMax="1362">
       <contour>
-        <pt x="151" y="1362" on="1" overlap="1"/>
+        <pt x="151" y="1362" on="1"/>
         <pt x="458" y="1362" on="1"/>
         <pt x="676" y="1362" on="0"/>
         <pt x="900" y="1153" on="0"/>
@@ -4266,7 +4266,7 @@
 
     <TTGlyph name="S" xMin="161" yMin="-17" xMax="865" yMax="1380">
       <contour>
-        <pt x="400" y="-17" on="0" overlap="1"/>
+        <pt x="400" y="-17" on="0"/>
         <pt x="241" y="34" on="0"/>
         <pt x="161" y="81" on="1"/>
         <pt x="212" y="197" on="1"/>
@@ -4350,7 +4350,7 @@
 
     <TTGlyph name="Scedilla" xMin="161" yMin="-303" xMax="865" yMax="1380">
       <contour>
-        <pt x="400" y="-17" on="0" overlap="1"/>
+        <pt x="400" y="-17" on="0"/>
         <pt x="241" y="34" on="0"/>
         <pt x="161" y="81" on="1"/>
         <pt x="212" y="197" on="1"/>
@@ -4453,7 +4453,7 @@
 
     <TTGlyph name="T" xMin="121" yMin="0" xMax="938" yMax="1362">
       <contour>
-        <pt x="454" y="1225" on="1" overlap="1"/>
+        <pt x="454" y="1225" on="1"/>
         <pt x="121" y="1225" on="1"/>
         <pt x="121" y="1362" on="1"/>
         <pt x="938" y="1362" on="1"/>
@@ -4489,7 +4489,7 @@
 
     <TTGlyph name="Thorn" xMin="151" yMin="0" xMax="900" yMax="1362">
       <contour>
-        <pt x="151" y="1362" on="1" overlap="1"/>
+        <pt x="151" y="1362" on="1"/>
         <pt x="303" y="1362" on="1"/>
         <pt x="303" y="1089" on="1"/>
         <pt x="458" y="1089" on="1"/>
@@ -4562,7 +4562,7 @@
 
     <TTGlyph name="U" xMin="151" yMin="-23" xMax="902" yMax="1362">
       <contour>
-        <pt x="347" y="-23" on="0" overlap="1"/>
+        <pt x="347" y="-23" on="0"/>
         <pt x="151" y="177" on="0"/>
         <pt x="151" y="365" on="1"/>
         <pt x="151" y="1362" on="1"/>
@@ -4630,7 +4630,7 @@
 
     <TTGlyph name="Uogonek" xMin="151" yMin="-303" xMax="902" yMax="1362">
       <contour>
-        <pt x="478" y="-303" on="0" overlap="1"/>
+        <pt x="478" y="-303" on="0"/>
         <pt x="378" y="-228" on="0"/>
         <pt x="378" y="-159" on="1"/>
         <pt x="378" y="-76" on="0"/>
@@ -4699,7 +4699,7 @@
 
     <TTGlyph name="V" xMin="78" yMin="0" xMax="980" yMax="1362">
       <contour>
-        <pt x="246" y="1362" on="1" overlap="1"/>
+        <pt x="246" y="1362" on="1"/>
         <pt x="528" y="235" on="1"/>
         <pt x="828" y="1362" on="1"/>
         <pt x="980" y="1362" on="1"/>
@@ -4730,7 +4730,7 @@
 
     <TTGlyph name="W" xMin="-22" yMin="0" xMax="1082" yMax="1362">
       <contour>
-        <pt x="524" y="1060" on="1" overlap="1"/>
+        <pt x="524" y="1060" on="1"/>
         <pt x="371" y="0" on="1"/>
         <pt x="159" y="0" on="1"/>
         <pt x="-22" y="1362" on="1"/>
@@ -4801,7 +4801,7 @@
 
     <TTGlyph name="X" xMin="110" yMin="0" xMax="949" yMax="1362">
       <contour>
-        <pt x="515" y="561" on="1" overlap="1"/>
+        <pt x="515" y="561" on="1"/>
         <pt x="269" y="0" on="1"/>
         <pt x="110" y="0" on="1"/>
         <pt x="439" y="719" on="1"/>
@@ -4843,7 +4843,7 @@
 
     <TTGlyph name="Y" xMin="102" yMin="0" xMax="969" yMax="1362">
       <contour>
-        <pt x="454" y="605" on="1" overlap="1"/>
+        <pt x="454" y="605" on="1"/>
         <pt x="102" y="1362" on="1"/>
         <pt x="273" y="1362" on="1"/>
         <pt x="539" y="766" on="1"/>
@@ -4905,7 +4905,7 @@
 
     <TTGlyph name="Z" xMin="201" yMin="0" xMax="859" yMax="1362">
       <contour>
-        <pt x="201" y="117" on="1" overlap="1"/>
+        <pt x="201" y="117" on="1"/>
         <pt x="700" y="1225" on="1"/>
         <pt x="201" y="1225" on="1"/>
         <pt x="201" y="1362" on="1"/>
@@ -4958,7 +4958,7 @@
 
     <TTGlyph name="a" xMin="117" yMin="-15" xMax="881" yMax="1085">
       <contour>
-        <pt x="303" y="-15" on="0" overlap="1"/>
+        <pt x="303" y="-15" on="0"/>
         <pt x="181" y="57" on="0"/>
         <pt x="117" y="181" on="0"/>
         <pt x="117" y="257" on="1"/>
@@ -5053,7 +5053,7 @@
 
     <TTGlyph name="acute" xMin="346" yMin="756" xMax="758" yMax="1362">
       <contour>
-        <pt x="346" y="756" on="1" overlap="1"/>
+        <pt x="346" y="756" on="1"/>
         <pt x="484" y="1362" on="1"/>
         <pt x="758" y="1362" on="1"/>
         <pt x="473" y="756" on="1"/>
@@ -5074,7 +5074,7 @@
 
     <TTGlyph name="acutecomb" xMin="437" yMin="1248" xMax="842" yMax="1643">
       <contour>
-        <pt x="582" y="1643" on="1" overlap="1"/>
+        <pt x="582" y="1643" on="1"/>
         <pt x="842" y="1643" on="1"/>
         <pt x="579" y="1248" on="1"/>
         <pt x="437" y="1248" on="1"/>
@@ -5105,7 +5105,7 @@
 
     <TTGlyph name="acutecomb.case" xMin="437" yMin="1475" xMax="842" yMax="1870">
       <contour>
-        <pt x="582" y="1870" on="1" overlap="1"/>
+        <pt x="582" y="1870" on="1"/>
         <pt x="842" y="1870" on="1"/>
         <pt x="579" y="1475" on="1"/>
         <pt x="437" y="1475" on="1"/>
@@ -5151,7 +5151,7 @@
 
     <TTGlyph name="ampersand" xMin="127" yMin="-17" xMax="1112" yMax="1362">
       <contour>
-        <pt x="327" y="568" on="0" overlap="1"/>
+        <pt x="327" y="568" on="0"/>
         <pt x="198" y="743" on="0"/>
         <pt x="136" y="919" on="0"/>
         <pt x="136" y="1019" on="1"/>
@@ -5238,7 +5238,7 @@
 
     <TTGlyph name="aogonek" xMin="117" yMin="-303" xMax="907" yMax="1085">
       <contour>
-        <pt x="303" y="-15" on="0" overlap="1"/>
+        <pt x="303" y="-15" on="0"/>
         <pt x="181" y="57" on="0"/>
         <pt x="117" y="181" on="0"/>
         <pt x="117" y="257" on="1"/>
@@ -5344,7 +5344,7 @@
 
     <TTGlyph name="arrowdown" xMin="183" yMin="-43" xMax="876" yMax="1362">
       <contour>
-        <pt x="183" y="274" on="1" overlap="1"/>
+        <pt x="183" y="274" on="1"/>
         <pt x="265" y="363" on="1"/>
         <pt x="454" y="208" on="1"/>
         <pt x="454" y="1362" on="1"/>
@@ -5371,7 +5371,7 @@
 
     <TTGlyph name="arrowleft" xMin="0" yMin="335" xMax="1102" yMax="1008">
       <contour>
-        <pt x="0" y="643" on="1" overlap="1"/>
+        <pt x="0" y="643" on="1"/>
         <pt x="0" y="700" on="1"/>
         <pt x="318" y="1008" on="1"/>
         <pt x="407" y="927" on="1"/>
@@ -5399,7 +5399,7 @@
 
     <TTGlyph name="arrowright" xMin="0" yMin="335" xMax="1102" yMax="1008">
       <contour>
-        <pt x="851" y="738" on="1" overlap="1"/>
+        <pt x="851" y="738" on="1"/>
         <pt x="696" y="927" on="1"/>
         <pt x="785" y="1008" on="1"/>
         <pt x="1102" y="700" on="1"/>
@@ -5427,7 +5427,7 @@
 
     <TTGlyph name="arrowup" xMin="183" yMin="0" xMax="876" yMax="1405">
       <contour>
-        <pt x="454" y="1154" on="1" overlap="1"/>
+        <pt x="454" y="1154" on="1"/>
         <pt x="265" y="998" on="1"/>
         <pt x="183" y="1087" on="1"/>
         <pt x="492" y="1405" on="1"/>
@@ -5454,7 +5454,7 @@
 
     <TTGlyph name="asciicircum" xMin="155" yMin="303" xMax="911" yMax="1210">
       <contour>
-        <pt x="299" y="303" on="1" overlap="1"/>
+        <pt x="299" y="303" on="1"/>
         <pt x="526" y="1027" on="1"/>
         <pt x="753" y="303" on="1"/>
         <pt x="911" y="303" on="1"/>
@@ -5487,7 +5487,7 @@
 
     <TTGlyph name="asciitilde" xMin="14" yMin="458" xMax="1049" yMax="904">
       <contour>
-        <pt x="14" y="480" on="0" overlap="1"/>
+        <pt x="14" y="480" on="0"/>
         <pt x="14" y="515" on="1"/>
         <pt x="14" y="719" on="0"/>
         <pt x="167" y="904" on="0"/>
@@ -5559,7 +5559,7 @@
 
     <TTGlyph name="asterisk" xMin="2" yMin="179" xMax="1057" yMax="1184">
       <contour>
-        <pt x="51" y="893" on="1" overlap="1"/>
+        <pt x="51" y="893" on="1"/>
         <pt x="458" y="752" on="1"/>
         <pt x="450" y="1184" on="1"/>
         <pt x="609" y="1184" on="1"/>
@@ -5580,7 +5580,7 @@
 
     <TTGlyph name="at" xMin="132" yMin="-172" xMax="908" yMax="1231">
       <contour>
-        <pt x="387" y="-172" on="0" overlap="1"/>
+        <pt x="387" y="-172" on="0"/>
         <pt x="132" y="148" on="0"/>
         <pt x="132" y="501" on="1"/>
         <pt x="132" y="872" on="0"/>
@@ -5678,7 +5678,7 @@
 
     <TTGlyph name="b" xMin="151" yMin="-21" xMax="957" yMax="1513">
       <contour>
-        <pt x="329" y="-21" on="0" overlap="1"/>
+        <pt x="329" y="-21" on="0"/>
         <pt x="151" y="34" on="1"/>
         <pt x="151" y="1513" on="1"/>
         <pt x="303" y="1513" on="1"/>
@@ -5733,7 +5733,7 @@
 
     <TTGlyph name="backslash" xMin="146" yMin="-303" xMax="913" yMax="1513">
       <contour>
-        <pt x="146" y="1513" on="1" overlap="1"/>
+        <pt x="146" y="1513" on="1"/>
         <pt x="306" y="1513" on="1"/>
         <pt x="913" y="-303" on="1"/>
         <pt x="755" y="-303" on="1"/>
@@ -5754,7 +5754,7 @@
 
     <TTGlyph name="bar" xMin="454" yMin="-303" xMax="605" yMax="1513">
       <contour>
-        <pt x="454" y="1513" on="1" overlap="1"/>
+        <pt x="454" y="1513" on="1"/>
         <pt x="605" y="1513" on="1"/>
         <pt x="605" y="-303" on="1"/>
         <pt x="454" y="-303" on="1"/>
@@ -5775,7 +5775,7 @@
 
     <TTGlyph name="block" xMin="0" yMin="-303" xMax="1059" yMax="1513">
       <contour>
-        <pt x="0" y="1513" on="1" overlap="1"/>
+        <pt x="0" y="1513" on="1"/>
         <pt x="1059" y="1513" on="1"/>
         <pt x="1059" y="-303" on="1"/>
         <pt x="0" y="-303" on="1"/>
@@ -5796,7 +5796,7 @@
 
     <TTGlyph name="braceleft" xMin="106" yMin="-290" xMax="919" yMax="1500">
       <contour>
-        <pt x="237" y="677" on="0" overlap="1"/>
+        <pt x="237" y="677" on="0"/>
         <pt x="374" y="724" on="0"/>
         <pt x="435" y="805" on="0"/>
         <pt x="435" y="876" on="1"/>
@@ -5873,7 +5873,7 @@
 
     <TTGlyph name="braceright" xMin="140" yMin="-290" xMax="953" yMax="1500">
       <contour>
-        <pt x="822" y="533" on="0" overlap="1"/>
+        <pt x="822" y="533" on="0"/>
         <pt x="685" y="486" on="0"/>
         <pt x="624" y="405" on="0"/>
         <pt x="624" y="334" on="1"/>
@@ -5950,7 +5950,7 @@
 
     <TTGlyph name="bracketleft" xMin="303" yMin="-303" xMax="908" yMax="1513">
       <contour>
-        <pt x="303" y="1513" on="1" overlap="1"/>
+        <pt x="303" y="1513" on="1"/>
         <pt x="908" y="1513" on="1"/>
         <pt x="908" y="1380" on="1"/>
         <pt x="454" y="1380" on="1"/>
@@ -5978,7 +5978,7 @@
 
     <TTGlyph name="bracketright" xMin="151" yMin="-303" xMax="756" yMax="1513">
       <contour>
-        <pt x="151" y="-170" on="1" overlap="1"/>
+        <pt x="151" y="-170" on="1"/>
         <pt x="605" y="-170" on="1"/>
         <pt x="605" y="1380" on="1"/>
         <pt x="151" y="1380" on="1"/>
@@ -6010,7 +6010,7 @@
 
     <TTGlyph name="c" xMin="136" yMin="-19" xMax="883" yMax="1074">
       <contour>
-        <pt x="753" y="894" on="0" overlap="1"/>
+        <pt x="753" y="894" on="0"/>
         <pt x="628" y="938" on="0"/>
         <pt x="548" y="938" on="1"/>
         <pt x="410" y="938" on="0"/>
@@ -6069,7 +6069,7 @@
 
     <TTGlyph name="ccedilla" xMin="136" yMin="-303" xMax="883" yMax="1074">
       <contour>
-        <pt x="753" y="894" on="0" overlap="1"/>
+        <pt x="753" y="894" on="0"/>
         <pt x="628" y="938" on="0"/>
         <pt x="548" y="938" on="1"/>
         <pt x="410" y="938" on="0"/>
@@ -6161,7 +6161,7 @@
 
     <TTGlyph name="comma" xMin="301" yMin="-303" xMax="713" yMax="303">
       <contour>
-        <pt x="301" y="-303" on="1" overlap="1"/>
+        <pt x="301" y="-303" on="1"/>
         <pt x="439" y="303" on="1"/>
         <pt x="713" y="303" on="1"/>
         <pt x="427" y="-303" on="1"/>
@@ -6182,7 +6182,7 @@
 
     <TTGlyph name="copyright" xMin="0" yMin="-174" xMax="1059" yMax="1384">
       <contour>
-        <pt x="368" y="-174" on="0" overlap="1"/>
+        <pt x="368" y="-174" on="0"/>
         <pt x="129" y="16" on="0"/>
         <pt x="0" y="368" on="0"/>
         <pt x="0" y="605" on="1"/>
@@ -6290,7 +6290,7 @@
 
     <TTGlyph name="d" xMin="102" yMin="-15" xMax="908" yMax="1513">
       <contour>
-        <pt x="267" y="-15" on="0" overlap="1"/>
+        <pt x="267" y="-15" on="0"/>
         <pt x="102" y="229" on="0"/>
         <pt x="102" y="456" on="1"/>
         <pt x="102" y="655" on="0"/>
@@ -6349,7 +6349,7 @@
 
     <TTGlyph name="dcroat" xMin="102" yMin="-15" xMax="1059" yMax="1513">
       <contour>
-        <pt x="267" y="-15" on="0" overlap="1"/>
+        <pt x="267" y="-15" on="0"/>
         <pt x="102" y="229" on="0"/>
         <pt x="102" y="456" on="1"/>
         <pt x="102" y="655" on="0"/>
@@ -6420,7 +6420,7 @@
 
     <TTGlyph name="dollar" xMin="163" yMin="-303" xMax="866" yMax="1664">
       <contour>
-        <pt x="439" y="-15" on="1" overlap="1"/>
+        <pt x="439" y="-15" on="1"/>
         <pt x="364" y="-8" on="0"/>
         <pt x="231" y="41" on="0"/>
         <pt x="163" y="81" on="1"/>
@@ -6512,7 +6512,7 @@
 
     <TTGlyph name="dotlessi" xMin="159" yMin="0" xMax="915" yMax="1070">
       <contour>
-        <pt x="915" y="0" on="1" overlap="1"/>
+        <pt x="915" y="0" on="1"/>
         <pt x="159" y="0" on="1"/>
         <pt x="159" y="113" on="1"/>
         <pt x="461" y="132" on="1"/>
@@ -6547,7 +6547,7 @@
 
     <TTGlyph name="e" xMin="113" yMin="-19" xMax="879" yMax="1074">
       <contour>
-        <pt x="113" y="707" on="0" overlap="1"/>
+        <pt x="113" y="707" on="0"/>
         <pt x="218" y="952" on="0"/>
         <pt x="403" y="1074" on="0"/>
         <pt x="524" y="1074" on="1"/>
@@ -6642,7 +6642,7 @@
 
     <TTGlyph name="eight" xMin="98" yMin="-19" xMax="953" yMax="1380">
       <contour>
-        <pt x="383" y="-19" on="0" overlap="1"/>
+        <pt x="383" y="-19" on="0"/>
         <pt x="191" y="67" on="0"/>
         <pt x="98" y="215" on="0"/>
         <pt x="98" y="310" on="1"/>
@@ -6749,7 +6749,7 @@
 
     <TTGlyph name="ellipsis" xMin="119" yMin="-23" xMax="940" yMax="189">
       <contour>
-        <pt x="180" y="-23" on="0" overlap="1"/>
+        <pt x="180" y="-23" on="0"/>
         <pt x="119" y="37" on="0"/>
         <pt x="119" y="83" on="1"/>
         <pt x="119" y="130" on="0"/>
@@ -6826,7 +6826,7 @@
 
     <TTGlyph name="emdash" xMin="0" yMin="605" xMax="1059" yMax="738">
       <contour>
-        <pt x="0" y="738" on="1" overlap="1"/>
+        <pt x="0" y="738" on="1"/>
         <pt x="1059" y="738" on="1"/>
         <pt x="1059" y="605" on="1"/>
         <pt x="0" y="605" on="1"/>
@@ -6848,7 +6848,7 @@
 
     <TTGlyph name="endash" xMin="0" yMin="605" xMax="1059" yMax="738">
       <contour>
-        <pt x="0" y="738" on="1" overlap="1"/>
+        <pt x="0" y="738" on="1"/>
         <pt x="1059" y="738" on="1"/>
         <pt x="1059" y="605" on="1"/>
         <pt x="0" y="605" on="1"/>
@@ -6870,7 +6870,7 @@
 
     <TTGlyph name="eogonek" xMin="113" yMin="-303" xMax="883" yMax="1074">
       <contour>
-        <pt x="666" y="-303" on="0" overlap="1"/>
+        <pt x="666" y="-303" on="0"/>
         <pt x="565" y="-228" on="0"/>
         <pt x="565" y="-159" on="1"/>
         <pt x="565" y="-76" on="0"/>
@@ -6954,7 +6954,7 @@
 
     <TTGlyph name="equal" xMin="38" yMin="461" xMax="1021" yMax="900">
       <contour>
-        <pt x="38" y="900" on="1" overlap="1"/>
+        <pt x="38" y="900" on="1"/>
         <pt x="1021" y="900" on="1"/>
         <pt x="1021" y="764" on="1"/>
         <pt x="38" y="764" on="1"/>
@@ -6990,7 +6990,7 @@
 
     <TTGlyph name="exclam" xMin="356" yMin="-23" xMax="703" yMax="1362">
       <contour>
-        <pt x="401" y="1362" on="1" overlap="1"/>
+        <pt x="401" y="1362" on="1"/>
         <pt x="658" y="1362" on="1"/>
         <pt x="581" y="529" on="1"/>
         <pt x="478" y="529" on="1"/>
@@ -7033,7 +7033,7 @@
 
     <TTGlyph name="exclamdown" xMin="356" yMin="-303" xMax="703" yMax="1082">
       <contour>
-        <pt x="658" y="-303" on="1" overlap="1"/>
+        <pt x="658" y="-303" on="1"/>
         <pt x="401" y="-303" on="1"/>
         <pt x="478" y="530" on="1"/>
         <pt x="581" y="530" on="1"/>
@@ -7076,7 +7076,7 @@
 
     <TTGlyph name="f" xMin="140" yMin="0" xMax="936" yMax="1536">
       <contour>
-        <pt x="443" y="772" on="1" overlap="1"/>
+        <pt x="443" y="772" on="1"/>
         <pt x="140" y="772" on="1"/>
         <pt x="140" y="908" on="1"/>
         <pt x="443" y="908" on="1"/>
@@ -7134,7 +7134,7 @@
 
     <TTGlyph name="five" xMin="130" yMin="-321" xMax="898" yMax="1210">
       <contour>
-        <pt x="343" y="-167" on="0" overlap="1"/>
+        <pt x="343" y="-167" on="0"/>
         <pt x="607" y="-63" on="0"/>
         <pt x="736" y="101" on="0"/>
         <pt x="736" y="223" on="1"/>
@@ -7191,7 +7191,7 @@
 
     <TTGlyph name="florin" xMin="140" yMin="-327" xMax="936" yMax="1536">
       <contour>
-        <pt x="333" y="-153" on="0" overlap="1"/>
+        <pt x="333" y="-153" on="0"/>
         <pt x="443" y="10" on="0"/>
         <pt x="443" y="134" on="1"/>
         <pt x="443" y="923" on="1"/>
@@ -7252,7 +7252,7 @@
 
     <TTGlyph name="four" xMin="83" yMin="-151" xMax="953" yMax="1210">
       <contour>
-        <pt x="651" y="151" on="1" overlap="1"/>
+        <pt x="651" y="151" on="1"/>
         <pt x="83" y="151" on="1"/>
         <pt x="83" y="248" on="1"/>
         <pt x="512" y="1210" on="1"/>
@@ -7308,7 +7308,7 @@
 
     <TTGlyph name="g" xMin="106" yMin="-303" xMax="997" yMax="1216">
       <contour>
-        <pt x="568" y="588" on="0" overlap="1"/>
+        <pt x="568" y="588" on="0"/>
         <pt x="665" y="636" on="0"/>
         <pt x="713" y="718" on="0"/>
         <pt x="713" y="768" on="1"/>
@@ -7471,7 +7471,7 @@
 
     <TTGlyph name="germandbls" xMin="151" yMin="-19" xMax="980" yMax="1532">
       <contour>
-        <pt x="151" y="1276" on="0" overlap="1"/>
+        <pt x="151" y="1276" on="0"/>
         <pt x="237" y="1445" on="0"/>
         <pt x="393" y="1532" on="0"/>
         <pt x="497" y="1532" on="1"/>
@@ -7578,7 +7578,7 @@
 
     <TTGlyph name="grave" xMin="346" yMin="756" xMax="758" yMax="1362">
       <contour>
-        <pt x="346" y="1362" on="1" overlap="1"/>
+        <pt x="346" y="1362" on="1"/>
         <pt x="620" y="1362" on="1"/>
         <pt x="758" y="756" on="1"/>
         <pt x="632" y="756" on="1"/>
@@ -7599,7 +7599,7 @@
 
     <TTGlyph name="gravecomb" xMin="217" yMin="1248" xMax="622" yMax="1643">
       <contour>
-        <pt x="480" y="1248" on="1" overlap="1"/>
+        <pt x="480" y="1248" on="1"/>
         <pt x="217" y="1643" on="1"/>
         <pt x="477" y="1643" on="1"/>
         <pt x="622" y="1248" on="1"/>
@@ -7630,7 +7630,7 @@
 
     <TTGlyph name="gravecomb.case" xMin="217" yMin="1475" xMax="622" yMax="1870">
       <contour>
-        <pt x="480" y="1475" on="1" overlap="1"/>
+        <pt x="480" y="1475" on="1"/>
         <pt x="217" y="1870" on="1"/>
         <pt x="477" y="1870" on="1"/>
         <pt x="622" y="1475" on="1"/>
@@ -7661,7 +7661,7 @@
 
     <TTGlyph name="greater" xMin="151" yMin="-68" xMax="940" yMax="1432">
       <contour>
-        <pt x="772" y="671" on="1" overlap="1"/>
+        <pt x="772" y="671" on="1"/>
         <pt x="151" y="1231" on="1"/>
         <pt x="151" y="1432" on="1"/>
         <pt x="940" y="717" on="1"/>
@@ -7674,7 +7674,7 @@
 
     <TTGlyph name="h" xMin="151" yMin="0" xMax="908" yMax="1513">
       <contour>
-        <pt x="390" y="954" on="0" overlap="1"/>
+        <pt x="390" y="954" on="0"/>
         <pt x="478" y="1029" on="0"/>
         <pt x="583" y="1074" on="0"/>
         <pt x="647" y="1074" on="1"/>
@@ -7722,7 +7722,7 @@
 
     <TTGlyph name="h.short" xMin="151" yMin="0" xMax="908" yMax="1362">
       <contour>
-        <pt x="390" y="954" on="0" overlap="1"/>
+        <pt x="390" y="954" on="0"/>
         <pt x="478" y="1029" on="0"/>
         <pt x="583" y="1074" on="0"/>
         <pt x="647" y="1074" on="1"/>
@@ -7770,7 +7770,7 @@
 
     <TTGlyph name="hbar" xMin="0" yMin="0" xMax="908" yMax="1513">
       <contour>
-        <pt x="390" y="954" on="0" overlap="1"/>
+        <pt x="390" y="954" on="0"/>
         <pt x="478" y="1029" on="0"/>
         <pt x="583" y="1074" on="0"/>
         <pt x="647" y="1074" on="1"/>
@@ -7831,7 +7831,7 @@
 
     <TTGlyph name="hyphen" xMin="151" yMin="605" xMax="908" yMax="738">
       <contour>
-        <pt x="151" y="738" on="1" overlap="1"/>
+        <pt x="151" y="738" on="1"/>
         <pt x="908" y="738" on="1"/>
         <pt x="908" y="605" on="1"/>
         <pt x="151" y="605" on="1"/>
@@ -7883,7 +7883,7 @@
 
     <TTGlyph name="iogonek" xMin="159" yMin="-303" xMax="941" yMax="1539">
       <contour>
-        <pt x="915" y="0" on="1" overlap="1"/>
+        <pt x="915" y="0" on="1"/>
         <pt x="847" y="-18" on="0"/>
         <pt x="781" y="-83" on="0"/>
         <pt x="781" y="-117" on="1"/>
@@ -7988,7 +7988,7 @@
 
     <TTGlyph name="k" xMin="151" yMin="0" xMax="946" yMax="1513">
       <contour>
-        <pt x="151" y="0" on="1" overlap="1"/>
+        <pt x="151" y="0" on="1"/>
         <pt x="151" y="1513" on="1"/>
         <pt x="303" y="1513" on="1"/>
         <pt x="303" y="607" on="1"/>
@@ -8032,7 +8032,7 @@
 
     <TTGlyph name="l" xMin="151" yMin="0" xMax="908" yMax="1524">
       <contour>
-        <pt x="151" y="113" on="1" overlap="1"/>
+        <pt x="151" y="113" on="1"/>
         <pt x="454" y="132" on="1"/>
         <pt x="454" y="1392" on="1"/>
         <pt x="170" y="1392" on="1"/>
@@ -8072,7 +8072,7 @@
 
     <TTGlyph name="less" xMin="119" yMin="-70" xMax="908" yMax="1430">
       <contour>
-        <pt x="287" y="692" on="1" overlap="1"/>
+        <pt x="287" y="692" on="1"/>
         <pt x="908" y="131" on="1"/>
         <pt x="908" y="-70" on="1"/>
         <pt x="119" y="645" on="1"/>
@@ -8085,7 +8085,7 @@
 
     <TTGlyph name="m" xMin="57" yMin="0" xMax="1002" yMax="1074">
       <contour>
-        <pt x="605" y="0" on="1" overlap="1"/>
+        <pt x="605" y="0" on="1"/>
         <pt x="454" y="0" on="1"/>
         <pt x="454" y="823" on="1"/>
         <pt x="454" y="885" on="0"/>
@@ -8161,7 +8161,7 @@
 
     <TTGlyph name="minus" xMin="38" yMin="613" xMax="1021" yMax="749">
       <contour>
-        <pt x="38" y="749" on="1" overlap="1"/>
+        <pt x="38" y="749" on="1"/>
         <pt x="1021" y="749" on="1"/>
         <pt x="1021" y="613" on="1"/>
         <pt x="38" y="613" on="1"/>
@@ -8183,7 +8183,7 @@
 
     <TTGlyph name="n" xMin="151" yMin="0" xMax="908" yMax="1074">
       <contour>
-        <pt x="390" y="954" on="0" overlap="1"/>
+        <pt x="390" y="954" on="0"/>
         <pt x="478" y="1029" on="0"/>
         <pt x="583" y="1074" on="0"/>
         <pt x="647" y="1074" on="1"/>
@@ -8241,7 +8241,7 @@
 
     <TTGlyph name="nine" xMin="98" yMin="-314" xMax="929" yMax="1227">
       <contour>
-        <pt x="400" y="-145" on="0" overlap="1"/>
+        <pt x="400" y="-145" on="0"/>
         <pt x="614" y="-3" on="0"/>
         <pt x="738" y="241" on="0"/>
         <pt x="755" y="435" on="1"/>
@@ -8319,7 +8319,7 @@
 
     <TTGlyph name="numbersign" xMin="76" yMin="-38" xMax="983" yMax="1399">
       <contour>
-        <pt x="269" y="390" on="1" overlap="1"/>
+        <pt x="269" y="390" on="1"/>
         <pt x="76" y="390" on="1"/>
         <pt x="76" y="522" on="1"/>
         <pt x="269" y="522" on="1"/>
@@ -8437,7 +8437,7 @@
 
     <TTGlyph name="o" xMin="102" yMin="-19" xMax="957" yMax="1078">
       <contour>
-        <pt x="396" y="-19" on="0" overlap="1"/>
+        <pt x="396" y="-19" on="0"/>
         <pt x="203" y="115" on="0"/>
         <pt x="102" y="362" on="0"/>
         <pt x="102" y="529" on="1"/>
@@ -8517,7 +8517,7 @@
 
     <TTGlyph name="one" xMin="151" yMin="0" xMax="930" yMax="1233">
       <contour>
-        <pt x="930" y="0" on="1" overlap="1"/>
+        <pt x="930" y="0" on="1"/>
         <pt x="174" y="0" on="1"/>
         <pt x="174" y="113" on="1"/>
         <pt x="477" y="132" on="1"/>
@@ -8557,7 +8557,7 @@
 
     <TTGlyph name="p" xMin="151" yMin="-303" xMax="957" yMax="1074">
       <contour>
-        <pt x="413" y="-21" on="0" overlap="1"/>
+        <pt x="413" y="-21" on="0"/>
         <pt x="303" y="-4" on="1"/>
         <pt x="303" y="-303" on="1"/>
         <pt x="151" y="-303" on="1"/>
@@ -8617,7 +8617,7 @@
 
     <TTGlyph name="parenleft" xMin="297" yMin="-290" xMax="919" yMax="1500">
       <contour>
-        <pt x="297" y="980" on="0" overlap="1"/>
+        <pt x="297" y="980" on="0"/>
         <pt x="578" y="1456" on="0"/>
         <pt x="900" y="1500" on="1"/>
         <pt x="919" y="1373" on="1"/>
@@ -8659,7 +8659,7 @@
 
     <TTGlyph name="parenright" xMin="297" yMin="-290" xMax="919" yMax="1500">
       <contour>
-        <pt x="919" y="230" on="0" overlap="1"/>
+        <pt x="919" y="230" on="0"/>
         <pt x="638" y="-246" on="0"/>
         <pt x="316" y="-290" on="1"/>
         <pt x="297" y="-163" on="1"/>
@@ -8701,7 +8701,7 @@
 
     <TTGlyph name="percent" xMin="19" yMin="-19" xMax="1040" yMax="1380">
       <contour>
-        <pt x="881" y="1210" on="1" overlap="1"/>
+        <pt x="881" y="1210" on="1"/>
         <pt x="1040" y="1210" on="1"/>
         <pt x="178" y="151" on="1"/>
         <pt x="19" y="151" on="1"/>
@@ -8797,7 +8797,7 @@
 
     <TTGlyph name="period" xMin="356" yMin="-23" xMax="703" yMax="325">
       <contour>
-        <pt x="480" y="-23" on="0" overlap="1"/>
+        <pt x="480" y="-23" on="0"/>
         <pt x="401" y="23" on="0"/>
         <pt x="356" y="101" on="0"/>
         <pt x="356" y="149" on="1"/>
@@ -8828,7 +8828,7 @@
 
     <TTGlyph name="periodcentered" xMin="422" yMin="499" xMax="637" yMax="711">
       <contour>
-        <pt x="482" y="499" on="0" overlap="1"/>
+        <pt x="482" y="499" on="0"/>
         <pt x="422" y="559" on="0"/>
         <pt x="422" y="605" on="1"/>
         <pt x="422" y="652" on="0"/>
@@ -8857,7 +8857,7 @@
 
     <TTGlyph name="pi" xMin="151" yMin="0" xMax="908" yMax="1059">
       <contour>
-        <pt x="908" y="0" on="1" overlap="1"/>
+        <pt x="908" y="0" on="1"/>
         <pt x="756" y="0" on="1"/>
         <pt x="756" y="923" on="1"/>
         <pt x="303" y="923" on="1"/>
@@ -8885,7 +8885,7 @@
 
     <TTGlyph name="plus" xMin="38" yMin="189" xMax="1021" yMax="1172">
       <contour>
-        <pt x="454" y="613" on="1" overlap="1"/>
+        <pt x="454" y="613" on="1"/>
         <pt x="38" y="613" on="1"/>
         <pt x="38" y="749" on="1"/>
         <pt x="454" y="749" on="1"/>
@@ -8937,7 +8937,7 @@
 
     <TTGlyph name="q" xMin="102" yMin="-303" xMax="908" yMax="1080">
       <contour>
-        <pt x="730" y="1080" on="0" overlap="1"/>
+        <pt x="730" y="1080" on="0"/>
         <pt x="908" y="1025" on="1"/>
         <pt x="908" y="-303" on="1"/>
         <pt x="756" y="-303" on="1"/>
@@ -8992,7 +8992,7 @@
 
     <TTGlyph name="question" xMin="138" yMin="-23" xMax="919" yMax="1380">
       <contour>
-        <pt x="560" y="627" on="0" overlap="1"/>
+        <pt x="560" y="627" on="0"/>
         <pt x="684" y="758" on="0"/>
         <pt x="749" y="896" on="0"/>
         <pt x="749" y="974" on="1"/>
@@ -9056,7 +9056,7 @@
 
     <TTGlyph name="questiondown" xMin="140" yMin="-321" xMax="921" yMax="1082">
       <contour>
-        <pt x="499" y="432" on="0" overlap="1"/>
+        <pt x="499" y="432" on="0"/>
         <pt x="375" y="301" on="0"/>
         <pt x="310" y="163" on="0"/>
         <pt x="310" y="85" on="1"/>
@@ -9130,7 +9130,7 @@
 
     <TTGlyph name="quotedblleft" xMin="63" yMin="800" xMax="1052" yMax="1437">
       <contour>
-        <pt x="697" y="800" on="0" overlap="1"/>
+        <pt x="697" y="800" on="0"/>
         <pt x="614" y="851" on="0"/>
         <pt x="566" y="953" on="0"/>
         <pt x="566" y="1027" on="1"/>
@@ -9207,7 +9207,7 @@
 
     <TTGlyph name="quoteleft" xMin="335" yMin="800" xMax="821" yMax="1437">
       <contour>
-        <pt x="466" y="800" on="0" overlap="1"/>
+        <pt x="466" y="800" on="0"/>
         <pt x="383" y="851" on="0"/>
         <pt x="335" y="953" on="0"/>
         <pt x="335" y="1027" on="1"/>
@@ -9247,7 +9247,7 @@
 
     <TTGlyph name="quoteright" xMin="238" yMin="745" xMax="724" yMax="1382">
       <contour>
-        <pt x="593" y="1382" on="0" overlap="1"/>
+        <pt x="593" y="1382" on="0"/>
         <pt x="676" y="1331" on="0"/>
         <pt x="724" y="1229" on="0"/>
         <pt x="724" y="1155" on="1"/>
@@ -9291,7 +9291,7 @@
 
     <TTGlyph name="quotesingle" xMin="405" yMin="756" xMax="654" yMax="1362">
       <contour>
-        <pt x="405" y="1362" on="1" overlap="1"/>
+        <pt x="405" y="1362" on="1"/>
         <pt x="654" y="1362" on="1"/>
         <pt x="590" y="756" on="1"/>
         <pt x="469" y="756" on="1"/>
@@ -9312,7 +9312,7 @@
 
     <TTGlyph name="r" xMin="95" yMin="0" xMax="929" yMax="1074">
       <contour>
-        <pt x="861" y="1074" on="0" overlap="1"/>
+        <pt x="861" y="1074" on="0"/>
         <pt x="929" y="1063" on="1"/>
         <pt x="904" y="913" on="1"/>
         <pt x="841" y="927" on="0"/>
@@ -9370,7 +9370,7 @@
 
     <TTGlyph name="s" xMin="189" yMin="-17" xMax="853" yMax="1085">
       <contour>
-        <pt x="421" y="-17" on="0" overlap="1"/>
+        <pt x="421" y="-17" on="0"/>
         <pt x="257" y="21" on="0"/>
         <pt x="189" y="53" on="1"/>
         <pt x="224" y="170" on="1"/>
@@ -9452,7 +9452,7 @@
 
     <TTGlyph name="scedilla" xMin="189" yMin="-303" xMax="853" yMax="1085">
       <contour>
-        <pt x="421" y="-17" on="0" overlap="1"/>
+        <pt x="421" y="-17" on="0"/>
         <pt x="257" y="21" on="0"/>
         <pt x="189" y="53" on="1"/>
         <pt x="224" y="170" on="1"/>
@@ -9558,7 +9558,7 @@
 
     <TTGlyph name="seven" xMin="151" yMin="-303" xMax="908" yMax="1210">
       <contour>
-        <pt x="336" y="-7" on="0" overlap="1"/>
+        <pt x="336" y="-7" on="0"/>
         <pt x="464" y="464" on="0"/>
         <pt x="623" y="830" on="0"/>
         <pt x="743" y="1059" on="1"/>
@@ -9596,7 +9596,7 @@
 
     <TTGlyph name="six" xMin="112" yMin="-23" xMax="942" yMax="1380">
       <contour>
-        <pt x="410" y="-23" on="0" overlap="1"/>
+        <pt x="410" y="-23" on="0"/>
         <pt x="218" y="121" on="0"/>
         <pt x="112" y="395" on="0"/>
         <pt x="112" y="586" on="1"/>
@@ -9667,7 +9667,7 @@
 
     <TTGlyph name="slash" xMin="155" yMin="-303" xMax="908" yMax="1513">
       <contour>
-        <pt x="764" y="1513" on="1" overlap="1"/>
+        <pt x="764" y="1513" on="1"/>
         <pt x="908" y="1513" on="1"/>
         <pt x="299" y="-303" on="1"/>
         <pt x="155" y="-303" on="1"/>
@@ -9690,7 +9690,7 @@
 
     <TTGlyph name="t" xMin="114" yMin="-19" xMax="865" yMax="1346">
       <contour>
-        <pt x="488" y="-19" on="0" overlap="1"/>
+        <pt x="488" y="-19" on="0"/>
         <pt x="341" y="128" on="0"/>
         <pt x="341" y="280" on="1"/>
         <pt x="341" y="923" on="1"/>
@@ -9749,7 +9749,7 @@
 
     <TTGlyph name="thorn" xMin="151" yMin="-303" xMax="957" yMax="1513">
       <contour>
-        <pt x="413" y="-21" on="0" overlap="1"/>
+        <pt x="413" y="-21" on="0"/>
         <pt x="303" y="-4" on="1"/>
         <pt x="303" y="-303" on="1"/>
         <pt x="151" y="-303" on="1"/>
@@ -9809,7 +9809,7 @@
 
     <TTGlyph name="three" xMin="102" yMin="-321" xMax="902" yMax="1233">
       <contour>
-        <pt x="343" y="-167" on="0" overlap="1"/>
+        <pt x="343" y="-167" on="0"/>
         <pt x="609" y="-63" on="0"/>
         <pt x="739" y="92" on="0"/>
         <pt x="739" y="200" on="1"/>
@@ -9890,7 +9890,7 @@
 
     <TTGlyph name="tildecomb" xMin="207" yMin="1244" xMax="856" yMax="1562">
       <contour>
-        <pt x="207" y="1264" on="0" overlap="1"/>
+        <pt x="207" y="1264" on="0"/>
         <pt x="207" y="1294" on="1"/>
         <pt x="207" y="1562" on="0"/>
         <pt x="403" y="1562" on="1"/>
@@ -9968,7 +9968,7 @@
 
     <TTGlyph name="tildecomb.case" xMin="207" yMin="1471" xMax="856" yMax="1789">
       <contour>
-        <pt x="207" y="1491" on="0" overlap="1"/>
+        <pt x="207" y="1491" on="0"/>
         <pt x="207" y="1521" on="1"/>
         <pt x="207" y="1789" on="0"/>
         <pt x="403" y="1789" on="1"/>
@@ -10046,7 +10046,7 @@
 
     <TTGlyph name="two" xMin="130" yMin="0" xMax="904" yMax="1233">
       <contour>
-        <pt x="361" y="295" on="0" overlap="1"/>
+        <pt x="361" y="295" on="0"/>
         <pt x="605" y="528" on="0"/>
         <pt x="719" y="734" on="0"/>
         <pt x="719" y="843" on="1"/>
@@ -10095,7 +10095,7 @@
 
     <TTGlyph name="u" xMin="151" yMin="-15" xMax="908" yMax="1059">
       <contour>
-        <pt x="285" y="-15" on="0" overlap="1"/>
+        <pt x="285" y="-15" on="0"/>
         <pt x="151" y="136" on="0"/>
         <pt x="151" y="284" on="1"/>
         <pt x="151" y="1059" on="1"/>
@@ -10173,7 +10173,7 @@
 
     <TTGlyph name="underscore" xMin="151" yMin="0" xMax="908" yMax="136">
       <contour>
-        <pt x="908" y="0" on="1" overlap="1"/>
+        <pt x="908" y="0" on="1"/>
         <pt x="151" y="0" on="1"/>
         <pt x="151" y="136" on="1"/>
         <pt x="908" y="136" on="1"/>
@@ -10211,7 +10211,7 @@
 
     <TTGlyph name="uni00B5" xMin="151" yMin="-303" xMax="908" yMax="1059">
       <contour>
-        <pt x="151" y="1059" on="1" overlap="1"/>
+        <pt x="151" y="1059" on="1"/>
         <pt x="303" y="1059" on="1"/>
         <pt x="303" y="289" on="1"/>
         <pt x="303" y="207" on="0"/>
@@ -10263,7 +10263,7 @@
 
     <TTGlyph name="uni0122" xMin="129" yMin="-303" xMax="908" yMax="1382">
       <contour>
-        <pt x="129" y="-21" on="0" overlap="1"/>
+        <pt x="129" y="-21" on="0"/>
         <pt x="129" y="681" on="1"/>
         <pt x="129" y="1032" on="0"/>
         <pt x="365" y="1382" on="0"/>
@@ -10337,7 +10337,7 @@
 
     <TTGlyph name="uni0123" xMin="106" yMin="-303" xMax="997" yMax="1581">
       <contour>
-        <pt x="568" y="588" on="0" overlap="1"/>
+        <pt x="568" y="588" on="0"/>
         <pt x="665" y="636" on="0"/>
         <pt x="713" y="718" on="0"/>
         <pt x="713" y="768" on="1"/>
@@ -10502,7 +10502,7 @@
 
     <TTGlyph name="uni0136" xMin="151" yMin="-303" xMax="981" yMax="1362">
       <contour>
-        <pt x="151" y="0" on="1" overlap="1"/>
+        <pt x="151" y="0" on="1"/>
         <pt x="151" y="1362" on="1"/>
         <pt x="303" y="1362" on="1"/>
         <pt x="303" y="746" on="1"/>
@@ -10555,7 +10555,7 @@
 
     <TTGlyph name="uni0137" xMin="151" yMin="-303" xMax="946" yMax="1513">
       <contour>
-        <pt x="151" y="0" on="1" overlap="1"/>
+        <pt x="151" y="0" on="1"/>
         <pt x="151" y="1513" on="1"/>
         <pt x="303" y="1513" on="1"/>
         <pt x="303" y="607" on="1"/>
@@ -10611,7 +10611,7 @@
 
     <TTGlyph name="uni013B" xMin="151" yMin="-303" xMax="908" yMax="1362">
       <contour>
-        <pt x="151" y="1362" on="1" overlap="1"/>
+        <pt x="151" y="1362" on="1"/>
         <pt x="303" y="1362" on="1"/>
         <pt x="303" y="136" on="1"/>
         <pt x="908" y="136" on="1"/>
@@ -10649,7 +10649,7 @@
 
     <TTGlyph name="uni013C" xMin="151" yMin="-303" xMax="908" yMax="1524">
       <contour>
-        <pt x="151" y="113" on="1" overlap="1"/>
+        <pt x="151" y="113" on="1"/>
         <pt x="454" y="132" on="1"/>
         <pt x="454" y="1392" on="1"/>
         <pt x="170" y="1392" on="1"/>
@@ -10696,7 +10696,7 @@
 
     <TTGlyph name="uni0145" xMin="151" yMin="-303" xMax="908" yMax="1362">
       <contour>
-        <pt x="151" y="1362" on="1" overlap="1"/>
+        <pt x="151" y="1362" on="1"/>
         <pt x="320" y="1362" on="1"/>
         <pt x="768" y="393" on="1"/>
         <pt x="768" y="1362" on="1"/>
@@ -10748,7 +10748,7 @@
 
     <TTGlyph name="uni0146" xMin="151" yMin="-303" xMax="908" yMax="1074">
       <contour>
-        <pt x="390" y="954" on="0" overlap="1"/>
+        <pt x="390" y="954" on="0"/>
         <pt x="478" y="1029" on="0"/>
         <pt x="583" y="1074" on="0"/>
         <pt x="647" y="1074" on="1"/>
@@ -10808,7 +10808,7 @@
 
     <TTGlyph name="uni0156" xMin="151" yMin="-303" xMax="940" yMax="1362">
       <contour>
-        <pt x="151" y="1362" on="1" overlap="1"/>
+        <pt x="151" y="1362" on="1"/>
         <pt x="458" y="1362" on="1"/>
         <pt x="676" y="1362" on="0"/>
         <pt x="900" y="1153" on="0"/>
@@ -10883,7 +10883,7 @@
 
     <TTGlyph name="uni0157" xMin="95" yMin="-303" xMax="929" yMax="1074">
       <contour>
-        <pt x="861" y="1074" on="0" overlap="1"/>
+        <pt x="861" y="1074" on="0"/>
         <pt x="929" y="1063" on="1"/>
         <pt x="904" y="913" on="1"/>
         <pt x="841" y="927" on="0"/>
@@ -10939,7 +10939,7 @@
 
     <TTGlyph name="uni0162" xMin="121" yMin="-303" xMax="938" yMax="1362">
       <contour>
-        <pt x="454" y="1225" on="1" overlap="1"/>
+        <pt x="454" y="1225" on="1"/>
         <pt x="121" y="1225" on="1"/>
         <pt x="121" y="1362" on="1"/>
         <pt x="938" y="1362" on="1"/>
@@ -10995,7 +10995,7 @@
 
     <TTGlyph name="uni0163" xMin="114" yMin="-303" xMax="865" yMax="1346">
       <contour>
-        <pt x="431" y="-303" on="0" overlap="1"/>
+        <pt x="431" y="-303" on="0"/>
         <pt x="370" y="-287" on="1"/>
         <pt x="385" y="-161" on="1"/>
         <pt x="420" y="-166" on="0"/>
@@ -11075,7 +11075,7 @@
 
     <TTGlyph name="uni018F" xMin="126" yMin="-19" xMax="934" yMax="1380">
       <contour>
-        <pt x="405" y="-19" on="0" overlap="1"/>
+        <pt x="405" y="-19" on="0"/>
         <pt x="227" y="130" on="0"/>
         <pt x="126" y="439" on="0"/>
         <pt x="126" y="669" on="1"/>
@@ -11182,7 +11182,7 @@
 
     <TTGlyph name="uni0218" xMin="161" yMin="-303" xMax="865" yMax="1380">
       <contour>
-        <pt x="400" y="-17" on="0" overlap="1"/>
+        <pt x="400" y="-17" on="0"/>
         <pt x="241" y="34" on="0"/>
         <pt x="161" y="81" on="1"/>
         <pt x="212" y="197" on="1"/>
@@ -11268,7 +11268,7 @@
 
     <TTGlyph name="uni0219" xMin="189" yMin="-303" xMax="853" yMax="1085">
       <contour>
-        <pt x="421" y="-17" on="0" overlap="1"/>
+        <pt x="421" y="-17" on="0"/>
         <pt x="257" y="21" on="0"/>
         <pt x="189" y="53" on="1"/>
         <pt x="224" y="170" on="1"/>
@@ -11352,7 +11352,7 @@
 
     <TTGlyph name="uni021A" xMin="121" yMin="-303" xMax="938" yMax="1362">
       <contour>
-        <pt x="454" y="1225" on="1" overlap="1"/>
+        <pt x="454" y="1225" on="1"/>
         <pt x="121" y="1225" on="1"/>
         <pt x="121" y="1362" on="1"/>
         <pt x="938" y="1362" on="1"/>
@@ -11395,7 +11395,7 @@
 
     <TTGlyph name="uni021B" xMin="114" yMin="-303" xMax="865" yMax="1346">
       <contour>
-        <pt x="488" y="-19" on="0" overlap="1"/>
+        <pt x="488" y="-19" on="0"/>
         <pt x="341" y="128" on="0"/>
         <pt x="341" y="280" on="1"/>
         <pt x="341" y="923" on="1"/>
@@ -11476,7 +11476,7 @@
 
     <TTGlyph name="uni0237" xMin="206" yMin="-280" xMax="669" yMax="1070">
       <contour>
-        <pt x="357" y="-280" on="0" overlap="1"/>
+        <pt x="357" y="-280" on="0"/>
         <pt x="249" y="-263" on="0"/>
         <pt x="206" y="-252" on="1"/>
         <pt x="221" y="-129" on="1"/>
@@ -11515,7 +11515,7 @@
 
     <TTGlyph name="uni0245" xMin="79" yMin="0" xMax="981" yMax="1362">
       <contour>
-        <pt x="456" y="1362" on="1" overlap="1"/>
+        <pt x="456" y="1362" on="1"/>
         <pt x="613" y="1362" on="1"/>
         <pt x="981" y="0" on="1"/>
         <pt x="813" y="0" on="1"/>
@@ -11546,7 +11546,7 @@
 
     <TTGlyph name="uni0259" xMin="180" yMin="-15" xMax="946" yMax="1078">
       <contour>
-        <pt x="790" y="543" on="1" overlap="1"/>
+        <pt x="790" y="543" on="1"/>
         <pt x="788" y="744" on="0"/>
         <pt x="638" y="942" on="0"/>
         <pt x="486" y="942" on="1"/>
@@ -11611,7 +11611,7 @@
 
     <TTGlyph name="uni028C" xMin="106" yMin="0" xMax="978" yMax="1059">
       <contour>
-        <pt x="467" y="1059" on="1" overlap="1"/>
+        <pt x="467" y="1059" on="1"/>
         <pt x="624" y="1059" on="1"/>
         <pt x="978" y="0" on="1"/>
         <pt x="813" y="0" on="1"/>
@@ -11642,7 +11642,7 @@
 
     <TTGlyph name="uni02BB" xMin="335" yMin="800" xMax="821" yMax="1437">
       <contour>
-        <pt x="466" y="800" on="0" overlap="1"/>
+        <pt x="466" y="800" on="0"/>
         <pt x="383" y="851" on="0"/>
         <pt x="335" y="953" on="0"/>
         <pt x="335" y="1027" on="1"/>
@@ -11686,7 +11686,7 @@
 
     <TTGlyph name="uni0302" xMin="214" yMin="1248" xMax="845" yMax="1643">
       <contour>
-        <pt x="390" y="1643" on="1" overlap="1"/>
+        <pt x="390" y="1643" on="1"/>
         <pt x="669" y="1643" on="1"/>
         <pt x="845" y="1248" on="1"/>
         <pt x="703" y="1248" on="1"/>
@@ -11731,7 +11731,7 @@
 
     <TTGlyph name="uni0302.case" xMin="214" yMin="1475" xMax="845" yMax="1870">
       <contour>
-        <pt x="390" y="1870" on="1" overlap="1"/>
+        <pt x="390" y="1870" on="1"/>
         <pt x="669" y="1870" on="1"/>
         <pt x="845" y="1475" on="1"/>
         <pt x="703" y="1475" on="1"/>
@@ -11776,7 +11776,7 @@
 
     <TTGlyph name="uni0304" xMin="236" yMin="1320" xMax="823" yMax="1471">
       <contour>
-        <pt x="236" y="1471" on="1" overlap="1"/>
+        <pt x="236" y="1471" on="1"/>
         <pt x="823" y="1471" on="1"/>
         <pt x="823" y="1320" on="1"/>
         <pt x="236" y="1320" on="1"/>
@@ -11808,7 +11808,7 @@
 
     <TTGlyph name="uni0304.case" xMin="236" yMin="1558" xMax="823" yMax="1710">
       <contour>
-        <pt x="236" y="1710" on="1" overlap="1"/>
+        <pt x="236" y="1710" on="1"/>
         <pt x="823" y="1710" on="1"/>
         <pt x="823" y="1558" on="1"/>
         <pt x="236" y="1558" on="1"/>
@@ -11840,7 +11840,7 @@
 
     <TTGlyph name="uni0306" xMin="235" yMin="1244" xMax="826" yMax="1587">
       <contour>
-        <pt x="377" y="1244" on="0" overlap="1"/>
+        <pt x="377" y="1244" on="0"/>
         <pt x="235" y="1408" on="0"/>
         <pt x="235" y="1552" on="1"/>
         <pt x="235" y="1575" on="0"/>
@@ -11893,7 +11893,7 @@
 
     <TTGlyph name="uni0306.case" xMin="235" yMin="1471" xMax="826" yMax="1814">
       <contour>
-        <pt x="377" y="1471" on="0" overlap="1"/>
+        <pt x="377" y="1471" on="0"/>
         <pt x="235" y="1635" on="0"/>
         <pt x="235" y="1779" on="1"/>
         <pt x="235" y="1802" on="0"/>
@@ -11945,7 +11945,7 @@
 
     <TTGlyph name="uni0307" xMin="386" yMin="1250" xMax="675" yMax="1539">
       <contour>
-        <pt x="466" y="1250" on="0" overlap="1"/>
+        <pt x="466" y="1250" on="0"/>
         <pt x="386" y="1331" on="0"/>
         <pt x="386" y="1394" on="1"/>
         <pt x="386" y="1434" on="0"/>
@@ -11986,7 +11986,7 @@
 
     <TTGlyph name="uni0308" xMin="216" yMin="1265" xMax="843" yMax="1524">
       <contour>
-        <pt x="285" y="1265" on="0" overlap="1"/>
+        <pt x="285" y="1265" on="0"/>
         <pt x="216" y="1337" on="0"/>
         <pt x="216" y="1394" on="1"/>
         <pt x="216" y="1449" on="0"/>
@@ -12050,7 +12050,7 @@
 
     <TTGlyph name="uni0308.case" xMin="216" yMin="1492" xMax="843" yMax="1751">
       <contour>
-        <pt x="285" y="1492" on="0" overlap="1"/>
+        <pt x="285" y="1492" on="0"/>
         <pt x="216" y="1564" on="0"/>
         <pt x="216" y="1621" on="1"/>
         <pt x="216" y="1676" on="0"/>
@@ -12114,7 +12114,7 @@
 
     <TTGlyph name="uni030A" xMin="287" yMin="1216" xMax="772" yMax="1675">
       <contour>
-        <pt x="461" y="1216" on="0" overlap="1"/>
+        <pt x="461" y="1216" on="0"/>
         <pt x="350" y="1277" on="0"/>
         <pt x="287" y="1383" on="0"/>
         <pt x="287" y="1447" on="1"/>
@@ -12181,7 +12181,7 @@
 
     <TTGlyph name="uni030A.case" xMin="287" yMin="1443" xMax="772" yMax="1902">
       <contour>
-        <pt x="461" y="1443" on="0" overlap="1"/>
+        <pt x="461" y="1443" on="0"/>
         <pt x="350" y="1504" on="0"/>
         <pt x="287" y="1610" on="0"/>
         <pt x="287" y="1674" on="1"/>
@@ -12248,7 +12248,7 @@
 
     <TTGlyph name="uni030C" xMin="214" yMin="1248" xMax="845" yMax="1643">
       <contour>
-        <pt x="214" y="1643" on="1" overlap="1"/>
+        <pt x="214" y="1643" on="1"/>
         <pt x="356" y="1643" on="1"/>
         <pt x="530" y="1409" on="1"/>
         <pt x="703" y="1643" on="1"/>
@@ -12292,7 +12292,7 @@
 
     <TTGlyph name="uni030C.case" xMin="214" yMin="1475" xMax="845" yMax="1870">
       <contour>
-        <pt x="214" y="1870" on="1" overlap="1"/>
+        <pt x="214" y="1870" on="1"/>
         <pt x="356" y="1870" on="1"/>
         <pt x="530" y="1636" on="1"/>
         <pt x="703" y="1870" on="1"/>
@@ -12336,7 +12336,7 @@
 
     <TTGlyph name="uni0327" xMin="369" yMin="-303" xMax="732" yMax="26">
       <contour>
-        <pt x="430" y="-303" on="0" overlap="1"/>
+        <pt x="430" y="-303" on="0"/>
         <pt x="369" y="-287" on="1"/>
         <pt x="384" y="-161" on="1"/>
         <pt x="419" y="-166" on="0"/>
@@ -12372,7 +12372,7 @@
 
     <TTGlyph name="uni0328" xMin="371" yMin="-303" xMax="688" yMax="53">
       <contour>
-        <pt x="471" y="-303" on="0" overlap="1"/>
+        <pt x="471" y="-303" on="0"/>
         <pt x="371" y="-228" on="0"/>
         <pt x="371" y="-159" on="1"/>
         <pt x="371" y="-81" on="0"/>
@@ -12497,7 +12497,7 @@
 
     <TTGlyph name="uni21A5" xMin="151" yMin="-151" xMax="908" yMax="1405">
       <contour>
-        <pt x="454" y="1154" on="1" overlap="1"/>
+        <pt x="454" y="1154" on="1"/>
         <pt x="265" y="998" on="1"/>
         <pt x="183" y="1087" on="1"/>
         <pt x="492" y="1405" on="1"/>
@@ -12536,7 +12536,7 @@
 
     <TTGlyph name="uni2206" xMin="70" yMin="0" xMax="987" yMax="1362">
       <contour>
-        <pt x="454" y="1362" on="1" overlap="1"/>
+        <pt x="454" y="1362" on="1"/>
         <pt x="611" y="1362" on="1"/>
         <pt x="987" y="0" on="1"/>
         <pt x="70" y="0" on="1"/>
@@ -12568,7 +12568,7 @@
 
     <TTGlyph name="uni2913" xMin="151" yMin="-151" xMax="908" yMax="1362">
       <contour>
-        <pt x="183" y="425" on="1" overlap="1"/>
+        <pt x="183" y="425" on="1"/>
         <pt x="265" y="514" on="1"/>
         <pt x="454" y="359" on="1"/>
         <pt x="454" y="1362" on="1"/>
@@ -12608,7 +12608,7 @@
 
     <TTGlyph name="uogonek" xMin="151" yMin="-303" xMax="934" yMax="1059">
       <contour>
-        <pt x="285" y="-15" on="0" overlap="1"/>
+        <pt x="285" y="-15" on="0"/>
         <pt x="151" y="136" on="0"/>
         <pt x="151" y="284" on="1"/>
         <pt x="151" y="1059" on="1"/>
@@ -12689,7 +12689,7 @@
 
     <TTGlyph name="v" xMin="81" yMin="0" xMax="953" yMax="1059">
       <contour>
-        <pt x="246" y="1059" on="1" overlap="1"/>
+        <pt x="246" y="1059" on="1"/>
         <pt x="517" y="207" on="1"/>
         <pt x="806" y="1059" on="1"/>
         <pt x="953" y="1059" on="1"/>
@@ -12720,7 +12720,7 @@
 
     <TTGlyph name="w" xMin="-119" yMin="0" xMax="1178" yMax="1059">
       <contour>
-        <pt x="46" y="1059" on="1" overlap="1"/>
+        <pt x="46" y="1059" on="1"/>
         <pt x="258" y="231" on="1"/>
         <pt x="454" y="1059" on="1"/>
         <pt x="619" y="1059" on="1"/>
@@ -12792,7 +12792,7 @@
 
     <TTGlyph name="x" xMin="115" yMin="0" xMax="947" yMax="1059">
       <contour>
-        <pt x="295" y="1059" on="1" overlap="1"/>
+        <pt x="295" y="1059" on="1"/>
         <pt x="543" y="656" on="1"/>
         <pt x="781" y="1059" on="1"/>
         <pt x="940" y="1059" on="1"/>
@@ -12837,7 +12837,7 @@
 
     <TTGlyph name="x.hex" xMin="115" yMin="0" xMax="951" yMax="908">
       <contour>
-        <pt x="299" y="908" on="1" overlap="1"/>
+        <pt x="299" y="908" on="1"/>
         <pt x="542" y="570" on="1"/>
         <pt x="779" y="908" on="1"/>
         <pt x="940" y="908" on="1"/>
@@ -12882,7 +12882,7 @@
 
     <TTGlyph name="y" xMin="81" yMin="-303" xMax="953" yMax="1059">
       <contour>
-        <pt x="246" y="1059" on="1" overlap="1"/>
+        <pt x="246" y="1059" on="1"/>
         <pt x="515" y="201" on="1"/>
         <pt x="806" y="1059" on="1"/>
         <pt x="953" y="1059" on="1"/>
@@ -12942,7 +12942,7 @@
 
     <TTGlyph name="z" xMin="193" yMin="0" xMax="866" yMax="1059">
       <contour>
-        <pt x="193" y="113" on="1" overlap="1"/>
+        <pt x="193" y="113" on="1"/>
         <pt x="678" y="923" on="1"/>
         <pt x="205" y="923" on="1"/>
         <pt x="205" y="1059" on="1"/>
@@ -12995,7 +12995,7 @@
 
     <TTGlyph name="zero" xMin="102" yMin="-19" xMax="957" yMax="1229">
       <contour>
-        <pt x="396" y="-19" on="0" overlap="1"/>
+        <pt x="396" y="-19" on="0"/>
         <pt x="203" y="134" on="0"/>
         <pt x="102" y="415" on="0"/>
         <pt x="102" y="605" on="1"/>
@@ -13045,7 +13045,7 @@
 
     <TTGlyph name="zero.zero" xMin="102" yMin="-19" xMax="957" yMax="1229">
       <contour>
-        <pt x="396" y="-19" on="0" overlap="1"/>
+        <pt x="396" y="-19" on="0"/>
         <pt x="203" y="134" on="0"/>
         <pt x="102" y="415" on="0"/>
         <pt x="102" y="605" on="1"/>
@@ -14725,7 +14725,10 @@ From Old Portuguese conta, from Latin computō (“I calculate”).
                 <YCoordinate value="-303"/>
               </BaseAnchor>
               <BaseAnchor index="1" empty="1"/>
-              <BaseAnchor index="2" empty="1"/>
+              <BaseAnchor index="2" Format="1">
+                <XCoordinate value="573"/>
+                <YCoordinate value="1362"/>
+              </BaseAnchor>
             </BaseRecord>
             <BaseRecord index="16">
               <BaseAnchor index="0" Format="1">
@@ -14994,7 +14997,10 @@ From Old Portuguese conta, from Latin computō (“I calculate”).
                 <YCoordinate value="-303"/>
               </BaseAnchor>
               <BaseAnchor index="1" empty="1"/>
-              <BaseAnchor index="2" empty="1"/>
+              <BaseAnchor index="2" Format="1">
+                <XCoordinate value="573"/>
+                <YCoordinate value="1362"/>
+              </BaseAnchor>
             </BaseRecord>
             <BaseRecord index="38">
               <BaseAnchor index="0" Format="1">
@@ -15252,7 +15258,10 @@ From Old Portuguese conta, from Latin computō (“I calculate”).
                 <YCoordinate value="-303"/>
               </BaseAnchor>
               <BaseAnchor index="1" empty="1"/>
-              <BaseAnchor index="2" empty="1"/>
+              <BaseAnchor index="2" Format="1">
+                <XCoordinate value="529"/>
+                <YCoordinate value="1362"/>
+              </BaseAnchor>
             </BaseRecord>
             <BaseRecord index="59">
               <BaseAnchor index="0" Format="1">
@@ -15282,7 +15291,10 @@ From Old Portuguese conta, from Latin computō (“I calculate”).
                 <YCoordinate value="-303"/>
               </BaseAnchor>
               <BaseAnchor index="1" empty="1"/>
-              <BaseAnchor index="2" empty="1"/>
+              <BaseAnchor index="2" Format="1">
+                <XCoordinate value="246"/>
+                <YCoordinate value="1362"/>
+              </BaseAnchor>
             </BaseRecord>
             <BaseRecord index="62">
               <BaseAnchor index="0" Format="1">
@@ -15334,7 +15346,10 @@ From Old Portuguese conta, from Latin computō (“I calculate”).
                 <YCoordinate value="-303"/>
               </BaseAnchor>
               <BaseAnchor index="1" empty="1"/>
-              <BaseAnchor index="2" empty="1"/>
+              <BaseAnchor index="2" Format="1">
+                <XCoordinate value="529"/>
+                <YCoordinate value="1362"/>
+              </BaseAnchor>
             </BaseRecord>
             <BaseRecord index="67">
               <BaseAnchor index="0" Format="1">
@@ -15545,7 +15560,10 @@ From Old Portuguese conta, from Latin computō (“I calculate”).
                 <YCoordinate value="-303"/>
               </BaseAnchor>
               <BaseAnchor index="1" empty="1"/>
-              <BaseAnchor index="2" empty="1"/>
+              <BaseAnchor index="2" Format="1">
+                <XCoordinate value="495"/>
+                <YCoordinate value="1362"/>
+              </BaseAnchor>
             </BaseRecord>
             <BaseRecord index="84">
               <BaseAnchor index="0" Format="1">
@@ -15586,7 +15604,10 @@ From Old Portuguese conta, from Latin computō (“I calculate”).
                 <YCoordinate value="-303"/>
               </BaseAnchor>
               <BaseAnchor index="1" empty="1"/>
-              <BaseAnchor index="2" empty="1"/>
+              <BaseAnchor index="2" Format="1">
+                <XCoordinate value="539"/>
+                <YCoordinate value="1362"/>
+              </BaseAnchor>
             </BaseRecord>
             <BaseRecord index="88">
               <BaseAnchor index="0" Format="1">
@@ -15605,7 +15626,10 @@ From Old Portuguese conta, from Latin computō (“I calculate”).
                 <YCoordinate value="-303"/>
               </BaseAnchor>
               <BaseAnchor index="1" empty="1"/>
-              <BaseAnchor index="2" empty="1"/>
+              <BaseAnchor index="2" Format="1">
+                <XCoordinate value="539"/>
+                <YCoordinate value="1362"/>
+              </BaseAnchor>
             </BaseRecord>
             <BaseRecord index="90">
               <BaseAnchor index="0" Format="1">
@@ -15613,7 +15637,10 @@ From Old Portuguese conta, from Latin computō (“I calculate”).
                 <YCoordinate value="-303"/>
               </BaseAnchor>
               <BaseAnchor index="1" empty="1"/>
-              <BaseAnchor index="2" empty="1"/>
+              <BaseAnchor index="2" Format="1">
+                <XCoordinate value="539"/>
+                <YCoordinate value="1362"/>
+              </BaseAnchor>
             </BaseRecord>
             <BaseRecord index="91">
               <BaseAnchor index="0" Format="1">
@@ -15643,7 +15670,10 @@ From Old Portuguese conta, from Latin computō (“I calculate”).
                 <YCoordinate value="-303"/>
               </BaseAnchor>
               <BaseAnchor index="1" empty="1"/>
-              <BaseAnchor index="2" empty="1"/>
+              <BaseAnchor index="2" Format="1">
+                <XCoordinate value="529"/>
+                <YCoordinate value="1362"/>
+              </BaseAnchor>
             </BaseRecord>
             <BaseRecord index="94">
               <BaseAnchor index="0" Format="1">
@@ -15651,7 +15681,10 @@ From Old Portuguese conta, from Latin computō (“I calculate”).
                 <YCoordinate value="-303"/>
               </BaseAnchor>
               <BaseAnchor index="1" empty="1"/>
-              <BaseAnchor index="2" empty="1"/>
+              <BaseAnchor index="2" Format="1">
+                <XCoordinate value="529"/>
+                <YCoordinate value="1362"/>
+              </BaseAnchor>
             </BaseRecord>
             <BaseRecord index="95">
               <BaseAnchor index="0" Format="1">
@@ -16303,7 +16336,10 @@ From Old Portuguese conta, from Latin computō (“I calculate”).
                 <YCoordinate value="-303"/>
               </BaseAnchor>
               <BaseAnchor index="1" empty="1"/>
-              <BaseAnchor index="2" empty="1"/>
+              <BaseAnchor index="2" Format="1">
+                <XCoordinate value="558"/>
+                <YCoordinate value="1059"/>
+              </BaseAnchor>
             </BaseRecord>
             <BaseRecord index="148">
               <BaseAnchor index="0" Format="1">
@@ -16559,7 +16595,10 @@ From Old Portuguese conta, from Latin computō (“I calculate”).
               </BaseAnchor>
             </BaseRecord>
             <BaseRecord index="168">
-              <BaseAnchor index="0" empty="1"/>
+              <BaseAnchor index="0" Format="1">
+                <XCoordinate value="529"/>
+                <YCoordinate value="-303"/>
+              </BaseAnchor>
               <BaseAnchor index="1" empty="1"/>
               <BaseAnchor index="2" Format="1">
                 <XCoordinate value="511"/>
@@ -16821,7 +16860,10 @@ From Old Portuguese conta, from Latin computō (“I calculate”).
                 <YCoordinate value="-303"/>
               </BaseAnchor>
               <BaseAnchor index="1" empty="1"/>
-              <BaseAnchor index="2" empty="1"/>
+              <BaseAnchor index="2" Format="1">
+                <XCoordinate value="529"/>
+                <YCoordinate value="1513"/>
+              </BaseAnchor>
             </BaseRecord>
             <BaseRecord index="191">
               <BaseAnchor index="0" Format="1">
@@ -16851,7 +16893,10 @@ From Old Portuguese conta, from Latin computō (“I calculate”).
                 <YCoordinate value="-303"/>
               </BaseAnchor>
               <BaseAnchor index="1" empty="1"/>
-              <BaseAnchor index="2" empty="1"/>
+              <BaseAnchor index="2" Format="1">
+                <XCoordinate value="543"/>
+                <YCoordinate value="1513"/>
+              </BaseAnchor>
             </BaseRecord>
             <BaseRecord index="194">
               <BaseAnchor index="0" Format="1">
@@ -16903,7 +16948,10 @@ From Old Portuguese conta, from Latin computō (“I calculate”).
                 <YCoordinate value="-303"/>
               </BaseAnchor>
               <BaseAnchor index="1" empty="1"/>
-              <BaseAnchor index="2" empty="1"/>
+              <BaseAnchor index="2" Format="1">
+                <XCoordinate value="529"/>
+                <YCoordinate value="1059"/>
+              </BaseAnchor>
             </BaseRecord>
             <BaseRecord index="199">
               <BaseAnchor index="0" Format="1">
@@ -17111,7 +17159,10 @@ From Old Portuguese conta, from Latin computō (“I calculate”).
                 <YCoordinate value="-303"/>
               </BaseAnchor>
               <BaseAnchor index="1" empty="1"/>
-              <BaseAnchor index="2" empty="1"/>
+              <BaseAnchor index="2" Format="1">
+                <XCoordinate value="579"/>
+                <YCoordinate value="1059"/>
+              </BaseAnchor>
             </BaseRecord>
             <BaseRecord index="216">
               <BaseAnchor index="0" Format="1">
@@ -17152,7 +17203,10 @@ From Old Portuguese conta, from Latin computō (“I calculate”).
                 <YCoordinate value="-303"/>
               </BaseAnchor>
               <BaseAnchor index="1" empty="1"/>
-              <BaseAnchor index="2" empty="1"/>
+              <BaseAnchor index="2" Format="1">
+                <XCoordinate value="530"/>
+                <YCoordinate value="1059"/>
+              </BaseAnchor>
             </BaseRecord>
             <BaseRecord index="220">
               <BaseAnchor index="0" Format="1">
@@ -17171,7 +17225,10 @@ From Old Portuguese conta, from Latin computō (“I calculate”).
                 <YCoordinate value="-303"/>
               </BaseAnchor>
               <BaseAnchor index="1" empty="1"/>
-              <BaseAnchor index="2" empty="1"/>
+              <BaseAnchor index="2" Format="1">
+                <XCoordinate value="530"/>
+                <YCoordinate value="1059"/>
+              </BaseAnchor>
             </BaseRecord>
             <BaseRecord index="222">
               <BaseAnchor index="0" empty="1"/>
@@ -17198,7 +17255,10 @@ From Old Portuguese conta, from Latin computō (“I calculate”).
                 <YCoordinate value="-303"/>
               </BaseAnchor>
               <BaseAnchor index="1" empty="1"/>
-              <BaseAnchor index="2" empty="1"/>
+              <BaseAnchor index="2" Format="1">
+                <XCoordinate value="416"/>
+                <YCoordinate value="1346"/>
+              </BaseAnchor>
             </BaseRecord>
             <BaseRecord index="225">
               <BaseAnchor index="0" Format="1">
@@ -17206,7 +17266,10 @@ From Old Portuguese conta, from Latin computō (“I calculate”).
                 <YCoordinate value="-303"/>
               </BaseAnchor>
               <BaseAnchor index="1" empty="1"/>
-              <BaseAnchor index="2" empty="1"/>
+              <BaseAnchor index="2" Format="1">
+                <XCoordinate value="416"/>
+                <YCoordinate value="1346"/>
+              </BaseAnchor>
             </BaseRecord>
             <BaseRecord index="226">
               <BaseAnchor index="0" Format="1">
@@ -18035,8 +18098,8 @@ From Old Portuguese conta, from Latin computō (“I calculate”).
             <FeatureIndex index="0" value="0"/>
             <FeatureIndex index="1" value="5"/>
             <FeatureIndex index="2" value="10"/>
-            <FeatureIndex index="3" value="17"/>
-            <FeatureIndex index="4" value="22"/>
+            <FeatureIndex index="3" value="18"/>
+            <FeatureIndex index="4" value="23"/>
           </DefaultLangSys>
           <!-- LangSysCount=0 -->
         </Script>
@@ -18050,20 +18113,21 @@ From Old Portuguese conta, from Latin computō (“I calculate”).
             <FeatureIndex index="0" value="1"/>
             <FeatureIndex index="1" value="6"/>
             <FeatureIndex index="2" value="11"/>
-            <FeatureIndex index="3" value="18"/>
-            <FeatureIndex index="4" value="23"/>
+            <FeatureIndex index="3" value="19"/>
+            <FeatureIndex index="4" value="24"/>
           </DefaultLangSys>
           <!-- LangSysCount=3 -->
           <LangSysRecord index="0">
             <LangSysTag value="MOL "/>
             <LangSys>
               <ReqFeatureIndex value="65535"/>
-              <!-- FeatureCount=5 -->
+              <!-- FeatureCount=6 -->
               <FeatureIndex index="0" value="2"/>
               <FeatureIndex index="1" value="7"/>
               <FeatureIndex index="2" value="12"/>
-              <FeatureIndex index="3" value="19"/>
-              <FeatureIndex index="4" value="24"/>
+              <FeatureIndex index="3" value="15"/>
+              <FeatureIndex index="4" value="20"/>
+              <FeatureIndex index="5" value="25"/>
             </LangSys>
           </LangSysRecord>
           <LangSysRecord index="1">
@@ -18074,9 +18138,9 @@ From Old Portuguese conta, from Latin computō (“I calculate”).
               <FeatureIndex index="0" value="3"/>
               <FeatureIndex index="1" value="8"/>
               <FeatureIndex index="2" value="13"/>
-              <FeatureIndex index="3" value="15"/>
-              <FeatureIndex index="4" value="20"/>
-              <FeatureIndex index="5" value="25"/>
+              <FeatureIndex index="3" value="16"/>
+              <FeatureIndex index="4" value="21"/>
+              <FeatureIndex index="5" value="26"/>
             </LangSys>
           </LangSysRecord>
           <LangSysRecord index="2">
@@ -18087,16 +18151,16 @@ From Old Portuguese conta, from Latin computō (“I calculate”).
               <FeatureIndex index="0" value="4"/>
               <FeatureIndex index="1" value="9"/>
               <FeatureIndex index="2" value="14"/>
-              <FeatureIndex index="3" value="16"/>
-              <FeatureIndex index="4" value="21"/>
-              <FeatureIndex index="5" value="26"/>
+              <FeatureIndex index="3" value="17"/>
+              <FeatureIndex index="4" value="22"/>
+              <FeatureIndex index="5" value="27"/>
             </LangSys>
           </LangSysRecord>
         </Script>
       </ScriptRecord>
     </ScriptList>
     <FeatureList>
-      <!-- FeatureCount=27 -->
+      <!-- FeatureCount=28 -->
       <FeatureRecord index="0">
         <FeatureTag value="calt"/>
         <Feature>
@@ -18216,25 +18280,21 @@ From Old Portuguese conta, from Latin computō (“I calculate”).
         <FeatureTag value="locl"/>
         <Feature>
           <!-- LookupCount=1 -->
-          <LookupListIndex index="0" value="5"/>
+          <LookupListIndex index="0" value="4"/>
         </Feature>
       </FeatureRecord>
       <FeatureRecord index="16">
         <FeatureTag value="locl"/>
         <Feature>
           <!-- LookupCount=1 -->
-          <LookupListIndex index="0" value="4"/>
+          <LookupListIndex index="0" value="5"/>
         </Feature>
       </FeatureRecord>
       <FeatureRecord index="17">
-        <FeatureTag value="ss19"/>
+        <FeatureTag value="locl"/>
         <Feature>
-          <FeatureParamsStylisticSet>
-            <Version value="0"/>
-            <UINameID value="256"/>  <!-- Slashed zero -->
-          </FeatureParamsStylisticSet>
           <!-- LookupCount=1 -->
-          <LookupListIndex index="0" value="8"/>
+          <LookupListIndex index="0" value="4"/>
         </Feature>
       </FeatureRecord>
       <FeatureRecord index="18">
@@ -18282,10 +18342,14 @@ From Old Portuguese conta, from Latin computō (“I calculate”).
         </Feature>
       </FeatureRecord>
       <FeatureRecord index="22">
-        <FeatureTag value="zero"/>
+        <FeatureTag value="ss19"/>
         <Feature>
+          <FeatureParamsStylisticSet>
+            <Version value="0"/>
+            <UINameID value="256"/>  <!-- Slashed zero -->
+          </FeatureParamsStylisticSet>
           <!-- LookupCount=1 -->
-          <LookupListIndex index="0" value="7"/>
+          <LookupListIndex index="0" value="8"/>
         </Feature>
       </FeatureRecord>
       <FeatureRecord index="23">
@@ -18310,6 +18374,13 @@ From Old Portuguese conta, from Latin computō (“I calculate”).
         </Feature>
       </FeatureRecord>
       <FeatureRecord index="26">
+        <FeatureTag value="zero"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="7"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="27">
         <FeatureTag value="zero"/>
         <Feature>
           <!-- LookupCount=1 -->
