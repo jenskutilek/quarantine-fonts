@@ -3627,7 +3627,7 @@ unicode = 213;
 },
 {
 glyphname = P;
-lastChange = "2021-01-29 13:54:29 +0000";
+lastChange = "2022-05-21 09:05:47 +0000";
 layers = (
 {
 anchors = (
@@ -3637,7 +3637,7 @@ pos = (280,0);
 },
 {
 name = top;
-pos = (280,720);
+pos = (260,720);
 }
 );
 background = {
@@ -3817,7 +3817,7 @@ unicode = 80;
 {
 color = 6;
 glyphname = Pdotaccent;
-lastChange = "2022-05-21 07:40:34 +0000";
+lastChange = "2022-05-21 09:05:47 +0000";
 layers = (
 {
 layerId = "83692D61-586C-413E-9B5A-1AF652750951";
@@ -3826,7 +3826,7 @@ shapes = (
 ref = P;
 },
 {
-pos = (0,160);
+pos = (-20,160);
 ref = dotaccentcomb;
 }
 );
