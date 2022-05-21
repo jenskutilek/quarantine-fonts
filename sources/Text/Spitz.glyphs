@@ -1,9 +1,10 @@
 {
-.appVersion = "3112";
+.appVersion = "3125";
 .formatVersion = 3;
 DisplayStrings = (
 dhbnnqnnp,
-"nn nn.qbin"
+"nn nn.qbin",
+A
 );
 axes = (
 {
