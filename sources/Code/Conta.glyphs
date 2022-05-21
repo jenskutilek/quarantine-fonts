@@ -5,9 +5,7 @@ DisplayStrings = (
 "All die anderen 
 Adaptionen sind ein überwiegend trauriges Kapitel.",
 "FEADO
-0xFE2AD0",
-"8",
-"x/x.hex"
+0xFE2AD0"
 );
 axes = (
 {
@@ -145,6 +143,21 @@ zdotaccent.mono
 ";
 disabled = 1;
 name = mono_tgt;
+}
+);
+customParameters = (
+{
+name = de.kutilek.corretto.gasp;
+value = "8: gSgS, 96: GSGS, 65535: gSgS";
+},
+{
+disabled = 1;
+name = de.kutilek.corretto.webfonts;
+value = woff2;
+},
+{
+name = de.kutilek.corretto.ttx;
+value = "../fonts_ttx";
 }
 );
 date = "2021-09-22 14:51:06 +0000";
@@ -9979,7 +9992,7 @@ unicode = 7719;
 {
 color = 6;
 glyphname = i;
-lastChange = "2022-05-21 08:06:22 +0000";
+lastChange = "2022-05-21 08:37:50 +0000";
 layers = (
 {
 background = {
@@ -10124,7 +10137,7 @@ unicode = 305;
 {
 color = 6;
 glyphname = iacute;
-lastChange = "2022-05-21 08:10:15 +0000";
+lastChange = "2022-05-21 08:30:55 +0000";
 layers = (
 {
 layerId = "83692D61-586C-413E-9B5A-1AF652750951";
@@ -10144,7 +10157,7 @@ unicode = 237;
 },
 {
 glyphname = icaron;
-lastChange = "2022-05-21 08:10:15 +0000";
+lastChange = "2022-05-21 08:30:55 +0000";
 layers = (
 {
 layerId = "83692D61-586C-413E-9B5A-1AF652750951";
@@ -10165,7 +10178,7 @@ unicode = 464;
 {
 color = 6;
 glyphname = icircumflex;
-lastChange = "2022-05-21 08:10:15 +0000";
+lastChange = "2022-05-21 08:30:55 +0000";
 layers = (
 {
 layerId = "83692D61-586C-413E-9B5A-1AF652750951";
@@ -10186,7 +10199,7 @@ unicode = 238;
 {
 color = 6;
 glyphname = idieresis;
-lastChange = "2022-05-21 08:10:15 +0000";
+lastChange = "2022-05-21 08:30:55 +0000";
 layers = (
 {
 layerId = "83692D61-586C-413E-9B5A-1AF652750951";
@@ -10207,7 +10220,7 @@ unicode = 239;
 {
 color = 6;
 glyphname = igrave;
-lastChange = "2022-05-21 08:10:15 +0000";
+lastChange = "2022-05-21 08:30:55 +0000";
 layers = (
 {
 layerId = "83692D61-586C-413E-9B5A-1AF652750951";
@@ -10228,7 +10241,7 @@ unicode = 236;
 {
 color = 6;
 glyphname = imacron;
-lastChange = "2022-05-21 08:10:15 +0000";
+lastChange = "2022-05-21 08:30:55 +0000";
 layers = (
 {
 layerId = "83692D61-586C-413E-9B5A-1AF652750951";
@@ -10249,7 +10262,7 @@ unicode = 299;
 {
 color = 6;
 glyphname = iogonek;
-lastChange = "2022-05-21 08:10:15 +0000";
+lastChange = "2022-05-21 08:30:55 +0000";
 layers = (
 {
 layerId = "83692D61-586C-413E-9B5A-1AF652750951";
@@ -10274,7 +10287,7 @@ unicode = 303;
 {
 color = 6;
 glyphname = itilde;
-lastChange = "2022-05-21 08:10:15 +0000";
+lastChange = "2022-05-21 08:30:55 +0000";
 layers = (
 {
 layerId = "83692D61-586C-413E-9B5A-1AF652750951";
