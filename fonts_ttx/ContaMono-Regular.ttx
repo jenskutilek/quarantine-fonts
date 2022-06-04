@@ -31,369 +31,384 @@
     <GlyphID id="25" name="Dcroat"/>
     <GlyphID id="26" name="E"/>
     <GlyphID id="27" name="Eacute"/>
-    <GlyphID id="28" name="Ecaron"/>
-    <GlyphID id="29" name="Ecircumflex"/>
-    <GlyphID id="30" name="Edieresis"/>
-    <GlyphID id="31" name="Edotaccent"/>
-    <GlyphID id="32" name="Egrave"/>
-    <GlyphID id="33" name="Emacron"/>
-    <GlyphID id="34" name="Eogonek"/>
-    <GlyphID id="35" name="uni1EBC"/>
-    <GlyphID id="36" name="uni018F"/>
-    <GlyphID id="37" name="F"/>
-    <GlyphID id="38" name="G"/>
-    <GlyphID id="39" name="Gbreve"/>
-    <GlyphID id="40" name="Gcaron"/>
-    <GlyphID id="41" name="Gcircumflex"/>
-    <GlyphID id="42" name="uni0122"/>
-    <GlyphID id="43" name="Gdotaccent"/>
-    <GlyphID id="44" name="uni1E20"/>
-    <GlyphID id="45" name="H"/>
-    <GlyphID id="46" name="Hbar"/>
-    <GlyphID id="47" name="Hcircumflex"/>
-    <GlyphID id="48" name="uni1E26"/>
-    <GlyphID id="49" name="I"/>
-    <GlyphID id="50" name="Iacute"/>
-    <GlyphID id="51" name="uni01CF"/>
-    <GlyphID id="52" name="Icircumflex"/>
-    <GlyphID id="53" name="Idieresis"/>
-    <GlyphID id="54" name="Idotaccent"/>
-    <GlyphID id="55" name="Igrave"/>
-    <GlyphID id="56" name="Imacron"/>
-    <GlyphID id="57" name="Iogonek"/>
-    <GlyphID id="58" name="Itilde"/>
-    <GlyphID id="59" name="J"/>
-    <GlyphID id="60" name="uni004A0301"/>
-    <GlyphID id="61" name="Jcircumflex"/>
-    <GlyphID id="62" name="K"/>
-    <GlyphID id="63" name="uni0136"/>
-    <GlyphID id="64" name="L"/>
-    <GlyphID id="65" name="Lacute"/>
-    <GlyphID id="66" name="uni013B"/>
-    <GlyphID id="67" name="M"/>
-    <GlyphID id="68" name="N"/>
-    <GlyphID id="69" name="Nacute"/>
-    <GlyphID id="70" name="Ncaron"/>
-    <GlyphID id="71" name="uni0145"/>
-    <GlyphID id="72" name="uni1E44"/>
-    <GlyphID id="73" name="Ntilde"/>
-    <GlyphID id="74" name="O"/>
-    <GlyphID id="75" name="Oacute"/>
-    <GlyphID id="76" name="uni01D1"/>
-    <GlyphID id="77" name="Ocircumflex"/>
-    <GlyphID id="78" name="Odieresis"/>
-    <GlyphID id="79" name="Ograve"/>
-    <GlyphID id="80" name="Omacron"/>
-    <GlyphID id="81" name="Otilde"/>
-    <GlyphID id="82" name="P"/>
-    <GlyphID id="83" name="uni1E56"/>
-    <GlyphID id="84" name="Thorn"/>
-    <GlyphID id="85" name="Q"/>
-    <GlyphID id="86" name="R"/>
-    <GlyphID id="87" name="Racute"/>
-    <GlyphID id="88" name="Rcaron"/>
-    <GlyphID id="89" name="uni0156"/>
-    <GlyphID id="90" name="S"/>
-    <GlyphID id="91" name="Sacute"/>
-    <GlyphID id="92" name="Scaron"/>
-    <GlyphID id="93" name="Scedilla"/>
-    <GlyphID id="94" name="Scircumflex"/>
-    <GlyphID id="95" name="uni0218"/>
-    <GlyphID id="96" name="uni1E9E"/>
-    <GlyphID id="97" name="T"/>
-    <GlyphID id="98" name="Tcaron"/>
-    <GlyphID id="99" name="uni0162"/>
-    <GlyphID id="100" name="uni021A"/>
-    <GlyphID id="101" name="U"/>
-    <GlyphID id="102" name="Uacute"/>
-    <GlyphID id="103" name="Ubreve"/>
-    <GlyphID id="104" name="uni01D3"/>
-    <GlyphID id="105" name="Ucircumflex"/>
-    <GlyphID id="106" name="Udieresis"/>
-    <GlyphID id="107" name="Ugrave"/>
-    <GlyphID id="108" name="Umacron"/>
-    <GlyphID id="109" name="Uogonek"/>
-    <GlyphID id="110" name="Uring"/>
-    <GlyphID id="111" name="Utilde"/>
-    <GlyphID id="112" name="V"/>
-    <GlyphID id="113" name="uni0245"/>
-    <GlyphID id="114" name="W"/>
-    <GlyphID id="115" name="Wacute"/>
-    <GlyphID id="116" name="Wcircumflex"/>
-    <GlyphID id="117" name="Wdieresis"/>
-    <GlyphID id="118" name="Wgrave"/>
-    <GlyphID id="119" name="X"/>
-    <GlyphID id="120" name="uni1E8C"/>
-    <GlyphID id="121" name="Y"/>
-    <GlyphID id="122" name="Yacute"/>
-    <GlyphID id="123" name="Ycircumflex"/>
-    <GlyphID id="124" name="Ydieresis"/>
-    <GlyphID id="125" name="Ygrave"/>
-    <GlyphID id="126" name="uni0232"/>
-    <GlyphID id="127" name="uni1EF8"/>
-    <GlyphID id="128" name="Z"/>
-    <GlyphID id="129" name="Zacute"/>
-    <GlyphID id="130" name="Zcaron"/>
-    <GlyphID id="131" name="Zdotaccent"/>
-    <GlyphID id="132" name="A.hex"/>
-    <GlyphID id="133" name="B.hex"/>
-    <GlyphID id="134" name="C.hex"/>
-    <GlyphID id="135" name="D.hex"/>
-    <GlyphID id="136" name="E.hex"/>
-    <GlyphID id="137" name="F.hex"/>
-    <GlyphID id="138" name="a"/>
-    <GlyphID id="139" name="aacute"/>
-    <GlyphID id="140" name="abreve"/>
-    <GlyphID id="141" name="uni01CE"/>
-    <GlyphID id="142" name="acircumflex"/>
-    <GlyphID id="143" name="adieresis"/>
-    <GlyphID id="144" name="agrave"/>
-    <GlyphID id="145" name="amacron"/>
-    <GlyphID id="146" name="aogonek"/>
-    <GlyphID id="147" name="aring"/>
-    <GlyphID id="148" name="atilde"/>
-    <GlyphID id="149" name="b"/>
-    <GlyphID id="150" name="c"/>
-    <GlyphID id="151" name="cacute"/>
-    <GlyphID id="152" name="ccaron"/>
-    <GlyphID id="153" name="ccedilla"/>
-    <GlyphID id="154" name="ccircumflex"/>
-    <GlyphID id="155" name="cdotaccent"/>
-    <GlyphID id="156" name="d"/>
-    <GlyphID id="157" name="dcroat"/>
-    <GlyphID id="158" name="e"/>
-    <GlyphID id="159" name="eacute"/>
-    <GlyphID id="160" name="ecaron"/>
-    <GlyphID id="161" name="ecircumflex"/>
-    <GlyphID id="162" name="edieresis"/>
-    <GlyphID id="163" name="edotaccent"/>
-    <GlyphID id="164" name="egrave"/>
-    <GlyphID id="165" name="emacron"/>
-    <GlyphID id="166" name="eogonek"/>
-    <GlyphID id="167" name="uni1EBD"/>
-    <GlyphID id="168" name="uni0259"/>
-    <GlyphID id="169" name="f"/>
-    <GlyphID id="170" name="g"/>
-    <GlyphID id="171" name="gbreve"/>
-    <GlyphID id="172" name="gcaron"/>
-    <GlyphID id="173" name="gcircumflex"/>
-    <GlyphID id="174" name="uni0123"/>
-    <GlyphID id="175" name="gdotaccent"/>
-    <GlyphID id="176" name="uni1E21"/>
-    <GlyphID id="177" name="h"/>
-    <GlyphID id="178" name="hbar"/>
-    <GlyphID id="179" name="hcircumflex"/>
-    <GlyphID id="180" name="uni1E27"/>
-    <GlyphID id="181" name="i"/>
-    <GlyphID id="182" name="dotlessi"/>
-    <GlyphID id="183" name="iacute"/>
-    <GlyphID id="184" name="uni01D0"/>
-    <GlyphID id="185" name="icircumflex"/>
-    <GlyphID id="186" name="idieresis"/>
-    <GlyphID id="187" name="igrave"/>
-    <GlyphID id="188" name="imacron"/>
-    <GlyphID id="189" name="iogonek"/>
-    <GlyphID id="190" name="itilde"/>
-    <GlyphID id="191" name="j"/>
-    <GlyphID id="192" name="uni0237"/>
-    <GlyphID id="193" name="uni006A0301"/>
-    <GlyphID id="194" name="jcircumflex"/>
-    <GlyphID id="195" name="k"/>
-    <GlyphID id="196" name="uni0137"/>
-    <GlyphID id="197" name="l"/>
-    <GlyphID id="198" name="lacute"/>
-    <GlyphID id="199" name="uni013C"/>
-    <GlyphID id="200" name="m"/>
-    <GlyphID id="201" name="n"/>
-    <GlyphID id="202" name="nacute"/>
-    <GlyphID id="203" name="ncaron"/>
-    <GlyphID id="204" name="uni0146"/>
-    <GlyphID id="205" name="uni1E45"/>
-    <GlyphID id="206" name="ntilde"/>
-    <GlyphID id="207" name="o"/>
-    <GlyphID id="208" name="oacute"/>
-    <GlyphID id="209" name="uni01D2"/>
-    <GlyphID id="210" name="ocircumflex"/>
-    <GlyphID id="211" name="odieresis"/>
-    <GlyphID id="212" name="ograve"/>
-    <GlyphID id="213" name="omacron"/>
-    <GlyphID id="214" name="otilde"/>
-    <GlyphID id="215" name="p"/>
-    <GlyphID id="216" name="uni1E57"/>
-    <GlyphID id="217" name="thorn"/>
-    <GlyphID id="218" name="q"/>
-    <GlyphID id="219" name="r"/>
-    <GlyphID id="220" name="racute"/>
-    <GlyphID id="221" name="rcaron"/>
-    <GlyphID id="222" name="uni0157"/>
-    <GlyphID id="223" name="s"/>
-    <GlyphID id="224" name="sacute"/>
-    <GlyphID id="225" name="scaron"/>
-    <GlyphID id="226" name="scedilla"/>
-    <GlyphID id="227" name="scircumflex"/>
-    <GlyphID id="228" name="uni0219"/>
-    <GlyphID id="229" name="germandbls"/>
-    <GlyphID id="230" name="t"/>
-    <GlyphID id="231" name="uni0163"/>
-    <GlyphID id="232" name="uni021B"/>
-    <GlyphID id="233" name="uni1E97"/>
-    <GlyphID id="234" name="u"/>
-    <GlyphID id="235" name="uacute"/>
-    <GlyphID id="236" name="ubreve"/>
-    <GlyphID id="237" name="uni01D4"/>
-    <GlyphID id="238" name="ucircumflex"/>
-    <GlyphID id="239" name="udieresis"/>
-    <GlyphID id="240" name="ugrave"/>
-    <GlyphID id="241" name="umacron"/>
-    <GlyphID id="242" name="uogonek"/>
-    <GlyphID id="243" name="uring"/>
-    <GlyphID id="244" name="utilde"/>
-    <GlyphID id="245" name="v"/>
-    <GlyphID id="246" name="uni028C"/>
-    <GlyphID id="247" name="w"/>
-    <GlyphID id="248" name="wacute"/>
-    <GlyphID id="249" name="wcircumflex"/>
-    <GlyphID id="250" name="wdieresis"/>
-    <GlyphID id="251" name="wgrave"/>
-    <GlyphID id="252" name="x"/>
-    <GlyphID id="253" name="uni1E8D"/>
-    <GlyphID id="254" name="y"/>
-    <GlyphID id="255" name="yacute"/>
-    <GlyphID id="256" name="ycircumflex"/>
-    <GlyphID id="257" name="ydieresis"/>
-    <GlyphID id="258" name="ygrave"/>
-    <GlyphID id="259" name="uni0233"/>
-    <GlyphID id="260" name="uni1EF9"/>
-    <GlyphID id="261" name="z"/>
-    <GlyphID id="262" name="zacute"/>
-    <GlyphID id="263" name="zcaron"/>
-    <GlyphID id="264" name="zdotaccent"/>
-    <GlyphID id="265" name="x.hex"/>
-    <GlyphID id="266" name="h.short"/>
-    <GlyphID id="267" name="pi"/>
-    <GlyphID id="268" name="zero"/>
-    <GlyphID id="269" name="one"/>
-    <GlyphID id="270" name="two"/>
-    <GlyphID id="271" name="three"/>
-    <GlyphID id="272" name="four"/>
-    <GlyphID id="273" name="five"/>
-    <GlyphID id="274" name="six"/>
-    <GlyphID id="275" name="seven"/>
-    <GlyphID id="276" name="eight"/>
-    <GlyphID id="277" name="nine"/>
-    <GlyphID id="278" name="zero.zero"/>
-    <GlyphID id="279" name="uni2003"/>
-    <GlyphID id="280" name="uni2002"/>
-    <GlyphID id="281" name="uni2007"/>
-    <GlyphID id="282" name="uni2008"/>
-    <GlyphID id="283" name="uni00A0"/>
-    <GlyphID id="284" name="uni2009"/>
-    <GlyphID id="285" name="period"/>
-    <GlyphID id="286" name="comma"/>
-    <GlyphID id="287" name="colon"/>
-    <GlyphID id="288" name="semicolon"/>
-    <GlyphID id="289" name="ellipsis"/>
-    <GlyphID id="290" name="exclam"/>
-    <GlyphID id="291" name="exclamdown"/>
-    <GlyphID id="292" name="question"/>
-    <GlyphID id="293" name="questiondown"/>
-    <GlyphID id="294" name="periodcentered"/>
-    <GlyphID id="295" name="asterisk"/>
-    <GlyphID id="296" name="numbersign"/>
-    <GlyphID id="297" name="slash"/>
-    <GlyphID id="298" name="backslash"/>
-    <GlyphID id="299" name="hyphen"/>
-    <GlyphID id="300" name="uni00AD"/>
-    <GlyphID id="301" name="endash"/>
-    <GlyphID id="302" name="emdash"/>
-    <GlyphID id="303" name="underscore"/>
-    <GlyphID id="304" name="parenleft"/>
-    <GlyphID id="305" name="parenright"/>
-    <GlyphID id="306" name="braceleft"/>
-    <GlyphID id="307" name="braceright"/>
-    <GlyphID id="308" name="bracketleft"/>
-    <GlyphID id="309" name="bracketright"/>
-    <GlyphID id="310" name="quotesinglbase"/>
-    <GlyphID id="311" name="quotedblbase"/>
-    <GlyphID id="312" name="quotedblleft"/>
-    <GlyphID id="313" name="quotedblright"/>
-    <GlyphID id="314" name="quoteleft"/>
-    <GlyphID id="315" name="quoteright"/>
-    <GlyphID id="316" name="quotedbl"/>
-    <GlyphID id="317" name="quotesingle"/>
-    <GlyphID id="318" name="florin"/>
-    <GlyphID id="319" name="at"/>
-    <GlyphID id="320" name="ampersand"/>
-    <GlyphID id="321" name="copyright"/>
-    <GlyphID id="322" name="bar"/>
-    <GlyphID id="323" name="dollar"/>
-    <GlyphID id="324" name="uni2913"/>
-    <GlyphID id="325" name="plus"/>
-    <GlyphID id="326" name="minus"/>
-    <GlyphID id="327" name="equal"/>
-    <GlyphID id="328" name="greater"/>
-    <GlyphID id="329" name="less"/>
-    <GlyphID id="330" name="plusminus"/>
-    <GlyphID id="331" name="asciitilde"/>
-    <GlyphID id="332" name="asciicircum"/>
-    <GlyphID id="333" name="uni2206"/>
-    <GlyphID id="334" name="uni00B5"/>
-    <GlyphID id="335" name="percent"/>
-    <GlyphID id="336" name="arrowup"/>
-    <GlyphID id="337" name="arrowright"/>
-    <GlyphID id="338" name="arrowdown"/>
-    <GlyphID id="339" name="arrowleft"/>
-    <GlyphID id="340" name="uni21A5"/>
-    <GlyphID id="341" name="block"/>
-    <GlyphID id="342" name="uni0308"/>
-    <GlyphID id="343" name="uni0307"/>
-    <GlyphID id="344" name="gravecomb"/>
-    <GlyphID id="345" name="acutecomb"/>
-    <GlyphID id="346" name="uni0302"/>
-    <GlyphID id="347" name="uni030C"/>
-    <GlyphID id="348" name="uni0306"/>
-    <GlyphID id="349" name="uni030A"/>
-    <GlyphID id="350" name="tildecomb"/>
-    <GlyphID id="351" name="uni0304"/>
-    <GlyphID id="352" name="uni0327"/>
-    <GlyphID id="353" name="uni0328"/>
-    <GlyphID id="354" name="dieresis"/>
-    <GlyphID id="355" name="dotaccent"/>
-    <GlyphID id="356" name="grave"/>
-    <GlyphID id="357" name="acute"/>
-    <GlyphID id="358" name="circumflex"/>
-    <GlyphID id="359" name="caron"/>
-    <GlyphID id="360" name="breve"/>
-    <GlyphID id="361" name="ring"/>
-    <GlyphID id="362" name="tilde"/>
-    <GlyphID id="363" name="macron"/>
-    <GlyphID id="364" name="cedilla"/>
-    <GlyphID id="365" name="ogonek"/>
-    <GlyphID id="366" name="uni0308.case"/>
-    <GlyphID id="367" name="gravecomb.case"/>
-    <GlyphID id="368" name="acutecomb.case"/>
-    <GlyphID id="369" name="uni0302.case"/>
-    <GlyphID id="370" name="uni030C.case"/>
-    <GlyphID id="371" name="uni0306.case"/>
-    <GlyphID id="372" name="uni030A.case"/>
-    <GlyphID id="373" name="tildecomb.case"/>
-    <GlyphID id="374" name="uni0304.case"/>
-    <GlyphID id="375" name="uni02BC"/>
-    <GlyphID id="376" name="uni02BB"/>
+    <GlyphID id="28" name="Ebreve"/>
+    <GlyphID id="29" name="Ecaron"/>
+    <GlyphID id="30" name="Ecircumflex"/>
+    <GlyphID id="31" name="Edieresis"/>
+    <GlyphID id="32" name="Edotaccent"/>
+    <GlyphID id="33" name="Egrave"/>
+    <GlyphID id="34" name="Emacron"/>
+    <GlyphID id="35" name="Eogonek"/>
+    <GlyphID id="36" name="uni1EBC"/>
+    <GlyphID id="37" name="uni018F"/>
+    <GlyphID id="38" name="F"/>
+    <GlyphID id="39" name="G"/>
+    <GlyphID id="40" name="Gbreve"/>
+    <GlyphID id="41" name="Gcaron"/>
+    <GlyphID id="42" name="Gcircumflex"/>
+    <GlyphID id="43" name="uni0122"/>
+    <GlyphID id="44" name="Gdotaccent"/>
+    <GlyphID id="45" name="uni1E20"/>
+    <GlyphID id="46" name="H"/>
+    <GlyphID id="47" name="Hbar"/>
+    <GlyphID id="48" name="Hcircumflex"/>
+    <GlyphID id="49" name="uni1E26"/>
+    <GlyphID id="50" name="I"/>
+    <GlyphID id="51" name="Iacute"/>
+    <GlyphID id="52" name="Ibreve"/>
+    <GlyphID id="53" name="uni01CF"/>
+    <GlyphID id="54" name="Icircumflex"/>
+    <GlyphID id="55" name="Idieresis"/>
+    <GlyphID id="56" name="Idotaccent"/>
+    <GlyphID id="57" name="Igrave"/>
+    <GlyphID id="58" name="Imacron"/>
+    <GlyphID id="59" name="Iogonek"/>
+    <GlyphID id="60" name="Itilde"/>
+    <GlyphID id="61" name="J"/>
+    <GlyphID id="62" name="uni004A0301"/>
+    <GlyphID id="63" name="Jcircumflex"/>
+    <GlyphID id="64" name="K"/>
+    <GlyphID id="65" name="uni0136"/>
+    <GlyphID id="66" name="L"/>
+    <GlyphID id="67" name="Lacute"/>
+    <GlyphID id="68" name="uni013B"/>
+    <GlyphID id="69" name="M"/>
+    <GlyphID id="70" name="N"/>
+    <GlyphID id="71" name="Nacute"/>
+    <GlyphID id="72" name="Ncaron"/>
+    <GlyphID id="73" name="uni0145"/>
+    <GlyphID id="74" name="uni1E44"/>
+    <GlyphID id="75" name="Ntilde"/>
+    <GlyphID id="76" name="O"/>
+    <GlyphID id="77" name="Oacute"/>
+    <GlyphID id="78" name="Obreve"/>
+    <GlyphID id="79" name="uni01D1"/>
+    <GlyphID id="80" name="Ocircumflex"/>
+    <GlyphID id="81" name="Odieresis"/>
+    <GlyphID id="82" name="Ograve"/>
+    <GlyphID id="83" name="Omacron"/>
+    <GlyphID id="84" name="Otilde"/>
+    <GlyphID id="85" name="P"/>
+    <GlyphID id="86" name="uni1E56"/>
+    <GlyphID id="87" name="Thorn"/>
+    <GlyphID id="88" name="Q"/>
+    <GlyphID id="89" name="R"/>
+    <GlyphID id="90" name="Racute"/>
+    <GlyphID id="91" name="Rcaron"/>
+    <GlyphID id="92" name="uni0156"/>
+    <GlyphID id="93" name="S"/>
+    <GlyphID id="94" name="Sacute"/>
+    <GlyphID id="95" name="Scaron"/>
+    <GlyphID id="96" name="Scedilla"/>
+    <GlyphID id="97" name="Scircumflex"/>
+    <GlyphID id="98" name="uni0218"/>
+    <GlyphID id="99" name="uni1E9E"/>
+    <GlyphID id="100" name="T"/>
+    <GlyphID id="101" name="Tcaron"/>
+    <GlyphID id="102" name="uni0162"/>
+    <GlyphID id="103" name="uni021A"/>
+    <GlyphID id="104" name="U"/>
+    <GlyphID id="105" name="Uacute"/>
+    <GlyphID id="106" name="Ubreve"/>
+    <GlyphID id="107" name="uni01D3"/>
+    <GlyphID id="108" name="Ucircumflex"/>
+    <GlyphID id="109" name="Udieresis"/>
+    <GlyphID id="110" name="Ugrave"/>
+    <GlyphID id="111" name="Umacron"/>
+    <GlyphID id="112" name="Uogonek"/>
+    <GlyphID id="113" name="Uring"/>
+    <GlyphID id="114" name="Utilde"/>
+    <GlyphID id="115" name="V"/>
+    <GlyphID id="116" name="uni0245"/>
+    <GlyphID id="117" name="W"/>
+    <GlyphID id="118" name="Wacute"/>
+    <GlyphID id="119" name="Wcircumflex"/>
+    <GlyphID id="120" name="Wdieresis"/>
+    <GlyphID id="121" name="Wgrave"/>
+    <GlyphID id="122" name="X"/>
+    <GlyphID id="123" name="uni1E8C"/>
+    <GlyphID id="124" name="Y"/>
+    <GlyphID id="125" name="Yacute"/>
+    <GlyphID id="126" name="Ycircumflex"/>
+    <GlyphID id="127" name="Ydieresis"/>
+    <GlyphID id="128" name="Ygrave"/>
+    <GlyphID id="129" name="uni0232"/>
+    <GlyphID id="130" name="uni1EF8"/>
+    <GlyphID id="131" name="Z"/>
+    <GlyphID id="132" name="Zacute"/>
+    <GlyphID id="133" name="Zcaron"/>
+    <GlyphID id="134" name="Zdotaccent"/>
+    <GlyphID id="135" name="A.hex"/>
+    <GlyphID id="136" name="B.hex"/>
+    <GlyphID id="137" name="C.hex"/>
+    <GlyphID id="138" name="D.hex"/>
+    <GlyphID id="139" name="E.hex"/>
+    <GlyphID id="140" name="F.hex"/>
+    <GlyphID id="141" name="a"/>
+    <GlyphID id="142" name="aacute"/>
+    <GlyphID id="143" name="abreve"/>
+    <GlyphID id="144" name="uni01CE"/>
+    <GlyphID id="145" name="acircumflex"/>
+    <GlyphID id="146" name="adieresis"/>
+    <GlyphID id="147" name="agrave"/>
+    <GlyphID id="148" name="amacron"/>
+    <GlyphID id="149" name="aogonek"/>
+    <GlyphID id="150" name="aring"/>
+    <GlyphID id="151" name="atilde"/>
+    <GlyphID id="152" name="b"/>
+    <GlyphID id="153" name="c"/>
+    <GlyphID id="154" name="cacute"/>
+    <GlyphID id="155" name="ccaron"/>
+    <GlyphID id="156" name="ccedilla"/>
+    <GlyphID id="157" name="ccircumflex"/>
+    <GlyphID id="158" name="cdotaccent"/>
+    <GlyphID id="159" name="d"/>
+    <GlyphID id="160" name="dcroat"/>
+    <GlyphID id="161" name="e"/>
+    <GlyphID id="162" name="eacute"/>
+    <GlyphID id="163" name="ebreve"/>
+    <GlyphID id="164" name="ecaron"/>
+    <GlyphID id="165" name="ecircumflex"/>
+    <GlyphID id="166" name="edieresis"/>
+    <GlyphID id="167" name="edotaccent"/>
+    <GlyphID id="168" name="egrave"/>
+    <GlyphID id="169" name="emacron"/>
+    <GlyphID id="170" name="eogonek"/>
+    <GlyphID id="171" name="uni1EBD"/>
+    <GlyphID id="172" name="uni0259"/>
+    <GlyphID id="173" name="f"/>
+    <GlyphID id="174" name="g"/>
+    <GlyphID id="175" name="gbreve"/>
+    <GlyphID id="176" name="gcaron"/>
+    <GlyphID id="177" name="gcircumflex"/>
+    <GlyphID id="178" name="uni0123"/>
+    <GlyphID id="179" name="gdotaccent"/>
+    <GlyphID id="180" name="uni1E21"/>
+    <GlyphID id="181" name="h"/>
+    <GlyphID id="182" name="hbar"/>
+    <GlyphID id="183" name="hcircumflex"/>
+    <GlyphID id="184" name="uni1E27"/>
+    <GlyphID id="185" name="i"/>
+    <GlyphID id="186" name="dotlessi"/>
+    <GlyphID id="187" name="iacute"/>
+    <GlyphID id="188" name="ibreve"/>
+    <GlyphID id="189" name="uni01D0"/>
+    <GlyphID id="190" name="icircumflex"/>
+    <GlyphID id="191" name="idieresis"/>
+    <GlyphID id="192" name="igrave"/>
+    <GlyphID id="193" name="imacron"/>
+    <GlyphID id="194" name="iogonek"/>
+    <GlyphID id="195" name="itilde"/>
+    <GlyphID id="196" name="j"/>
+    <GlyphID id="197" name="uni0237"/>
+    <GlyphID id="198" name="uni006A0301"/>
+    <GlyphID id="199" name="jcircumflex"/>
+    <GlyphID id="200" name="k"/>
+    <GlyphID id="201" name="uni0137"/>
+    <GlyphID id="202" name="l"/>
+    <GlyphID id="203" name="lacute"/>
+    <GlyphID id="204" name="uni013C"/>
+    <GlyphID id="205" name="m"/>
+    <GlyphID id="206" name="n"/>
+    <GlyphID id="207" name="nacute"/>
+    <GlyphID id="208" name="ncaron"/>
+    <GlyphID id="209" name="uni0146"/>
+    <GlyphID id="210" name="uni1E45"/>
+    <GlyphID id="211" name="ntilde"/>
+    <GlyphID id="212" name="o"/>
+    <GlyphID id="213" name="oacute"/>
+    <GlyphID id="214" name="obreve"/>
+    <GlyphID id="215" name="uni01D2"/>
+    <GlyphID id="216" name="ocircumflex"/>
+    <GlyphID id="217" name="odieresis"/>
+    <GlyphID id="218" name="ograve"/>
+    <GlyphID id="219" name="omacron"/>
+    <GlyphID id="220" name="otilde"/>
+    <GlyphID id="221" name="p"/>
+    <GlyphID id="222" name="uni1E57"/>
+    <GlyphID id="223" name="thorn"/>
+    <GlyphID id="224" name="q"/>
+    <GlyphID id="225" name="r"/>
+    <GlyphID id="226" name="racute"/>
+    <GlyphID id="227" name="rcaron"/>
+    <GlyphID id="228" name="uni0157"/>
+    <GlyphID id="229" name="s"/>
+    <GlyphID id="230" name="sacute"/>
+    <GlyphID id="231" name="scaron"/>
+    <GlyphID id="232" name="scedilla"/>
+    <GlyphID id="233" name="scircumflex"/>
+    <GlyphID id="234" name="uni0219"/>
+    <GlyphID id="235" name="germandbls"/>
+    <GlyphID id="236" name="t"/>
+    <GlyphID id="237" name="uni0163"/>
+    <GlyphID id="238" name="uni021B"/>
+    <GlyphID id="239" name="uni1E97"/>
+    <GlyphID id="240" name="u"/>
+    <GlyphID id="241" name="uacute"/>
+    <GlyphID id="242" name="ubreve"/>
+    <GlyphID id="243" name="uni01D4"/>
+    <GlyphID id="244" name="ucircumflex"/>
+    <GlyphID id="245" name="udieresis"/>
+    <GlyphID id="246" name="ugrave"/>
+    <GlyphID id="247" name="umacron"/>
+    <GlyphID id="248" name="uogonek"/>
+    <GlyphID id="249" name="uring"/>
+    <GlyphID id="250" name="utilde"/>
+    <GlyphID id="251" name="v"/>
+    <GlyphID id="252" name="uni028C"/>
+    <GlyphID id="253" name="w"/>
+    <GlyphID id="254" name="wacute"/>
+    <GlyphID id="255" name="wcircumflex"/>
+    <GlyphID id="256" name="wdieresis"/>
+    <GlyphID id="257" name="wgrave"/>
+    <GlyphID id="258" name="x"/>
+    <GlyphID id="259" name="uni1E8D"/>
+    <GlyphID id="260" name="y"/>
+    <GlyphID id="261" name="yacute"/>
+    <GlyphID id="262" name="ycircumflex"/>
+    <GlyphID id="263" name="ydieresis"/>
+    <GlyphID id="264" name="ygrave"/>
+    <GlyphID id="265" name="uni0233"/>
+    <GlyphID id="266" name="uni1EF9"/>
+    <GlyphID id="267" name="z"/>
+    <GlyphID id="268" name="zacute"/>
+    <GlyphID id="269" name="zcaron"/>
+    <GlyphID id="270" name="zdotaccent"/>
+    <GlyphID id="271" name="x.hex"/>
+    <GlyphID id="272" name="h.short"/>
+    <GlyphID id="273" name="pi"/>
+    <GlyphID id="274" name="zero"/>
+    <GlyphID id="275" name="one"/>
+    <GlyphID id="276" name="two"/>
+    <GlyphID id="277" name="three"/>
+    <GlyphID id="278" name="four"/>
+    <GlyphID id="279" name="five"/>
+    <GlyphID id="280" name="six"/>
+    <GlyphID id="281" name="seven"/>
+    <GlyphID id="282" name="eight"/>
+    <GlyphID id="283" name="nine"/>
+    <GlyphID id="284" name="zero.zero"/>
+    <GlyphID id="285" name="uni2003"/>
+    <GlyphID id="286" name="uni2002"/>
+    <GlyphID id="287" name="uni2007"/>
+    <GlyphID id="288" name="uni2008"/>
+    <GlyphID id="289" name="uni00A0"/>
+    <GlyphID id="290" name="uni2009"/>
+    <GlyphID id="291" name="period"/>
+    <GlyphID id="292" name="comma"/>
+    <GlyphID id="293" name="colon"/>
+    <GlyphID id="294" name="semicolon"/>
+    <GlyphID id="295" name="ellipsis"/>
+    <GlyphID id="296" name="exclam"/>
+    <GlyphID id="297" name="exclamdown"/>
+    <GlyphID id="298" name="question"/>
+    <GlyphID id="299" name="questiondown"/>
+    <GlyphID id="300" name="periodcentered"/>
+    <GlyphID id="301" name="asterisk"/>
+    <GlyphID id="302" name="numbersign"/>
+    <GlyphID id="303" name="slash"/>
+    <GlyphID id="304" name="backslash"/>
+    <GlyphID id="305" name="hyphen"/>
+    <GlyphID id="306" name="uni00AD"/>
+    <GlyphID id="307" name="endash"/>
+    <GlyphID id="308" name="emdash"/>
+    <GlyphID id="309" name="underscore"/>
+    <GlyphID id="310" name="parenleft"/>
+    <GlyphID id="311" name="parenright"/>
+    <GlyphID id="312" name="braceleft"/>
+    <GlyphID id="313" name="braceright"/>
+    <GlyphID id="314" name="bracketleft"/>
+    <GlyphID id="315" name="bracketright"/>
+    <GlyphID id="316" name="quotesinglbase"/>
+    <GlyphID id="317" name="quotedblbase"/>
+    <GlyphID id="318" name="quotedblleft"/>
+    <GlyphID id="319" name="quotedblright"/>
+    <GlyphID id="320" name="quoteleft"/>
+    <GlyphID id="321" name="quoteright"/>
+    <GlyphID id="322" name="quotedbl"/>
+    <GlyphID id="323" name="quotesingle"/>
+    <GlyphID id="324" name="florin"/>
+    <GlyphID id="325" name="at"/>
+    <GlyphID id="326" name="ampersand"/>
+    <GlyphID id="327" name="copyright"/>
+    <GlyphID id="328" name="bar"/>
+    <GlyphID id="329" name="dagger"/>
+    <GlyphID id="330" name="dollar"/>
+    <GlyphID id="331" name="uni2913"/>
+    <GlyphID id="332" name="plus"/>
+    <GlyphID id="333" name="minus"/>
+    <GlyphID id="334" name="equal"/>
+    <GlyphID id="335" name="greater"/>
+    <GlyphID id="336" name="less"/>
+    <GlyphID id="337" name="plusminus"/>
+    <GlyphID id="338" name="asciitilde"/>
+    <GlyphID id="339" name="asciicircum"/>
+    <GlyphID id="340" name="uni2206"/>
+    <GlyphID id="341" name="uni00B5"/>
+    <GlyphID id="342" name="percent"/>
+    <GlyphID id="343" name="arrowup"/>
+    <GlyphID id="344" name="arrowright"/>
+    <GlyphID id="345" name="arrowdown"/>
+    <GlyphID id="346" name="arrowleft"/>
+    <GlyphID id="347" name="uni21A5"/>
+    <GlyphID id="348" name="block"/>
+    <GlyphID id="349" name="uni0308"/>
+    <GlyphID id="350" name="uni0307"/>
+    <GlyphID id="351" name="gravecomb"/>
+    <GlyphID id="352" name="acutecomb"/>
+    <GlyphID id="353" name="uni0302"/>
+    <GlyphID id="354" name="uni030C"/>
+    <GlyphID id="355" name="uni0306"/>
+    <GlyphID id="356" name="uni030A"/>
+    <GlyphID id="357" name="tildecomb"/>
+    <GlyphID id="358" name="uni0304"/>
+    <GlyphID id="359" name="uni0327"/>
+    <GlyphID id="360" name="uni0328"/>
+    <GlyphID id="361" name="uni0308.case"/>
+    <GlyphID id="362" name="gravecomb.case"/>
+    <GlyphID id="363" name="acutecomb.case"/>
+    <GlyphID id="364" name="uni0302.case"/>
+    <GlyphID id="365" name="uni030C.case"/>
+    <GlyphID id="366" name="uni0306.case"/>
+    <GlyphID id="367" name="uni030A.case"/>
+    <GlyphID id="368" name="tildecomb.case"/>
+    <GlyphID id="369" name="uni0304.case"/>
+    <GlyphID id="370" name="dieresis"/>
+    <GlyphID id="371" name="dotaccent"/>
+    <GlyphID id="372" name="grave"/>
+    <GlyphID id="373" name="acute"/>
+    <GlyphID id="374" name="circumflex"/>
+    <GlyphID id="375" name="caron"/>
+    <GlyphID id="376" name="breve"/>
+    <GlyphID id="377" name="ring"/>
+    <GlyphID id="378" name="tilde"/>
+    <GlyphID id="379" name="macron"/>
+    <GlyphID id="380" name="cedilla"/>
+    <GlyphID id="381" name="ogonek"/>
+    <GlyphID id="382" name="uni02BC"/>
+    <GlyphID id="383" name="uni02BB"/>
+    <GlyphID id="384" name="uniE0A0"/>
+    <GlyphID id="385" name="uniE0A1"/>
+    <GlyphID id="386" name="uniE0A2"/>
+    <GlyphID id="387" name="uniE0A3"/>
+    <GlyphID id="388" name="uniE0B0"/>
+    <GlyphID id="389" name="uniE0B1"/>
+    <GlyphID id="390" name="uniE0B2"/>
+    <GlyphID id="391" name="uniE0B3"/>
   </GlyphOrder>
 
   <head>
     <!-- Most of this table will be recalculated by the compiler -->
     <tableVersion value="1.0"/>
-    <fontRevision value="2.002"/>
-    <checkSumAdjustment value="0xf02aacd9"/>
+    <fontRevision value="2.00299"/>
+    <checkSumAdjustment value="0xcae109bd"/>
     <magicNumber value="0x5f0f3cf5"/>
     <flags value="00100000 00001111"/>
     <unitsPerEm value="2048"/>
-    <created value="Wed Sep 22 14:51:06 2021"/>
-    <modified value="Sat May 21 08:52:04 2022"/>
+    <created value="Sat Jun  4 12:12:43 2022"/>
+    <modified value="Sat Jun  4 12:16:20 2022"/>
     <xMin value="-119"/>
-    <yMin value="-327"/>
+    <yMin value="-607"/>
     <xMax value="1178"/>
     <yMax value="2021"/>
     <macStyle value="00000000 00000000"/>
@@ -405,10 +420,10 @@
 
   <hhea>
     <tableVersion value="0x00010000"/>
-    <ascent value="2156"/>
-    <descent value="-303"/>
+    <ascent value="1891"/>
+    <descent value="-605"/>
     <lineGap value="0"/>
-    <advanceWidthMax value="1059"/>
+    <advanceWidthMax value="1061"/>
     <minLeftSideBearing value="-119"/>
     <minRightSideBearing value="-119"/>
     <xMaxExtent value="1178"/>
@@ -420,13 +435,13 @@
     <reserved2 value="0"/>
     <reserved3 value="0"/>
     <metricDataFormat value="0"/>
-    <numberOfHMetrics value="2"/>
+    <numberOfHMetrics value="261"/>
   </hhea>
 
   <maxp>
     <!-- Most of this table will be recalculated by the compiler -->
     <tableVersion value="0x10000"/>
-    <numGlyphs value="377"/>
+    <numGlyphs value="392"/>
     <maxPoints value="86"/>
     <maxContours value="5"/>
     <maxCompositePoints value="98"/>
@@ -474,18 +489,18 @@
       <bXHeight value="0"/>
     </panose>
     <ulUnicodeRange1 value="10100000 00000000 00000000 11111111"/>
-    <ulUnicodeRange2 value="00000000 00000000 00010000 01100000"/>
+    <ulUnicodeRange2 value="00010000 00000000 00010000 01100000"/>
     <ulUnicodeRange3 value="00000000 00000000 00000000 00000000"/>
     <ulUnicodeRange4 value="00000000 00000000 00000000 00000000"/>
     <achVendID value="JENS"/>
     <fsSelection value="00000000 11000000"/>
     <usFirstCharIndex value="13"/>
-    <usLastCharIndex value="10515"/>
+    <usLastCharIndex value="57523"/>
     <sTypoAscender value="1513"/>
-    <sTypoDescender value="-303"/>
-    <sTypoLineGap value="643"/>
-    <usWinAscent value="2156"/>
-    <usWinDescent value="303"/>
+    <sTypoDescender value="-454"/>
+    <sTypoLineGap value="529"/>
+    <usWinAscent value="1891"/>
+    <usWinDescent value="605"/>
     <ulCodePageRange1 value="00100000 00000000 00000000 10010011"/>
     <ulCodePageRange2 value="00000000 00000000 00000000 00000000"/>
     <sxHeight value="1059"/>
@@ -525,6 +540,7 @@
     <mtx name="E" width="1059" lsb="174"/>
     <mtx name="E.hex" width="1059" lsb="174"/>
     <mtx name="Eacute" width="1059" lsb="174"/>
+    <mtx name="Ebreve" width="1059" lsb="174"/>
     <mtx name="Ecaron" width="1059" lsb="174"/>
     <mtx name="Ecircumflex" width="1059" lsb="174"/>
     <mtx name="Edieresis" width="1059" lsb="174"/>
@@ -545,6 +561,7 @@
     <mtx name="Hcircumflex" width="1059" lsb="151"/>
     <mtx name="I" width="1059" lsb="227"/>
     <mtx name="Iacute" width="1059" lsb="227"/>
+    <mtx name="Ibreve" width="1059" lsb="227"/>
     <mtx name="Icircumflex" width="1059" lsb="215"/>
     <mtx name="Idieresis" width="1059" lsb="217"/>
     <mtx name="Idotaccent" width="1059" lsb="227"/>
@@ -564,6 +581,7 @@
     <mtx name="Ntilde" width="1059" lsb="151"/>
     <mtx name="O" width="1059" lsb="102"/>
     <mtx name="Oacute" width="1059" lsb="102"/>
+    <mtx name="Obreve" width="1059" lsb="102"/>
     <mtx name="Ocircumflex" width="1059" lsb="102"/>
     <mtx name="Odieresis" width="1059" lsb="102"/>
     <mtx name="Ograve" width="1059" lsb="102"/>
@@ -618,7 +636,7 @@
     <mtx name="adieresis" width="1059" lsb="117"/>
     <mtx name="agrave" width="1059" lsb="117"/>
     <mtx name="amacron" width="1059" lsb="117"/>
-    <mtx name="ampersand" width="1059" lsb="127"/>
+    <mtx name="ampersand" width="1059" lsb="38"/>
     <mtx name="aogonek" width="1059" lsb="117"/>
     <mtx name="aring" width="1059" lsb="117"/>
     <mtx name="arrowdown" width="1059" lsb="183"/>
@@ -652,21 +670,23 @@
     <mtx name="comma" width="1059" lsb="301"/>
     <mtx name="copyright" width="1059" lsb="0"/>
     <mtx name="d" width="1059" lsb="102"/>
+    <mtx name="dagger" width="1059" lsb="76"/>
     <mtx name="dcroat" width="1059" lsb="102"/>
     <mtx name="dieresis" width="1059" lsb="216"/>
     <mtx name="dollar" width="1059" lsb="163"/>
     <mtx name="dotaccent" width="1059" lsb="386"/>
     <mtx name="dotlessi" width="1059" lsb="159"/>
-    <mtx name="e" width="1059" lsb="113"/>
-    <mtx name="eacute" width="1059" lsb="113"/>
-    <mtx name="ecaron" width="1059" lsb="113"/>
-    <mtx name="ecircumflex" width="1059" lsb="113"/>
-    <mtx name="edieresis" width="1059" lsb="113"/>
-    <mtx name="edotaccent" width="1059" lsb="113"/>
-    <mtx name="egrave" width="1059" lsb="113"/>
+    <mtx name="e" width="1061" lsb="113"/>
+    <mtx name="eacute" width="1061" lsb="113"/>
+    <mtx name="ebreve" width="1061" lsb="113"/>
+    <mtx name="ecaron" width="1061" lsb="113"/>
+    <mtx name="ecircumflex" width="1061" lsb="113"/>
+    <mtx name="edieresis" width="1061" lsb="113"/>
+    <mtx name="edotaccent" width="1061" lsb="113"/>
+    <mtx name="egrave" width="1061" lsb="113"/>
     <mtx name="eight" width="1059" lsb="98"/>
     <mtx name="ellipsis" width="1059" lsb="119"/>
-    <mtx name="emacron" width="1059" lsb="113"/>
+    <mtx name="emacron" width="1061" lsb="113"/>
     <mtx name="emdash" width="1059" lsb="0"/>
     <mtx name="endash" width="1059" lsb="0"/>
     <mtx name="eogonek" width="1059" lsb="113"/>
@@ -694,6 +714,7 @@
     <mtx name="hyphen" width="1059" lsb="151"/>
     <mtx name="i" width="1059" lsb="159"/>
     <mtx name="iacute" width="1059" lsb="159"/>
+    <mtx name="ibreve" width="1059" lsb="159"/>
     <mtx name="icircumflex" width="1059" lsb="159"/>
     <mtx name="idieresis" width="1059" lsb="159"/>
     <mtx name="igrave" width="1059" lsb="159"/>
@@ -718,6 +739,7 @@
     <mtx name="numbersign" width="1059" lsb="76"/>
     <mtx name="o" width="1059" lsb="102"/>
     <mtx name="oacute" width="1059" lsb="102"/>
+    <mtx name="obreve" width="1059" lsb="102"/>
     <mtx name="ocircumflex" width="1059" lsb="102"/>
     <mtx name="odieresis" width="1059" lsb="102"/>
     <mtx name="ogonek" width="1059" lsb="371"/>
@@ -808,7 +830,7 @@
     <mtx name="uni0233" width="1059" lsb="81"/>
     <mtx name="uni0237" width="1059" lsb="206"/>
     <mtx name="uni0245" width="1059" lsb="79"/>
-    <mtx name="uni0259" width="1059" lsb="180"/>
+    <mtx name="uni0259" width="1061" lsb="182"/>
     <mtx name="uni028C" width="1059" lsb="106"/>
     <mtx name="uni02BB" width="1059" lsb="335"/>
     <mtx name="uni02BC" width="1059" lsb="238"/>
@@ -836,11 +858,11 @@
     <mtx name="uni1E56" width="1059" lsb="151"/>
     <mtx name="uni1E57" width="1059" lsb="151"/>
     <mtx name="uni1E8C" width="1059" lsb="110"/>
-    <mtx name="uni1E8D" width="1059" lsb="115"/>
+    <mtx name="uni1E8D" width="1061" lsb="115"/>
     <mtx name="uni1E97" width="1059" lsb="103"/>
     <mtx name="uni1E9E" width="1059" lsb="161"/>
     <mtx name="uni1EBC" width="1059" lsb="174"/>
-    <mtx name="uni1EBD" width="1059" lsb="113"/>
+    <mtx name="uni1EBD" width="1061" lsb="113"/>
     <mtx name="uni1EF8" width="1059" lsb="102"/>
     <mtx name="uni1EF9" width="1059" lsb="81"/>
     <mtx name="uni2002" width="1059" lsb="0"/>
@@ -851,6 +873,14 @@
     <mtx name="uni21A5" width="1059" lsb="151"/>
     <mtx name="uni2206" width="1059" lsb="70"/>
     <mtx name="uni2913" width="1059" lsb="151"/>
+    <mtx name="uniE0A0" width="1059" lsb="151"/>
+    <mtx name="uniE0A1" width="1059" lsb="0"/>
+    <mtx name="uniE0A2" width="1059" lsb="113"/>
+    <mtx name="uniE0A3" width="1059" lsb="0"/>
+    <mtx name="uniE0B0" width="1059" lsb="-30"/>
+    <mtx name="uniE0B1" width="1059" lsb="-64"/>
+    <mtx name="uniE0B2" width="1059" lsb="0"/>
+    <mtx name="uniE0B3" width="1059" lsb="-106"/>
     <mtx name="uogonek" width="1059" lsb="151"/>
     <mtx name="uring" width="1059" lsb="151"/>
     <mtx name="utilde" width="1059" lsb="151"/>
@@ -860,7 +890,7 @@
     <mtx name="wcircumflex" width="1059" lsb="-119"/>
     <mtx name="wdieresis" width="1059" lsb="-119"/>
     <mtx name="wgrave" width="1059" lsb="-119"/>
-    <mtx name="x" width="1059" lsb="115"/>
+    <mtx name="x" width="1061" lsb="115"/>
     <mtx name="x.hex" width="1059" lsb="115"/>
     <mtx name="y" width="1059" lsb="81"/>
     <mtx name="yacute" width="1059" lsb="81"/>
@@ -1062,6 +1092,8 @@
       <map code="0x111" name="dcroat"/><!-- LATIN SMALL LETTER D WITH STROKE -->
       <map code="0x112" name="Emacron"/><!-- LATIN CAPITAL LETTER E WITH MACRON -->
       <map code="0x113" name="emacron"/><!-- LATIN SMALL LETTER E WITH MACRON -->
+      <map code="0x114" name="Ebreve"/><!-- LATIN CAPITAL LETTER E WITH BREVE -->
+      <map code="0x115" name="ebreve"/><!-- LATIN SMALL LETTER E WITH BREVE -->
       <map code="0x116" name="Edotaccent"/><!-- LATIN CAPITAL LETTER E WITH DOT ABOVE -->
       <map code="0x117" name="edotaccent"/><!-- LATIN SMALL LETTER E WITH DOT ABOVE -->
       <map code="0x118" name="Eogonek"/><!-- LATIN CAPITAL LETTER E WITH OGONEK -->
@@ -1084,6 +1116,8 @@
       <map code="0x129" name="itilde"/><!-- LATIN SMALL LETTER I WITH TILDE -->
       <map code="0x12a" name="Imacron"/><!-- LATIN CAPITAL LETTER I WITH MACRON -->
       <map code="0x12b" name="imacron"/><!-- LATIN SMALL LETTER I WITH MACRON -->
+      <map code="0x12c" name="Ibreve"/><!-- LATIN CAPITAL LETTER I WITH BREVE -->
+      <map code="0x12d" name="ibreve"/><!-- LATIN SMALL LETTER I WITH BREVE -->
       <map code="0x12e" name="Iogonek"/><!-- LATIN CAPITAL LETTER I WITH OGONEK -->
       <map code="0x12f" name="iogonek"/><!-- LATIN SMALL LETTER I WITH OGONEK -->
       <map code="0x130" name="Idotaccent"/><!-- LATIN CAPITAL LETTER I WITH DOT ABOVE -->
@@ -1104,6 +1138,8 @@
       <map code="0x148" name="ncaron"/><!-- LATIN SMALL LETTER N WITH CARON -->
       <map code="0x14c" name="Omacron"/><!-- LATIN CAPITAL LETTER O WITH MACRON -->
       <map code="0x14d" name="omacron"/><!-- LATIN SMALL LETTER O WITH MACRON -->
+      <map code="0x14e" name="Obreve"/><!-- LATIN CAPITAL LETTER O WITH BREVE -->
+      <map code="0x14f" name="obreve"/><!-- LATIN SMALL LETTER O WITH BREVE -->
       <map code="0x154" name="Racute"/><!-- LATIN CAPITAL LETTER R WITH ACUTE -->
       <map code="0x155" name="racute"/><!-- LATIN SMALL LETTER R WITH ACUTE -->
       <map code="0x156" name="uni0156"/><!-- LATIN CAPITAL LETTER R WITH CEDILLA -->
@@ -1223,6 +1259,7 @@
       <map code="0x201c" name="quotedblleft"/><!-- LEFT DOUBLE QUOTATION MARK -->
       <map code="0x201d" name="quotedblright"/><!-- RIGHT DOUBLE QUOTATION MARK -->
       <map code="0x201e" name="quotedblbase"/><!-- DOUBLE LOW-9 QUOTATION MARK -->
+      <map code="0x2020" name="dagger"/><!-- DAGGER -->
       <map code="0x2026" name="ellipsis"/><!-- HORIZONTAL ELLIPSIS -->
       <map code="0x2190" name="arrowleft"/><!-- LEFTWARDS ARROW -->
       <map code="0x2191" name="arrowup"/><!-- UPWARDS ARROW -->
@@ -1233,6 +1270,14 @@
       <map code="0x2212" name="minus"/><!-- MINUS SIGN -->
       <map code="0x2588" name="block"/><!-- FULL BLOCK -->
       <map code="0x2913" name="uni2913"/><!-- DOWNWARDS ARROW TO BAR -->
+      <map code="0xe0a0" name="uniE0A0"/><!-- ???? -->
+      <map code="0xe0a1" name="uniE0A1"/><!-- ???? -->
+      <map code="0xe0a2" name="uniE0A2"/><!-- ???? -->
+      <map code="0xe0a3" name="uniE0A3"/><!-- ???? -->
+      <map code="0xe0b0" name="uniE0B0"/><!-- ???? -->
+      <map code="0xe0b1" name="uniE0B1"/><!-- ???? -->
+      <map code="0xe0b2" name="uniE0B2"/><!-- ???? -->
+      <map code="0xe0b3" name="uniE0B3"/><!-- ???? -->
     </cmap_format_4>
     <cmap_format_4 platformID="3" platEncID="1" language="0">
       <map code="0xd" name="nonmarkingreturn"/><!-- ???? -->
@@ -1419,6 +1464,8 @@
       <map code="0x111" name="dcroat"/><!-- LATIN SMALL LETTER D WITH STROKE -->
       <map code="0x112" name="Emacron"/><!-- LATIN CAPITAL LETTER E WITH MACRON -->
       <map code="0x113" name="emacron"/><!-- LATIN SMALL LETTER E WITH MACRON -->
+      <map code="0x114" name="Ebreve"/><!-- LATIN CAPITAL LETTER E WITH BREVE -->
+      <map code="0x115" name="ebreve"/><!-- LATIN SMALL LETTER E WITH BREVE -->
       <map code="0x116" name="Edotaccent"/><!-- LATIN CAPITAL LETTER E WITH DOT ABOVE -->
       <map code="0x117" name="edotaccent"/><!-- LATIN SMALL LETTER E WITH DOT ABOVE -->
       <map code="0x118" name="Eogonek"/><!-- LATIN CAPITAL LETTER E WITH OGONEK -->
@@ -1441,6 +1488,8 @@
       <map code="0x129" name="itilde"/><!-- LATIN SMALL LETTER I WITH TILDE -->
       <map code="0x12a" name="Imacron"/><!-- LATIN CAPITAL LETTER I WITH MACRON -->
       <map code="0x12b" name="imacron"/><!-- LATIN SMALL LETTER I WITH MACRON -->
+      <map code="0x12c" name="Ibreve"/><!-- LATIN CAPITAL LETTER I WITH BREVE -->
+      <map code="0x12d" name="ibreve"/><!-- LATIN SMALL LETTER I WITH BREVE -->
       <map code="0x12e" name="Iogonek"/><!-- LATIN CAPITAL LETTER I WITH OGONEK -->
       <map code="0x12f" name="iogonek"/><!-- LATIN SMALL LETTER I WITH OGONEK -->
       <map code="0x130" name="Idotaccent"/><!-- LATIN CAPITAL LETTER I WITH DOT ABOVE -->
@@ -1461,6 +1510,8 @@
       <map code="0x148" name="ncaron"/><!-- LATIN SMALL LETTER N WITH CARON -->
       <map code="0x14c" name="Omacron"/><!-- LATIN CAPITAL LETTER O WITH MACRON -->
       <map code="0x14d" name="omacron"/><!-- LATIN SMALL LETTER O WITH MACRON -->
+      <map code="0x14e" name="Obreve"/><!-- LATIN CAPITAL LETTER O WITH BREVE -->
+      <map code="0x14f" name="obreve"/><!-- LATIN SMALL LETTER O WITH BREVE -->
       <map code="0x154" name="Racute"/><!-- LATIN CAPITAL LETTER R WITH ACUTE -->
       <map code="0x155" name="racute"/><!-- LATIN SMALL LETTER R WITH ACUTE -->
       <map code="0x156" name="uni0156"/><!-- LATIN CAPITAL LETTER R WITH CEDILLA -->
@@ -1580,6 +1631,7 @@
       <map code="0x201c" name="quotedblleft"/><!-- LEFT DOUBLE QUOTATION MARK -->
       <map code="0x201d" name="quotedblright"/><!-- RIGHT DOUBLE QUOTATION MARK -->
       <map code="0x201e" name="quotedblbase"/><!-- DOUBLE LOW-9 QUOTATION MARK -->
+      <map code="0x2020" name="dagger"/><!-- DAGGER -->
       <map code="0x2026" name="ellipsis"/><!-- HORIZONTAL ELLIPSIS -->
       <map code="0x2190" name="arrowleft"/><!-- LEFTWARDS ARROW -->
       <map code="0x2191" name="arrowup"/><!-- UPWARDS ARROW -->
@@ -1590,6 +1642,14 @@
       <map code="0x2212" name="minus"/><!-- MINUS SIGN -->
       <map code="0x2588" name="block"/><!-- FULL BLOCK -->
       <map code="0x2913" name="uni2913"/><!-- DOWNWARDS ARROW TO BAR -->
+      <map code="0xe0a0" name="uniE0A0"/><!-- ???? -->
+      <map code="0xe0a1" name="uniE0A1"/><!-- ???? -->
+      <map code="0xe0a2" name="uniE0A2"/><!-- ???? -->
+      <map code="0xe0a3" name="uniE0A3"/><!-- ???? -->
+      <map code="0xe0b0" name="uniE0B0"/><!-- ???? -->
+      <map code="0xe0b1" name="uniE0B1"/><!-- ???? -->
+      <map code="0xe0b2" name="uniE0B2"/><!-- ???? -->
+      <map code="0xe0b3" name="uniE0B3"/><!-- ???? -->
     </cmap_format_4>
   </cmap>
 
@@ -3206,6 +3266,11 @@
       <component glyphName="acutecomb.case" x="10" y="0" flags="0x400"/>
     </TTGlyph>
 
+    <TTGlyph name="Ebreve" xMin="174" yMin="0" xMax="891" yMax="1814">
+      <component glyphName="E" x="0" y="0" flags="0x400"/>
+      <component glyphName="uni0306.case" x="10" y="0" flags="0x400"/>
+    </TTGlyph>
+
     <TTGlyph name="Ecaron" xMin="174" yMin="0" xMax="891" yMax="1870">
       <component glyphName="E" x="0" y="0" flags="0x400"/>
       <component glyphName="uni030C.case" x="10" y="0" flags="0x400"/>
@@ -3674,6 +3739,11 @@
       <component glyphName="acutecomb.case" x="1" y="0" flags="0x400"/>
     </TTGlyph>
 
+    <TTGlyph name="Ibreve" xMin="227" yMin="0" xMax="832" yMax="1814">
+      <component glyphName="I" x="0" y="0" flags="0x400"/>
+      <component glyphName="uni0306.case" x="1" y="0" flags="0x400"/>
+    </TTGlyph>
+
     <TTGlyph name="Icircumflex" xMin="215" yMin="0" xMax="846" yMax="1870">
       <component glyphName="I" x="0" y="0" flags="0x400"/>
       <component glyphName="uni0302.case" x="1" y="0" flags="0x400"/>
@@ -4042,6 +4112,11 @@
     <TTGlyph name="Oacute" xMin="102" yMin="-19" xMax="957" yMax="1870">
       <component glyphName="O" x="0" y="0" flags="0x400"/>
       <component glyphName="acutecomb.case" x="0" y="0" flags="0x400"/>
+    </TTGlyph>
+
+    <TTGlyph name="Obreve" xMin="102" yMin="-19" xMax="957" yMax="1814">
+      <component glyphName="O" x="0" y="0" flags="0x400"/>
+      <component glyphName="uni0306.case" x="0" y="0" flags="0x400"/>
     </TTGlyph>
 
     <TTGlyph name="Ocircumflex" xMin="102" yMin="-19" xMax="957" yMax="1870">
@@ -5149,88 +5224,108 @@
       <component glyphName="uni0304" x="0" y="0" flags="0x400"/>
     </TTGlyph>
 
-    <TTGlyph name="ampersand" xMin="127" yMin="-17" xMax="1112" yMax="1362">
+    <TTGlyph name="ampersand" xMin="38" yMin="-17" xMax="1112" yMax="1377">
       <contour>
-        <pt x="327" y="568" on="0"/>
-        <pt x="198" y="743" on="0"/>
-        <pt x="136" y="919" on="0"/>
-        <pt x="136" y="1019" on="1"/>
-        <pt x="136" y="1124" on="0"/>
-        <pt x="224" y="1279" on="0"/>
-        <pt x="373" y="1362" on="0"/>
-        <pt x="461" y="1362" on="1"/>
-        <pt x="557" y="1362" on="0"/>
-        <pt x="694" y="1282" on="0"/>
-        <pt x="764" y="1138" on="0"/>
-        <pt x="764" y="1044" on="1"/>
-        <pt x="764" y="941" on="0"/>
-        <pt x="666" y="728" on="0"/>
-        <pt x="573" y="616" on="1"/>
-        <pt x="478" y="675" on="1"/>
-        <pt x="605" y="879" on="0"/>
-        <pt x="605" y="1033" on="1"/>
-        <pt x="605" y="1129" on="0"/>
-        <pt x="522" y="1229" on="0"/>
-        <pt x="454" y="1229" on="1"/>
-        <pt x="379" y="1229" on="0"/>
-        <pt x="287" y="1121" on="0"/>
-        <pt x="287" y="1029" on="1"/>
-        <pt x="287" y="916" on="0"/>
-        <pt x="401" y="690" on="0"/>
-        <pt x="529" y="565" on="1"/>
+        <pt x="321" y="-17" on="0"/>
+        <pt x="137" y="63" on="0"/>
+        <pt x="38" y="215" on="0"/>
+        <pt x="38" y="321" on="1"/>
+        <pt x="38" y="437" on="0"/>
+        <pt x="148" y="604" on="0"/>
+        <pt x="245" y="677" on="1"/>
+        <pt x="186" y="760" on="0"/>
+        <pt x="134" y="922" on="0"/>
+        <pt x="134" y="1021" on="1"/>
+        <pt x="134" y="1131" on="0"/>
+        <pt x="223" y="1292" on="0"/>
+        <pt x="373" y="1377" on="0"/>
+        <pt x="461" y="1377" on="1"/>
+        <pt x="556" y="1377" on="0"/>
+        <pt x="694" y="1298" on="0"/>
+        <pt x="766" y="1162" on="0"/>
+        <pt x="766" y="1080" on="1"/>
+        <pt x="766" y="987" on="0"/>
+        <pt x="683" y="844" on="0"/>
+        <pt x="564" y="744" on="0"/>
+        <pt x="465" y="678" on="1"/>
+        <pt x="458" y="672" on="0"/>
+        <pt x="442" y="662" on="1"/>
+        <pt x="497" y="597" on="0"/>
+        <pt x="582" y="515" on="1"/>
+        <pt x="783" y="320" on="1"/>
+        <pt x="827" y="399" on="0"/>
+        <pt x="873" y="602" on="0"/>
+        <pt x="873" y="720" on="1"/>
+        <pt x="872" y="756" on="1"/>
+        <pt x="1023" y="756" on="1"/>
+        <pt x="1023" y="726" on="1"/>
+        <pt x="1023" y="576" on="0"/>
+        <pt x="954" y="317" on="0"/>
+        <pt x="887" y="218" on="1"/>
         <pt x="1112" y="0" on="1"/>
         <pt x="908" y="0" on="1"/>
-        <pt x="433" y="463" on="1"/>
+        <pt x="794" y="111" on="1"/>
+        <pt x="724" y="49" on="0"/>
+        <pt x="549" y="-17" on="0"/>
+        <pt x="446" y="-17" on="1"/>
       </contour>
       <contour>
-        <pt x="127" y="482" on="0"/>
-        <pt x="139" y="587" on="0"/>
-        <pt x="149" y="616" on="1"/>
-        <pt x="286" y="581" on="1"/>
-        <pt x="278" y="501" on="0"/>
-        <pt x="278" y="460" on="1"/>
-        <pt x="278" y="288" on="0"/>
-        <pt x="394" y="119" on="0"/>
-        <pt x="505" y="119" on="1"/>
-        <pt x="560" y="119" on="0"/>
-        <pt x="641" y="138" on="1"/>
-        <pt x="669" y="19" on="1"/>
-        <pt x="636" y="4" on="0"/>
-        <pt x="543" y="-17" on="0"/>
-        <pt x="497" y="-17" on="1"/>
-        <pt x="386" y="-17" on="0"/>
-        <pt x="220" y="79" on="0"/>
-        <pt x="127" y="280" on="0"/>
-        <pt x="127" y="431" on="1"/>
+        <pt x="193" y="234" on="0"/>
+        <pt x="322" y="119" on="0"/>
+        <pt x="447" y="119" on="1"/>
+        <pt x="591" y="119" on="0"/>
+        <pt x="694" y="209" on="1"/>
+        <pt x="470" y="428" on="1"/>
+        <pt x="383" y="512" on="0"/>
+        <pt x="326" y="576" on="1"/>
+        <pt x="262" y="522" on="0"/>
+        <pt x="193" y="404" on="0"/>
+        <pt x="193" y="329" on="1"/>
       </contour>
       <contour>
-        <pt x="900" y="756" on="1"/>
-        <pt x="1061" y="756" on="1"/>
-        <pt x="862" y="454" on="1"/>
-        <pt x="702" y="454" on="1"/>
+        <pt x="287" y="946" on="0"/>
+        <pt x="324" y="825" on="0"/>
+        <pt x="365" y="761" on="1"/>
+        <pt x="444" y="814" on="0"/>
+        <pt x="542" y="897" on="0"/>
+        <pt x="605" y="1006" on="0"/>
+        <pt x="605" y="1074" on="1"/>
+        <pt x="605" y="1150" on="0"/>
+        <pt x="520" y="1244" on="0"/>
+        <pt x="454" y="1244" on="1"/>
+        <pt x="376" y="1244" on="0"/>
+        <pt x="287" y="1126" on="0"/>
+        <pt x="287" y="1015" on="1"/>
       </contour>
       <instructions>
         <assembly>
           SVTCA[0]	/* SetFPVectorToAxis */
           ROFF[ ]	/* RoundOff */
           PUSHB[ ]	/* 4 values pushed */
-          20 15 7 4
+          62 15 13 4
           MIAP[1]	/* MoveIndirectAbsPt */
           MIRP[01101]	/* MoveIndirectRelPt */
           PUSHB[ ]	/* 4 values pushed */
-          38 15 44 11
+          44 15 41 11
           MIAP[1]	/* MoveIndirectAbsPt */
           MIRP[01101]	/* MoveIndirectRelPt */
           RTG[ ]	/* RoundToGrid */
           PUSHB[ ]	/* 2 values pushed */
-          28 10
+          37 10
           MIAP[1]	/* MoveIndirectAbsPt */
           PUSHB[ ]	/* 1 value pushed */
-          49
+          30
           MDAP[1]	/* MoveDirectAbsPt */
-          PUSHB[ ]	/* 1 value pushed */
-          51
-          MDAP[1]	/* MoveDirectAbsPt */
+          PUSHB[ ]	/* 3 values pushed */
+          49 41 62
+          SRP1[ ]	/* SetRefPoint1 */
+          SRP2[ ]	/* SetRefPoint2 */
+          IP[ ]	/* InterpolatePts */
+          PUSHB[ ]	/* 3 values pushed */
+          55 44 13
+          SRP1[ ]	/* SetRefPoint1 */
+          SRP2[ ]	/* SetRefPoint2 */
+          IP[ ]	/* InterpolatePts */
           IUP[0]	/* InterpolateUntPts */
         </assembly>
       </instructions>
@@ -6347,6 +6442,50 @@
       </instructions>
     </TTGlyph>
 
+    <TTGlyph name="dagger" xMin="76" yMin="-113" xMax="983" yMax="1324">
+      <contour>
+        <pt x="454" y="772" on="1"/>
+        <pt x="76" y="768" on="1"/>
+        <pt x="76" y="911" on="1"/>
+        <pt x="454" y="907" on="1"/>
+        <pt x="448" y="1324" on="1"/>
+        <pt x="611" y="1324" on="1"/>
+        <pt x="605" y="907" on="1"/>
+        <pt x="983" y="911" on="1"/>
+        <pt x="983" y="768" on="1"/>
+        <pt x="605" y="772" on="1"/>
+        <pt x="605" y="-113" on="1"/>
+        <pt x="454" y="-113" on="1"/>
+      </contour>
+      <instructions>
+        <assembly>
+          SVTCA[0]	/* SetFPVectorToAxis */
+          PUSHB[ ]	/* 1 value pushed */
+          11
+          MDAP[1]	/* MoveDirectAbsPt */
+          PUSHB[ ]	/* 1 value pushed */
+          4
+          MDAP[1]	/* MoveDirectAbsPt */
+          PUSHB[ ]	/* 1 value pushed */
+          2
+          MDAP[1]	/* MoveDirectAbsPt */
+          ROFF[ ]	/* RoundOff */
+          PUSHB[ ]	/* 1 value pushed */
+          7
+          MDRP[00001]	/* MoveDirectRelPt */
+          PUSHB[ ]	/* 3 values pushed */
+          8 15 7
+          SRP0[ ]	/* SetRefPoint0 */
+          MIRP[01101]	/* MoveIndirectRelPt */
+          PUSHB[ ]	/* 2 values pushed */
+          1 8
+          SRP0[ ]	/* SetRefPoint0 */
+          MDRP[00001]	/* MoveDirectRelPt */
+          IUP[0]	/* InterpolateUntPts */
+        </assembly>
+      </instructions>
+    </TTGlyph>
+
     <TTGlyph name="dcroat" xMin="102" yMin="-15" xMax="1059" yMax="1513">
       <contour>
         <pt x="267" y="-15" on="0"/>
@@ -6613,6 +6752,11 @@
     <TTGlyph name="eacute" xMin="113" yMin="-19" xMax="879" yMax="1643">
       <component glyphName="e" x="0" y="0" flags="0x400"/>
       <component glyphName="acutecomb" x="-9" y="0" flags="0x400"/>
+    </TTGlyph>
+
+    <TTGlyph name="ebreve" xMin="113" yMin="-19" xMax="879" yMax="1587">
+      <component glyphName="e" x="0" y="0" flags="0x400"/>
+      <component glyphName="uni0306" x="-9" y="0" flags="0x400"/>
     </TTGlyph>
 
     <TTGlyph name="ecaron" xMin="113" yMin="-19" xMax="879" yMax="1643">
@@ -7861,6 +8005,11 @@
       <component glyphName="acutecomb" x="-1" y="0" flags="0x400"/>
     </TTGlyph>
 
+    <TTGlyph name="ibreve" xMin="159" yMin="0" xMax="915" yMax="1587">
+      <component glyphName="dotlessi" x="0" y="0" flags="0x400"/>
+      <component glyphName="uni0306" x="-1" y="0" flags="0x400"/>
+    </TTGlyph>
+
     <TTGlyph name="icircumflex" xMin="159" yMin="0" xMax="915" yMax="1643">
       <component glyphName="dotlessi" x="0" y="0" flags="0x400"/>
       <component glyphName="uni0302" x="-1" y="0" flags="0x400"/>
@@ -8489,6 +8638,11 @@
     <TTGlyph name="oacute" xMin="102" yMin="-19" xMax="957" yMax="1643">
       <component glyphName="o" x="0" y="0" flags="0x400"/>
       <component glyphName="acutecomb" x="0" y="0" flags="0x400"/>
+    </TTGlyph>
+
+    <TTGlyph name="obreve" xMin="102" yMin="-19" xMax="957" yMax="1587">
+      <component glyphName="o" x="0" y="0" flags="0x400"/>
+      <component glyphName="uni0306" x="0" y="0" flags="0x400"/>
     </TTGlyph>
 
     <TTGlyph name="ocircumflex" xMin="102" yMin="-19" xMax="957" yMax="1643">
@@ -11544,40 +11698,40 @@
       </instructions>
     </TTGlyph>
 
-    <TTGlyph name="uni0259" xMin="180" yMin="-15" xMax="946" yMax="1078">
+    <TTGlyph name="uni0259" xMin="182" yMin="-15" xMax="948" yMax="1078">
       <contour>
-        <pt x="790" y="543" on="1"/>
-        <pt x="788" y="744" on="0"/>
-        <pt x="638" y="942" on="0"/>
-        <pt x="486" y="942" on="1"/>
-        <pt x="423" y="942" on="0"/>
-        <pt x="306" y="913" on="0"/>
-        <pt x="240" y="889" on="1"/>
-        <pt x="202" y="1012" on="1"/>
-        <pt x="276" y="1043" on="0"/>
-        <pt x="419" y="1078" on="0"/>
-        <pt x="495" y="1078" on="1"/>
-        <pt x="703" y="1078" on="0"/>
-        <pt x="946" y="811" on="0"/>
-        <pt x="946" y="530" on="1"/>
-        <pt x="946" y="352" on="0"/>
-        <pt x="841" y="107" on="0"/>
-        <pt x="656" y="-15" on="0"/>
-        <pt x="535" y="-15" on="1"/>
-        <pt x="422" y="-15" on="0"/>
-        <pt x="262" y="92" on="0"/>
-        <pt x="180" y="288" on="0"/>
-        <pt x="180" y="418" on="1"/>
-        <pt x="180" y="477" on="0"/>
-        <pt x="189" y="543" on="1"/>
+        <pt x="792" y="543" on="1"/>
+        <pt x="790" y="744" on="0"/>
+        <pt x="640" y="942" on="0"/>
+        <pt x="488" y="942" on="1"/>
+        <pt x="425" y="942" on="0"/>
+        <pt x="308" y="913" on="0"/>
+        <pt x="242" y="889" on="1"/>
+        <pt x="204" y="1012" on="1"/>
+        <pt x="278" y="1043" on="0"/>
+        <pt x="421" y="1078" on="0"/>
+        <pt x="497" y="1078" on="1"/>
+        <pt x="705" y="1078" on="0"/>
+        <pt x="948" y="811" on="0"/>
+        <pt x="948" y="530" on="1"/>
+        <pt x="948" y="352" on="0"/>
+        <pt x="843" y="107" on="0"/>
+        <pt x="658" y="-15" on="0"/>
+        <pt x="537" y="-15" on="1"/>
+        <pt x="424" y="-15" on="0"/>
+        <pt x="264" y="92" on="0"/>
+        <pt x="182" y="288" on="0"/>
+        <pt x="182" y="418" on="1"/>
+        <pt x="182" y="477" on="0"/>
+        <pt x="191" y="543" on="1"/>
       </contour>
       <contour>
-        <pt x="330" y="276" on="0"/>
-        <pt x="435" y="117" on="0"/>
-        <pt x="543" y="117" on="1"/>
-        <pt x="750" y="117" on="0"/>
-        <pt x="784" y="410" on="1"/>
-        <pt x="333" y="410" on="1"/>
+        <pt x="332" y="276" on="0"/>
+        <pt x="437" y="117" on="0"/>
+        <pt x="545" y="117" on="1"/>
+        <pt x="752" y="117" on="0"/>
+        <pt x="786" y="410" on="1"/>
+        <pt x="335" y="410" on="1"/>
       </contour>
       <instructions>
         <assembly>
@@ -12438,7 +12592,7 @@
 
     <TTGlyph name="uni1E56" xMin="151" yMin="0" xMax="900" yMax="1842">
       <component glyphName="P" x="0" y="0" flags="0x400"/>
-      <component glyphName="uni0307" x="0" y="303" flags="0x404"/>
+      <component glyphName="uni0307" x="-37" y="303" flags="0x404"/>
     </TTGlyph>
 
     <TTGlyph name="uni1E57" xMin="151" yMin="-303" xMax="957" yMax="1539">
@@ -12601,6 +12755,233 @@
           9 10
           SRP0[ ]	/* SetRefPoint0 */
           MDRP[01101]	/* MoveDirectRelPt */
+          IUP[0]	/* InterpolateUntPts */
+        </assembly>
+      </instructions>
+    </TTGlyph>
+
+    <TTGlyph name="uniE0A0" xMin="151" yMin="-303" xMax="1006" yMax="1513">
+      <contour>
+        <pt x="605" y="560" on="1"/>
+        <pt x="605" y="1057" on="1"/>
+        <pt x="454" y="879" on="1"/>
+        <pt x="356" y="961" on="1"/>
+        <pt x="681" y="1339" on="1"/>
+        <pt x="1006" y="961" on="1"/>
+        <pt x="908" y="879" on="1"/>
+        <pt x="756" y="1057" on="1"/>
+        <pt x="756" y="505" on="1"/>
+        <pt x="303" y="163" on="1"/>
+        <pt x="303" y="-303" on="1"/>
+        <pt x="151" y="-303" on="1"/>
+        <pt x="151" y="217" on="1"/>
+      </contour>
+      <contour>
+        <pt x="151" y="1513" on="1"/>
+        <pt x="303" y="1513" on="1"/>
+        <pt x="303" y="605" on="1"/>
+        <pt x="151" y="605" on="1"/>
+      </contour>
+      <instructions>
+        <assembly>
+          SVTCA[0]	/* SetFPVectorToAxis */
+          PUSHB[ ]	/* 2 values pushed */
+          11 12
+          MIAP[1]	/* MoveIndirectAbsPt */
+          PUSHB[ ]	/* 2 values pushed */
+          13 2
+          MIAP[1]	/* MoveIndirectAbsPt */
+          IUP[0]	/* InterpolateUntPts */
+        </assembly>
+      </instructions>
+    </TTGlyph>
+
+    <TTGlyph name="uniE0A1"/><!-- contains no outline data -->
+
+    <TTGlyph name="uniE0A2" xMin="113" yMin="166" xMax="947" yMax="1286">
+      <contour>
+        <pt x="113" y="893" on="1"/>
+        <pt x="234" y="893" on="1"/>
+        <pt x="234" y="1010" on="1"/>
+        <pt x="234" y="1093" on="0"/>
+        <pt x="303" y="1218" on="0"/>
+        <pt x="437" y="1286" on="0"/>
+        <pt x="531" y="1286" on="1"/>
+        <pt x="625" y="1286" on="0"/>
+        <pt x="758" y="1218" on="0"/>
+        <pt x="826" y="1093" on="0"/>
+        <pt x="826" y="1010" on="1"/>
+        <pt x="826" y="893" on="1"/>
+        <pt x="947" y="893" on="1"/>
+        <pt x="947" y="166" on="1"/>
+        <pt x="113" y="166" on="1"/>
+      </contour>
+      <contour>
+        <pt x="819" y="287" on="1"/>
+        <pt x="819" y="772" on="1"/>
+        <pt x="242" y="772" on="1"/>
+        <pt x="242" y="287" on="1"/>
+      </contour>
+      <contour>
+        <pt x="698" y="893" on="1"/>
+        <pt x="698" y="1014" on="1"/>
+        <pt x="698" y="1083" on="0"/>
+        <pt x="612" y="1165" on="0"/>
+        <pt x="531" y="1165" on="1"/>
+        <pt x="449" y="1165" on="0"/>
+        <pt x="359" y="1083" on="0"/>
+        <pt x="359" y="1014" on="1"/>
+        <pt x="359" y="893" on="1"/>
+      </contour>
+      <contour>
+        <pt x="467" y="651" on="1"/>
+        <pt x="596" y="651" on="1"/>
+        <pt x="596" y="408" on="1"/>
+        <pt x="467" y="408" on="1"/>
+      </contour>
+      <instructions>
+        <assembly>
+          SVTCA[0]	/* SetFPVectorToAxis */
+          PUSHB[ ]	/* 1 value pushed */
+          14
+          MDAP[1]	/* MoveDirectAbsPt */
+          ROFF[ ]	/* RoundOff */
+          PUSHB[ ]	/* 2 values pushed */
+          18 15
+          MIRP[01101]	/* MoveIndirectRelPt */
+          RTG[ ]	/* RoundToGrid */
+          PUSHB[ ]	/* 1 value pushed */
+          0
+          MDAP[1]	/* MoveDirectAbsPt */
+          ROFF[ ]	/* RoundOff */
+          PUSHB[ ]	/* 1 value pushed */
+          27
+          MDRP[00001]	/* MoveDirectRelPt */
+          PUSHB[ ]	/* 2 values pushed */
+          11 27
+          SRP0[ ]	/* SetRefPoint0 */
+          MDRP[00001]	/* MoveDirectRelPt */
+          PUSHB[ ]	/* 3 values pushed */
+          16 15 11
+          SRP0[ ]	/* SetRefPoint0 */
+          MIRP[01101]	/* MoveIndirectRelPt */
+          RTG[ ]	/* RoundToGrid */
+          PUSHB[ ]	/* 1 value pushed */
+          6
+          MDAP[1]	/* MoveDirectAbsPt */
+          ROFF[ ]	/* RoundOff */
+          PUSHB[ ]	/* 2 values pushed */
+          23 15
+          MIRP[01101]	/* MoveIndirectRelPt */
+          PUSHB[ ]	/* 3 values pushed */
+          31 0 14
+          SRP1[ ]	/* SetRefPoint1 */
+          SRP2[ ]	/* SetRefPoint2 */
+          IP[ ]	/* InterpolatePts */
+          RTG[ ]	/* RoundToGrid */
+          PUSHB[ ]	/* 1 value pushed */
+          31
+          MDAP[1]	/* MoveDirectAbsPt */
+          PUSHB[ ]	/* 3 values pushed */
+          28 0 14
+          SRP1[ ]	/* SetRefPoint1 */
+          SRP2[ ]	/* SetRefPoint2 */
+          IP[ ]	/* InterpolatePts */
+          PUSHB[ ]	/* 1 value pushed */
+          28
+          MDAP[1]	/* MoveDirectAbsPt */
+          IUP[0]	/* InterpolateUntPts */
+        </assembly>
+      </instructions>
+    </TTGlyph>
+
+    <TTGlyph name="uniE0A3"/><!-- contains no outline data -->
+
+    <TTGlyph name="uniE0B0" xMin="-30" yMin="-607" xMax="1059" yMax="1891">
+      <contour>
+        <pt x="-30" y="1891" on="1"/>
+        <pt x="0" y="1891" on="1"/>
+        <pt x="1059" y="643" on="1"/>
+        <pt x="0" y="-607" on="1"/>
+        <pt x="-30" y="-607" on="1"/>
+      </contour>
+      <instructions>
+        <assembly>
+          SVTCA[0]	/* SetFPVectorToAxis */
+          PUSHB[ ]	/* 1 value pushed */
+          0
+          MDAP[1]	/* MoveDirectAbsPt */
+          PUSHB[ ]	/* 1 value pushed */
+          4
+          MDAP[1]	/* MoveDirectAbsPt */
+          IUP[0]	/* InterpolateUntPts */
+        </assembly>
+      </instructions>
+    </TTGlyph>
+
+    <TTGlyph name="uniE0B1" xMin="-64" yMin="-605" xMax="1165" yMax="1891">
+      <contour>
+        <pt x="978" y="641" on="1"/>
+        <pt x="-64" y="1891" on="1"/>
+        <pt x="130" y="1891" on="1"/>
+        <pt x="1165" y="649" on="1"/>
+        <pt x="123" y="-605" on="1"/>
+        <pt x="-57" y="-605" on="1"/>
+      </contour>
+      <instructions>
+        <assembly>
+          SVTCA[0]	/* SetFPVectorToAxis */
+          PUSHB[ ]	/* 1 value pushed */
+          5
+          MDAP[1]	/* MoveDirectAbsPt */
+          PUSHB[ ]	/* 1 value pushed */
+          1
+          MDAP[1]	/* MoveDirectAbsPt */
+          IUP[0]	/* InterpolateUntPts */
+        </assembly>
+      </instructions>
+    </TTGlyph>
+
+    <TTGlyph name="uniE0B2" xMin="0" yMin="-607" xMax="1089" yMax="1891">
+      <contour>
+        <pt x="1089" y="-607" on="1"/>
+        <pt x="1059" y="-607" on="1"/>
+        <pt x="0" y="641" on="1"/>
+        <pt x="1059" y="1891" on="1"/>
+        <pt x="1089" y="1891" on="1"/>
+      </contour>
+      <instructions>
+        <assembly>
+          SVTCA[0]	/* SetFPVectorToAxis */
+          PUSHB[ ]	/* 1 value pushed */
+          0
+          MDAP[1]	/* MoveDirectAbsPt */
+          PUSHB[ ]	/* 1 value pushed */
+          4
+          MDAP[1]	/* MoveDirectAbsPt */
+          IUP[0]	/* InterpolateUntPts */
+        </assembly>
+      </instructions>
+    </TTGlyph>
+
+    <TTGlyph name="uniE0B3" xMin="-106" yMin="-605" xMax="1123" yMax="1891">
+      <contour>
+        <pt x="-106" y="637" on="1"/>
+        <pt x="936" y="1891" on="1"/>
+        <pt x="1116" y="1891" on="1"/>
+        <pt x="81" y="645" on="1"/>
+        <pt x="1123" y="-605" on="1"/>
+        <pt x="929" y="-605" on="1"/>
+      </contour>
+      <instructions>
+        <assembly>
+          SVTCA[0]	/* SetFPVectorToAxis */
+          PUSHB[ ]	/* 1 value pushed */
+          4
+          MDAP[1]	/* MoveDirectAbsPt */
+          PUSHB[ ]	/* 1 value pushed */
+          2
+          MDAP[1]	/* MoveDirectAbsPt */
           IUP[0]	/* InterpolateUntPts */
         </assembly>
       </instructions>
@@ -13133,13 +13514,13 @@
       Conta Mono Regular
     </namerecord>
     <namerecord nameID="5" platformID="1" platEncID="0" langID="0x0" unicode="True">
-      Version 2.002
+      Version 2.003
     </namerecord>
     <namerecord nameID="6" platformID="1" platEncID="0" langID="0x0" unicode="True">
       ContaMono-Regular
     </namerecord>
     <namerecord nameID="0" platformID="3" platEncID="1" langID="0x409">
-      Copyright 2017-2021 by Jens Kutilek
+      Copyright 2017-2022 by Jens Kutilek
     </namerecord>
     <namerecord nameID="1" platformID="3" platEncID="1" langID="0x409">
       Conta Mono
@@ -13148,13 +13529,13 @@
       Regular
     </namerecord>
     <namerecord nameID="3" platformID="3" platEncID="1" langID="0x409">
-      2.002;JENS;ContaMono-Regular
+      2.003;JENS;ContaMono-Regular
     </namerecord>
     <namerecord nameID="4" platformID="3" platEncID="1" langID="0x409">
       Conta Mono Regular
     </namerecord>
     <namerecord nameID="5" platformID="3" platEncID="1" langID="0x409">
-      Version 2.002
+      Version 2.003
     </namerecord>
     <namerecord nameID="6" platformID="3" platEncID="1" langID="0x409">
       ContaMono-Regular
@@ -13228,6 +13609,7 @@ From Old Portuguese conta, from Latin computō (“I calculate”).
       <psName name="Cdotaccent"/>
       <psName name="Dcaron"/>
       <psName name="Dcroat"/>
+      <psName name="Ebreve"/>
       <psName name="Ecaron"/>
       <psName name="Edotaccent"/>
       <psName name="Emacron"/>
@@ -13242,6 +13624,7 @@ From Old Portuguese conta, from Latin computō (“I calculate”).
       <psName name="Hbar"/>
       <psName name="Hcircumflex"/>
       <psName name="uni1E26"/>
+      <psName name="Ibreve"/>
       <psName name="uni01CF"/>
       <psName name="Imacron"/>
       <psName name="Iogonek"/>
@@ -13255,6 +13638,7 @@ From Old Portuguese conta, from Latin computō (“I calculate”).
       <psName name="Ncaron"/>
       <psName name="uni0145"/>
       <psName name="uni1E44"/>
+      <psName name="Obreve"/>
       <psName name="uni01D1"/>
       <psName name="Omacron"/>
       <psName name="uni1E56"/>
@@ -13298,6 +13682,7 @@ From Old Portuguese conta, from Latin computō (“I calculate”).
       <psName name="aogonek"/>
       <psName name="ccircumflex"/>
       <psName name="cdotaccent"/>
+      <psName name="ebreve"/>
       <psName name="ecaron"/>
       <psName name="edotaccent"/>
       <psName name="emacron"/>
@@ -13312,6 +13697,7 @@ From Old Portuguese conta, from Latin computō (“I calculate”).
       <psName name="hbar"/>
       <psName name="hcircumflex"/>
       <psName name="uni1E27"/>
+      <psName name="ibreve"/>
       <psName name="uni01D0"/>
       <psName name="imacron"/>
       <psName name="iogonek"/>
@@ -13326,6 +13712,7 @@ From Old Portuguese conta, from Latin computō (“I calculate”).
       <psName name="ncaron"/>
       <psName name="uni0146"/>
       <psName name="uni1E45"/>
+      <psName name="obreve"/>
       <psName name="uni01D2"/>
       <psName name="omacron"/>
       <psName name="uni1E57"/>
@@ -13398,6 +13785,14 @@ From Old Portuguese conta, from Latin computō (“I calculate”).
       <psName name="uni0304.case"/>
       <psName name="uni02BC"/>
       <psName name="uni02BB"/>
+      <psName name="uniE0A0"/>
+      <psName name="uniE0A1"/>
+      <psName name="uniE0A2"/>
+      <psName name="uniE0A3"/>
+      <psName name="uniE0B0"/>
+      <psName name="uniE0B1"/>
+      <psName name="uniE0B2"/>
+      <psName name="uniE0B3"/>
     </extraNames>
   </post>
 
@@ -13437,6 +13832,7 @@ From Old Portuguese conta, from Latin computō (“I calculate”).
       <ClassDef glyph="E" class="1"/>
       <ClassDef glyph="E.hex" class="1"/>
       <ClassDef glyph="Eacute" class="1"/>
+      <ClassDef glyph="Ebreve" class="1"/>
       <ClassDef glyph="Ecaron" class="1"/>
       <ClassDef glyph="Ecircumflex" class="1"/>
       <ClassDef glyph="Edieresis" class="1"/>
@@ -13457,6 +13853,7 @@ From Old Portuguese conta, from Latin computō (“I calculate”).
       <ClassDef glyph="Hcircumflex" class="1"/>
       <ClassDef glyph="I" class="1"/>
       <ClassDef glyph="Iacute" class="1"/>
+      <ClassDef glyph="Ibreve" class="1"/>
       <ClassDef glyph="Icircumflex" class="1"/>
       <ClassDef glyph="Idieresis" class="1"/>
       <ClassDef glyph="Idotaccent" class="1"/>
@@ -13476,6 +13873,7 @@ From Old Portuguese conta, from Latin computō (“I calculate”).
       <ClassDef glyph="Ntilde" class="1"/>
       <ClassDef glyph="O" class="1"/>
       <ClassDef glyph="Oacute" class="1"/>
+      <ClassDef glyph="Obreve" class="1"/>
       <ClassDef glyph="Ocircumflex" class="1"/>
       <ClassDef glyph="Odieresis" class="1"/>
       <ClassDef glyph="Ograve" class="1"/>
@@ -13543,6 +13941,7 @@ From Old Portuguese conta, from Latin computō (“I calculate”).
       <ClassDef glyph="dotlessi" class="1"/>
       <ClassDef glyph="e" class="1"/>
       <ClassDef glyph="eacute" class="1"/>
+      <ClassDef glyph="ebreve" class="1"/>
       <ClassDef glyph="ecaron" class="1"/>
       <ClassDef glyph="ecircumflex" class="1"/>
       <ClassDef glyph="edieresis" class="1"/>
@@ -13566,6 +13965,7 @@ From Old Portuguese conta, from Latin computō (“I calculate”).
       <ClassDef glyph="hcircumflex" class="1"/>
       <ClassDef glyph="i" class="1"/>
       <ClassDef glyph="iacute" class="1"/>
+      <ClassDef glyph="ibreve" class="1"/>
       <ClassDef glyph="icircumflex" class="1"/>
       <ClassDef glyph="idieresis" class="1"/>
       <ClassDef glyph="igrave" class="1"/>
@@ -13584,6 +13984,7 @@ From Old Portuguese conta, from Latin computō (“I calculate”).
       <ClassDef glyph="ntilde" class="1"/>
       <ClassDef glyph="o" class="1"/>
       <ClassDef glyph="oacute" class="1"/>
+      <ClassDef glyph="obreve" class="1"/>
       <ClassDef glyph="ocircumflex" class="1"/>
       <ClassDef glyph="odieresis" class="1"/>
       <ClassDef glyph="ograve" class="1"/>
@@ -14131,6 +14532,7 @@ From Old Portuguese conta, from Latin computō (“I calculate”).
             <Glyph value="Dcroat"/>
             <Glyph value="E"/>
             <Glyph value="Eacute"/>
+            <Glyph value="Ebreve"/>
             <Glyph value="Ecaron"/>
             <Glyph value="Ecircumflex"/>
             <Glyph value="Edieresis"/>
@@ -14153,6 +14555,7 @@ From Old Portuguese conta, from Latin computō (“I calculate”).
             <Glyph value="uni1E26"/>
             <Glyph value="I"/>
             <Glyph value="Iacute"/>
+            <Glyph value="Ibreve"/>
             <Glyph value="uni01CF"/>
             <Glyph value="Icircumflex"/>
             <Glyph value="Idieresis"/>
@@ -14178,6 +14581,7 @@ From Old Portuguese conta, from Latin computō (“I calculate”).
             <Glyph value="Ntilde"/>
             <Glyph value="O"/>
             <Glyph value="Oacute"/>
+            <Glyph value="Obreve"/>
             <Glyph value="uni01D1"/>
             <Glyph value="Ocircumflex"/>
             <Glyph value="Odieresis"/>
@@ -14261,6 +14665,7 @@ From Old Portuguese conta, from Latin computō (“I calculate”).
             <Glyph value="dcroat"/>
             <Glyph value="e"/>
             <Glyph value="eacute"/>
+            <Glyph value="ebreve"/>
             <Glyph value="ecaron"/>
             <Glyph value="ecircumflex"/>
             <Glyph value="edieresis"/>
@@ -14285,6 +14690,7 @@ From Old Portuguese conta, from Latin computō (“I calculate”).
             <Glyph value="i"/>
             <Glyph value="dotlessi"/>
             <Glyph value="iacute"/>
+            <Glyph value="ibreve"/>
             <Glyph value="uni01D0"/>
             <Glyph value="icircumflex"/>
             <Glyph value="idieresis"/>
@@ -14310,6 +14716,7 @@ From Old Portuguese conta, from Latin computō (“I calculate”).
             <Glyph value="ntilde"/>
             <Glyph value="o"/>
             <Glyph value="oacute"/>
+            <Glyph value="obreve"/>
             <Glyph value="uni01D2"/>
             <Glyph value="ocircumflex"/>
             <Glyph value="odieresis"/>
@@ -14520,7 +14927,7 @@ From Old Portuguese conta, from Latin computō (“I calculate”).
             </MarkRecord>
           </MarkArray>
           <BaseArray>
-            <!-- BaseCount=260 -->
+            <!-- BaseCount=266 -->
             <BaseRecord index="0">
               <BaseAnchor index="0" Format="1">
                 <XCoordinate value="529"/>
@@ -14863,7 +15270,7 @@ From Old Portuguese conta, from Latin computō (“I calculate”).
               </BaseAnchor>
               <BaseAnchor index="2" Format="1">
                 <XCoordinate value="539"/>
-                <YCoordinate value="1740"/>
+                <YCoordinate value="1815"/>
               </BaseAnchor>
             </BaseRecord>
             <BaseRecord index="27">
@@ -14877,7 +15284,7 @@ From Old Portuguese conta, from Latin computō (“I calculate”).
               </BaseAnchor>
               <BaseAnchor index="2" Format="1">
                 <XCoordinate value="539"/>
-                <YCoordinate value="1816"/>
+                <YCoordinate value="1740"/>
               </BaseAnchor>
             </BaseRecord>
             <BaseRecord index="28">
@@ -14891,7 +15298,7 @@ From Old Portuguese conta, from Latin computō (“I calculate”).
               </BaseAnchor>
               <BaseAnchor index="2" Format="1">
                 <XCoordinate value="539"/>
-                <YCoordinate value="1815"/>
+                <YCoordinate value="1816"/>
               </BaseAnchor>
             </BaseRecord>
             <BaseRecord index="29">
@@ -14919,7 +15326,7 @@ From Old Portuguese conta, from Latin computō (“I calculate”).
               </BaseAnchor>
               <BaseAnchor index="2" Format="1">
                 <XCoordinate value="539"/>
-                <YCoordinate value="1362"/>
+                <YCoordinate value="1815"/>
               </BaseAnchor>
             </BaseRecord>
             <BaseRecord index="31">
@@ -14933,10 +15340,24 @@ From Old Portuguese conta, from Latin computō (“I calculate”).
               </BaseAnchor>
               <BaseAnchor index="2" Format="1">
                 <XCoordinate value="539"/>
-                <YCoordinate value="1815"/>
+                <YCoordinate value="1362"/>
               </BaseAnchor>
             </BaseRecord>
             <BaseRecord index="32">
+              <BaseAnchor index="0" Format="1">
+                <XCoordinate value="529"/>
+                <YCoordinate value="0"/>
+              </BaseAnchor>
+              <BaseAnchor index="1" Format="1">
+                <XCoordinate value="891"/>
+                <YCoordinate value="0"/>
+              </BaseAnchor>
+              <BaseAnchor index="2" Format="1">
+                <XCoordinate value="539"/>
+                <YCoordinate value="1815"/>
+              </BaseAnchor>
+            </BaseRecord>
+            <BaseRecord index="33">
               <BaseAnchor index="0" Format="1">
                 <XCoordinate value="265"/>
                 <YCoordinate value="0"/>
@@ -14944,17 +15365,6 @@ From Old Portuguese conta, from Latin computō (“I calculate”).
               <BaseAnchor index="1" empty="1"/>
               <BaseAnchor index="2" Format="1">
                 <XCoordinate value="529"/>
-                <YCoordinate value="1362"/>
-              </BaseAnchor>
-            </BaseRecord>
-            <BaseRecord index="33">
-              <BaseAnchor index="0" Format="1">
-                <XCoordinate value="529"/>
-                <YCoordinate value="0"/>
-              </BaseAnchor>
-              <BaseAnchor index="1" empty="1"/>
-              <BaseAnchor index="2" Format="1">
-                <XCoordinate value="573"/>
                 <YCoordinate value="1362"/>
               </BaseAnchor>
             </BaseRecord>
@@ -14966,7 +15376,7 @@ From Old Portuguese conta, from Latin computō (“I calculate”).
               <BaseAnchor index="1" empty="1"/>
               <BaseAnchor index="2" Format="1">
                 <XCoordinate value="573"/>
-                <YCoordinate value="1816"/>
+                <YCoordinate value="1362"/>
               </BaseAnchor>
             </BaseRecord>
             <BaseRecord index="35">
@@ -14977,7 +15387,7 @@ From Old Portuguese conta, from Latin computō (“I calculate”).
               <BaseAnchor index="1" empty="1"/>
               <BaseAnchor index="2" Format="1">
                 <XCoordinate value="573"/>
-                <YCoordinate value="1815"/>
+                <YCoordinate value="1816"/>
               </BaseAnchor>
             </BaseRecord>
             <BaseRecord index="36">
@@ -14994,23 +15404,23 @@ From Old Portuguese conta, from Latin computō (“I calculate”).
             <BaseRecord index="37">
               <BaseAnchor index="0" Format="1">
                 <XCoordinate value="529"/>
+                <YCoordinate value="0"/>
+              </BaseAnchor>
+              <BaseAnchor index="1" empty="1"/>
+              <BaseAnchor index="2" Format="1">
+                <XCoordinate value="573"/>
+                <YCoordinate value="1815"/>
+              </BaseAnchor>
+            </BaseRecord>
+            <BaseRecord index="38">
+              <BaseAnchor index="0" Format="1">
+                <XCoordinate value="529"/>
                 <YCoordinate value="-303"/>
               </BaseAnchor>
               <BaseAnchor index="1" empty="1"/>
               <BaseAnchor index="2" Format="1">
                 <XCoordinate value="573"/>
                 <YCoordinate value="1362"/>
-              </BaseAnchor>
-            </BaseRecord>
-            <BaseRecord index="38">
-              <BaseAnchor index="0" Format="1">
-                <XCoordinate value="529"/>
-                <YCoordinate value="0"/>
-              </BaseAnchor>
-              <BaseAnchor index="1" empty="1"/>
-              <BaseAnchor index="2" Format="1">
-                <XCoordinate value="573"/>
-                <YCoordinate value="1816"/>
               </BaseAnchor>
             </BaseRecord>
             <BaseRecord index="39">
@@ -15021,7 +15431,7 @@ From Old Portuguese conta, from Latin computō (“I calculate”).
               <BaseAnchor index="1" empty="1"/>
               <BaseAnchor index="2" Format="1">
                 <XCoordinate value="573"/>
-                <YCoordinate value="1815"/>
+                <YCoordinate value="1816"/>
               </BaseAnchor>
             </BaseRecord>
             <BaseRecord index="40">
@@ -15031,8 +15441,8 @@ From Old Portuguese conta, from Latin computō (“I calculate”).
               </BaseAnchor>
               <BaseAnchor index="1" empty="1"/>
               <BaseAnchor index="2" Format="1">
-                <XCoordinate value="529"/>
-                <YCoordinate value="1362"/>
+                <XCoordinate value="573"/>
+                <YCoordinate value="1815"/>
               </BaseAnchor>
             </BaseRecord>
             <BaseRecord index="41">
@@ -15054,7 +15464,7 @@ From Old Portuguese conta, from Latin computō (“I calculate”).
               <BaseAnchor index="1" empty="1"/>
               <BaseAnchor index="2" Format="1">
                 <XCoordinate value="529"/>
-                <YCoordinate value="1815"/>
+                <YCoordinate value="1362"/>
               </BaseAnchor>
             </BaseRecord>
             <BaseRecord index="43">
@@ -15065,21 +15475,18 @@ From Old Portuguese conta, from Latin computō (“I calculate”).
               <BaseAnchor index="1" empty="1"/>
               <BaseAnchor index="2" Format="1">
                 <XCoordinate value="529"/>
-                <YCoordinate value="1740"/>
+                <YCoordinate value="1815"/>
               </BaseAnchor>
             </BaseRecord>
             <BaseRecord index="44">
               <BaseAnchor index="0" Format="1">
-                <XCoordinate value="530"/>
+                <XCoordinate value="529"/>
                 <YCoordinate value="0"/>
               </BaseAnchor>
-              <BaseAnchor index="1" Format="1">
-                <XCoordinate value="832"/>
-                <YCoordinate value="0"/>
-              </BaseAnchor>
+              <BaseAnchor index="1" empty="1"/>
               <BaseAnchor index="2" Format="1">
-                <XCoordinate value="530"/>
-                <YCoordinate value="1362"/>
+                <XCoordinate value="529"/>
+                <YCoordinate value="1740"/>
               </BaseAnchor>
             </BaseRecord>
             <BaseRecord index="45">
@@ -15093,7 +15500,7 @@ From Old Portuguese conta, from Latin computō (“I calculate”).
               </BaseAnchor>
               <BaseAnchor index="2" Format="1">
                 <XCoordinate value="530"/>
-                <YCoordinate value="1815"/>
+                <YCoordinate value="1362"/>
               </BaseAnchor>
             </BaseRecord>
             <BaseRecord index="46">
@@ -15135,7 +15542,7 @@ From Old Portuguese conta, from Latin computō (“I calculate”).
               </BaseAnchor>
               <BaseAnchor index="2" Format="1">
                 <XCoordinate value="530"/>
-                <YCoordinate value="1740"/>
+                <YCoordinate value="1815"/>
               </BaseAnchor>
             </BaseRecord>
             <BaseRecord index="49">
@@ -15149,7 +15556,7 @@ From Old Portuguese conta, from Latin computō (“I calculate”).
               </BaseAnchor>
               <BaseAnchor index="2" Format="1">
                 <XCoordinate value="530"/>
-                <YCoordinate value="1816"/>
+                <YCoordinate value="1815"/>
               </BaseAnchor>
             </BaseRecord>
             <BaseRecord index="50">
@@ -15163,7 +15570,7 @@ From Old Portuguese conta, from Latin computō (“I calculate”).
               </BaseAnchor>
               <BaseAnchor index="2" Format="1">
                 <XCoordinate value="530"/>
-                <YCoordinate value="1815"/>
+                <YCoordinate value="1740"/>
               </BaseAnchor>
             </BaseRecord>
             <BaseRecord index="51">
@@ -15177,7 +15584,7 @@ From Old Portuguese conta, from Latin computō (“I calculate”).
               </BaseAnchor>
               <BaseAnchor index="2" Format="1">
                 <XCoordinate value="530"/>
-                <YCoordinate value="1815"/>
+                <YCoordinate value="1816"/>
               </BaseAnchor>
             </BaseRecord>
             <BaseRecord index="52">
@@ -15191,7 +15598,7 @@ From Old Portuguese conta, from Latin computō (“I calculate”).
               </BaseAnchor>
               <BaseAnchor index="2" Format="1">
                 <XCoordinate value="530"/>
-                <YCoordinate value="1362"/>
+                <YCoordinate value="1815"/>
               </BaseAnchor>
             </BaseRecord>
             <BaseRecord index="53">
@@ -15210,23 +15617,29 @@ From Old Portuguese conta, from Latin computō (“I calculate”).
             </BaseRecord>
             <BaseRecord index="54">
               <BaseAnchor index="0" Format="1">
-                <XCoordinate value="454"/>
+                <XCoordinate value="530"/>
                 <YCoordinate value="0"/>
               </BaseAnchor>
-              <BaseAnchor index="1" empty="1"/>
+              <BaseAnchor index="1" Format="1">
+                <XCoordinate value="832"/>
+                <YCoordinate value="0"/>
+              </BaseAnchor>
               <BaseAnchor index="2" Format="1">
-                <XCoordinate value="560"/>
+                <XCoordinate value="530"/>
                 <YCoordinate value="1362"/>
               </BaseAnchor>
             </BaseRecord>
             <BaseRecord index="55">
               <BaseAnchor index="0" Format="1">
-                <XCoordinate value="454"/>
+                <XCoordinate value="530"/>
                 <YCoordinate value="0"/>
               </BaseAnchor>
-              <BaseAnchor index="1" empty="1"/>
+              <BaseAnchor index="1" Format="1">
+                <XCoordinate value="832"/>
+                <YCoordinate value="0"/>
+              </BaseAnchor>
               <BaseAnchor index="2" Format="1">
-                <XCoordinate value="560"/>
+                <XCoordinate value="530"/>
                 <YCoordinate value="1815"/>
               </BaseAnchor>
             </BaseRecord>
@@ -15238,57 +15651,57 @@ From Old Portuguese conta, from Latin computō (“I calculate”).
               <BaseAnchor index="1" empty="1"/>
               <BaseAnchor index="2" Format="1">
                 <XCoordinate value="560"/>
-                <YCoordinate value="1815"/>
+                <YCoordinate value="1362"/>
               </BaseAnchor>
             </BaseRecord>
             <BaseRecord index="57">
               <BaseAnchor index="0" Format="1">
-                <XCoordinate value="529"/>
+                <XCoordinate value="454"/>
                 <YCoordinate value="0"/>
               </BaseAnchor>
               <BaseAnchor index="1" empty="1"/>
               <BaseAnchor index="2" Format="1">
-                <XCoordinate value="529"/>
-                <YCoordinate value="1362"/>
+                <XCoordinate value="560"/>
+                <YCoordinate value="1815"/>
               </BaseAnchor>
             </BaseRecord>
             <BaseRecord index="58">
               <BaseAnchor index="0" Format="1">
-                <XCoordinate value="529"/>
-                <YCoordinate value="-303"/>
-              </BaseAnchor>
-              <BaseAnchor index="1" empty="1"/>
-              <BaseAnchor index="2" Format="1">
-                <XCoordinate value="529"/>
-                <YCoordinate value="1362"/>
-              </BaseAnchor>
-            </BaseRecord>
-            <BaseRecord index="59">
-              <BaseAnchor index="0" Format="1">
-                <XCoordinate value="492"/>
+                <XCoordinate value="454"/>
                 <YCoordinate value="0"/>
               </BaseAnchor>
               <BaseAnchor index="1" empty="1"/>
               <BaseAnchor index="2" Format="1">
-                <XCoordinate value="246"/>
+                <XCoordinate value="560"/>
+                <YCoordinate value="1815"/>
+              </BaseAnchor>
+            </BaseRecord>
+            <BaseRecord index="59">
+              <BaseAnchor index="0" Format="1">
+                <XCoordinate value="529"/>
+                <YCoordinate value="0"/>
+              </BaseAnchor>
+              <BaseAnchor index="1" empty="1"/>
+              <BaseAnchor index="2" Format="1">
+                <XCoordinate value="529"/>
                 <YCoordinate value="1362"/>
               </BaseAnchor>
             </BaseRecord>
             <BaseRecord index="60">
               <BaseAnchor index="0" Format="1">
-                <XCoordinate value="492"/>
-                <YCoordinate value="0"/>
+                <XCoordinate value="529"/>
+                <YCoordinate value="-303"/>
               </BaseAnchor>
               <BaseAnchor index="1" empty="1"/>
               <BaseAnchor index="2" Format="1">
-                <XCoordinate value="246"/>
-                <YCoordinate value="1815"/>
+                <XCoordinate value="529"/>
+                <YCoordinate value="1362"/>
               </BaseAnchor>
             </BaseRecord>
             <BaseRecord index="61">
               <BaseAnchor index="0" Format="1">
                 <XCoordinate value="492"/>
-                <YCoordinate value="-303"/>
+                <YCoordinate value="0"/>
               </BaseAnchor>
               <BaseAnchor index="1" empty="1"/>
               <BaseAnchor index="2" Format="1">
@@ -15298,35 +15711,35 @@ From Old Portuguese conta, from Latin computō (“I calculate”).
             </BaseRecord>
             <BaseRecord index="62">
               <BaseAnchor index="0" Format="1">
-                <XCoordinate value="530"/>
+                <XCoordinate value="492"/>
                 <YCoordinate value="0"/>
               </BaseAnchor>
               <BaseAnchor index="1" empty="1"/>
               <BaseAnchor index="2" Format="1">
-                <XCoordinate value="530"/>
-                <YCoordinate value="1362"/>
+                <XCoordinate value="246"/>
+                <YCoordinate value="1815"/>
               </BaseAnchor>
             </BaseRecord>
             <BaseRecord index="63">
               <BaseAnchor index="0" Format="1">
-                <XCoordinate value="529"/>
-                <YCoordinate value="0"/>
+                <XCoordinate value="492"/>
+                <YCoordinate value="-303"/>
               </BaseAnchor>
               <BaseAnchor index="1" empty="1"/>
               <BaseAnchor index="2" Format="1">
-                <XCoordinate value="529"/>
+                <XCoordinate value="246"/>
                 <YCoordinate value="1362"/>
               </BaseAnchor>
             </BaseRecord>
             <BaseRecord index="64">
               <BaseAnchor index="0" Format="1">
-                <XCoordinate value="529"/>
+                <XCoordinate value="530"/>
                 <YCoordinate value="0"/>
               </BaseAnchor>
               <BaseAnchor index="1" empty="1"/>
               <BaseAnchor index="2" Format="1">
-                <XCoordinate value="529"/>
-                <YCoordinate value="1815"/>
+                <XCoordinate value="530"/>
+                <YCoordinate value="1362"/>
               </BaseAnchor>
             </BaseRecord>
             <BaseRecord index="65">
@@ -15337,18 +15750,18 @@ From Old Portuguese conta, from Latin computō (“I calculate”).
               <BaseAnchor index="1" empty="1"/>
               <BaseAnchor index="2" Format="1">
                 <XCoordinate value="529"/>
-                <YCoordinate value="1815"/>
+                <YCoordinate value="1362"/>
               </BaseAnchor>
             </BaseRecord>
             <BaseRecord index="66">
               <BaseAnchor index="0" Format="1">
                 <XCoordinate value="529"/>
-                <YCoordinate value="-303"/>
+                <YCoordinate value="0"/>
               </BaseAnchor>
               <BaseAnchor index="1" empty="1"/>
               <BaseAnchor index="2" Format="1">
                 <XCoordinate value="529"/>
-                <YCoordinate value="1362"/>
+                <YCoordinate value="1815"/>
               </BaseAnchor>
             </BaseRecord>
             <BaseRecord index="67">
@@ -15359,18 +15772,18 @@ From Old Portuguese conta, from Latin computō (“I calculate”).
               <BaseAnchor index="1" empty="1"/>
               <BaseAnchor index="2" Format="1">
                 <XCoordinate value="529"/>
-                <YCoordinate value="1816"/>
+                <YCoordinate value="1815"/>
               </BaseAnchor>
             </BaseRecord>
             <BaseRecord index="68">
               <BaseAnchor index="0" Format="1">
                 <XCoordinate value="529"/>
-                <YCoordinate value="0"/>
+                <YCoordinate value="-303"/>
               </BaseAnchor>
               <BaseAnchor index="1" empty="1"/>
               <BaseAnchor index="2" Format="1">
                 <XCoordinate value="529"/>
-                <YCoordinate value="1815"/>
+                <YCoordinate value="1362"/>
               </BaseAnchor>
             </BaseRecord>
             <BaseRecord index="69">
@@ -15378,13 +15791,10 @@ From Old Portuguese conta, from Latin computō (“I calculate”).
                 <XCoordinate value="529"/>
                 <YCoordinate value="0"/>
               </BaseAnchor>
-              <BaseAnchor index="1" Format="1">
-                <XCoordinate value="647"/>
-                <YCoordinate value="0"/>
-              </BaseAnchor>
+              <BaseAnchor index="1" empty="1"/>
               <BaseAnchor index="2" Format="1">
                 <XCoordinate value="529"/>
-                <YCoordinate value="1362"/>
+                <YCoordinate value="1816"/>
               </BaseAnchor>
             </BaseRecord>
             <BaseRecord index="70">
@@ -15392,10 +15802,7 @@ From Old Portuguese conta, from Latin computō (“I calculate”).
                 <XCoordinate value="529"/>
                 <YCoordinate value="0"/>
               </BaseAnchor>
-              <BaseAnchor index="1" Format="1">
-                <XCoordinate value="647"/>
-                <YCoordinate value="0"/>
-              </BaseAnchor>
+              <BaseAnchor index="1" empty="1"/>
               <BaseAnchor index="2" Format="1">
                 <XCoordinate value="529"/>
                 <YCoordinate value="1815"/>
@@ -15412,7 +15819,7 @@ From Old Portuguese conta, from Latin computō (“I calculate”).
               </BaseAnchor>
               <BaseAnchor index="2" Format="1">
                 <XCoordinate value="529"/>
-                <YCoordinate value="1815"/>
+                <YCoordinate value="1362"/>
               </BaseAnchor>
             </BaseRecord>
             <BaseRecord index="72">
@@ -15440,7 +15847,7 @@ From Old Portuguese conta, from Latin computō (“I calculate”).
               </BaseAnchor>
               <BaseAnchor index="2" Format="1">
                 <XCoordinate value="529"/>
-                <YCoordinate value="1740"/>
+                <YCoordinate value="1815"/>
               </BaseAnchor>
             </BaseRecord>
             <BaseRecord index="74">
@@ -15482,7 +15889,7 @@ From Old Portuguese conta, from Latin computō (“I calculate”).
               </BaseAnchor>
               <BaseAnchor index="2" Format="1">
                 <XCoordinate value="529"/>
-                <YCoordinate value="1815"/>
+                <YCoordinate value="1740"/>
               </BaseAnchor>
             </BaseRecord>
             <BaseRecord index="77">
@@ -15490,10 +15897,13 @@ From Old Portuguese conta, from Latin computō (“I calculate”).
                 <XCoordinate value="529"/>
                 <YCoordinate value="0"/>
               </BaseAnchor>
-              <BaseAnchor index="1" empty="1"/>
+              <BaseAnchor index="1" Format="1">
+                <XCoordinate value="647"/>
+                <YCoordinate value="0"/>
+              </BaseAnchor>
               <BaseAnchor index="2" Format="1">
                 <XCoordinate value="529"/>
-                <YCoordinate value="1362"/>
+                <YCoordinate value="1815"/>
               </BaseAnchor>
             </BaseRecord>
             <BaseRecord index="78">
@@ -15501,10 +15911,13 @@ From Old Portuguese conta, from Latin computō (“I calculate”).
                 <XCoordinate value="529"/>
                 <YCoordinate value="0"/>
               </BaseAnchor>
-              <BaseAnchor index="1" empty="1"/>
+              <BaseAnchor index="1" Format="1">
+                <XCoordinate value="647"/>
+                <YCoordinate value="0"/>
+              </BaseAnchor>
               <BaseAnchor index="2" Format="1">
                 <XCoordinate value="529"/>
-                <YCoordinate value="1816"/>
+                <YCoordinate value="1815"/>
               </BaseAnchor>
             </BaseRecord>
             <BaseRecord index="79">
@@ -15518,7 +15931,7 @@ From Old Portuguese conta, from Latin computō (“I calculate”).
               </BaseAnchor>
               <BaseAnchor index="2" Format="1">
                 <XCoordinate value="529"/>
-                <YCoordinate value="1362"/>
+                <YCoordinate value="1815"/>
               </BaseAnchor>
             </BaseRecord>
             <BaseRecord index="80">
@@ -15528,7 +15941,7 @@ From Old Portuguese conta, from Latin computō (“I calculate”).
               </BaseAnchor>
               <BaseAnchor index="1" empty="1"/>
               <BaseAnchor index="2" Format="1">
-                <XCoordinate value="495"/>
+                <XCoordinate value="492"/>
                 <YCoordinate value="1362"/>
               </BaseAnchor>
             </BaseRecord>
@@ -15539,8 +15952,8 @@ From Old Portuguese conta, from Latin computō (“I calculate”).
               </BaseAnchor>
               <BaseAnchor index="1" empty="1"/>
               <BaseAnchor index="2" Format="1">
-                <XCoordinate value="495"/>
-                <YCoordinate value="1815"/>
+                <XCoordinate value="492"/>
+                <YCoordinate value="1816"/>
               </BaseAnchor>
             </BaseRecord>
             <BaseRecord index="82">
@@ -15548,16 +15961,19 @@ From Old Portuguese conta, from Latin computō (“I calculate”).
                 <XCoordinate value="529"/>
                 <YCoordinate value="0"/>
               </BaseAnchor>
-              <BaseAnchor index="1" empty="1"/>
+              <BaseAnchor index="1" Format="1">
+                <XCoordinate value="647"/>
+                <YCoordinate value="0"/>
+              </BaseAnchor>
               <BaseAnchor index="2" Format="1">
-                <XCoordinate value="495"/>
-                <YCoordinate value="1815"/>
+                <XCoordinate value="529"/>
+                <YCoordinate value="1362"/>
               </BaseAnchor>
             </BaseRecord>
             <BaseRecord index="83">
               <BaseAnchor index="0" Format="1">
                 <XCoordinate value="529"/>
-                <YCoordinate value="-303"/>
+                <YCoordinate value="0"/>
               </BaseAnchor>
               <BaseAnchor index="1" empty="1"/>
               <BaseAnchor index="2" Format="1">
@@ -15567,41 +15983,41 @@ From Old Portuguese conta, from Latin computō (“I calculate”).
             </BaseRecord>
             <BaseRecord index="84">
               <BaseAnchor index="0" Format="1">
-                <XCoordinate value="466"/>
+                <XCoordinate value="529"/>
                 <YCoordinate value="0"/>
               </BaseAnchor>
               <BaseAnchor index="1" empty="1"/>
               <BaseAnchor index="2" Format="1">
-                <XCoordinate value="539"/>
-                <YCoordinate value="1362"/>
+                <XCoordinate value="495"/>
+                <YCoordinate value="1815"/>
               </BaseAnchor>
             </BaseRecord>
             <BaseRecord index="85">
               <BaseAnchor index="0" Format="1">
-                <XCoordinate value="466"/>
+                <XCoordinate value="529"/>
                 <YCoordinate value="0"/>
               </BaseAnchor>
               <BaseAnchor index="1" empty="1"/>
               <BaseAnchor index="2" Format="1">
-                <XCoordinate value="539"/>
+                <XCoordinate value="495"/>
                 <YCoordinate value="1815"/>
               </BaseAnchor>
             </BaseRecord>
             <BaseRecord index="86">
               <BaseAnchor index="0" Format="1">
-                <XCoordinate value="466"/>
-                <YCoordinate value="0"/>
+                <XCoordinate value="529"/>
+                <YCoordinate value="-303"/>
               </BaseAnchor>
               <BaseAnchor index="1" empty="1"/>
               <BaseAnchor index="2" Format="1">
-                <XCoordinate value="539"/>
-                <YCoordinate value="1815"/>
+                <XCoordinate value="495"/>
+                <YCoordinate value="1362"/>
               </BaseAnchor>
             </BaseRecord>
             <BaseRecord index="87">
               <BaseAnchor index="0" Format="1">
                 <XCoordinate value="466"/>
-                <YCoordinate value="-303"/>
+                <YCoordinate value="0"/>
               </BaseAnchor>
               <BaseAnchor index="1" empty="1"/>
               <BaseAnchor index="2" Format="1">
@@ -15623,12 +16039,12 @@ From Old Portuguese conta, from Latin computō (“I calculate”).
             <BaseRecord index="89">
               <BaseAnchor index="0" Format="1">
                 <XCoordinate value="466"/>
-                <YCoordinate value="-303"/>
+                <YCoordinate value="0"/>
               </BaseAnchor>
               <BaseAnchor index="1" empty="1"/>
               <BaseAnchor index="2" Format="1">
                 <XCoordinate value="539"/>
-                <YCoordinate value="1362"/>
+                <YCoordinate value="1815"/>
               </BaseAnchor>
             </BaseRecord>
             <BaseRecord index="90">
@@ -15644,41 +16060,41 @@ From Old Portuguese conta, from Latin computō (“I calculate”).
             </BaseRecord>
             <BaseRecord index="91">
               <BaseAnchor index="0" Format="1">
-                <XCoordinate value="529"/>
+                <XCoordinate value="466"/>
                 <YCoordinate value="0"/>
               </BaseAnchor>
               <BaseAnchor index="1" empty="1"/>
               <BaseAnchor index="2" Format="1">
-                <XCoordinate value="529"/>
-                <YCoordinate value="1362"/>
+                <XCoordinate value="539"/>
+                <YCoordinate value="1815"/>
               </BaseAnchor>
             </BaseRecord>
             <BaseRecord index="92">
               <BaseAnchor index="0" Format="1">
-                <XCoordinate value="529"/>
-                <YCoordinate value="0"/>
-              </BaseAnchor>
-              <BaseAnchor index="1" empty="1"/>
-              <BaseAnchor index="2" Format="1">
-                <XCoordinate value="529"/>
-                <YCoordinate value="1815"/>
-              </BaseAnchor>
-            </BaseRecord>
-            <BaseRecord index="93">
-              <BaseAnchor index="0" Format="1">
-                <XCoordinate value="400"/>
+                <XCoordinate value="466"/>
                 <YCoordinate value="-303"/>
               </BaseAnchor>
               <BaseAnchor index="1" empty="1"/>
               <BaseAnchor index="2" Format="1">
-                <XCoordinate value="529"/>
+                <XCoordinate value="539"/>
+                <YCoordinate value="1362"/>
+              </BaseAnchor>
+            </BaseRecord>
+            <BaseRecord index="93">
+              <BaseAnchor index="0" Format="1">
+                <XCoordinate value="466"/>
+                <YCoordinate value="-303"/>
+              </BaseAnchor>
+              <BaseAnchor index="1" empty="1"/>
+              <BaseAnchor index="2" Format="1">
+                <XCoordinate value="539"/>
                 <YCoordinate value="1362"/>
               </BaseAnchor>
             </BaseRecord>
             <BaseRecord index="94">
               <BaseAnchor index="0" Format="1">
                 <XCoordinate value="529"/>
-                <YCoordinate value="-303"/>
+                <YCoordinate value="0"/>
               </BaseAnchor>
               <BaseAnchor index="1" empty="1"/>
               <BaseAnchor index="2" Format="1">
@@ -15691,41 +16107,32 @@ From Old Portuguese conta, from Latin computō (“I calculate”).
                 <XCoordinate value="529"/>
                 <YCoordinate value="0"/>
               </BaseAnchor>
-              <BaseAnchor index="1" Format="1">
-                <XCoordinate value="669"/>
-                <YCoordinate value="0"/>
-              </BaseAnchor>
+              <BaseAnchor index="1" empty="1"/>
               <BaseAnchor index="2" Format="1">
-                <XCoordinate value="539"/>
-                <YCoordinate value="1362"/>
+                <XCoordinate value="529"/>
+                <YCoordinate value="1815"/>
               </BaseAnchor>
             </BaseRecord>
             <BaseRecord index="96">
               <BaseAnchor index="0" Format="1">
-                <XCoordinate value="529"/>
-                <YCoordinate value="0"/>
+                <XCoordinate value="400"/>
+                <YCoordinate value="-303"/>
               </BaseAnchor>
-              <BaseAnchor index="1" Format="1">
-                <XCoordinate value="669"/>
-                <YCoordinate value="0"/>
-              </BaseAnchor>
+              <BaseAnchor index="1" empty="1"/>
               <BaseAnchor index="2" Format="1">
-                <XCoordinate value="539"/>
-                <YCoordinate value="1815"/>
+                <XCoordinate value="529"/>
+                <YCoordinate value="1362"/>
               </BaseAnchor>
             </BaseRecord>
             <BaseRecord index="97">
               <BaseAnchor index="0" Format="1">
                 <XCoordinate value="529"/>
-                <YCoordinate value="0"/>
+                <YCoordinate value="-303"/>
               </BaseAnchor>
-              <BaseAnchor index="1" Format="1">
-                <XCoordinate value="669"/>
-                <YCoordinate value="0"/>
-              </BaseAnchor>
+              <BaseAnchor index="1" empty="1"/>
               <BaseAnchor index="2" Format="1">
-                <XCoordinate value="539"/>
-                <YCoordinate value="1815"/>
+                <XCoordinate value="529"/>
+                <YCoordinate value="1362"/>
               </BaseAnchor>
             </BaseRecord>
             <BaseRecord index="98">
@@ -15739,7 +16146,7 @@ From Old Portuguese conta, from Latin computō (“I calculate”).
               </BaseAnchor>
               <BaseAnchor index="2" Format="1">
                 <XCoordinate value="539"/>
-                <YCoordinate value="1815"/>
+                <YCoordinate value="1362"/>
               </BaseAnchor>
             </BaseRecord>
             <BaseRecord index="99">
@@ -15767,7 +16174,7 @@ From Old Portuguese conta, from Latin computō (“I calculate”).
               </BaseAnchor>
               <BaseAnchor index="2" Format="1">
                 <XCoordinate value="539"/>
-                <YCoordinate value="1740"/>
+                <YCoordinate value="1815"/>
               </BaseAnchor>
             </BaseRecord>
             <BaseRecord index="101">
@@ -15809,7 +16216,7 @@ From Old Portuguese conta, from Latin computō (“I calculate”).
               </BaseAnchor>
               <BaseAnchor index="2" Format="1">
                 <XCoordinate value="539"/>
-                <YCoordinate value="1362"/>
+                <YCoordinate value="1740"/>
               </BaseAnchor>
             </BaseRecord>
             <BaseRecord index="104">
@@ -15845,43 +16252,52 @@ From Old Portuguese conta, from Latin computō (“I calculate”).
                 <XCoordinate value="529"/>
                 <YCoordinate value="0"/>
               </BaseAnchor>
-              <BaseAnchor index="1" empty="1"/>
+              <BaseAnchor index="1" Format="1">
+                <XCoordinate value="669"/>
+                <YCoordinate value="0"/>
+              </BaseAnchor>
               <BaseAnchor index="2" Format="1">
-                <XCoordinate value="529"/>
+                <XCoordinate value="539"/>
                 <YCoordinate value="1362"/>
               </BaseAnchor>
             </BaseRecord>
             <BaseRecord index="107">
               <BaseAnchor index="0" Format="1">
-                <XCoordinate value="530"/>
+                <XCoordinate value="529"/>
                 <YCoordinate value="0"/>
               </BaseAnchor>
-              <BaseAnchor index="1" empty="1"/>
+              <BaseAnchor index="1" Format="1">
+                <XCoordinate value="669"/>
+                <YCoordinate value="0"/>
+              </BaseAnchor>
               <BaseAnchor index="2" Format="1">
-                <XCoordinate value="530"/>
-                <YCoordinate value="1362"/>
+                <XCoordinate value="539"/>
+                <YCoordinate value="1815"/>
               </BaseAnchor>
             </BaseRecord>
             <BaseRecord index="108">
               <BaseAnchor index="0" Format="1">
-                <XCoordinate value="530"/>
+                <XCoordinate value="529"/>
                 <YCoordinate value="0"/>
               </BaseAnchor>
-              <BaseAnchor index="1" empty="1"/>
+              <BaseAnchor index="1" Format="1">
+                <XCoordinate value="669"/>
+                <YCoordinate value="0"/>
+              </BaseAnchor>
               <BaseAnchor index="2" Format="1">
-                <XCoordinate value="530"/>
-                <YCoordinate value="1362"/>
+                <XCoordinate value="539"/>
+                <YCoordinate value="1815"/>
               </BaseAnchor>
             </BaseRecord>
             <BaseRecord index="109">
               <BaseAnchor index="0" Format="1">
-                <XCoordinate value="530"/>
+                <XCoordinate value="529"/>
                 <YCoordinate value="0"/>
               </BaseAnchor>
               <BaseAnchor index="1" empty="1"/>
               <BaseAnchor index="2" Format="1">
-                <XCoordinate value="530"/>
-                <YCoordinate value="1815"/>
+                <XCoordinate value="529"/>
+                <YCoordinate value="1362"/>
               </BaseAnchor>
             </BaseRecord>
             <BaseRecord index="110">
@@ -15892,7 +16308,7 @@ From Old Portuguese conta, from Latin computō (“I calculate”).
               <BaseAnchor index="1" empty="1"/>
               <BaseAnchor index="2" Format="1">
                 <XCoordinate value="530"/>
-                <YCoordinate value="1815"/>
+                <YCoordinate value="1362"/>
               </BaseAnchor>
             </BaseRecord>
             <BaseRecord index="111">
@@ -15903,7 +16319,7 @@ From Old Portuguese conta, from Latin computō (“I calculate”).
               <BaseAnchor index="1" empty="1"/>
               <BaseAnchor index="2" Format="1">
                 <XCoordinate value="530"/>
-                <YCoordinate value="1740"/>
+                <YCoordinate value="1362"/>
               </BaseAnchor>
             </BaseRecord>
             <BaseRecord index="112">
@@ -15925,7 +16341,7 @@ From Old Portuguese conta, from Latin computō (“I calculate”).
               <BaseAnchor index="1" empty="1"/>
               <BaseAnchor index="2" Format="1">
                 <XCoordinate value="530"/>
-                <YCoordinate value="1362"/>
+                <YCoordinate value="1815"/>
               </BaseAnchor>
             </BaseRecord>
             <BaseRecord index="114">
@@ -15946,8 +16362,8 @@ From Old Portuguese conta, from Latin computō (“I calculate”).
               </BaseAnchor>
               <BaseAnchor index="1" empty="1"/>
               <BaseAnchor index="2" Format="1">
-                <XCoordinate value="539"/>
-                <YCoordinate value="1362"/>
+                <XCoordinate value="530"/>
+                <YCoordinate value="1815"/>
               </BaseAnchor>
             </BaseRecord>
             <BaseRecord index="116">
@@ -15957,8 +16373,8 @@ From Old Portuguese conta, from Latin computō (“I calculate”).
               </BaseAnchor>
               <BaseAnchor index="1" empty="1"/>
               <BaseAnchor index="2" Format="1">
-                <XCoordinate value="539"/>
-                <YCoordinate value="1815"/>
+                <XCoordinate value="530"/>
+                <YCoordinate value="1362"/>
               </BaseAnchor>
             </BaseRecord>
             <BaseRecord index="117">
@@ -15968,8 +16384,8 @@ From Old Portuguese conta, from Latin computō (“I calculate”).
               </BaseAnchor>
               <BaseAnchor index="1" empty="1"/>
               <BaseAnchor index="2" Format="1">
-                <XCoordinate value="539"/>
-                <YCoordinate value="1815"/>
+                <XCoordinate value="530"/>
+                <YCoordinate value="1740"/>
               </BaseAnchor>
             </BaseRecord>
             <BaseRecord index="118">
@@ -15980,7 +16396,7 @@ From Old Portuguese conta, from Latin computō (“I calculate”).
               <BaseAnchor index="1" empty="1"/>
               <BaseAnchor index="2" Format="1">
                 <XCoordinate value="539"/>
-                <YCoordinate value="1740"/>
+                <YCoordinate value="1362"/>
               </BaseAnchor>
             </BaseRecord>
             <BaseRecord index="119">
@@ -16013,7 +16429,7 @@ From Old Portuguese conta, from Latin computō (“I calculate”).
               <BaseAnchor index="1" empty="1"/>
               <BaseAnchor index="2" Format="1">
                 <XCoordinate value="539"/>
-                <YCoordinate value="1815"/>
+                <YCoordinate value="1740"/>
               </BaseAnchor>
             </BaseRecord>
             <BaseRecord index="122">
@@ -16024,7 +16440,7 @@ From Old Portuguese conta, from Latin computō (“I calculate”).
               <BaseAnchor index="1" empty="1"/>
               <BaseAnchor index="2" Format="1">
                 <XCoordinate value="539"/>
-                <YCoordinate value="1362"/>
+                <YCoordinate value="1815"/>
               </BaseAnchor>
             </BaseRecord>
             <BaseRecord index="123">
@@ -16057,10 +16473,43 @@ From Old Portuguese conta, from Latin computō (“I calculate”).
               <BaseAnchor index="1" empty="1"/>
               <BaseAnchor index="2" Format="1">
                 <XCoordinate value="539"/>
-                <YCoordinate value="1816"/>
+                <YCoordinate value="1362"/>
               </BaseAnchor>
             </BaseRecord>
             <BaseRecord index="126">
+              <BaseAnchor index="0" Format="1">
+                <XCoordinate value="530"/>
+                <YCoordinate value="0"/>
+              </BaseAnchor>
+              <BaseAnchor index="1" empty="1"/>
+              <BaseAnchor index="2" Format="1">
+                <XCoordinate value="539"/>
+                <YCoordinate value="1815"/>
+              </BaseAnchor>
+            </BaseRecord>
+            <BaseRecord index="127">
+              <BaseAnchor index="0" Format="1">
+                <XCoordinate value="530"/>
+                <YCoordinate value="0"/>
+              </BaseAnchor>
+              <BaseAnchor index="1" empty="1"/>
+              <BaseAnchor index="2" Format="1">
+                <XCoordinate value="539"/>
+                <YCoordinate value="1815"/>
+              </BaseAnchor>
+            </BaseRecord>
+            <BaseRecord index="128">
+              <BaseAnchor index="0" Format="1">
+                <XCoordinate value="530"/>
+                <YCoordinate value="0"/>
+              </BaseAnchor>
+              <BaseAnchor index="1" empty="1"/>
+              <BaseAnchor index="2" Format="1">
+                <XCoordinate value="539"/>
+                <YCoordinate value="1816"/>
+              </BaseAnchor>
+            </BaseRecord>
+            <BaseRecord index="129">
               <BaseAnchor index="0" Format="1">
                 <XCoordinate value="529"/>
                 <YCoordinate value="0"/>
@@ -16074,7 +16523,7 @@ From Old Portuguese conta, from Latin computō (“I calculate”).
                 <YCoordinate value="1210"/>
               </BaseAnchor>
             </BaseRecord>
-            <BaseRecord index="127">
+            <BaseRecord index="130">
               <BaseAnchor index="0" Format="1">
                 <XCoordinate value="529"/>
                 <YCoordinate value="0"/>
@@ -16085,7 +16534,7 @@ From Old Portuguese conta, from Latin computō (“I calculate”).
                 <YCoordinate value="1210"/>
               </BaseAnchor>
             </BaseRecord>
-            <BaseRecord index="128">
+            <BaseRecord index="131">
               <BaseAnchor index="0" Format="1">
                 <XCoordinate value="529"/>
                 <YCoordinate value="0"/>
@@ -16096,7 +16545,7 @@ From Old Portuguese conta, from Latin computō (“I calculate”).
                 <YCoordinate value="1210"/>
               </BaseAnchor>
             </BaseRecord>
-            <BaseRecord index="129">
+            <BaseRecord index="132">
               <BaseAnchor index="0" Format="1">
                 <XCoordinate value="529"/>
                 <YCoordinate value="0"/>
@@ -16107,7 +16556,7 @@ From Old Portuguese conta, from Latin computō (“I calculate”).
                 <YCoordinate value="1210"/>
               </BaseAnchor>
             </BaseRecord>
-            <BaseRecord index="130">
+            <BaseRecord index="133">
               <BaseAnchor index="0" Format="1">
                 <XCoordinate value="529"/>
                 <YCoordinate value="0"/>
@@ -16121,7 +16570,7 @@ From Old Portuguese conta, from Latin computō (“I calculate”).
                 <YCoordinate value="1210"/>
               </BaseAnchor>
             </BaseRecord>
-            <BaseRecord index="131">
+            <BaseRecord index="134">
               <BaseAnchor index="0" Format="1">
                 <XCoordinate value="265"/>
                 <YCoordinate value="0"/>
@@ -16130,48 +16579,6 @@ From Old Portuguese conta, from Latin computō (“I calculate”).
               <BaseAnchor index="2" Format="1">
                 <XCoordinate value="529"/>
                 <YCoordinate value="1210"/>
-              </BaseAnchor>
-            </BaseRecord>
-            <BaseRecord index="132">
-              <BaseAnchor index="0" Format="1">
-                <XCoordinate value="529"/>
-                <YCoordinate value="0"/>
-              </BaseAnchor>
-              <BaseAnchor index="1" Format="1">
-                <XCoordinate value="881"/>
-                <YCoordinate value="0"/>
-              </BaseAnchor>
-              <BaseAnchor index="2" Format="1">
-                <XCoordinate value="529"/>
-                <YCoordinate value="1059"/>
-              </BaseAnchor>
-            </BaseRecord>
-            <BaseRecord index="133">
-              <BaseAnchor index="0" Format="1">
-                <XCoordinate value="529"/>
-                <YCoordinate value="0"/>
-              </BaseAnchor>
-              <BaseAnchor index="1" Format="1">
-                <XCoordinate value="881"/>
-                <YCoordinate value="0"/>
-              </BaseAnchor>
-              <BaseAnchor index="2" Format="1">
-                <XCoordinate value="529"/>
-                <YCoordinate value="1513"/>
-              </BaseAnchor>
-            </BaseRecord>
-            <BaseRecord index="134">
-              <BaseAnchor index="0" Format="1">
-                <XCoordinate value="529"/>
-                <YCoordinate value="0"/>
-              </BaseAnchor>
-              <BaseAnchor index="1" Format="1">
-                <XCoordinate value="881"/>
-                <YCoordinate value="0"/>
-              </BaseAnchor>
-              <BaseAnchor index="2" Format="1">
-                <XCoordinate value="529"/>
-                <YCoordinate value="1513"/>
               </BaseAnchor>
             </BaseRecord>
             <BaseRecord index="135">
@@ -16185,7 +16592,7 @@ From Old Portuguese conta, from Latin computō (“I calculate”).
               </BaseAnchor>
               <BaseAnchor index="2" Format="1">
                 <XCoordinate value="529"/>
-                <YCoordinate value="1513"/>
+                <YCoordinate value="1059"/>
               </BaseAnchor>
             </BaseRecord>
             <BaseRecord index="136">
@@ -16255,7 +16662,7 @@ From Old Portuguese conta, from Latin computō (“I calculate”).
               </BaseAnchor>
               <BaseAnchor index="2" Format="1">
                 <XCoordinate value="529"/>
-                <YCoordinate value="1059"/>
+                <YCoordinate value="1513"/>
               </BaseAnchor>
             </BaseRecord>
             <BaseRecord index="141">
@@ -16291,10 +16698,13 @@ From Old Portuguese conta, from Latin computō (“I calculate”).
                 <XCoordinate value="529"/>
                 <YCoordinate value="0"/>
               </BaseAnchor>
-              <BaseAnchor index="1" empty="1"/>
+              <BaseAnchor index="1" Format="1">
+                <XCoordinate value="881"/>
+                <YCoordinate value="0"/>
+              </BaseAnchor>
               <BaseAnchor index="2" Format="1">
                 <XCoordinate value="529"/>
-                <YCoordinate value="1513"/>
+                <YCoordinate value="1059"/>
               </BaseAnchor>
             </BaseRecord>
             <BaseRecord index="144">
@@ -16302,10 +16712,13 @@ From Old Portuguese conta, from Latin computō (“I calculate”).
                 <XCoordinate value="529"/>
                 <YCoordinate value="0"/>
               </BaseAnchor>
-              <BaseAnchor index="1" empty="1"/>
+              <BaseAnchor index="1" Format="1">
+                <XCoordinate value="881"/>
+                <YCoordinate value="0"/>
+              </BaseAnchor>
               <BaseAnchor index="2" Format="1">
-                <XCoordinate value="558"/>
-                <YCoordinate value="1059"/>
+                <XCoordinate value="529"/>
+                <YCoordinate value="1513"/>
               </BaseAnchor>
             </BaseRecord>
             <BaseRecord index="145">
@@ -16313,9 +16726,12 @@ From Old Portuguese conta, from Latin computō (“I calculate”).
                 <XCoordinate value="529"/>
                 <YCoordinate value="0"/>
               </BaseAnchor>
-              <BaseAnchor index="1" empty="1"/>
+              <BaseAnchor index="1" Format="1">
+                <XCoordinate value="881"/>
+                <YCoordinate value="0"/>
+              </BaseAnchor>
               <BaseAnchor index="2" Format="1">
-                <XCoordinate value="558"/>
+                <XCoordinate value="529"/>
                 <YCoordinate value="1513"/>
               </BaseAnchor>
             </BaseRecord>
@@ -16326,14 +16742,14 @@ From Old Portuguese conta, from Latin computō (“I calculate”).
               </BaseAnchor>
               <BaseAnchor index="1" empty="1"/>
               <BaseAnchor index="2" Format="1">
-                <XCoordinate value="558"/>
+                <XCoordinate value="529"/>
                 <YCoordinate value="1513"/>
               </BaseAnchor>
             </BaseRecord>
             <BaseRecord index="147">
               <BaseAnchor index="0" Format="1">
                 <XCoordinate value="529"/>
-                <YCoordinate value="-303"/>
+                <YCoordinate value="0"/>
               </BaseAnchor>
               <BaseAnchor index="1" empty="1"/>
               <BaseAnchor index="2" Format="1">
@@ -16366,12 +16782,12 @@ From Old Portuguese conta, from Latin computō (“I calculate”).
             <BaseRecord index="150">
               <BaseAnchor index="0" Format="1">
                 <XCoordinate value="529"/>
-                <YCoordinate value="0"/>
+                <YCoordinate value="-303"/>
               </BaseAnchor>
               <BaseAnchor index="1" empty="1"/>
               <BaseAnchor index="2" Format="1">
-                <XCoordinate value="529"/>
-                <YCoordinate value="1513"/>
+                <XCoordinate value="558"/>
+                <YCoordinate value="1059"/>
               </BaseAnchor>
             </BaseRecord>
             <BaseRecord index="151">
@@ -16381,7 +16797,7 @@ From Old Portuguese conta, from Latin computō (“I calculate”).
               </BaseAnchor>
               <BaseAnchor index="1" empty="1"/>
               <BaseAnchor index="2" Format="1">
-                <XCoordinate value="529"/>
+                <XCoordinate value="558"/>
                 <YCoordinate value="1513"/>
               </BaseAnchor>
             </BaseRecord>
@@ -16390,13 +16806,10 @@ From Old Portuguese conta, from Latin computō (“I calculate”).
                 <XCoordinate value="529"/>
                 <YCoordinate value="0"/>
               </BaseAnchor>
-              <BaseAnchor index="1" Format="1">
-                <XCoordinate value="857"/>
-                <YCoordinate value="0"/>
-              </BaseAnchor>
+              <BaseAnchor index="1" empty="1"/>
               <BaseAnchor index="2" Format="1">
-                <XCoordinate value="520"/>
-                <YCoordinate value="1059"/>
+                <XCoordinate value="558"/>
+                <YCoordinate value="1513"/>
               </BaseAnchor>
             </BaseRecord>
             <BaseRecord index="153">
@@ -16404,12 +16817,9 @@ From Old Portuguese conta, from Latin computō (“I calculate”).
                 <XCoordinate value="529"/>
                 <YCoordinate value="0"/>
               </BaseAnchor>
-              <BaseAnchor index="1" Format="1">
-                <XCoordinate value="857"/>
-                <YCoordinate value="0"/>
-              </BaseAnchor>
+              <BaseAnchor index="1" empty="1"/>
               <BaseAnchor index="2" Format="1">
-                <XCoordinate value="520"/>
+                <XCoordinate value="529"/>
                 <YCoordinate value="1513"/>
               </BaseAnchor>
             </BaseRecord>
@@ -16418,12 +16828,9 @@ From Old Portuguese conta, from Latin computō (“I calculate”).
                 <XCoordinate value="529"/>
                 <YCoordinate value="0"/>
               </BaseAnchor>
-              <BaseAnchor index="1" Format="1">
-                <XCoordinate value="857"/>
-                <YCoordinate value="0"/>
-              </BaseAnchor>
+              <BaseAnchor index="1" empty="1"/>
               <BaseAnchor index="2" Format="1">
-                <XCoordinate value="520"/>
+                <XCoordinate value="529"/>
                 <YCoordinate value="1513"/>
               </BaseAnchor>
             </BaseRecord>
@@ -16438,7 +16845,7 @@ From Old Portuguese conta, from Latin computō (“I calculate”).
               </BaseAnchor>
               <BaseAnchor index="2" Format="1">
                 <XCoordinate value="520"/>
-                <YCoordinate value="1513"/>
+                <YCoordinate value="1059"/>
               </BaseAnchor>
             </BaseRecord>
             <BaseRecord index="156">
@@ -16508,7 +16915,7 @@ From Old Portuguese conta, from Latin computō (“I calculate”).
               </BaseAnchor>
               <BaseAnchor index="2" Format="1">
                 <XCoordinate value="520"/>
-                <YCoordinate value="1059"/>
+                <YCoordinate value="1513"/>
               </BaseAnchor>
             </BaseRecord>
             <BaseRecord index="161">
@@ -16527,16 +16934,16 @@ From Old Portuguese conta, from Latin computō (“I calculate”).
             </BaseRecord>
             <BaseRecord index="162">
               <BaseAnchor index="0" Format="1">
-                <XCoordinate value="539"/>
+                <XCoordinate value="529"/>
                 <YCoordinate value="0"/>
               </BaseAnchor>
               <BaseAnchor index="1" Format="1">
-                <XCoordinate value="202"/>
-                <YCoordinate value="1059"/>
+                <XCoordinate value="857"/>
+                <YCoordinate value="0"/>
               </BaseAnchor>
               <BaseAnchor index="2" Format="1">
-                <XCoordinate value="530"/>
-                <YCoordinate value="1059"/>
+                <XCoordinate value="520"/>
+                <YCoordinate value="1513"/>
               </BaseAnchor>
             </BaseRecord>
             <BaseRecord index="163">
@@ -16544,53 +16951,65 @@ From Old Portuguese conta, from Latin computō (“I calculate”).
                 <XCoordinate value="529"/>
                 <YCoordinate value="0"/>
               </BaseAnchor>
-              <BaseAnchor index="1" empty="1"/>
+              <BaseAnchor index="1" Format="1">
+                <XCoordinate value="857"/>
+                <YCoordinate value="0"/>
+              </BaseAnchor>
               <BaseAnchor index="2" Format="1">
-                <XCoordinate value="529"/>
+                <XCoordinate value="520"/>
                 <YCoordinate value="1513"/>
               </BaseAnchor>
             </BaseRecord>
             <BaseRecord index="164">
               <BaseAnchor index="0" Format="1">
                 <XCoordinate value="529"/>
-                <YCoordinate value="-303"/>
+                <YCoordinate value="0"/>
               </BaseAnchor>
-              <BaseAnchor index="1" empty="1"/>
+              <BaseAnchor index="1" Format="1">
+                <XCoordinate value="857"/>
+                <YCoordinate value="0"/>
+              </BaseAnchor>
               <BaseAnchor index="2" Format="1">
-                <XCoordinate value="511"/>
+                <XCoordinate value="520"/>
                 <YCoordinate value="1059"/>
               </BaseAnchor>
             </BaseRecord>
             <BaseRecord index="165">
               <BaseAnchor index="0" Format="1">
                 <XCoordinate value="529"/>
-                <YCoordinate value="-303"/>
+                <YCoordinate value="0"/>
               </BaseAnchor>
-              <BaseAnchor index="1" empty="1"/>
+              <BaseAnchor index="1" Format="1">
+                <XCoordinate value="857"/>
+                <YCoordinate value="0"/>
+              </BaseAnchor>
               <BaseAnchor index="2" Format="1">
-                <XCoordinate value="511"/>
+                <XCoordinate value="520"/>
                 <YCoordinate value="1513"/>
               </BaseAnchor>
             </BaseRecord>
             <BaseRecord index="166">
               <BaseAnchor index="0" Format="1">
-                <XCoordinate value="529"/>
-                <YCoordinate value="-303"/>
+                <XCoordinate value="541"/>
+                <YCoordinate value="0"/>
               </BaseAnchor>
-              <BaseAnchor index="1" empty="1"/>
+              <BaseAnchor index="1" Format="1">
+                <XCoordinate value="204"/>
+                <YCoordinate value="1059"/>
+              </BaseAnchor>
               <BaseAnchor index="2" Format="1">
-                <XCoordinate value="511"/>
-                <YCoordinate value="1513"/>
+                <XCoordinate value="532"/>
+                <YCoordinate value="1059"/>
               </BaseAnchor>
             </BaseRecord>
             <BaseRecord index="167">
               <BaseAnchor index="0" Format="1">
                 <XCoordinate value="529"/>
-                <YCoordinate value="-303"/>
+                <YCoordinate value="0"/>
               </BaseAnchor>
               <BaseAnchor index="1" empty="1"/>
               <BaseAnchor index="2" Format="1">
-                <XCoordinate value="511"/>
+                <XCoordinate value="529"/>
                 <YCoordinate value="1513"/>
               </BaseAnchor>
             </BaseRecord>
@@ -16602,7 +17021,7 @@ From Old Portuguese conta, from Latin computō (“I calculate”).
               <BaseAnchor index="1" empty="1"/>
               <BaseAnchor index="2" Format="1">
                 <XCoordinate value="511"/>
-                <YCoordinate value="1513"/>
+                <YCoordinate value="1059"/>
               </BaseAnchor>
             </BaseRecord>
             <BaseRecord index="169">
@@ -16630,15 +17049,48 @@ From Old Portuguese conta, from Latin computō (“I calculate”).
             <BaseRecord index="171">
               <BaseAnchor index="0" Format="1">
                 <XCoordinate value="529"/>
-                <YCoordinate value="0"/>
+                <YCoordinate value="-303"/>
               </BaseAnchor>
               <BaseAnchor index="1" empty="1"/>
               <BaseAnchor index="2" Format="1">
-                <XCoordinate value="529"/>
+                <XCoordinate value="511"/>
                 <YCoordinate value="1513"/>
               </BaseAnchor>
             </BaseRecord>
             <BaseRecord index="172">
+              <BaseAnchor index="0" Format="1">
+                <XCoordinate value="529"/>
+                <YCoordinate value="-303"/>
+              </BaseAnchor>
+              <BaseAnchor index="1" empty="1"/>
+              <BaseAnchor index="2" Format="1">
+                <XCoordinate value="511"/>
+                <YCoordinate value="1513"/>
+              </BaseAnchor>
+            </BaseRecord>
+            <BaseRecord index="173">
+              <BaseAnchor index="0" Format="1">
+                <XCoordinate value="529"/>
+                <YCoordinate value="-303"/>
+              </BaseAnchor>
+              <BaseAnchor index="1" empty="1"/>
+              <BaseAnchor index="2" Format="1">
+                <XCoordinate value="511"/>
+                <YCoordinate value="1513"/>
+              </BaseAnchor>
+            </BaseRecord>
+            <BaseRecord index="174">
+              <BaseAnchor index="0" Format="1">
+                <XCoordinate value="529"/>
+                <YCoordinate value="-303"/>
+              </BaseAnchor>
+              <BaseAnchor index="1" empty="1"/>
+              <BaseAnchor index="2" Format="1">
+                <XCoordinate value="511"/>
+                <YCoordinate value="1513"/>
+              </BaseAnchor>
+            </BaseRecord>
+            <BaseRecord index="175">
               <BaseAnchor index="0" Format="1">
                 <XCoordinate value="529"/>
                 <YCoordinate value="0"/>
@@ -16649,7 +17101,18 @@ From Old Portuguese conta, from Latin computō (“I calculate”).
                 <YCoordinate value="1513"/>
               </BaseAnchor>
             </BaseRecord>
-            <BaseRecord index="173">
+            <BaseRecord index="176">
+              <BaseAnchor index="0" Format="1">
+                <XCoordinate value="529"/>
+                <YCoordinate value="0"/>
+              </BaseAnchor>
+              <BaseAnchor index="1" empty="1"/>
+              <BaseAnchor index="2" Format="1">
+                <XCoordinate value="529"/>
+                <YCoordinate value="1513"/>
+              </BaseAnchor>
+            </BaseRecord>
+            <BaseRecord index="177">
               <BaseAnchor index="0" Format="1">
                 <XCoordinate value="529"/>
                 <YCoordinate value="0"/>
@@ -16660,7 +17123,7 @@ From Old Portuguese conta, from Latin computō (“I calculate”).
                 <YCoordinate value="1815"/>
               </BaseAnchor>
             </BaseRecord>
-            <BaseRecord index="174">
+            <BaseRecord index="178">
               <BaseAnchor index="0" Format="1">
                 <XCoordinate value="529"/>
                 <YCoordinate value="0"/>
@@ -16669,62 +17132,6 @@ From Old Portuguese conta, from Latin computō (“I calculate”).
               <BaseAnchor index="2" Format="1">
                 <XCoordinate value="529"/>
                 <YCoordinate value="1740"/>
-              </BaseAnchor>
-            </BaseRecord>
-            <BaseRecord index="175">
-              <BaseAnchor index="0" Format="1">
-                <XCoordinate value="529"/>
-                <YCoordinate value="0"/>
-              </BaseAnchor>
-              <BaseAnchor index="1" Format="1">
-                <XCoordinate value="915"/>
-                <YCoordinate value="0"/>
-              </BaseAnchor>
-              <BaseAnchor index="2" Format="1">
-                <XCoordinate value="528"/>
-                <YCoordinate value="1513"/>
-              </BaseAnchor>
-            </BaseRecord>
-            <BaseRecord index="176">
-              <BaseAnchor index="0" Format="1">
-                <XCoordinate value="529"/>
-                <YCoordinate value="0"/>
-              </BaseAnchor>
-              <BaseAnchor index="1" Format="1">
-                <XCoordinate value="915"/>
-                <YCoordinate value="0"/>
-              </BaseAnchor>
-              <BaseAnchor index="2" Format="1">
-                <XCoordinate value="528"/>
-                <YCoordinate value="1059"/>
-              </BaseAnchor>
-            </BaseRecord>
-            <BaseRecord index="177">
-              <BaseAnchor index="0" Format="1">
-                <XCoordinate value="529"/>
-                <YCoordinate value="0"/>
-              </BaseAnchor>
-              <BaseAnchor index="1" Format="1">
-                <XCoordinate value="915"/>
-                <YCoordinate value="0"/>
-              </BaseAnchor>
-              <BaseAnchor index="2" Format="1">
-                <XCoordinate value="528"/>
-                <YCoordinate value="1513"/>
-              </BaseAnchor>
-            </BaseRecord>
-            <BaseRecord index="178">
-              <BaseAnchor index="0" Format="1">
-                <XCoordinate value="529"/>
-                <YCoordinate value="0"/>
-              </BaseAnchor>
-              <BaseAnchor index="1" Format="1">
-                <XCoordinate value="915"/>
-                <YCoordinate value="0"/>
-              </BaseAnchor>
-              <BaseAnchor index="2" Format="1">
-                <XCoordinate value="528"/>
-                <YCoordinate value="1513"/>
               </BaseAnchor>
             </BaseRecord>
             <BaseRecord index="179">
@@ -16752,7 +17159,7 @@ From Old Portuguese conta, from Latin computō (“I calculate”).
               </BaseAnchor>
               <BaseAnchor index="2" Format="1">
                 <XCoordinate value="528"/>
-                <YCoordinate value="1513"/>
+                <YCoordinate value="1059"/>
               </BaseAnchor>
             </BaseRecord>
             <BaseRecord index="181">
@@ -16812,34 +17219,58 @@ From Old Portuguese conta, from Latin computō (“I calculate”).
               </BaseAnchor>
             </BaseRecord>
             <BaseRecord index="185">
-              <BaseAnchor index="0" empty="1"/>
-              <BaseAnchor index="1" empty="1"/>
+              <BaseAnchor index="0" Format="1">
+                <XCoordinate value="529"/>
+                <YCoordinate value="0"/>
+              </BaseAnchor>
+              <BaseAnchor index="1" Format="1">
+                <XCoordinate value="915"/>
+                <YCoordinate value="0"/>
+              </BaseAnchor>
               <BaseAnchor index="2" Format="1">
-                <XCoordinate value="584"/>
+                <XCoordinate value="528"/>
                 <YCoordinate value="1513"/>
               </BaseAnchor>
             </BaseRecord>
             <BaseRecord index="186">
-              <BaseAnchor index="0" empty="1"/>
-              <BaseAnchor index="1" empty="1"/>
+              <BaseAnchor index="0" Format="1">
+                <XCoordinate value="529"/>
+                <YCoordinate value="0"/>
+              </BaseAnchor>
+              <BaseAnchor index="1" Format="1">
+                <XCoordinate value="915"/>
+                <YCoordinate value="0"/>
+              </BaseAnchor>
               <BaseAnchor index="2" Format="1">
-                <XCoordinate value="584"/>
-                <YCoordinate value="1059"/>
+                <XCoordinate value="528"/>
+                <YCoordinate value="1513"/>
               </BaseAnchor>
             </BaseRecord>
             <BaseRecord index="187">
-              <BaseAnchor index="0" empty="1"/>
-              <BaseAnchor index="1" empty="1"/>
+              <BaseAnchor index="0" Format="1">
+                <XCoordinate value="529"/>
+                <YCoordinate value="0"/>
+              </BaseAnchor>
+              <BaseAnchor index="1" Format="1">
+                <XCoordinate value="915"/>
+                <YCoordinate value="0"/>
+              </BaseAnchor>
               <BaseAnchor index="2" Format="1">
-                <XCoordinate value="584"/>
+                <XCoordinate value="528"/>
                 <YCoordinate value="1513"/>
               </BaseAnchor>
             </BaseRecord>
             <BaseRecord index="188">
-              <BaseAnchor index="0" empty="1"/>
-              <BaseAnchor index="1" empty="1"/>
+              <BaseAnchor index="0" Format="1">
+                <XCoordinate value="529"/>
+                <YCoordinate value="0"/>
+              </BaseAnchor>
+              <BaseAnchor index="1" Format="1">
+                <XCoordinate value="915"/>
+                <YCoordinate value="0"/>
+              </BaseAnchor>
               <BaseAnchor index="2" Format="1">
-                <XCoordinate value="584"/>
+                <XCoordinate value="528"/>
                 <YCoordinate value="1513"/>
               </BaseAnchor>
             </BaseRecord>
@@ -16848,53 +17279,44 @@ From Old Portuguese conta, from Latin computō (“I calculate”).
                 <XCoordinate value="529"/>
                 <YCoordinate value="0"/>
               </BaseAnchor>
-              <BaseAnchor index="1" empty="1"/>
+              <BaseAnchor index="1" Format="1">
+                <XCoordinate value="915"/>
+                <YCoordinate value="0"/>
+              </BaseAnchor>
               <BaseAnchor index="2" Format="1">
-                <XCoordinate value="529"/>
+                <XCoordinate value="528"/>
                 <YCoordinate value="1513"/>
               </BaseAnchor>
             </BaseRecord>
             <BaseRecord index="190">
-              <BaseAnchor index="0" Format="1">
-                <XCoordinate value="529"/>
-                <YCoordinate value="-303"/>
-              </BaseAnchor>
+              <BaseAnchor index="0" empty="1"/>
               <BaseAnchor index="1" empty="1"/>
               <BaseAnchor index="2" Format="1">
-                <XCoordinate value="529"/>
+                <XCoordinate value="584"/>
                 <YCoordinate value="1513"/>
               </BaseAnchor>
             </BaseRecord>
             <BaseRecord index="191">
-              <BaseAnchor index="0" Format="1">
-                <XCoordinate value="529"/>
-                <YCoordinate value="0"/>
-              </BaseAnchor>
+              <BaseAnchor index="0" empty="1"/>
               <BaseAnchor index="1" empty="1"/>
               <BaseAnchor index="2" Format="1">
-                <XCoordinate value="543"/>
-                <YCoordinate value="1513"/>
+                <XCoordinate value="584"/>
+                <YCoordinate value="1059"/>
               </BaseAnchor>
             </BaseRecord>
             <BaseRecord index="192">
-              <BaseAnchor index="0" Format="1">
-                <XCoordinate value="529"/>
-                <YCoordinate value="0"/>
-              </BaseAnchor>
+              <BaseAnchor index="0" empty="1"/>
               <BaseAnchor index="1" empty="1"/>
               <BaseAnchor index="2" Format="1">
-                <XCoordinate value="543"/>
-                <YCoordinate value="1966"/>
+                <XCoordinate value="584"/>
+                <YCoordinate value="1513"/>
               </BaseAnchor>
             </BaseRecord>
             <BaseRecord index="193">
-              <BaseAnchor index="0" Format="1">
-                <XCoordinate value="529"/>
-                <YCoordinate value="-303"/>
-              </BaseAnchor>
+              <BaseAnchor index="0" empty="1"/>
               <BaseAnchor index="1" empty="1"/>
               <BaseAnchor index="2" Format="1">
-                <XCoordinate value="543"/>
+                <XCoordinate value="584"/>
                 <YCoordinate value="1513"/>
               </BaseAnchor>
             </BaseRecord>
@@ -16906,18 +17328,18 @@ From Old Portuguese conta, from Latin computō (“I calculate”).
               <BaseAnchor index="1" empty="1"/>
               <BaseAnchor index="2" Format="1">
                 <XCoordinate value="529"/>
-                <YCoordinate value="1059"/>
+                <YCoordinate value="1513"/>
               </BaseAnchor>
             </BaseRecord>
             <BaseRecord index="195">
               <BaseAnchor index="0" Format="1">
                 <XCoordinate value="529"/>
-                <YCoordinate value="0"/>
+                <YCoordinate value="-303"/>
               </BaseAnchor>
               <BaseAnchor index="1" empty="1"/>
               <BaseAnchor index="2" Format="1">
                 <XCoordinate value="529"/>
-                <YCoordinate value="1059"/>
+                <YCoordinate value="1513"/>
               </BaseAnchor>
             </BaseRecord>
             <BaseRecord index="196">
@@ -16927,7 +17349,7 @@ From Old Portuguese conta, from Latin computō (“I calculate”).
               </BaseAnchor>
               <BaseAnchor index="1" empty="1"/>
               <BaseAnchor index="2" Format="1">
-                <XCoordinate value="529"/>
+                <XCoordinate value="543"/>
                 <YCoordinate value="1513"/>
               </BaseAnchor>
             </BaseRecord>
@@ -16938,8 +17360,8 @@ From Old Portuguese conta, from Latin computō (“I calculate”).
               </BaseAnchor>
               <BaseAnchor index="1" empty="1"/>
               <BaseAnchor index="2" Format="1">
-                <XCoordinate value="529"/>
-                <YCoordinate value="1513"/>
+                <XCoordinate value="543"/>
+                <YCoordinate value="1966"/>
               </BaseAnchor>
             </BaseRecord>
             <BaseRecord index="198">
@@ -16949,8 +17371,8 @@ From Old Portuguese conta, from Latin computō (“I calculate”).
               </BaseAnchor>
               <BaseAnchor index="1" empty="1"/>
               <BaseAnchor index="2" Format="1">
-                <XCoordinate value="529"/>
-                <YCoordinate value="1059"/>
+                <XCoordinate value="543"/>
+                <YCoordinate value="1513"/>
               </BaseAnchor>
             </BaseRecord>
             <BaseRecord index="199">
@@ -16961,7 +17383,7 @@ From Old Portuguese conta, from Latin computō (“I calculate”).
               <BaseAnchor index="1" empty="1"/>
               <BaseAnchor index="2" Format="1">
                 <XCoordinate value="529"/>
-                <YCoordinate value="1513"/>
+                <YCoordinate value="1059"/>
               </BaseAnchor>
             </BaseRecord>
             <BaseRecord index="200">
@@ -16972,7 +17394,7 @@ From Old Portuguese conta, from Latin computō (“I calculate”).
               <BaseAnchor index="1" empty="1"/>
               <BaseAnchor index="2" Format="1">
                 <XCoordinate value="529"/>
-                <YCoordinate value="1513"/>
+                <YCoordinate value="1059"/>
               </BaseAnchor>
             </BaseRecord>
             <BaseRecord index="201">
@@ -16980,13 +17402,10 @@ From Old Portuguese conta, from Latin computō (“I calculate”).
                 <XCoordinate value="529"/>
                 <YCoordinate value="0"/>
               </BaseAnchor>
-              <BaseAnchor index="1" Format="1">
-                <XCoordinate value="649"/>
-                <YCoordinate value="0"/>
-              </BaseAnchor>
+              <BaseAnchor index="1" empty="1"/>
               <BaseAnchor index="2" Format="1">
                 <XCoordinate value="529"/>
-                <YCoordinate value="1059"/>
+                <YCoordinate value="1513"/>
               </BaseAnchor>
             </BaseRecord>
             <BaseRecord index="202">
@@ -16994,10 +17413,7 @@ From Old Portuguese conta, from Latin computō (“I calculate”).
                 <XCoordinate value="529"/>
                 <YCoordinate value="0"/>
               </BaseAnchor>
-              <BaseAnchor index="1" Format="1">
-                <XCoordinate value="649"/>
-                <YCoordinate value="0"/>
-              </BaseAnchor>
+              <BaseAnchor index="1" empty="1"/>
               <BaseAnchor index="2" Format="1">
                 <XCoordinate value="529"/>
                 <YCoordinate value="1513"/>
@@ -17006,15 +17422,12 @@ From Old Portuguese conta, from Latin computō (“I calculate”).
             <BaseRecord index="203">
               <BaseAnchor index="0" Format="1">
                 <XCoordinate value="529"/>
-                <YCoordinate value="0"/>
+                <YCoordinate value="-303"/>
               </BaseAnchor>
-              <BaseAnchor index="1" Format="1">
-                <XCoordinate value="649"/>
-                <YCoordinate value="0"/>
-              </BaseAnchor>
+              <BaseAnchor index="1" empty="1"/>
               <BaseAnchor index="2" Format="1">
                 <XCoordinate value="529"/>
-                <YCoordinate value="1513"/>
+                <YCoordinate value="1059"/>
               </BaseAnchor>
             </BaseRecord>
             <BaseRecord index="204">
@@ -17022,10 +17435,7 @@ From Old Portuguese conta, from Latin computō (“I calculate”).
                 <XCoordinate value="529"/>
                 <YCoordinate value="0"/>
               </BaseAnchor>
-              <BaseAnchor index="1" Format="1">
-                <XCoordinate value="649"/>
-                <YCoordinate value="0"/>
-              </BaseAnchor>
+              <BaseAnchor index="1" empty="1"/>
               <BaseAnchor index="2" Format="1">
                 <XCoordinate value="529"/>
                 <YCoordinate value="1513"/>
@@ -17036,10 +17446,7 @@ From Old Portuguese conta, from Latin computō (“I calculate”).
                 <XCoordinate value="529"/>
                 <YCoordinate value="0"/>
               </BaseAnchor>
-              <BaseAnchor index="1" Format="1">
-                <XCoordinate value="649"/>
-                <YCoordinate value="0"/>
-              </BaseAnchor>
+              <BaseAnchor index="1" empty="1"/>
               <BaseAnchor index="2" Format="1">
                 <XCoordinate value="529"/>
                 <YCoordinate value="1513"/>
@@ -17056,7 +17463,7 @@ From Old Portuguese conta, from Latin computō (“I calculate”).
               </BaseAnchor>
               <BaseAnchor index="2" Format="1">
                 <XCoordinate value="529"/>
-                <YCoordinate value="1513"/>
+                <YCoordinate value="1059"/>
               </BaseAnchor>
             </BaseRecord>
             <BaseRecord index="207">
@@ -17092,10 +17499,13 @@ From Old Portuguese conta, from Latin computō (“I calculate”).
                 <XCoordinate value="529"/>
                 <YCoordinate value="0"/>
               </BaseAnchor>
-              <BaseAnchor index="1" empty="1"/>
+              <BaseAnchor index="1" Format="1">
+                <XCoordinate value="649"/>
+                <YCoordinate value="0"/>
+              </BaseAnchor>
               <BaseAnchor index="2" Format="1">
                 <XCoordinate value="529"/>
-                <YCoordinate value="1059"/>
+                <YCoordinate value="1513"/>
               </BaseAnchor>
             </BaseRecord>
             <BaseRecord index="210">
@@ -17103,7 +17513,10 @@ From Old Portuguese conta, from Latin computō (“I calculate”).
                 <XCoordinate value="529"/>
                 <YCoordinate value="0"/>
               </BaseAnchor>
-              <BaseAnchor index="1" empty="1"/>
+              <BaseAnchor index="1" Format="1">
+                <XCoordinate value="649"/>
+                <YCoordinate value="0"/>
+              </BaseAnchor>
               <BaseAnchor index="2" Format="1">
                 <XCoordinate value="529"/>
                 <YCoordinate value="1513"/>
@@ -17114,113 +17527,169 @@ From Old Portuguese conta, from Latin computō (“I calculate”).
                 <XCoordinate value="529"/>
                 <YCoordinate value="0"/>
               </BaseAnchor>
+              <BaseAnchor index="1" Format="1">
+                <XCoordinate value="649"/>
+                <YCoordinate value="0"/>
+              </BaseAnchor>
+              <BaseAnchor index="2" Format="1">
+                <XCoordinate value="529"/>
+                <YCoordinate value="1513"/>
+              </BaseAnchor>
+            </BaseRecord>
+            <BaseRecord index="212">
+              <BaseAnchor index="0" Format="1">
+                <XCoordinate value="529"/>
+                <YCoordinate value="0"/>
+              </BaseAnchor>
+              <BaseAnchor index="1" Format="1">
+                <XCoordinate value="649"/>
+                <YCoordinate value="0"/>
+              </BaseAnchor>
+              <BaseAnchor index="2" Format="1">
+                <XCoordinate value="529"/>
+                <YCoordinate value="1513"/>
+              </BaseAnchor>
+            </BaseRecord>
+            <BaseRecord index="213">
+              <BaseAnchor index="0" Format="1">
+                <XCoordinate value="529"/>
+                <YCoordinate value="0"/>
+              </BaseAnchor>
+              <BaseAnchor index="1" Format="1">
+                <XCoordinate value="649"/>
+                <YCoordinate value="0"/>
+              </BaseAnchor>
+              <BaseAnchor index="2" Format="1">
+                <XCoordinate value="529"/>
+                <YCoordinate value="1513"/>
+              </BaseAnchor>
+            </BaseRecord>
+            <BaseRecord index="214">
+              <BaseAnchor index="0" Format="1">
+                <XCoordinate value="529"/>
+                <YCoordinate value="0"/>
+              </BaseAnchor>
+              <BaseAnchor index="1" Format="1">
+                <XCoordinate value="649"/>
+                <YCoordinate value="0"/>
+              </BaseAnchor>
+              <BaseAnchor index="2" Format="1">
+                <XCoordinate value="529"/>
+                <YCoordinate value="1513"/>
+              </BaseAnchor>
+            </BaseRecord>
+            <BaseRecord index="215">
+              <BaseAnchor index="0" Format="1">
+                <XCoordinate value="529"/>
+                <YCoordinate value="0"/>
+              </BaseAnchor>
               <BaseAnchor index="1" empty="1"/>
               <BaseAnchor index="2" Format="1">
                 <XCoordinate value="529"/>
                 <YCoordinate value="1059"/>
               </BaseAnchor>
             </BaseRecord>
-            <BaseRecord index="212">
-              <BaseAnchor index="0" Format="1">
-                <XCoordinate value="378"/>
-                <YCoordinate value="0"/>
-              </BaseAnchor>
-              <BaseAnchor index="1" empty="1"/>
-              <BaseAnchor index="2" Format="1">
-                <XCoordinate value="579"/>
-                <YCoordinate value="1059"/>
-              </BaseAnchor>
-            </BaseRecord>
-            <BaseRecord index="213">
-              <BaseAnchor index="0" Format="1">
-                <XCoordinate value="378"/>
-                <YCoordinate value="0"/>
-              </BaseAnchor>
-              <BaseAnchor index="1" empty="1"/>
-              <BaseAnchor index="2" Format="1">
-                <XCoordinate value="579"/>
-                <YCoordinate value="1513"/>
-              </BaseAnchor>
-            </BaseRecord>
-            <BaseRecord index="214">
-              <BaseAnchor index="0" Format="1">
-                <XCoordinate value="378"/>
-                <YCoordinate value="0"/>
-              </BaseAnchor>
-              <BaseAnchor index="1" empty="1"/>
-              <BaseAnchor index="2" Format="1">
-                <XCoordinate value="579"/>
-                <YCoordinate value="1513"/>
-              </BaseAnchor>
-            </BaseRecord>
-            <BaseRecord index="215">
-              <BaseAnchor index="0" Format="1">
-                <XCoordinate value="378"/>
-                <YCoordinate value="-303"/>
-              </BaseAnchor>
-              <BaseAnchor index="1" empty="1"/>
-              <BaseAnchor index="2" Format="1">
-                <XCoordinate value="579"/>
-                <YCoordinate value="1059"/>
-              </BaseAnchor>
-            </BaseRecord>
             <BaseRecord index="216">
               <BaseAnchor index="0" Format="1">
-                <XCoordinate value="483"/>
+                <XCoordinate value="529"/>
                 <YCoordinate value="0"/>
               </BaseAnchor>
               <BaseAnchor index="1" empty="1"/>
               <BaseAnchor index="2" Format="1">
-                <XCoordinate value="530"/>
-                <YCoordinate value="1059"/>
+                <XCoordinate value="529"/>
+                <YCoordinate value="1513"/>
               </BaseAnchor>
             </BaseRecord>
             <BaseRecord index="217">
               <BaseAnchor index="0" Format="1">
-                <XCoordinate value="483"/>
+                <XCoordinate value="529"/>
                 <YCoordinate value="0"/>
               </BaseAnchor>
               <BaseAnchor index="1" empty="1"/>
               <BaseAnchor index="2" Format="1">
-                <XCoordinate value="530"/>
-                <YCoordinate value="1513"/>
+                <XCoordinate value="529"/>
+                <YCoordinate value="1059"/>
               </BaseAnchor>
             </BaseRecord>
             <BaseRecord index="218">
               <BaseAnchor index="0" Format="1">
-                <XCoordinate value="483"/>
+                <XCoordinate value="378"/>
                 <YCoordinate value="0"/>
               </BaseAnchor>
               <BaseAnchor index="1" empty="1"/>
               <BaseAnchor index="2" Format="1">
-                <XCoordinate value="530"/>
-                <YCoordinate value="1513"/>
+                <XCoordinate value="579"/>
+                <YCoordinate value="1059"/>
               </BaseAnchor>
             </BaseRecord>
             <BaseRecord index="219">
               <BaseAnchor index="0" Format="1">
-                <XCoordinate value="483"/>
-                <YCoordinate value="-303"/>
-              </BaseAnchor>
-              <BaseAnchor index="1" empty="1"/>
-              <BaseAnchor index="2" Format="1">
-                <XCoordinate value="530"/>
-                <YCoordinate value="1059"/>
-              </BaseAnchor>
-            </BaseRecord>
-            <BaseRecord index="220">
-              <BaseAnchor index="0" Format="1">
-                <XCoordinate value="483"/>
+                <XCoordinate value="378"/>
                 <YCoordinate value="0"/>
               </BaseAnchor>
               <BaseAnchor index="1" empty="1"/>
               <BaseAnchor index="2" Format="1">
-                <XCoordinate value="530"/>
+                <XCoordinate value="579"/>
+                <YCoordinate value="1513"/>
+              </BaseAnchor>
+            </BaseRecord>
+            <BaseRecord index="220">
+              <BaseAnchor index="0" Format="1">
+                <XCoordinate value="378"/>
+                <YCoordinate value="0"/>
+              </BaseAnchor>
+              <BaseAnchor index="1" empty="1"/>
+              <BaseAnchor index="2" Format="1">
+                <XCoordinate value="579"/>
                 <YCoordinate value="1513"/>
               </BaseAnchor>
             </BaseRecord>
             <BaseRecord index="221">
               <BaseAnchor index="0" Format="1">
+                <XCoordinate value="378"/>
+                <YCoordinate value="-303"/>
+              </BaseAnchor>
+              <BaseAnchor index="1" empty="1"/>
+              <BaseAnchor index="2" Format="1">
+                <XCoordinate value="579"/>
+                <YCoordinate value="1059"/>
+              </BaseAnchor>
+            </BaseRecord>
+            <BaseRecord index="222">
+              <BaseAnchor index="0" Format="1">
+                <XCoordinate value="483"/>
+                <YCoordinate value="0"/>
+              </BaseAnchor>
+              <BaseAnchor index="1" empty="1"/>
+              <BaseAnchor index="2" Format="1">
+                <XCoordinate value="530"/>
+                <YCoordinate value="1059"/>
+              </BaseAnchor>
+            </BaseRecord>
+            <BaseRecord index="223">
+              <BaseAnchor index="0" Format="1">
+                <XCoordinate value="483"/>
+                <YCoordinate value="0"/>
+              </BaseAnchor>
+              <BaseAnchor index="1" empty="1"/>
+              <BaseAnchor index="2" Format="1">
+                <XCoordinate value="530"/>
+                <YCoordinate value="1513"/>
+              </BaseAnchor>
+            </BaseRecord>
+            <BaseRecord index="224">
+              <BaseAnchor index="0" Format="1">
+                <XCoordinate value="483"/>
+                <YCoordinate value="0"/>
+              </BaseAnchor>
+              <BaseAnchor index="1" empty="1"/>
+              <BaseAnchor index="2" Format="1">
+                <XCoordinate value="530"/>
+                <YCoordinate value="1513"/>
+              </BaseAnchor>
+            </BaseRecord>
+            <BaseRecord index="225">
+              <BaseAnchor index="0" Format="1">
                 <XCoordinate value="483"/>
                 <YCoordinate value="-303"/>
               </BaseAnchor>
@@ -17230,7 +17699,29 @@ From Old Portuguese conta, from Latin computō (“I calculate”).
                 <YCoordinate value="1059"/>
               </BaseAnchor>
             </BaseRecord>
-            <BaseRecord index="222">
+            <BaseRecord index="226">
+              <BaseAnchor index="0" Format="1">
+                <XCoordinate value="483"/>
+                <YCoordinate value="0"/>
+              </BaseAnchor>
+              <BaseAnchor index="1" empty="1"/>
+              <BaseAnchor index="2" Format="1">
+                <XCoordinate value="530"/>
+                <YCoordinate value="1513"/>
+              </BaseAnchor>
+            </BaseRecord>
+            <BaseRecord index="227">
+              <BaseAnchor index="0" Format="1">
+                <XCoordinate value="483"/>
+                <YCoordinate value="-303"/>
+              </BaseAnchor>
+              <BaseAnchor index="1" empty="1"/>
+              <BaseAnchor index="2" Format="1">
+                <XCoordinate value="530"/>
+                <YCoordinate value="1059"/>
+              </BaseAnchor>
+            </BaseRecord>
+            <BaseRecord index="228">
               <BaseAnchor index="0" empty="1"/>
               <BaseAnchor index="1" empty="1"/>
               <BaseAnchor index="2" Format="1">
@@ -17238,7 +17729,7 @@ From Old Portuguese conta, from Latin computō (“I calculate”).
                 <YCoordinate value="1513"/>
               </BaseAnchor>
             </BaseRecord>
-            <BaseRecord index="223">
+            <BaseRecord index="229">
               <BaseAnchor index="0" Format="1">
                 <XCoordinate value="530"/>
                 <YCoordinate value="0"/>
@@ -17249,7 +17740,7 @@ From Old Portuguese conta, from Latin computō (“I calculate”).
                 <YCoordinate value="1346"/>
               </BaseAnchor>
             </BaseRecord>
-            <BaseRecord index="224">
+            <BaseRecord index="230">
               <BaseAnchor index="0" Format="1">
                 <XCoordinate value="530"/>
                 <YCoordinate value="-303"/>
@@ -17260,7 +17751,7 @@ From Old Portuguese conta, from Latin computō (“I calculate”).
                 <YCoordinate value="1346"/>
               </BaseAnchor>
             </BaseRecord>
-            <BaseRecord index="225">
+            <BaseRecord index="231">
               <BaseAnchor index="0" Format="1">
                 <XCoordinate value="530"/>
                 <YCoordinate value="-303"/>
@@ -17271,7 +17762,7 @@ From Old Portuguese conta, from Latin computō (“I calculate”).
                 <YCoordinate value="1346"/>
               </BaseAnchor>
             </BaseRecord>
-            <BaseRecord index="226">
+            <BaseRecord index="232">
               <BaseAnchor index="0" Format="1">
                 <XCoordinate value="530"/>
                 <YCoordinate value="0"/>
@@ -17280,90 +17771,6 @@ From Old Portuguese conta, from Latin computō (“I calculate”).
               <BaseAnchor index="2" Format="1">
                 <XCoordinate value="416"/>
                 <YCoordinate value="1800"/>
-              </BaseAnchor>
-            </BaseRecord>
-            <BaseRecord index="227">
-              <BaseAnchor index="0" Format="1">
-                <XCoordinate value="529"/>
-                <YCoordinate value="0"/>
-              </BaseAnchor>
-              <BaseAnchor index="1" Format="1">
-                <XCoordinate value="908"/>
-                <YCoordinate value="0"/>
-              </BaseAnchor>
-              <BaseAnchor index="2" Format="1">
-                <XCoordinate value="529"/>
-                <YCoordinate value="1059"/>
-              </BaseAnchor>
-            </BaseRecord>
-            <BaseRecord index="228">
-              <BaseAnchor index="0" Format="1">
-                <XCoordinate value="529"/>
-                <YCoordinate value="0"/>
-              </BaseAnchor>
-              <BaseAnchor index="1" Format="1">
-                <XCoordinate value="908"/>
-                <YCoordinate value="0"/>
-              </BaseAnchor>
-              <BaseAnchor index="2" Format="1">
-                <XCoordinate value="529"/>
-                <YCoordinate value="1513"/>
-              </BaseAnchor>
-            </BaseRecord>
-            <BaseRecord index="229">
-              <BaseAnchor index="0" Format="1">
-                <XCoordinate value="529"/>
-                <YCoordinate value="0"/>
-              </BaseAnchor>
-              <BaseAnchor index="1" Format="1">
-                <XCoordinate value="908"/>
-                <YCoordinate value="0"/>
-              </BaseAnchor>
-              <BaseAnchor index="2" Format="1">
-                <XCoordinate value="529"/>
-                <YCoordinate value="1513"/>
-              </BaseAnchor>
-            </BaseRecord>
-            <BaseRecord index="230">
-              <BaseAnchor index="0" Format="1">
-                <XCoordinate value="529"/>
-                <YCoordinate value="0"/>
-              </BaseAnchor>
-              <BaseAnchor index="1" Format="1">
-                <XCoordinate value="908"/>
-                <YCoordinate value="0"/>
-              </BaseAnchor>
-              <BaseAnchor index="2" Format="1">
-                <XCoordinate value="529"/>
-                <YCoordinate value="1513"/>
-              </BaseAnchor>
-            </BaseRecord>
-            <BaseRecord index="231">
-              <BaseAnchor index="0" Format="1">
-                <XCoordinate value="529"/>
-                <YCoordinate value="0"/>
-              </BaseAnchor>
-              <BaseAnchor index="1" Format="1">
-                <XCoordinate value="908"/>
-                <YCoordinate value="0"/>
-              </BaseAnchor>
-              <BaseAnchor index="2" Format="1">
-                <XCoordinate value="529"/>
-                <YCoordinate value="1513"/>
-              </BaseAnchor>
-            </BaseRecord>
-            <BaseRecord index="232">
-              <BaseAnchor index="0" Format="1">
-                <XCoordinate value="529"/>
-                <YCoordinate value="0"/>
-              </BaseAnchor>
-              <BaseAnchor index="1" Format="1">
-                <XCoordinate value="908"/>
-                <YCoordinate value="0"/>
-              </BaseAnchor>
-              <BaseAnchor index="2" Format="1">
-                <XCoordinate value="529"/>
-                <YCoordinate value="1513"/>
               </BaseAnchor>
             </BaseRecord>
             <BaseRecord index="233">
@@ -17377,7 +17784,7 @@ From Old Portuguese conta, from Latin computō (“I calculate”).
               </BaseAnchor>
               <BaseAnchor index="2" Format="1">
                 <XCoordinate value="529"/>
-                <YCoordinate value="1513"/>
+                <YCoordinate value="1059"/>
               </BaseAnchor>
             </BaseRecord>
             <BaseRecord index="234">
@@ -17405,7 +17812,7 @@ From Old Portuguese conta, from Latin computō (“I calculate”).
               </BaseAnchor>
               <BaseAnchor index="2" Format="1">
                 <XCoordinate value="529"/>
-                <YCoordinate value="1059"/>
+                <YCoordinate value="1513"/>
               </BaseAnchor>
             </BaseRecord>
             <BaseRecord index="236">
@@ -17441,141 +17848,159 @@ From Old Portuguese conta, from Latin computō (“I calculate”).
                 <XCoordinate value="529"/>
                 <YCoordinate value="0"/>
               </BaseAnchor>
-              <BaseAnchor index="1" empty="1"/>
+              <BaseAnchor index="1" Format="1">
+                <XCoordinate value="908"/>
+                <YCoordinate value="0"/>
+              </BaseAnchor>
+              <BaseAnchor index="2" Format="1">
+                <XCoordinate value="529"/>
+                <YCoordinate value="1513"/>
+              </BaseAnchor>
+            </BaseRecord>
+            <BaseRecord index="239">
+              <BaseAnchor index="0" Format="1">
+                <XCoordinate value="529"/>
+                <YCoordinate value="0"/>
+              </BaseAnchor>
+              <BaseAnchor index="1" Format="1">
+                <XCoordinate value="908"/>
+                <YCoordinate value="0"/>
+              </BaseAnchor>
+              <BaseAnchor index="2" Format="1">
+                <XCoordinate value="529"/>
+                <YCoordinate value="1513"/>
+              </BaseAnchor>
+            </BaseRecord>
+            <BaseRecord index="240">
+              <BaseAnchor index="0" Format="1">
+                <XCoordinate value="529"/>
+                <YCoordinate value="0"/>
+              </BaseAnchor>
+              <BaseAnchor index="1" Format="1">
+                <XCoordinate value="908"/>
+                <YCoordinate value="0"/>
+              </BaseAnchor>
+              <BaseAnchor index="2" Format="1">
+                <XCoordinate value="529"/>
+                <YCoordinate value="1513"/>
+              </BaseAnchor>
+            </BaseRecord>
+            <BaseRecord index="241">
+              <BaseAnchor index="0" Format="1">
+                <XCoordinate value="529"/>
+                <YCoordinate value="0"/>
+              </BaseAnchor>
+              <BaseAnchor index="1" Format="1">
+                <XCoordinate value="908"/>
+                <YCoordinate value="0"/>
+              </BaseAnchor>
               <BaseAnchor index="2" Format="1">
                 <XCoordinate value="529"/>
                 <YCoordinate value="1059"/>
               </BaseAnchor>
             </BaseRecord>
-            <BaseRecord index="239">
-              <BaseAnchor index="0" Format="1">
-                <XCoordinate value="530"/>
-                <YCoordinate value="0"/>
-              </BaseAnchor>
-              <BaseAnchor index="1" empty="1"/>
-              <BaseAnchor index="2" Format="1">
-                <XCoordinate value="530"/>
-                <YCoordinate value="1059"/>
-              </BaseAnchor>
-            </BaseRecord>
-            <BaseRecord index="240">
-              <BaseAnchor index="0" Format="1">
-                <XCoordinate value="530"/>
-                <YCoordinate value="0"/>
-              </BaseAnchor>
-              <BaseAnchor index="1" empty="1"/>
-              <BaseAnchor index="2" Format="1">
-                <XCoordinate value="530"/>
-                <YCoordinate value="1059"/>
-              </BaseAnchor>
-            </BaseRecord>
-            <BaseRecord index="241">
-              <BaseAnchor index="0" Format="1">
-                <XCoordinate value="530"/>
-                <YCoordinate value="0"/>
-              </BaseAnchor>
-              <BaseAnchor index="1" empty="1"/>
-              <BaseAnchor index="2" Format="1">
-                <XCoordinate value="530"/>
-                <YCoordinate value="1513"/>
-              </BaseAnchor>
-            </BaseRecord>
             <BaseRecord index="242">
               <BaseAnchor index="0" Format="1">
-                <XCoordinate value="530"/>
+                <XCoordinate value="529"/>
                 <YCoordinate value="0"/>
               </BaseAnchor>
-              <BaseAnchor index="1" empty="1"/>
+              <BaseAnchor index="1" Format="1">
+                <XCoordinate value="908"/>
+                <YCoordinate value="0"/>
+              </BaseAnchor>
               <BaseAnchor index="2" Format="1">
-                <XCoordinate value="530"/>
+                <XCoordinate value="529"/>
                 <YCoordinate value="1513"/>
               </BaseAnchor>
             </BaseRecord>
             <BaseRecord index="243">
               <BaseAnchor index="0" Format="1">
-                <XCoordinate value="530"/>
+                <XCoordinate value="529"/>
                 <YCoordinate value="0"/>
               </BaseAnchor>
-              <BaseAnchor index="1" empty="1"/>
+              <BaseAnchor index="1" Format="1">
+                <XCoordinate value="908"/>
+                <YCoordinate value="0"/>
+              </BaseAnchor>
               <BaseAnchor index="2" Format="1">
-                <XCoordinate value="530"/>
+                <XCoordinate value="529"/>
                 <YCoordinate value="1513"/>
               </BaseAnchor>
             </BaseRecord>
             <BaseRecord index="244">
               <BaseAnchor index="0" Format="1">
-                <XCoordinate value="530"/>
+                <XCoordinate value="529"/>
                 <YCoordinate value="0"/>
               </BaseAnchor>
               <BaseAnchor index="1" empty="1"/>
               <BaseAnchor index="2" Format="1">
-                <XCoordinate value="530"/>
-                <YCoordinate value="1513"/>
+                <XCoordinate value="529"/>
+                <YCoordinate value="1059"/>
               </BaseAnchor>
             </BaseRecord>
             <BaseRecord index="245">
               <BaseAnchor index="0" Format="1">
-                <XCoordinate value="529"/>
+                <XCoordinate value="530"/>
                 <YCoordinate value="0"/>
               </BaseAnchor>
               <BaseAnchor index="1" empty="1"/>
               <BaseAnchor index="2" Format="1">
-                <XCoordinate value="529"/>
+                <XCoordinate value="530"/>
                 <YCoordinate value="1059"/>
               </BaseAnchor>
             </BaseRecord>
             <BaseRecord index="246">
               <BaseAnchor index="0" Format="1">
-                <XCoordinate value="529"/>
+                <XCoordinate value="530"/>
                 <YCoordinate value="0"/>
               </BaseAnchor>
               <BaseAnchor index="1" empty="1"/>
               <BaseAnchor index="2" Format="1">
-                <XCoordinate value="529"/>
-                <YCoordinate value="1513"/>
+                <XCoordinate value="530"/>
+                <YCoordinate value="1059"/>
               </BaseAnchor>
             </BaseRecord>
             <BaseRecord index="247">
               <BaseAnchor index="0" Format="1">
-                <XCoordinate value="529"/>
+                <XCoordinate value="530"/>
                 <YCoordinate value="0"/>
               </BaseAnchor>
               <BaseAnchor index="1" empty="1"/>
               <BaseAnchor index="2" Format="1">
-                <XCoordinate value="529"/>
-                <YCoordinate value="1059"/>
+                <XCoordinate value="530"/>
+                <YCoordinate value="1513"/>
               </BaseAnchor>
             </BaseRecord>
             <BaseRecord index="248">
               <BaseAnchor index="0" Format="1">
-                <XCoordinate value="529"/>
+                <XCoordinate value="530"/>
                 <YCoordinate value="0"/>
               </BaseAnchor>
               <BaseAnchor index="1" empty="1"/>
               <BaseAnchor index="2" Format="1">
-                <XCoordinate value="529"/>
+                <XCoordinate value="530"/>
                 <YCoordinate value="1513"/>
               </BaseAnchor>
             </BaseRecord>
             <BaseRecord index="249">
               <BaseAnchor index="0" Format="1">
-                <XCoordinate value="529"/>
+                <XCoordinate value="530"/>
                 <YCoordinate value="0"/>
               </BaseAnchor>
               <BaseAnchor index="1" empty="1"/>
               <BaseAnchor index="2" Format="1">
-                <XCoordinate value="529"/>
+                <XCoordinate value="530"/>
                 <YCoordinate value="1513"/>
               </BaseAnchor>
             </BaseRecord>
             <BaseRecord index="250">
               <BaseAnchor index="0" Format="1">
-                <XCoordinate value="529"/>
+                <XCoordinate value="530"/>
                 <YCoordinate value="0"/>
               </BaseAnchor>
               <BaseAnchor index="1" empty="1"/>
               <BaseAnchor index="2" Format="1">
-                <XCoordinate value="529"/>
+                <XCoordinate value="530"/>
                 <YCoordinate value="1513"/>
               </BaseAnchor>
             </BaseRecord>
@@ -17587,7 +18012,7 @@ From Old Portuguese conta, from Latin computō (“I calculate”).
               <BaseAnchor index="1" empty="1"/>
               <BaseAnchor index="2" Format="1">
                 <XCoordinate value="529"/>
-                <YCoordinate value="1513"/>
+                <YCoordinate value="1059"/>
               </BaseAnchor>
             </BaseRecord>
             <BaseRecord index="252">
@@ -17609,50 +18034,50 @@ From Old Portuguese conta, from Latin computō (“I calculate”).
               <BaseAnchor index="1" empty="1"/>
               <BaseAnchor index="2" Format="1">
                 <XCoordinate value="529"/>
-                <YCoordinate value="1513"/>
+                <YCoordinate value="1059"/>
               </BaseAnchor>
             </BaseRecord>
             <BaseRecord index="254">
               <BaseAnchor index="0" Format="1">
-                <XCoordinate value="530"/>
+                <XCoordinate value="529"/>
                 <YCoordinate value="0"/>
               </BaseAnchor>
               <BaseAnchor index="1" empty="1"/>
               <BaseAnchor index="2" Format="1">
-                <XCoordinate value="530"/>
-                <YCoordinate value="1059"/>
+                <XCoordinate value="529"/>
+                <YCoordinate value="1513"/>
               </BaseAnchor>
             </BaseRecord>
             <BaseRecord index="255">
               <BaseAnchor index="0" Format="1">
-                <XCoordinate value="530"/>
+                <XCoordinate value="529"/>
                 <YCoordinate value="0"/>
               </BaseAnchor>
               <BaseAnchor index="1" empty="1"/>
               <BaseAnchor index="2" Format="1">
-                <XCoordinate value="530"/>
+                <XCoordinate value="529"/>
                 <YCoordinate value="1513"/>
               </BaseAnchor>
             </BaseRecord>
             <BaseRecord index="256">
               <BaseAnchor index="0" Format="1">
-                <XCoordinate value="530"/>
+                <XCoordinate value="529"/>
                 <YCoordinate value="0"/>
               </BaseAnchor>
               <BaseAnchor index="1" empty="1"/>
               <BaseAnchor index="2" Format="1">
-                <XCoordinate value="530"/>
+                <XCoordinate value="529"/>
                 <YCoordinate value="1513"/>
               </BaseAnchor>
             </BaseRecord>
             <BaseRecord index="257">
               <BaseAnchor index="0" Format="1">
-                <XCoordinate value="530"/>
+                <XCoordinate value="529"/>
                 <YCoordinate value="0"/>
               </BaseAnchor>
               <BaseAnchor index="1" empty="1"/>
               <BaseAnchor index="2" Format="1">
-                <XCoordinate value="530"/>
+                <XCoordinate value="529"/>
                 <YCoordinate value="1513"/>
               </BaseAnchor>
             </BaseRecord>
@@ -17664,10 +18089,76 @@ From Old Portuguese conta, from Latin computō (“I calculate”).
               <BaseAnchor index="1" empty="1"/>
               <BaseAnchor index="2" Format="1">
                 <XCoordinate value="529"/>
-                <YCoordinate value="1362"/>
+                <YCoordinate value="1513"/>
               </BaseAnchor>
             </BaseRecord>
             <BaseRecord index="259">
+              <BaseAnchor index="0" Format="1">
+                <XCoordinate value="529"/>
+                <YCoordinate value="0"/>
+              </BaseAnchor>
+              <BaseAnchor index="1" empty="1"/>
+              <BaseAnchor index="2" Format="1">
+                <XCoordinate value="529"/>
+                <YCoordinate value="1513"/>
+              </BaseAnchor>
+            </BaseRecord>
+            <BaseRecord index="260">
+              <BaseAnchor index="0" Format="1">
+                <XCoordinate value="530"/>
+                <YCoordinate value="0"/>
+              </BaseAnchor>
+              <BaseAnchor index="1" empty="1"/>
+              <BaseAnchor index="2" Format="1">
+                <XCoordinate value="530"/>
+                <YCoordinate value="1059"/>
+              </BaseAnchor>
+            </BaseRecord>
+            <BaseRecord index="261">
+              <BaseAnchor index="0" Format="1">
+                <XCoordinate value="530"/>
+                <YCoordinate value="0"/>
+              </BaseAnchor>
+              <BaseAnchor index="1" empty="1"/>
+              <BaseAnchor index="2" Format="1">
+                <XCoordinate value="530"/>
+                <YCoordinate value="1513"/>
+              </BaseAnchor>
+            </BaseRecord>
+            <BaseRecord index="262">
+              <BaseAnchor index="0" Format="1">
+                <XCoordinate value="530"/>
+                <YCoordinate value="0"/>
+              </BaseAnchor>
+              <BaseAnchor index="1" empty="1"/>
+              <BaseAnchor index="2" Format="1">
+                <XCoordinate value="530"/>
+                <YCoordinate value="1513"/>
+              </BaseAnchor>
+            </BaseRecord>
+            <BaseRecord index="263">
+              <BaseAnchor index="0" Format="1">
+                <XCoordinate value="530"/>
+                <YCoordinate value="0"/>
+              </BaseAnchor>
+              <BaseAnchor index="1" empty="1"/>
+              <BaseAnchor index="2" Format="1">
+                <XCoordinate value="530"/>
+                <YCoordinate value="1513"/>
+              </BaseAnchor>
+            </BaseRecord>
+            <BaseRecord index="264">
+              <BaseAnchor index="0" Format="1">
+                <XCoordinate value="529"/>
+                <YCoordinate value="0"/>
+              </BaseAnchor>
+              <BaseAnchor index="1" empty="1"/>
+              <BaseAnchor index="2" Format="1">
+                <XCoordinate value="529"/>
+                <YCoordinate value="1362"/>
+              </BaseAnchor>
+            </BaseRecord>
+            <BaseRecord index="265">
               <BaseAnchor index="0" Format="1">
                 <XCoordinate value="529"/>
                 <YCoordinate value="-303"/>
@@ -17759,14 +18250,6 @@ From Old Portuguese conta, from Latin computō (“I calculate”).
             <Glyph value="uni030A"/>
             <Glyph value="tildecomb"/>
             <Glyph value="uni0304"/>
-            <Glyph value="dieresis"/>
-            <Glyph value="dotaccent"/>
-            <Glyph value="circumflex"/>
-            <Glyph value="caron"/>
-            <Glyph value="breve"/>
-            <Glyph value="ring"/>
-            <Glyph value="tilde"/>
-            <Glyph value="macron"/>
             <Glyph value="uni0308.case"/>
             <Glyph value="gravecomb.case"/>
             <Glyph value="acutecomb.case"/>
@@ -17776,6 +18259,14 @@ From Old Portuguese conta, from Latin computō (“I calculate”).
             <Glyph value="uni030A.case"/>
             <Glyph value="tildecomb.case"/>
             <Glyph value="uni0304.case"/>
+            <Glyph value="dieresis"/>
+            <Glyph value="dotaccent"/>
+            <Glyph value="circumflex"/>
+            <Glyph value="caron"/>
+            <Glyph value="breve"/>
+            <Glyph value="ring"/>
+            <Glyph value="tilde"/>
+            <Glyph value="macron"/>
           </Mark2Coverage>
           <!-- ClassCount=1 -->
           <Mark1Array>
@@ -17979,103 +18470,103 @@ From Old Portuguese conta, from Latin computō (“I calculate”).
             <Mark2Record index="10">
               <Mark2Anchor index="0" Format="1">
                 <XCoordinate value="529"/>
-                <YCoordinate value="1513"/>
+                <YCoordinate value="1740"/>
               </Mark2Anchor>
             </Mark2Record>
             <Mark2Record index="11">
               <Mark2Anchor index="0" Format="1">
                 <XCoordinate value="529"/>
-                <YCoordinate value="1513"/>
+                <YCoordinate value="1815"/>
               </Mark2Anchor>
             </Mark2Record>
             <Mark2Record index="12">
               <Mark2Anchor index="0" Format="1">
                 <XCoordinate value="529"/>
-                <YCoordinate value="1513"/>
+                <YCoordinate value="1815"/>
               </Mark2Anchor>
             </Mark2Record>
             <Mark2Record index="13">
               <Mark2Anchor index="0" Format="1">
                 <XCoordinate value="529"/>
-                <YCoordinate value="1513"/>
+                <YCoordinate value="1815"/>
               </Mark2Anchor>
             </Mark2Record>
             <Mark2Record index="14">
               <Mark2Anchor index="0" Format="1">
                 <XCoordinate value="529"/>
-                <YCoordinate value="1513"/>
+                <YCoordinate value="1815"/>
               </Mark2Anchor>
             </Mark2Record>
             <Mark2Record index="15">
               <Mark2Anchor index="0" Format="1">
                 <XCoordinate value="529"/>
-                <YCoordinate value="1513"/>
+                <YCoordinate value="1815"/>
               </Mark2Anchor>
             </Mark2Record>
             <Mark2Record index="16">
               <Mark2Anchor index="0" Format="1">
                 <XCoordinate value="529"/>
-                <YCoordinate value="1513"/>
+                <YCoordinate value="1815"/>
               </Mark2Anchor>
             </Mark2Record>
             <Mark2Record index="17">
               <Mark2Anchor index="0" Format="1">
                 <XCoordinate value="529"/>
-                <YCoordinate value="1513"/>
+                <YCoordinate value="1815"/>
               </Mark2Anchor>
             </Mark2Record>
             <Mark2Record index="18">
               <Mark2Anchor index="0" Format="1">
                 <XCoordinate value="529"/>
-                <YCoordinate value="1740"/>
+                <YCoordinate value="1815"/>
               </Mark2Anchor>
             </Mark2Record>
             <Mark2Record index="19">
               <Mark2Anchor index="0" Format="1">
                 <XCoordinate value="529"/>
-                <YCoordinate value="1815"/>
+                <YCoordinate value="1513"/>
               </Mark2Anchor>
             </Mark2Record>
             <Mark2Record index="20">
               <Mark2Anchor index="0" Format="1">
                 <XCoordinate value="529"/>
-                <YCoordinate value="1815"/>
+                <YCoordinate value="1513"/>
               </Mark2Anchor>
             </Mark2Record>
             <Mark2Record index="21">
               <Mark2Anchor index="0" Format="1">
                 <XCoordinate value="529"/>
-                <YCoordinate value="1815"/>
+                <YCoordinate value="1513"/>
               </Mark2Anchor>
             </Mark2Record>
             <Mark2Record index="22">
               <Mark2Anchor index="0" Format="1">
                 <XCoordinate value="529"/>
-                <YCoordinate value="1815"/>
+                <YCoordinate value="1513"/>
               </Mark2Anchor>
             </Mark2Record>
             <Mark2Record index="23">
               <Mark2Anchor index="0" Format="1">
                 <XCoordinate value="529"/>
-                <YCoordinate value="1815"/>
+                <YCoordinate value="1513"/>
               </Mark2Anchor>
             </Mark2Record>
             <Mark2Record index="24">
               <Mark2Anchor index="0" Format="1">
                 <XCoordinate value="529"/>
-                <YCoordinate value="1815"/>
+                <YCoordinate value="1513"/>
               </Mark2Anchor>
             </Mark2Record>
             <Mark2Record index="25">
               <Mark2Anchor index="0" Format="1">
                 <XCoordinate value="529"/>
-                <YCoordinate value="1815"/>
+                <YCoordinate value="1513"/>
               </Mark2Anchor>
             </Mark2Record>
             <Mark2Record index="26">
               <Mark2Anchor index="0" Format="1">
                 <XCoordinate value="529"/>
-                <YCoordinate value="1815"/>
+                <YCoordinate value="1513"/>
               </Mark2Anchor>
             </Mark2Record>
           </Mark2Array>
@@ -18509,6 +19000,7 @@ From Old Portuguese conta, from Latin computō (“I calculate”).
             <Glyph value="Dcroat"/>
             <Glyph value="E"/>
             <Glyph value="Eacute"/>
+            <Glyph value="Ebreve"/>
             <Glyph value="Ecaron"/>
             <Glyph value="Ecircumflex"/>
             <Glyph value="Edieresis"/>
@@ -18532,6 +19024,7 @@ From Old Portuguese conta, from Latin computō (“I calculate”).
             <Glyph value="uni1E26"/>
             <Glyph value="I"/>
             <Glyph value="Iacute"/>
+            <Glyph value="Ibreve"/>
             <Glyph value="uni01CF"/>
             <Glyph value="Icircumflex"/>
             <Glyph value="Idieresis"/>
@@ -18557,6 +19050,7 @@ From Old Portuguese conta, from Latin computō (“I calculate”).
             <Glyph value="Ntilde"/>
             <Glyph value="O"/>
             <Glyph value="Oacute"/>
+            <Glyph value="Obreve"/>
             <Glyph value="uni01D1"/>
             <Glyph value="Ocircumflex"/>
             <Glyph value="Odieresis"/>
