@@ -30643,27 +30643,69 @@ R = NoKerning;
 },
 {
 glyphname = dagger;
-lastChange = "2022-06-04 11:49:25 +0000";
+lastChange = "2022-06-04 12:01:55 +0000";
 layers = (
 {
+hints = (
+{
+horizontal = 1;
+origin = (0,5);
+type = TTSnap;
+},
+{
+horizontal = 1;
+origin = (0,3);
+type = TTSnap;
+},
+{
+horizontal = 1;
+origin = (1,4);
+type = TTSnap;
+},
+{
+horizontal = 1;
+options = 4;
+origin = (1,4);
+target = (1,2);
+type = TTShift;
+},
+{
+horizontal = 1;
+options = 4;
+origin = (1,2);
+target = (1,1);
+type = TTStem;
+},
+{
+horizontal = 1;
+options = 4;
+origin = (1,1);
+target = (1,5);
+type = TTShift;
+}
+);
 layerId = "83692D61-586C-413E-9B5A-1AF652750951";
 shapes = (
 {
 closed = 1;
 nodes = (
-(320,80,l),
-(320,720,l),
-(240,720,l),
-(240,80,l)
+(320,-60,l),
+(320,468,l),
+(323,700,l),
+(237,700,l),
+(240,468,l),
+(240,-60,l)
 );
 },
 {
 closed = 1;
 nodes = (
-(470,488,l),
-(470,560,l),
-(90,560,l),
-(90,488,l)
+(280,409,l),
+(520,406,l),
+(520,482,l),
+(280,479,l),
+(40,482,l),
+(40,406,l)
 );
 }
 );
