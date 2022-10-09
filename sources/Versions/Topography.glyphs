@@ -1,10 +1,23 @@
 {
-.appVersion = "1342";
+.appVersion = "3140";
 DisplayStrings = (
-a,
-Topographye
+Topographye,
+"111111/one.tf.ss01/one.tf.ss01/one.tf.ss01/one.tf.ss01/one.tf.ss01/one.tf.ss01",
+"/dieresiscomb"
 );
 customParameters = (
+{
+name = vendorID;
+value = JENS;
+},
+{
+name = license;
+value = "SIL Open Font License";
+},
+{
+name = licenseURL;
+value = "https://scripts.sil.org/OFL";
+},
 {
 name = Axes;
 value = (
@@ -21,18 +34,6 @@ Name = Contrast;
 Tag = CNTR;
 }
 );
-},
-{
-name = vendorID;
-value = JENS;
-},
-{
-name = license;
-value = "SIL Open Font License";
-},
-{
-name = licenseURL;
-value = "https://scripts.sil.org/OFL";
 },
 {
 name = note;
@@ -114,7 +115,15 @@ capHeight = 670;
 custom = "Thin Narrow Low";
 customValue = 100;
 descender = -275;
+horizontalStems = (
+0
+);
 id = "ADE64B87-3839-4AD4-BD35-A3CFF79840FC";
+verticalStems = (
+0,
+0,
+0
+);
 weightValue = 32;
 widthValue = 50;
 xHeight = 440;
@@ -131,7 +140,15 @@ ascender = 725;
 capHeight = 670;
 customValue = 300;
 descender = -275;
+horizontalStems = (
+0
+);
 id = "28D540C6-4B1C-4739-9DB3-C8E6E4DDF73A";
+verticalStems = (
+0,
+0,
+0
+);
 weightValue = 32;
 widthValue = 200;
 xHeight = 440;
@@ -8237,7 +8254,7 @@ com.typemytype.robofont.mark = (
 },
 {
 glyphname = a;
-lastChange = "2019-11-10 16:28:20 +0000";
+lastChange = "2022-10-09 08:34:28 +0000";
 layers = (
 {
 anchors = (
@@ -8414,7 +8431,7 @@ position = "{258, 0}";
 },
 {
 name = ogonek;
-position = "{464, 10}";
+position = "{510, 0}";
 },
 {
 name = top;
@@ -8498,9 +8515,9 @@ nodes = (
 "375 454 OFFCURVE",
 "258 454 CURVE SMOOTH",
 "146 454 OFFCURVE",
-"83 407.124 OFFCURVE",
+"83 407 OFFCURVE",
 "83 347 CURVE SMOOTH",
-"83 310.597 OFFCURVE",
+"83 311 OFFCURVE",
 "108 286 OFFCURVE",
 "145 286 CURVE SMOOTH",
 "179 286 OFFCURVE",
@@ -8509,32 +8526,16 @@ nodes = (
 "202 368 OFFCURVE",
 "182 376 OFFCURVE",
 "182 395 CURVE SMOOTH",
-"182 414.217 OFFCURVE",
+"182 414 OFFCURVE",
 "211 421 OFFCURVE",
 "249 421 CURVE SMOOTH",
 "307 421 OFFCURVE",
-"325 390.663 OFFCURVE",
+"325 391 OFFCURVE",
 "325 331 CURVE SMOOTH",
 "325 182 LINE",
 "333 168 LINE",
+"333 49 LINE",
 "333 0 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"183.196 24 OFFCURVE",
-"147 59 OFFCURVE",
-"147 113 CURVE SMOOTH",
-"147 170 OFFCURVE",
-"183.213 208 OFFCURVE",
-"239 208 CURVE SMOOTH",
-"294 208 OFFCURVE",
-"331 169.804 OFFCURVE",
-"331 113 CURVE SMOOTH",
-"331 59.209 OFFCURVE",
-"294 24 OFFCURVE",
-"237 24 CURVE SMOOTH"
 );
 },
 {
@@ -8547,11 +8548,28 @@ nodes = (
 "296 248 OFFCURVE",
 "206 248 CURVE SMOOTH",
 "113 248 OFFCURVE",
-"49 193.803 OFFCURVE",
+"49 194 OFFCURVE",
 "49 113 CURVE SMOOTH",
-"49 35.206 OFFCURVE",
+"49 35 OFFCURVE",
 "113 -16 OFFCURVE",
 "206 -16 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"183 24 OFFCURVE",
+"147 59 OFFCURVE",
+"147 113 CURVE SMOOTH",
+"147 170 OFFCURVE",
+"183 208 OFFCURVE",
+"239 208 CURVE SMOOTH",
+"294 208 OFFCURVE",
+"331 170 OFFCURVE",
+"331 113 CURVE SMOOTH",
+"331 59 OFFCURVE",
+"294 24 OFFCURVE",
+"237 24 CURVE SMOOTH"
 );
 }
 );
@@ -8681,24 +8699,8 @@ nodes = (
 "735 331 CURVE SMOOTH",
 "735 182 LINE",
 "735 168 LINE",
+"735 75 LINE",
 "735 0 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"315 24 OFFCURVE",
-"209 59 OFFCURVE",
-"209 113 CURVE SMOOTH",
-"209 170 OFFCURVE",
-"314 208 OFFCURVE",
-"478 208 CURVE SMOOTH",
-"632 208 OFFCURVE",
-"735 170 OFFCURVE",
-"735 113 CURVE SMOOTH",
-"735 59 OFFCURVE",
-"632 24 OFFCURVE",
-"474 24 CURVE SMOOTH"
 );
 },
 {
@@ -8716,6 +8718,23 @@ nodes = (
 "183 35 OFFCURVE",
 "276 -16 OFFCURVE",
 "412 -16 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"315 24 OFFCURVE",
+"209 59 OFFCURVE",
+"209 113 CURVE SMOOTH",
+"209 170 OFFCURVE",
+"314 208 OFFCURVE",
+"478 208 CURVE SMOOTH",
+"632 208 OFFCURVE",
+"735 170 OFFCURVE",
+"735 113 CURVE SMOOTH",
+"735 59 OFFCURVE",
+"632 24 OFFCURVE",
+"474 24 CURVE SMOOTH"
 );
 }
 );
@@ -10394,7 +10413,7 @@ com.typemytype.robofont.mark = (
 },
 {
 glyphname = e;
-lastChange = "2019-11-10 16:28:20 +0000";
+lastChange = "2022-10-09 08:35:40 +0000";
 layers = (
 {
 anchors = (
@@ -10490,60 +10509,21 @@ nodes = (
 width = 280;
 },
 {
-background = {
-paths = (
+anchors = (
 {
-closed = 1;
-nodes = (
-"187 213 OFFCURVE",
-"159 249 OFFCURVE",
-"159 311 CURVE SMOOTH",
-"159 379 OFFCURVE",
-"194 421 OFFCURVE",
-"243 421 CURVE SMOOTH",
-"290 421 OFFCURVE",
-"326 384 OFFCURVE",
-"326 322 CURVE SMOOTH",
-"326 260 OFFCURVE",
-"294 213 OFFCURVE",
-"236 213 CURVE SMOOTH"
-);
+name = bottom;
+position = "{254, 0}";
 },
 {
-closed = 1;
-nodes = (
-"398 -12 OFFCURVE",
-"473 40 OFFCURVE",
-"557 140 CURVE",
-"533 159 LINE",
-"443 54 OFFCURVE",
-"383.647 26 OFFCURVE",
-"302 26 CURVE SMOOTH",
-"180 26 OFFCURVE",
-"155 112 OFFCURVE",
-"155 220 CURVE SMOOTH",
-"155 302 LINE",
-"132 314 LINE",
-"132 235 OFFCURVE",
-"175 174 OFFCURVE",
-"271 174 CURVE SMOOTH",
-"365.222 174 OFFCURVE",
-"430 224 OFFCURVE",
-"430 307 CURVE SMOOTH",
-"430 394 OFFCURVE",
-"354 452 OFFCURVE",
-"245 452 CURVE SMOOTH",
-"126 452 OFFCURVE",
-"50 372 OFFCURVE",
-"50 220 CURVE SMOOTH",
-"50 74 OFFCURVE",
-"128 -12 OFFCURVE",
-"273 -12 CURVE SMOOTH"
-);
+name = ogonek;
+position = "{456, 10}";
+},
+{
+name = top;
+position = "{254, 440}";
 }
 );
-};
-layerId = "484F8FD9-52EC-47CF-91D8-DA5450121283";
+background = {
 paths = (
 {
 closed = 1;
@@ -10553,10 +10533,10 @@ nodes = (
 "445 160 CURVE",
 "411 160 LINE",
 "406 73 OFFCURVE",
-"354.17 24 OFFCURVE",
+"354 24 OFFCURVE",
 "274 24 CURVE SMOOTH",
 "180 24 OFFCURVE",
-"155 94.798 OFFCURVE",
+"155 95 OFFCURVE",
 "155 223 CURVE SMOOTH",
 "155 355 OFFCURVE",
 "178 421 OFFCURVE",
@@ -10571,9 +10551,47 @@ nodes = (
 "387 452 OFFCURVE",
 "254 452 CURVE SMOOTH",
 "125 452 OFFCURVE",
-"50 366.218 OFFCURVE",
+"50 366 OFFCURVE",
 "50 220 CURVE SMOOTH",
-"50 71.261 OFFCURVE",
+"50 71 OFFCURVE",
+"125 -16 OFFCURVE",
+"253 -16 CURVE SMOOTH"
+);
+}
+);
+};
+layerId = "484F8FD9-52EC-47CF-91D8-DA5450121283";
+paths = (
+{
+closed = 1;
+nodes = (
+"377 -16 OFFCURVE",
+"445 56 OFFCURVE",
+"445 160 CURVE",
+"411 160 LINE",
+"406 73 OFFCURVE",
+"354 24 OFFCURVE",
+"274 24 CURVE SMOOTH",
+"180 24 OFFCURVE",
+"155 95 OFFCURVE",
+"155 223 CURVE SMOOTH",
+"155 355 OFFCURVE",
+"178 421 OFFCURVE",
+"254 421 CURVE SMOOTH",
+"328 421 OFFCURVE",
+"340 365 OFFCURVE",
+"340 261 CURVE",
+"411 261 LINE",
+"122 261 LINE",
+"122 231 LINE",
+"452 231 LINE",
+"452 363 OFFCURVE",
+"387 452 OFFCURVE",
+"254 452 CURVE SMOOTH",
+"125 452 OFFCURVE",
+"50 366 OFFCURVE",
+"50 220 CURVE SMOOTH",
+"50 71 OFFCURVE",
 "125 -16 OFFCURVE",
 "253 -16 CURVE SMOOTH"
 );
@@ -10582,6 +10600,20 @@ nodes = (
 width = 507;
 },
 {
+anchors = (
+{
+name = bottom;
+position = "{507, 0}";
+},
+{
+name = ogonek;
+position = "{913, 10}";
+},
+{
+name = top;
+position = "{507, 440}";
+}
+);
 background = {
 paths = (
 {
@@ -10656,6 +10688,7 @@ nodes = (
 "656 421 OFFCURVE",
 "680 365 OFFCURVE",
 "680 261 CURVE",
+"785 261 LINE",
 "244 261 LINE",
 "244 231 LINE",
 "904 231 LINE",
@@ -32018,11 +32051,10 @@ transform = "{1, 0, 0, 1, -70, 0}";
 components = (
 {
 name = one.tf;
-transform = "{1, 0, 0, 1, -35, 0}";
 }
 );
 layerId = "ADE64B87-3839-4AD4-BD35-A3CFF79840FC";
-width = 190;
+width = 260;
 },
 {
 background = {
@@ -32036,11 +32068,10 @@ transform = "{1, 0, 0, 1, -70, 0}";
 components = (
 {
 name = one.tf;
-transform = "{1, 0, 0, 1, -70, 0}";
 }
 );
 layerId = "484F8FD9-52EC-47CF-91D8-DA5450121283";
-width = 380;
+width = 520;
 },
 {
 background = {
@@ -32054,11 +32085,10 @@ transform = "{1, 0, 0, 1, -70, 0}";
 components = (
 {
 name = one.tf;
-transform = "{1, 0, 0, 1, -140, 0}";
 }
 );
 layerId = "28D540C6-4B1C-4739-9DB3-C8E6E4DDF73A";
-width = 760;
+width = 1040;
 }
 );
 unicode = 0031;
@@ -36854,11 +36884,10 @@ nodes = (
 components = (
 {
 name = one.ss01;
-transform = "{1, 0, 0, 1, 35, 0}";
 }
 );
 layerId = "ADE64B87-3839-4AD4-BD35-A3CFF79840FC";
-width = 260;
+width = 190;
 },
 {
 background = {
@@ -36887,11 +36916,10 @@ nodes = (
 components = (
 {
 name = one.ss01;
-transform = "{1, 0, 0, 1, 70, 0}";
 }
 );
 layerId = "484F8FD9-52EC-47CF-91D8-DA5450121283";
-width = 520;
+width = 380;
 },
 {
 background = {
@@ -36920,11 +36948,10 @@ nodes = (
 components = (
 {
 name = one.ss01;
-transform = "{1, 0, 0, 1, 140, 0}";
 }
 );
 layerId = "28D540C6-4B1C-4739-9DB3-C8E6E4DDF73A";
-width = 1040;
+width = 760;
 }
 );
 userData = {
@@ -41142,7 +41169,7 @@ value = "Transformations;Slant:18.43494882292201;";
 },
 {
 name = italicAngle;
-value = 18.434948822922;
+value = "18.434948822922";
 }
 );
 interpolationCustom = 300;
@@ -41274,7 +41301,7 @@ value = "Transformations;Slant:18.43494882292201;";
 },
 {
 name = italicAngle;
-value = 18.434948822922;
+value = "18.434948822922";
 }
 );
 interpolationCustom = 300;
