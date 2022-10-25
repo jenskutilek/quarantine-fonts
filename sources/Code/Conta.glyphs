@@ -35312,6 +35312,10 @@ zacute.sc,
 zcaron.sc,
 zdotaccent.sc
 );
+},
+{
+name = fileName;
+value = "Conta-MonoRegular";
 }
 );
 instanceInterpolations = {
@@ -35572,6 +35576,10 @@ zacute.sc,
 zcaron.sc,
 zdotaccent.sc
 );
+},
+{
+name = fileName;
+value = "Conta-MonoItalic";
 }
 );
 instanceInterpolations = {
@@ -35887,6 +35895,10 @@ zacute.sc,
 zcaron.sc,
 zdotaccent.sc
 );
+},
+{
+name = fileName;
+value = "Conta-SCRegular";
 }
 );
 instanceInterpolations = {
@@ -36209,6 +36221,10 @@ zacute.sc,
 zcaron.sc,
 zdotaccent.sc
 );
+},
+{
+name = fileName;
+value = "Conta-SCItalic";
 }
 );
 instanceInterpolations = {
@@ -36575,6 +36591,10 @@ zacute.sc,
 zcaron.sc,
 zdotaccent.sc
 );
+},
+{
+name = fileName;
+value = "Conta-MonoSCRegular";
 }
 );
 instanceInterpolations = {
@@ -36948,6 +36968,10 @@ zacute.sc,
 zcaron.sc,
 zdotaccent.sc
 );
+},
+{
+name = fileName;
+value = "Conta-MonoSCItalic";
 }
 );
 instanceInterpolations = {
@@ -36986,6 +37010,10 @@ value = (
 "x=x.prop",
 "space=space.prop"
 );
+},
+{
+name = fileName;
+value = "Conta-TextRegular";
 }
 );
 instanceInterpolations = {
@@ -37034,6 +37062,10 @@ value = (
 {
 name = italicAngle;
 value = "11.31";
+},
+{
+name = fileName;
+value = "Conta-TextItalic";
 }
 );
 instanceInterpolations = {
