@@ -42,7 +42,8 @@ editor.parameterHints.enabled",
 ,/f.ital ,/germandbls.ital ,/l.prop ,/i.prop ,/m.prop ,/x.prop ,",
 "+−×",
 "█│t╻",
-"█╻╸╺-╹╵╷╴╶│"
+"█╻╸╺-╹╵╷╴╶│",
+n
 );
 axes = (
 {
