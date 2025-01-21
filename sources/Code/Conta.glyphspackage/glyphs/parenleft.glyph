@@ -1,0 +1,209 @@
+{
+color = 7;
+glyphname = parenleft;
+kernLeft = KO_parenleft;
+kernRight = KO_parenleft;
+layers = (
+{
+background = {
+shapes = (
+{
+closed = 1;
+nodes = (
+(480,800,l),
+(320,800,l),
+(320,720,l),
+(480,720,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(320,720,l),
+(240,720,l),
+(240,560,l),
+(320,560,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(240,560,l),
+(160,560,l),
+(160,80,l),
+(240,80,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(320,-80,l),
+(320,80,l),
+(240,80,l),
+(240,-80,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(480,-160,l),
+(480,-80,l),
+(320,-80,l),
+(320,-160,l)
+);
+}
+);
+};
+layerId = "83692D61-586C-413E-9B5A-1AF652750951";
+shapes = (
+{
+alignment = -1;
+ref = _part.paren;
+},
+{
+alignment = -1;
+pos = (0,640);
+ref = _part.paren;
+scale = (1,-1);
+}
+);
+width = 560;
+},
+{
+background = {
+shapes = (
+{
+closed = 1;
+nodes = (
+(480,800,l),
+(320,800,l),
+(320,720,l),
+(480,720,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(320,720,l),
+(240,720,l),
+(240,560,l),
+(320,560,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(240,560,l),
+(160,560,l),
+(160,80,l),
+(240,80,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(320,-80,l),
+(320,80,l),
+(240,80,l),
+(240,-80,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(480,-160,l),
+(480,-80,l),
+(320,-80,l),
+(320,-160,l)
+);
+}
+);
+};
+layerId = m003;
+shapes = (
+{
+alignment = -1;
+ref = _part.paren;
+},
+{
+alignment = -1;
+pos = (0,640);
+ref = _part.paren;
+scale = (1,-1);
+}
+);
+width = 560;
+},
+{
+background = {
+shapes = (
+{
+closed = 1;
+nodes = (
+(480,800,l),
+(320,800,l),
+(320,720,l),
+(480,720,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(320,720,l),
+(240,720,l),
+(240,560,l),
+(320,560,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(240,560,l),
+(160,560,l),
+(160,80,l),
+(240,80,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(320,-80,l),
+(320,80,l),
+(240,80,l),
+(240,-80,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(480,-160,l),
+(480,-80,l),
+(320,-80,l),
+(320,-160,l)
+);
+}
+);
+};
+layerId = m004;
+shapes = (
+{
+alignment = -1;
+ref = _part.paren;
+},
+{
+alignment = -1;
+pos = (0,640);
+ref = _part.paren;
+scale = (1,-1);
+}
+);
+width = 560;
+}
+);
+unicode = 40;
+userData = {
+KernOnSpecialSpacing = {
+R = parenthesis;
+};
+};
+}

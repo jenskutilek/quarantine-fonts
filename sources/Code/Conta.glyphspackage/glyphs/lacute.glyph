@@ -1,0 +1,48 @@
+{
+color = 6;
+glyphname = lacute;
+kernLeft = KO_l;
+kernRight = KO_l;
+layers = (
+{
+layerId = "83692D61-586C-413E-9B5A-1AF652750951";
+shapes = (
+{
+ref = l;
+},
+{
+pos = (7,80);
+ref = acutecomb.case;
+}
+);
+width = 560;
+},
+{
+layerId = m003;
+shapes = (
+{
+ref = l;
+},
+{
+pos = (7,80);
+ref = acutecomb.case;
+}
+);
+width = 560;
+},
+{
+layerId = m004;
+shapes = (
+{
+ref = l;
+},
+{
+pos = (7,80);
+ref = acutecomb.case;
+}
+);
+width = 560;
+}
+);
+unicode = 314;
+}

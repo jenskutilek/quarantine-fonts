@@ -1,0 +1,53 @@
+{
+color = 6;
+glyphname = j;
+kernLeft = KO_j;
+kernRight = KO_j;
+layers = (
+{
+layerId = "83692D61-586C-413E-9B5A-1AF652750951";
+shapes = (
+{
+ref = jdotless;
+},
+{
+pos = (-51,0);
+ref = dotaccentcomb;
+}
+);
+width = 400;
+},
+{
+layerId = m003;
+shapes = (
+{
+ref = jdotless;
+},
+{
+pos = (-51,0);
+ref = dotaccentcomb;
+}
+);
+width = 400;
+},
+{
+layerId = m004;
+shapes = (
+{
+ref = jdotless;
+},
+{
+pos = (-51,0);
+ref = dotaccentcomb;
+}
+);
+width = 400;
+}
+);
+unicode = 106;
+userData = {
+KernOnName = j;
+KernOnSpecialSpacing = {
+};
+};
+}

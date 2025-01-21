@@ -1,0 +1,360 @@
+{
+color = 7;
+glyphname = percent;
+layers = (
+{
+background = {
+shapes = (
+{
+pos = (0,80);
+ref = pixel;
+},
+{
+pos = (80,160);
+ref = pixel;
+},
+{
+pos = (160,240);
+ref = pixel;
+},
+{
+pos = (240,320);
+ref = pixel;
+},
+{
+pos = (320,400);
+ref = pixel;
+},
+{
+pos = (400,480);
+ref = pixel;
+},
+{
+pos = (480,560);
+ref = pixel;
+},
+{
+pos = (160,560);
+ref = pixel;
+},
+{
+pos = (80,640);
+ref = pixel;
+},
+{
+pos = (0,560);
+ref = pixel;
+},
+{
+pos = (320,80);
+ref = pixel;
+},
+{
+pos = (400,0);
+ref = pixel;
+},
+{
+pos = (480,80);
+ref = pixel;
+},
+{
+pos = (0,480);
+ref = pixel;
+},
+{
+pos = (80,400);
+ref = pixel;
+},
+{
+pos = (160,480);
+ref = pixel;
+},
+{
+pos = (320,160);
+ref = pixel;
+},
+{
+pos = (400,240);
+ref = pixel;
+},
+{
+pos = (480,160);
+ref = pixel;
+}
+);
+};
+hints = (
+{
+horizontal = 1;
+origin = (0,0);
+type = TTSnap;
+},
+{
+horizontal = 1;
+origin = (0,2);
+stem = -1;
+type = TTSnap;
+}
+);
+layerId = "83692D61-586C-413E-9B5A-1AF652750951";
+shapes = (
+{
+closed = 1;
+nodes = (
+(94,80,l),
+(550,640,l),
+(466,640,l),
+(10,80,l)
+);
+},
+{
+pos = (300,0);
+ref = _part.percent;
+},
+{
+pos = (20,419);
+ref = _part.percent;
+}
+);
+width = 560;
+},
+{
+background = {
+shapes = (
+{
+pos = (0,80);
+ref = pixel;
+},
+{
+pos = (80,160);
+ref = pixel;
+},
+{
+pos = (160,240);
+ref = pixel;
+},
+{
+pos = (240,320);
+ref = pixel;
+},
+{
+pos = (320,400);
+ref = pixel;
+},
+{
+pos = (400,480);
+ref = pixel;
+},
+{
+pos = (480,560);
+ref = pixel;
+},
+{
+pos = (160,560);
+ref = pixel;
+},
+{
+pos = (80,640);
+ref = pixel;
+},
+{
+pos = (0,560);
+ref = pixel;
+},
+{
+pos = (320,80);
+ref = pixel;
+},
+{
+pos = (400,0);
+ref = pixel;
+},
+{
+pos = (480,80);
+ref = pixel;
+},
+{
+pos = (0,480);
+ref = pixel;
+},
+{
+pos = (80,400);
+ref = pixel;
+},
+{
+pos = (160,480);
+ref = pixel;
+},
+{
+pos = (320,160);
+ref = pixel;
+},
+{
+pos = (400,240);
+ref = pixel;
+},
+{
+pos = (480,160);
+ref = pixel;
+}
+);
+};
+hints = (
+{
+horizontal = 1;
+origin = (0,0);
+type = TTSnap;
+},
+{
+horizontal = 1;
+origin = (0,2);
+stem = -1;
+type = TTSnap;
+}
+);
+layerId = m003;
+shapes = (
+{
+closed = 1;
+nodes = (
+(94,80,l),
+(550,640,l),
+(466,640,l),
+(10,80,l)
+);
+},
+{
+pos = (300,0);
+ref = _part.percent;
+},
+{
+pos = (20,419);
+ref = _part.percent;
+}
+);
+width = 560;
+},
+{
+background = {
+shapes = (
+{
+pos = (0,80);
+ref = pixel;
+},
+{
+pos = (80,160);
+ref = pixel;
+},
+{
+pos = (160,240);
+ref = pixel;
+},
+{
+pos = (240,320);
+ref = pixel;
+},
+{
+pos = (320,400);
+ref = pixel;
+},
+{
+pos = (400,480);
+ref = pixel;
+},
+{
+pos = (480,560);
+ref = pixel;
+},
+{
+pos = (160,560);
+ref = pixel;
+},
+{
+pos = (80,640);
+ref = pixel;
+},
+{
+pos = (0,560);
+ref = pixel;
+},
+{
+pos = (320,80);
+ref = pixel;
+},
+{
+pos = (400,0);
+ref = pixel;
+},
+{
+pos = (480,80);
+ref = pixel;
+},
+{
+pos = (0,480);
+ref = pixel;
+},
+{
+pos = (80,400);
+ref = pixel;
+},
+{
+pos = (160,480);
+ref = pixel;
+},
+{
+pos = (320,160);
+ref = pixel;
+},
+{
+pos = (400,240);
+ref = pixel;
+},
+{
+pos = (480,160);
+ref = pixel;
+}
+);
+};
+hints = (
+{
+horizontal = 1;
+origin = (0,0);
+type = TTSnap;
+},
+{
+horizontal = 1;
+origin = (0,2);
+stem = -1;
+type = TTSnap;
+}
+);
+layerId = m004;
+shapes = (
+{
+closed = 1;
+nodes = (
+(94,80,l),
+(550,640,l),
+(466,640,l),
+(10,80,l)
+);
+},
+{
+pos = (300,0);
+ref = _part.percent;
+},
+{
+pos = (20,419);
+ref = _part.percent;
+}
+);
+width = 560;
+}
+);
+unicode = 37;
+userData = {
+KernOnSpecialSpacing = {
+L = "spaced-off";
+};
+};
+}

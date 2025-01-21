@@ -1,0 +1,187 @@
+{
+glyphname = period;
+kernLeft = KO_period;
+kernRight = KO_period;
+layers = (
+{
+hints = (
+{
+horizontal = 1;
+origin = (0,11);
+stem = -1;
+target = (0,5);
+type = TTStem;
+}
+);
+layerId = "83692D61-586C-413E-9B5A-1AF652750951";
+shapes = (
+{
+closed = 1;
+nodes = (
+(331,-12,o),
+(372,29,o),
+(372,79,cs),
+(372,131,o),
+(333,172,o),
+(280,172,cs),
+(229,172,o),
+(188,130,o),
+(188,79,cs),
+(188,28,o),
+(227,-12,o),
+(280,-12,cs)
+);
+}
+);
+width = 560;
+},
+{
+associatedMasterId = "83692D61-586C-413E-9B5A-1AF652750951";
+layerId = "32AC2FFF-2820-41ED-B603-ABB1E8D703E9";
+name = "Feb 5 18, 12:15";
+shapes = (
+{
+closed = 1;
+nodes = (
+(326,-16,o),
+(357,27,o),
+(357,84,cs),
+(357,140,o),
+(326,183,o),
+(280,183,cs),
+(234,183,o),
+(203,140,o),
+(203,84,cs),
+(203,27,o),
+(234,-16,o),
+(280,-16,cs)
+);
+}
+);
+visible = 1;
+width = 560;
+},
+{
+hints = (
+{
+horizontal = 1;
+origin = (0,11);
+stem = -1;
+target = (0,5);
+type = TTStem;
+}
+);
+layerId = m003;
+shapes = (
+{
+closed = 1;
+nodes = (
+(343,-8,o),
+(393,42,o),
+(393,104,cs),
+(393,167,o),
+(345,218,o),
+(280,218,cs),
+(217,218,o),
+(167,166,o),
+(167,104,cs),
+(167,41,o),
+(215,-8,o),
+(280,-8,cs)
+);
+}
+);
+width = 560;
+},
+{
+associatedMasterId = m003;
+layerId = "0C8917EB-0693-4663-8571-67896AA276D6";
+name = "Feb 5 18, 12:15";
+shapes = (
+{
+closed = 1;
+nodes = (
+(326,-16,o),
+(357,27,o),
+(357,84,cs),
+(357,140,o),
+(326,183,o),
+(280,183,cs),
+(234,183,o),
+(203,140,o),
+(203,84,cs),
+(203,27,o),
+(234,-16,o),
+(280,-16,cs)
+);
+}
+);
+width = 560;
+},
+{
+hints = (
+{
+horizontal = 1;
+origin = (0,11);
+stem = -1;
+target = (0,5);
+type = TTStem;
+}
+);
+layerId = m004;
+shapes = (
+{
+closed = 1;
+nodes = (
+(287,-2,o),
+(292,3,o),
+(292,10,cs),
+(292,17,o),
+(287,22,o),
+(280,22,cs),
+(273,22,o),
+(268,17,o),
+(268,10,cs),
+(268,3,o),
+(273,-2,o),
+(280,-2,cs)
+);
+}
+);
+width = 560;
+},
+{
+associatedMasterId = m004;
+layerId = "3D2CD217-6A0D-4490-B55D-E78EE8ABCAFD";
+name = "Feb 5 18, 12:15";
+shapes = (
+{
+closed = 1;
+nodes = (
+(326,-16,o),
+(357,27,o),
+(357,84,cs),
+(357,140,o),
+(326,183,o),
+(280,183,cs),
+(234,183,o),
+(203,140,o),
+(203,84,cs),
+(203,27,o),
+(234,-16,o),
+(280,-16,cs)
+);
+}
+);
+width = 560;
+}
+);
+unicode = 46;
+userData = {
+KernOnName = period;
+KernOnSpecialSpacing = {
+L = period;
+R = period;
+};
+};
+}

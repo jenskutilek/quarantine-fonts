@@ -1,0 +1,48 @@
+{
+color = 6;
+glyphname = Edotaccent;
+kernLeft = KO_E;
+kernRight = KO_E;
+layers = (
+{
+layerId = "83692D61-586C-413E-9B5A-1AF652750951";
+shapes = (
+{
+ref = E;
+},
+{
+pos = (5,160);
+ref = dotaccentcomb;
+}
+);
+width = 560;
+},
+{
+layerId = m003;
+shapes = (
+{
+ref = E;
+},
+{
+pos = (5,150);
+ref = dotaccentcomb;
+}
+);
+width = 560;
+},
+{
+layerId = m004;
+shapes = (
+{
+ref = E;
+},
+{
+pos = (5,170);
+ref = dotaccentcomb;
+}
+);
+width = 560;
+}
+);
+unicode = 278;
+}

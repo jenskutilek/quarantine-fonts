@@ -1,0 +1,18 @@
+{
+export = 0;
+glyphname = space.prop;
+layers = (
+{
+layerId = "83692D61-586C-413E-9B5A-1AF652750951";
+width = 360;
+},
+{
+layerId = m003;
+width = 360;
+},
+{
+layerId = m004;
+width = 360;
+}
+);
+}

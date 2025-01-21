@@ -1,0 +1,46 @@
+{
+color = 0;
+export = 0;
+glyphname = Uhungarumlaut;
+kernLeft = KO_U;
+kernRight = KO_U;
+layers = (
+{
+layerId = "83692D61-586C-413E-9B5A-1AF652750951";
+shapes = (
+{
+ref = U;
+},
+{
+ref = hungarumlautcomb;
+}
+);
+width = 560;
+},
+{
+layerId = m003;
+shapes = (
+{
+ref = U;
+},
+{
+ref = hungarumlautcomb;
+}
+);
+width = 560;
+},
+{
+layerId = m004;
+shapes = (
+{
+ref = U;
+},
+{
+ref = hungarumlautcomb;
+}
+);
+width = 560;
+}
+);
+unicode = 368;
+}

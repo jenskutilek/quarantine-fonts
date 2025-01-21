@@ -1,0 +1,46 @@
+{
+color = 6;
+export = 0;
+glyphname = ymacron.sc.mono;
+layers = (
+{
+layerId = "83692D61-586C-413E-9B5A-1AF652750951";
+shapes = (
+{
+ref = y.sc.mono;
+},
+{
+pos = (5,80);
+ref = macroncomb;
+}
+);
+width = 560;
+},
+{
+layerId = m003;
+shapes = (
+{
+ref = y.sc.mono;
+},
+{
+pos = (5,70);
+ref = macroncomb;
+}
+);
+width = 560;
+},
+{
+layerId = m004;
+shapes = (
+{
+ref = y.sc.mono;
+},
+{
+pos = (5,90);
+ref = macroncomb;
+}
+);
+width = 560;
+}
+);
+}

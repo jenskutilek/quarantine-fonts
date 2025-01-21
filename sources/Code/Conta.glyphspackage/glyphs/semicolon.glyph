@@ -1,0 +1,56 @@
+{
+color = 6;
+glyphname = semicolon;
+kernLeft = KO_semicolon;
+layers = (
+{
+layerId = "83692D61-586C-413E-9B5A-1AF652750951";
+shapes = (
+{
+pos = (-15,0);
+ref = comma;
+},
+{
+pos = (5,400);
+ref = period;
+}
+);
+width = 560;
+},
+{
+layerId = m003;
+shapes = (
+{
+pos = (-15,0);
+ref = comma;
+},
+{
+pos = (5,400);
+ref = period;
+}
+);
+width = 560;
+},
+{
+layerId = m004;
+shapes = (
+{
+pos = (-15,0);
+ref = comma;
+},
+{
+pos = (5,400);
+ref = period;
+}
+);
+width = 560;
+}
+);
+unicode = 59;
+userData = {
+KernOnSpecialSpacing = {
+L = "spaced-off";
+R = "spaced-off";
+};
+};
+}

@@ -1,0 +1,47 @@
+{
+color = 6;
+glyphname = acaron.sc;
+kernLeft = KO_a.sc;
+kernRight = KO_a.sc;
+layers = (
+{
+layerId = "83692D61-586C-413E-9B5A-1AF652750951";
+shapes = (
+{
+ref = a.sc;
+},
+{
+pos = (0,80);
+ref = caroncomb;
+}
+);
+width = 560;
+},
+{
+layerId = m003;
+shapes = (
+{
+ref = a.sc;
+},
+{
+pos = (0,70);
+ref = caroncomb;
+}
+);
+width = 560;
+},
+{
+layerId = m004;
+shapes = (
+{
+ref = a.sc;
+},
+{
+pos = (0,90);
+ref = caroncomb;
+}
+);
+width = 560;
+}
+);
+}

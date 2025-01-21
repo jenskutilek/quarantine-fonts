@@ -1,0 +1,47 @@
+{
+color = 6;
+glyphname = wdieresis.sc;
+kernLeft = KO_w.sc;
+kernRight = KO_w.sc;
+layers = (
+{
+layerId = "83692D61-586C-413E-9B5A-1AF652750951";
+shapes = (
+{
+ref = w.sc;
+},
+{
+pos = (80,80);
+ref = dieresiscomb;
+}
+);
+width = 720;
+},
+{
+layerId = m003;
+shapes = (
+{
+ref = w.sc;
+},
+{
+pos = (80,70);
+ref = dieresiscomb;
+}
+);
+width = 720;
+},
+{
+layerId = m004;
+shapes = (
+{
+ref = w.sc;
+},
+{
+pos = (80,90);
+ref = dieresiscomb;
+}
+);
+width = 720;
+}
+);
+}

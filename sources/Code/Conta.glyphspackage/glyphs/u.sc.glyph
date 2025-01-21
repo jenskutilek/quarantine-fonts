@@ -1,0 +1,204 @@
+{
+color = 9;
+glyphname = u.sc;
+kernLeft = KO_u.sc;
+kernRight = KO_u.sc;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (280,0);
+},
+{
+name = ogonek;
+pos = (353,0);
+},
+{
+name = top;
+pos = (285,640);
+},
+{
+name = topright;
+pos = (477,640);
+}
+);
+hints = (
+{
+horizontal = 1;
+options = 4;
+origin = (0,17);
+target = (0,8);
+type = TTStem;
+},
+{
+horizontal = 1;
+options = 4;
+origin = (0,4);
+target = (0,12);
+type = TTShift;
+}
+);
+layerId = "83692D61-586C-413E-9B5A-1AF652750951";
+shapes = (
+{
+closed = 1;
+nodes = (
+(387,-12,o),
+(477,55,o),
+(477,202,cs),
+(477,640,l),
+(403,640,l),
+(403,202,ls),
+(403,110,o),
+(360,62,o),
+(282,62,cs),
+(200,62,o),
+(160,108,o),
+(160,195,cs),
+(160,640,l),
+(80,640,l),
+(80,193,ls),
+(80,60,o),
+(152,-12,o),
+(280,-12,cs)
+);
+}
+);
+width = 560;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (280,0);
+},
+{
+name = ogonek;
+pos = (353,0);
+},
+{
+name = top;
+pos = (285,640);
+},
+{
+name = topright;
+pos = (477,640);
+}
+);
+hints = (
+{
+horizontal = 1;
+options = 4;
+origin = (0,17);
+target = (0,8);
+type = TTStem;
+},
+{
+horizontal = 1;
+options = 4;
+origin = (0,4);
+target = (0,12);
+type = TTShift;
+}
+);
+layerId = m003;
+shapes = (
+{
+closed = 1;
+nodes = (
+(387,-12,o),
+(477,55,o),
+(477,202,cs),
+(477,640,l),
+(403,640,l),
+(403,202,ls),
+(403,110,o),
+(360,62,o),
+(282,62,cs),
+(200,62,o),
+(160,108,o),
+(160,195,cs),
+(160,640,l),
+(80,640,l),
+(80,193,ls),
+(80,60,o),
+(152,-12,o),
+(280,-12,cs)
+);
+}
+);
+width = 560;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (280,0);
+},
+{
+name = ogonek;
+pos = (353,0);
+},
+{
+name = top;
+pos = (285,640);
+},
+{
+name = topright;
+pos = (477,640);
+}
+);
+hints = (
+{
+horizontal = 1;
+options = 4;
+origin = (0,17);
+target = (0,8);
+type = TTStem;
+},
+{
+horizontal = 1;
+options = 4;
+origin = (0,4);
+target = (0,12);
+type = TTShift;
+}
+);
+layerId = m004;
+shapes = (
+{
+closed = 1;
+nodes = (
+(387,-12,o),
+(477,55,o),
+(477,202,cs),
+(477,640,l),
+(403,640,l),
+(403,202,ls),
+(403,110,o),
+(360,62,o),
+(282,62,cs),
+(200,62,o),
+(160,108,o),
+(160,195,cs),
+(160,640,l),
+(80,640,l),
+(80,193,ls),
+(80,60,o),
+(152,-12,o),
+(280,-12,cs)
+);
+}
+);
+width = 560;
+}
+);
+userData = {
+KernOnName = u.sc;
+KernOnSpecialSpacing = {
+L = smallcaps;
+R = smallcaps;
+};
+};
+}

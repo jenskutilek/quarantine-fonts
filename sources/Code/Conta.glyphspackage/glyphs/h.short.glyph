@@ -1,0 +1,205 @@
+{
+glyphname = h.short;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (280,0);
+},
+{
+name = center;
+pos = (280,400);
+},
+{
+name = top;
+pos = (280,720);
+}
+);
+hints = (
+{
+horizontal = 1;
+options = 4;
+origin = (0,14);
+target = (0,5);
+type = TTStem;
+},
+{
+horizontal = 1;
+origin = (0,19);
+type = TTSnap;
+},
+{
+horizontal = 1;
+options = 4;
+origin = (0,0);
+target = (0,9);
+type = TTShift;
+}
+);
+layerId = "83692D61-586C-413E-9B5A-1AF652750951";
+shapes = (
+{
+closed = 1;
+nodes = (
+(160,0,l),
+(160,371,l),
+(200,414,ls),
+(250,468,o),
+(286,494,o),
+(331,494,cs),
+(382,494,o),
+(400,463,o),
+(400,407,cs),
+(400,0,l),
+(480,0,l),
+(480,410,ls),
+(480,515,o),
+(431,568,o),
+(342,568,cs),
+(271,568,o),
+(227,527,o),
+(178,473,cs),
+(160,453,l),
+(160,720,l),
+(80,720,l),
+(80,0,l)
+);
+}
+);
+width = 560;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (280,0);
+},
+{
+name = center;
+pos = (280,400);
+},
+{
+name = top;
+pos = (280,720);
+}
+);
+hints = (
+{
+horizontal = 1;
+options = 4;
+place = (568,74);
+type = TTStem;
+},
+{
+horizontal = 1;
+place = (720,0);
+type = TTSnap;
+},
+{
+horizontal = 1;
+options = 4;
+place = (0,0);
+type = TTShift;
+}
+);
+layerId = m003;
+shapes = (
+{
+closed = 1;
+nodes = (
+(210,0,l),
+(210,361,l),
+(234,387,ls),
+(263,418,o),
+(283,434,o),
+(310,434,cs),
+(340,434,o),
+(350,415,o),
+(350,383,cs),
+(350,0,l),
+(510,0,l),
+(510,427,ls),
+(510,527,o),
+(459,578,o),
+(366,578,cs),
+(303,578,o),
+(260,552,o),
+(223,512,cs),
+(210,498,l),
+(210,720,l),
+(50,720,l),
+(50,0,l)
+);
+}
+);
+width = 560;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (280,0);
+},
+{
+name = center;
+pos = (280,400);
+},
+{
+name = top;
+pos = (280,720);
+}
+);
+hints = (
+{
+horizontal = 1;
+options = 4;
+place = (568,74);
+type = TTStem;
+},
+{
+horizontal = 1;
+place = (720,0);
+type = TTSnap;
+},
+{
+horizontal = 1;
+options = 4;
+place = (0,0);
+type = TTShift;
+}
+);
+layerId = m004;
+shapes = (
+{
+closed = 1;
+nodes = (
+(112,0,l),
+(112,386,l),
+(178,460,ls),
+(225,512,o),
+(266,556,o),
+(331,556,cs),
+(407,556,o),
+(448,513,o),
+(448,428,cs),
+(448,0,l),
+(450,0,l),
+(450,428,ls),
+(450,514,o),
+(408,558,o),
+(331,558,cs),
+(266,558,o),
+(225,515,o),
+(178,463,cs),
+(112,389,l),
+(112,720,l),
+(110,720,l),
+(110,0,l)
+);
+}
+);
+width = 560;
+}
+);
+}

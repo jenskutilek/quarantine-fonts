@@ -1,0 +1,284 @@
+{
+color = 7;
+glyphname = braceright;
+kernLeft = KO_braceright;
+kernRight = KO_braceright;
+layers = (
+{
+background = {
+shapes = (
+{
+alignment = -1;
+pos = (240,560);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (240,480);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (240,400);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (320,240);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (400,240);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (240,160);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (240,80);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (240,0);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (240,-80);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (160,-160);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (80,-160);
+ref = pixel;
+},
+{
+pos = (400,320);
+ref = pixel;
+},
+{
+pos = (320,320);
+ref = pixel;
+},
+{
+pos = (240,640);
+ref = pixel;
+},
+{
+pos = (160,720);
+ref = pixel;
+},
+{
+pos = (80,720);
+ref = pixel;
+}
+);
+};
+layerId = "83692D61-586C-413E-9B5A-1AF652750951";
+shapes = (
+{
+angle = 180;
+pos = (560,640);
+ref = braceleft;
+}
+);
+width = 560;
+},
+{
+background = {
+shapes = (
+{
+alignment = -1;
+pos = (240,560);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (240,480);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (240,400);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (320,240);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (400,240);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (240,160);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (240,80);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (240,0);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (240,-80);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (160,-160);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (80,-160);
+ref = pixel;
+},
+{
+pos = (400,320);
+ref = pixel;
+},
+{
+pos = (320,320);
+ref = pixel;
+},
+{
+pos = (240,640);
+ref = pixel;
+},
+{
+pos = (160,720);
+ref = pixel;
+},
+{
+pos = (80,720);
+ref = pixel;
+}
+);
+};
+layerId = m003;
+shapes = (
+{
+angle = 180;
+pos = (560,640);
+ref = braceleft;
+}
+);
+width = 560;
+},
+{
+background = {
+shapes = (
+{
+alignment = -1;
+pos = (240,560);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (240,480);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (240,400);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (320,240);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (400,240);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (240,160);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (240,80);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (240,0);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (240,-80);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (160,-160);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (80,-160);
+ref = pixel;
+},
+{
+pos = (400,320);
+ref = pixel;
+},
+{
+pos = (320,320);
+ref = pixel;
+},
+{
+pos = (240,640);
+ref = pixel;
+},
+{
+pos = (160,720);
+ref = pixel;
+},
+{
+pos = (80,720);
+ref = pixel;
+}
+);
+};
+layerId = m004;
+shapes = (
+{
+angle = 180;
+pos = (560,640);
+ref = braceleft;
+}
+);
+width = 560;
+}
+);
+unicode = 125;
+userData = {
+KernOnSpecialSpacing = {
+L = parenthesis;
+};
+};
+}

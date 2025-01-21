@@ -1,0 +1,53 @@
+{
+color = 6;
+glyphname = kcommaaccent.sc;
+kernLeft = KO_n.sc;
+kernRight = KO_k.sc;
+layers = (
+{
+layerId = "83692D61-586C-413E-9B5A-1AF652750951";
+shapes = (
+{
+ref = k.sc;
+},
+{
+pos = (-20,0);
+ref = commaaccentcomb;
+}
+);
+width = 520;
+},
+{
+layerId = m003;
+shapes = (
+{
+ref = k.sc;
+},
+{
+pos = (-20,0);
+ref = commaaccentcomb;
+}
+);
+width = 520;
+},
+{
+layerId = m004;
+shapes = (
+{
+ref = k.sc;
+},
+{
+pos = (-20,0);
+ref = commaaccentcomb;
+}
+);
+width = 520;
+}
+);
+userData = {
+KernOnSpecialSpacing = {
+L = smallcaps;
+R = smallcaps;
+};
+};
+}

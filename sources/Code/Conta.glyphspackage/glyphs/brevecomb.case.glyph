@@ -1,0 +1,197 @@
+{
+glyphname = brevecomb.case;
+layers = (
+{
+anchors = (
+{
+name = _top;
+pos = (280,720);
+},
+{
+name = top;
+pos = (280,960);
+}
+);
+hints = (
+{
+horizontal = 1;
+options = 4;
+origin = (0,13);
+target = (0,6);
+type = TTStem;
+},
+{
+horizontal = 1;
+origin = (0,13);
+stem = -1;
+target = (0,9);
+type = TTStem;
+},
+{
+horizontal = 1;
+options = 4;
+origin = (0,9);
+target = (0,3);
+type = TTShift;
+},
+{
+horizontal = 1;
+origin = (0,13);
+stem = 2;
+type = TTSnap;
+}
+);
+layerId = "83692D61-586C-413E-9B5A-1AF652750951";
+shapes = (
+{
+closed = 1;
+nodes = (
+(399,778,o),
+(445,854,o),
+(435,959,c),
+(365,959,l),
+(365,899,o),
+(343,857,o),
+(280,857,cs),
+(217,857,o),
+(195,899,o),
+(195,959,c),
+(125,959,l),
+(119,854,o),
+(161,778,o),
+(280,778,cs)
+);
+}
+);
+width = 560;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (280,720);
+},
+{
+name = top;
+pos = (280,960);
+}
+);
+hints = (
+{
+horizontal = 1;
+options = 4;
+origin = (0,13);
+target = (0,6);
+type = TTStem;
+},
+{
+horizontal = 1;
+origin = (0,13);
+stem = -1;
+target = (0,9);
+type = TTStem;
+},
+{
+horizontal = 1;
+options = 4;
+origin = (0,9);
+target = (0,3);
+type = TTShift;
+},
+{
+horizontal = 1;
+origin = (0,13);
+stem = 2;
+type = TTSnap;
+}
+);
+layerId = m003;
+shapes = (
+{
+closed = 1;
+nodes = (
+(399,778,o),
+(445,854,o),
+(435,959,c),
+(365,959,l),
+(365,899,o),
+(343,857,o),
+(280,857,cs),
+(217,857,o),
+(195,899,o),
+(195,959,c),
+(125,959,l),
+(119,854,o),
+(161,778,o),
+(280,778,cs)
+);
+}
+);
+width = 560;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (280,720);
+},
+{
+name = top;
+pos = (280,960);
+}
+);
+hints = (
+{
+horizontal = 1;
+options = 4;
+origin = (0,13);
+target = (0,6);
+type = TTStem;
+},
+{
+horizontal = 1;
+origin = (0,13);
+stem = -1;
+target = (0,9);
+type = TTStem;
+},
+{
+horizontal = 1;
+options = 4;
+origin = (0,9);
+target = (0,3);
+type = TTShift;
+},
+{
+horizontal = 1;
+origin = (0,13);
+stem = 2;
+type = TTSnap;
+}
+);
+layerId = m004;
+shapes = (
+{
+closed = 1;
+nodes = (
+(399,778,o),
+(445,854,o),
+(435,959,c),
+(365,959,l),
+(365,899,o),
+(343,857,o),
+(280,857,cs),
+(217,857,o),
+(195,899,o),
+(195,959,c),
+(125,959,l),
+(119,854,o),
+(161,778,o),
+(280,778,cs)
+);
+}
+);
+width = 560;
+}
+);
+}

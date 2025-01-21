@@ -1,0 +1,46 @@
+{
+color = 6;
+glyphname = questiondown;
+kernRight = KO_exclam;
+layers = (
+{
+layerId = "83692D61-586C-413E-9B5A-1AF652750951";
+shapes = (
+{
+angle = 180;
+pos = (560,560);
+ref = question;
+}
+);
+width = 560;
+},
+{
+layerId = m003;
+shapes = (
+{
+angle = 180;
+pos = (560,560);
+ref = question;
+}
+);
+width = 560;
+},
+{
+layerId = m004;
+shapes = (
+{
+angle = 180;
+pos = (560,560);
+ref = question;
+}
+);
+width = 560;
+}
+);
+unicode = 191;
+userData = {
+KernOnSpecialSpacing = {
+R = "spaced-off";
+};
+};
+}

@@ -1,0 +1,63 @@
+{
+color = 7;
+glyphname = Eth;
+kernRight = KO_D;
+layers = (
+{
+layerId = "83692D61-586C-413E-9B5A-1AF652750951";
+shapes = (
+{
+closed = 1;
+nodes = (
+(298,328,l),
+(298,400,l),
+(0,400,l),
+(0,328,l)
+);
+},
+{
+ref = D;
+}
+);
+width = 560;
+},
+{
+layerId = m003;
+shapes = (
+{
+closed = 1;
+nodes = (
+(294,292,l),
+(294,436,l),
+(0,436,l),
+(0,292,l)
+);
+},
+{
+alignment = -1;
+ref = D;
+}
+);
+width = 560;
+},
+{
+layerId = m004;
+shapes = (
+{
+closed = 1;
+nodes = (
+(268,363,l),
+(268,365,l),
+(30,365,l),
+(30,363,l)
+);
+},
+{
+ref = D;
+}
+);
+width = 560;
+}
+);
+unicode = 208;
+}

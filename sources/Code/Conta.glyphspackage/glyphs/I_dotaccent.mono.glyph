@@ -1,0 +1,46 @@
+{
+color = 8;
+export = 0;
+glyphname = Idotaccent.mono;
+layers = (
+{
+layerId = "83692D61-586C-413E-9B5A-1AF652750951";
+shapes = (
+{
+ref = I.mono;
+},
+{
+pos = (0,160);
+ref = dotaccentcomb;
+}
+);
+width = 560;
+},
+{
+layerId = m003;
+shapes = (
+{
+ref = I.mono;
+},
+{
+pos = (0,150);
+ref = dotaccentcomb;
+}
+);
+width = 560;
+},
+{
+layerId = m004;
+shapes = (
+{
+ref = I.mono;
+},
+{
+pos = (0,170);
+ref = dotaccentcomb;
+}
+);
+width = 560;
+}
+);
+}

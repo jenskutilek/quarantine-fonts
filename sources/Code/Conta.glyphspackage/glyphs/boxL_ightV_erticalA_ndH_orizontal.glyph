@@ -1,0 +1,61 @@
+{
+color = 6;
+glyphname = boxLightVerticalAndHorizontal;
+layers = (
+{
+layerId = "83692D61-586C-413E-9B5A-1AF652750951";
+shapes = (
+{
+ref = boxLightLeft;
+},
+{
+ref = boxLightRight;
+},
+{
+ref = boxLightUp;
+},
+{
+ref = boxLightDown;
+}
+);
+width = 560;
+},
+{
+layerId = m003;
+shapes = (
+{
+ref = boxLightLeft;
+},
+{
+ref = boxLightRight;
+},
+{
+ref = boxLightUp;
+},
+{
+ref = boxLightDown;
+}
+);
+width = 560;
+},
+{
+layerId = m004;
+shapes = (
+{
+ref = boxLightLeft;
+},
+{
+ref = boxLightRight;
+},
+{
+ref = boxLightUp;
+},
+{
+ref = boxLightDown;
+}
+);
+width = 560;
+}
+);
+unicode = 9532;
+}

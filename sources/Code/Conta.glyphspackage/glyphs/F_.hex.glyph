@@ -1,0 +1,342 @@
+{
+color = 4;
+glyphname = F.hex;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (140,0);
+},
+{
+name = top;
+pos = (280,640);
+}
+);
+hints = (
+{
+horizontal = 1;
+origin = (0,0);
+type = TTSnap;
+},
+{
+horizontal = 1;
+options = 4;
+origin = (0,8);
+target = (0,5);
+type = TTStem;
+},
+{
+horizontal = 1;
+options = 8;
+origin = (0,0);
+other1 = (0,1);
+target = (0,8);
+type = TTInterpolate;
+},
+{
+horizontal = 1;
+options = 4;
+origin = (0,1);
+target = (0,4);
+type = TTStem;
+}
+);
+layerId = "83692D61-586C-413E-9B5A-1AF652750951";
+shapes = (
+{
+closed = 1;
+nodes = (
+(180,0,l,{
+de.kutilek.instantAxis.effective = (
+"180",
+"0"
+);
+}),
+(180,274,l,{
+de.kutilek.instantAxis.effective = (
+"180",
+"274"
+);
+}),
+(400,274,l,{
+de.kutilek.instantAxis.effective = (
+"400",
+"274"
+);
+}),
+(400,346,l,{
+de.kutilek.instantAxis.effective = (
+"400",
+"346"
+);
+}),
+(180,346,l,{
+de.kutilek.instantAxis.effective = (
+"180",
+"346"
+);
+}),
+(180,568,l,{
+de.kutilek.instantAxis.effective = (
+"180",
+"568"
+);
+}),
+(480,568,l,{
+de.kutilek.instantAxis.effective = (
+"480",
+"568"
+);
+}),
+(480,640,l,{
+de.kutilek.instantAxis.effective = (
+"480",
+"640"
+);
+}),
+(100,640,l,{
+de.kutilek.instantAxis.effective = (
+"100",
+"640"
+);
+}),
+(100,0,l,{
+de.kutilek.instantAxis.effective = (
+"100",
+"0"
+);
+})
+);
+}
+);
+width = 560;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (140,0);
+},
+{
+name = top;
+pos = (280,640);
+}
+);
+hints = (
+{
+horizontal = 1;
+origin = (0,0);
+type = TTSnap;
+},
+{
+horizontal = 1;
+options = 4;
+origin = (0,8);
+target = (0,5);
+type = TTStem;
+},
+{
+horizontal = 1;
+options = 8;
+origin = (0,0);
+other1 = (0,1);
+target = (0,8);
+type = TTInterpolate;
+},
+{
+horizontal = 1;
+options = 4;
+origin = (0,1);
+target = (0,4);
+type = TTStem;
+}
+);
+layerId = m003;
+shapes = (
+{
+closed = 1;
+nodes = (
+(180,0,l,{
+de.kutilek.instantAxis.effective = (
+"180",
+"0"
+);
+}),
+(180,274,l,{
+de.kutilek.instantAxis.effective = (
+"180",
+"274"
+);
+}),
+(400,274,l,{
+de.kutilek.instantAxis.effective = (
+"400",
+"274"
+);
+}),
+(400,346,l,{
+de.kutilek.instantAxis.effective = (
+"400",
+"346"
+);
+}),
+(180,346,l,{
+de.kutilek.instantAxis.effective = (
+"180",
+"346"
+);
+}),
+(180,568,l,{
+de.kutilek.instantAxis.effective = (
+"180",
+"568"
+);
+}),
+(480,568,l,{
+de.kutilek.instantAxis.effective = (
+"480",
+"568"
+);
+}),
+(480,640,l,{
+de.kutilek.instantAxis.effective = (
+"480",
+"640"
+);
+}),
+(100,640,l,{
+de.kutilek.instantAxis.effective = (
+"100",
+"640"
+);
+}),
+(100,0,l,{
+de.kutilek.instantAxis.effective = (
+"100",
+"0"
+);
+})
+);
+}
+);
+width = 560;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (140,0);
+},
+{
+name = top;
+pos = (280,640);
+}
+);
+hints = (
+{
+horizontal = 1;
+origin = (0,0);
+type = TTSnap;
+},
+{
+horizontal = 1;
+options = 4;
+origin = (0,8);
+target = (0,5);
+type = TTStem;
+},
+{
+horizontal = 1;
+options = 8;
+origin = (0,0);
+other1 = (0,1);
+target = (0,8);
+type = TTInterpolate;
+},
+{
+horizontal = 1;
+options = 4;
+origin = (0,1);
+target = (0,4);
+type = TTStem;
+}
+);
+layerId = m004;
+shapes = (
+{
+closed = 1;
+nodes = (
+(180,0,l,{
+de.kutilek.instantAxis.effective = (
+"180",
+"0"
+);
+}),
+(180,274,l,{
+de.kutilek.instantAxis.effective = (
+"180",
+"274"
+);
+}),
+(400,274,l,{
+de.kutilek.instantAxis.effective = (
+"400",
+"274"
+);
+}),
+(400,346,l,{
+de.kutilek.instantAxis.effective = (
+"400",
+"346"
+);
+}),
+(180,346,l,{
+de.kutilek.instantAxis.effective = (
+"180",
+"346"
+);
+}),
+(180,568,l,{
+de.kutilek.instantAxis.effective = (
+"180",
+"568"
+);
+}),
+(480,568,l,{
+de.kutilek.instantAxis.effective = (
+"480",
+"568"
+);
+}),
+(480,640,l,{
+de.kutilek.instantAxis.effective = (
+"480",
+"640"
+);
+}),
+(100,640,l,{
+de.kutilek.instantAxis.effective = (
+"100",
+"640"
+);
+}),
+(100,0,l,{
+de.kutilek.instantAxis.effective = (
+"100",
+"0"
+);
+})
+);
+}
+);
+width = 560;
+}
+);
+userData = {
+KernOnSpecialSpacing = {
+L = NoKerning;
+R = NoKerning;
+};
+};
+}

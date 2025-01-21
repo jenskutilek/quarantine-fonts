@@ -1,0 +1,48 @@
+{
+color = 6;
+glyphname = Wgrave;
+kernLeft = KO_I;
+kernRight = KO_W;
+layers = (
+{
+layerId = "83692D61-586C-413E-9B5A-1AF652750951";
+shapes = (
+{
+ref = W;
+},
+{
+pos = (80,0);
+ref = gravecomb.case;
+}
+);
+width = 720;
+},
+{
+layerId = m003;
+shapes = (
+{
+ref = W;
+},
+{
+pos = (80,0);
+ref = gravecomb.case;
+}
+);
+width = 720;
+},
+{
+layerId = m004;
+shapes = (
+{
+ref = W;
+},
+{
+pos = (80,0);
+ref = gravecomb.case;
+}
+);
+width = 720;
+}
+);
+unicode = 7808;
+}

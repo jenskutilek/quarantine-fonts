@@ -1,0 +1,39 @@
+{
+color = 0;
+glyphname = Germandbls;
+kernLeft = KO_S;
+kernRight = KO_S;
+layers = (
+{
+layerId = "83692D61-586C-413E-9B5A-1AF652750951";
+shapes = (
+{
+ref = Scedilla;
+}
+);
+width = 480;
+},
+{
+layerId = m003;
+shapes = (
+{
+ref = Scedilla;
+}
+);
+width = 480;
+},
+{
+layerId = m004;
+shapes = (
+{
+ref = Scedilla;
+}
+);
+width = 480;
+}
+);
+unicode = 7838;
+userData = {
+KernOnName = Germandbls;
+};
+}

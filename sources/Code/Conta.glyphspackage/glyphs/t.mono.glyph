@@ -1,0 +1,40 @@
+{
+color = 8;
+export = 0;
+glyphname = t.mono;
+layers = (
+{
+layerId = "83692D61-586C-413E-9B5A-1AF652750951";
+shapes = (
+{
+alignment = -1;
+pos = (40,0);
+ref = t;
+}
+);
+width = 560;
+},
+{
+layerId = m003;
+shapes = (
+{
+alignment = -1;
+pos = (40,0);
+ref = t;
+}
+);
+width = 560;
+},
+{
+layerId = m004;
+shapes = (
+{
+alignment = -1;
+pos = (40,0);
+ref = t;
+}
+);
+width = 560;
+}
+);
+}

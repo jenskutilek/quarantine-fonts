@@ -1,0 +1,39 @@
+{
+color = 0;
+glyphname = lslash.sc;
+layers = (
+{
+layerId = "83692D61-586C-413E-9B5A-1AF652750951";
+shapes = (
+{
+ref = l.sc;
+}
+);
+width = 480;
+},
+{
+layerId = m003;
+shapes = (
+{
+ref = l.sc;
+}
+);
+width = 480;
+},
+{
+layerId = m004;
+shapes = (
+{
+ref = l.sc;
+}
+);
+width = 480;
+}
+);
+userData = {
+KernOnSpecialSpacing = {
+L = smallcaps;
+R = smallcaps;
+};
+};
+}

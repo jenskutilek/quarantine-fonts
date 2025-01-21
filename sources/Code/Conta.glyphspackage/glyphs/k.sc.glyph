@@ -1,0 +1,240 @@
+{
+color = 9;
+glyphname = k.sc;
+kernLeft = KO_n.sc;
+kernRight = KO_k.sc;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (260,0);
+},
+{
+name = top;
+pos = (260,640);
+}
+);
+hints = (
+{
+horizontal = 1;
+options = 4;
+origin = (2,0);
+target = (0,3);
+type = TTShift;
+},
+{
+horizontal = 1;
+options = 4;
+origin = (1,1);
+target = (0,0);
+type = TTShift;
+},
+{
+horizontal = 1;
+options = 4;
+origin = (0,3);
+other1 = (0,0,2,0);
+target = (0,0);
+type = TTInterpolate;
+},
+{
+horizontal = 1;
+options = 4;
+origin = (0,3);
+other1 = (0,0,1,2);
+target = (0,0);
+type = TTInterpolate;
+}
+);
+layerId = "83692D61-586C-413E-9B5A-1AF652750951";
+shapes = (
+{
+closed = 1;
+nodes = (
+(160,640,l),
+(80,640,l),
+(80,0,l),
+(160,0,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(473,640,l),
+(381,640,l),
+(133,313,l),
+(217,313,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(389,0,l),
+(489,0,l),
+(227,341,l),
+(135,341,l)
+);
+}
+);
+width = 520;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (260,0);
+},
+{
+name = top;
+pos = (260,640);
+}
+);
+hints = (
+{
+horizontal = 1;
+options = 4;
+origin = (2,0);
+target = (0,3);
+type = TTShift;
+},
+{
+horizontal = 1;
+options = 4;
+origin = (1,1);
+target = (0,0);
+type = TTShift;
+},
+{
+horizontal = 1;
+options = 4;
+origin = (0,3);
+other1 = (0,0,2,0);
+target = (0,0);
+type = TTInterpolate;
+},
+{
+horizontal = 1;
+options = 4;
+origin = (0,3);
+other1 = (0,0,1,2);
+target = (0,0);
+type = TTInterpolate;
+}
+);
+layerId = m003;
+shapes = (
+{
+closed = 1;
+nodes = (
+(160,640,l),
+(80,640,l),
+(80,0,l),
+(160,0,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(473,640,l),
+(381,640,l),
+(133,313,l),
+(217,313,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(389,0,l),
+(489,0,l),
+(227,341,l),
+(135,341,l)
+);
+}
+);
+width = 520;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (260,0);
+},
+{
+name = top;
+pos = (260,640);
+}
+);
+hints = (
+{
+horizontal = 1;
+options = 4;
+origin = (2,0);
+target = (0,3);
+type = TTShift;
+},
+{
+horizontal = 1;
+options = 4;
+origin = (1,1);
+target = (0,0);
+type = TTShift;
+},
+{
+horizontal = 1;
+options = 4;
+origin = (0,3);
+other1 = (0,0,2,0);
+target = (0,0);
+type = TTInterpolate;
+},
+{
+horizontal = 1;
+options = 4;
+origin = (0,3);
+other1 = (0,0,1,2);
+target = (0,0);
+type = TTInterpolate;
+}
+);
+layerId = m004;
+shapes = (
+{
+closed = 1;
+nodes = (
+(160,640,l),
+(80,640,l),
+(80,0,l),
+(160,0,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(473,640,l),
+(381,640,l),
+(133,313,l),
+(217,313,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(389,0,l),
+(489,0,l),
+(227,341,l),
+(135,341,l)
+);
+}
+);
+width = 520;
+}
+);
+userData = {
+KernOnName = k.sc;
+KernOnSpecialSpacing = {
+L = smallcaps;
+R = smallcaps;
+};
+};
+}

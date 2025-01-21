@@ -1,0 +1,144 @@
+{
+color = 6;
+glyphname = less;
+kernLeft = KO_less;
+kernRight = KO_less;
+layers = (
+{
+background = {
+shapes = (
+{
+pos = (80,320);
+ref = pixel;
+},
+{
+pos = (160,400);
+ref = pixel;
+},
+{
+pos = (240,480);
+ref = pixel;
+},
+{
+pos = (320,560);
+ref = pixel;
+},
+{
+pos = (160,240);
+ref = pixel;
+},
+{
+pos = (240,160);
+ref = pixel;
+},
+{
+pos = (320,80);
+ref = pixel;
+}
+);
+};
+layerId = "83692D61-586C-413E-9B5A-1AF652750951";
+shapes = (
+{
+angle = 180;
+pos = (560,720);
+ref = greater;
+}
+);
+width = 560;
+},
+{
+background = {
+shapes = (
+{
+pos = (80,320);
+ref = pixel;
+},
+{
+pos = (160,400);
+ref = pixel;
+},
+{
+pos = (240,480);
+ref = pixel;
+},
+{
+pos = (320,560);
+ref = pixel;
+},
+{
+pos = (160,240);
+ref = pixel;
+},
+{
+pos = (240,160);
+ref = pixel;
+},
+{
+pos = (320,80);
+ref = pixel;
+}
+);
+};
+layerId = m003;
+shapes = (
+{
+angle = 180;
+pos = (560,720);
+ref = greater;
+}
+);
+width = 560;
+},
+{
+background = {
+shapes = (
+{
+pos = (80,320);
+ref = pixel;
+},
+{
+pos = (160,400);
+ref = pixel;
+},
+{
+pos = (240,480);
+ref = pixel;
+},
+{
+pos = (320,560);
+ref = pixel;
+},
+{
+pos = (160,240);
+ref = pixel;
+},
+{
+pos = (240,160);
+ref = pixel;
+},
+{
+pos = (320,80);
+ref = pixel;
+}
+);
+};
+layerId = m004;
+shapes = (
+{
+angle = 180;
+pos = (560,720);
+ref = greater;
+}
+);
+width = 560;
+}
+);
+unicode = 60;
+userData = {
+KernOnSpecialSpacing = {
+L = math;
+R = math;
+};
+};
+}

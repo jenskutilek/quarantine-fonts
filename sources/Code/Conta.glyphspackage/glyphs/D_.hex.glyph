@@ -1,0 +1,474 @@
+{
+color = 4;
+glyphname = D.hex;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (280,0);
+},
+{
+name = center;
+pos = (280,320);
+},
+{
+name = top;
+pos = (272,640);
+}
+);
+hints = (
+{
+horizontal = 1;
+options = 4;
+origin = (0,2);
+target = (1,5);
+type = TTStem;
+},
+{
+horizontal = 1;
+options = 4;
+origin = (0,8);
+target = (1,8);
+type = TTStem;
+}
+);
+layerId = "83692D61-586C-413E-9B5A-1AF652750951";
+shapes = (
+{
+closed = 1;
+nodes = (
+(80,640,l,{
+de.kutilek.instantAxis.effective = (
+"80",
+"640"
+);
+}),
+(80,0,l,{
+de.kutilek.instantAxis.effective = (
+"80",
+"0"
+);
+}),
+(254,0,ls,{
+de.kutilek.instantAxis.effective = (
+"254",
+"0"
+);
+}),
+(403,0,o,{
+de.kutilek.instantAxis.effective = (
+"403",
+"0"
+);
+}),
+(504,108,o,{
+de.kutilek.instantAxis.effective = (
+"504",
+"108"
+);
+}),
+(504,322,cs,{
+de.kutilek.instantAxis.effective = (
+"504",
+"322"
+);
+}),
+(504,527,o,{
+de.kutilek.instantAxis.effective = (
+"504",
+"527"
+);
+}),
+(426,640,o,{
+de.kutilek.instantAxis.effective = (
+"426",
+"640"
+);
+}),
+(248,640,cs,{
+de.kutilek.instantAxis.effective = (
+"248",
+"640"
+);
+})
+);
+},
+{
+closed = 1;
+nodes = (
+(363,568,o,{
+de.kutilek.instantAxis.effective = (
+"363",
+"568"
+);
+}),
+(420,502,o,{
+de.kutilek.instantAxis.effective = (
+"420",
+"502"
+);
+}),
+(420,319,cs,{
+de.kutilek.instantAxis.effective = (
+"420",
+"319"
+);
+}),
+(420,134,o,{
+de.kutilek.instantAxis.effective = (
+"420",
+"134"
+);
+}),
+(358,72,o,{
+de.kutilek.instantAxis.effective = (
+"358",
+"72"
+);
+}),
+(258,72,cs,{
+de.kutilek.instantAxis.effective = (
+"258",
+"72"
+);
+}),
+(160,72,l,{
+de.kutilek.instantAxis.effective = (
+"160",
+"72"
+);
+}),
+(160,568,l,{
+de.kutilek.instantAxis.effective = (
+"160",
+"568"
+);
+}),
+(252,568,ls,{
+de.kutilek.instantAxis.effective = (
+"252",
+"568"
+);
+})
+);
+}
+);
+width = 560;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (280,0);
+},
+{
+name = center;
+pos = (280,320);
+},
+{
+name = top;
+pos = (272,640);
+}
+);
+hints = (
+{
+horizontal = 1;
+options = 4;
+origin = (0,2);
+target = (1,5);
+type = TTStem;
+},
+{
+horizontal = 1;
+options = 4;
+origin = (0,8);
+target = (1,8);
+type = TTStem;
+}
+);
+layerId = m003;
+shapes = (
+{
+closed = 1;
+nodes = (
+(80,640,l,{
+de.kutilek.instantAxis.effective = (
+"80",
+"640"
+);
+}),
+(80,0,l,{
+de.kutilek.instantAxis.effective = (
+"80",
+"0"
+);
+}),
+(254,0,ls,{
+de.kutilek.instantAxis.effective = (
+"254",
+"0"
+);
+}),
+(403,0,o,{
+de.kutilek.instantAxis.effective = (
+"403",
+"0"
+);
+}),
+(504,108,o,{
+de.kutilek.instantAxis.effective = (
+"504",
+"108"
+);
+}),
+(504,322,cs,{
+de.kutilek.instantAxis.effective = (
+"504",
+"322"
+);
+}),
+(504,527,o,{
+de.kutilek.instantAxis.effective = (
+"504",
+"527"
+);
+}),
+(426,640,o,{
+de.kutilek.instantAxis.effective = (
+"426",
+"640"
+);
+}),
+(248,640,cs,{
+de.kutilek.instantAxis.effective = (
+"248",
+"640"
+);
+})
+);
+},
+{
+closed = 1;
+nodes = (
+(363,568,o,{
+de.kutilek.instantAxis.effective = (
+"363",
+"568"
+);
+}),
+(420,502,o,{
+de.kutilek.instantAxis.effective = (
+"420",
+"502"
+);
+}),
+(420,319,cs,{
+de.kutilek.instantAxis.effective = (
+"420",
+"319"
+);
+}),
+(420,134,o,{
+de.kutilek.instantAxis.effective = (
+"420",
+"134"
+);
+}),
+(358,72,o,{
+de.kutilek.instantAxis.effective = (
+"358",
+"72"
+);
+}),
+(258,72,cs,{
+de.kutilek.instantAxis.effective = (
+"258",
+"72"
+);
+}),
+(160,72,l,{
+de.kutilek.instantAxis.effective = (
+"160",
+"72"
+);
+}),
+(160,568,l,{
+de.kutilek.instantAxis.effective = (
+"160",
+"568"
+);
+}),
+(252,568,ls,{
+de.kutilek.instantAxis.effective = (
+"252",
+"568"
+);
+})
+);
+}
+);
+width = 560;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (280,0);
+},
+{
+name = center;
+pos = (280,320);
+},
+{
+name = top;
+pos = (272,640);
+}
+);
+hints = (
+{
+horizontal = 1;
+options = 4;
+origin = (0,2);
+target = (1,5);
+type = TTStem;
+},
+{
+horizontal = 1;
+options = 4;
+origin = (0,8);
+target = (1,8);
+type = TTStem;
+}
+);
+layerId = m004;
+shapes = (
+{
+closed = 1;
+nodes = (
+(80,640,l,{
+de.kutilek.instantAxis.effective = (
+"80",
+"640"
+);
+}),
+(80,0,l,{
+de.kutilek.instantAxis.effective = (
+"80",
+"0"
+);
+}),
+(254,0,ls,{
+de.kutilek.instantAxis.effective = (
+"254",
+"0"
+);
+}),
+(403,0,o,{
+de.kutilek.instantAxis.effective = (
+"403",
+"0"
+);
+}),
+(504,108,o,{
+de.kutilek.instantAxis.effective = (
+"504",
+"108"
+);
+}),
+(504,322,cs,{
+de.kutilek.instantAxis.effective = (
+"504",
+"322"
+);
+}),
+(504,527,o,{
+de.kutilek.instantAxis.effective = (
+"504",
+"527"
+);
+}),
+(426,640,o,{
+de.kutilek.instantAxis.effective = (
+"426",
+"640"
+);
+}),
+(248,640,cs,{
+de.kutilek.instantAxis.effective = (
+"248",
+"640"
+);
+})
+);
+},
+{
+closed = 1;
+nodes = (
+(363,568,o,{
+de.kutilek.instantAxis.effective = (
+"363",
+"568"
+);
+}),
+(420,502,o,{
+de.kutilek.instantAxis.effective = (
+"420",
+"502"
+);
+}),
+(420,319,cs,{
+de.kutilek.instantAxis.effective = (
+"420",
+"319"
+);
+}),
+(420,134,o,{
+de.kutilek.instantAxis.effective = (
+"420",
+"134"
+);
+}),
+(358,72,o,{
+de.kutilek.instantAxis.effective = (
+"358",
+"72"
+);
+}),
+(258,72,cs,{
+de.kutilek.instantAxis.effective = (
+"258",
+"72"
+);
+}),
+(160,72,l,{
+de.kutilek.instantAxis.effective = (
+"160",
+"72"
+);
+}),
+(160,568,l,{
+de.kutilek.instantAxis.effective = (
+"160",
+"568"
+);
+}),
+(252,568,ls,{
+de.kutilek.instantAxis.effective = (
+"252",
+"568"
+);
+})
+);
+}
+);
+width = 560;
+}
+);
+userData = {
+KernOnSpecialSpacing = {
+L = NoKerning;
+R = NoKerning;
+};
+};
+}

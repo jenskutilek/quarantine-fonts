@@ -1,0 +1,44 @@
+{
+color = 0;
+export = 0;
+glyphname = twosuperior;
+kernLeft = KO_twosuperior;
+layers = (
+{
+layerId = "83692D61-586C-413E-9B5A-1AF652750951";
+shapes = (
+{
+ref = two;
+}
+);
+width = 560;
+},
+{
+layerId = m003;
+shapes = (
+{
+ref = two;
+}
+);
+width = 560;
+},
+{
+layerId = m004;
+shapes = (
+{
+ref = two;
+}
+);
+width = 560;
+}
+);
+metricLeft = two;
+metricRight = two;
+unicode = 178;
+userData = {
+KernOnSpecialSpacing = {
+L = superiors;
+R = superiors;
+};
+};
+}

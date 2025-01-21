@@ -1,0 +1,45 @@
+{
+color = 6;
+glyphname = ymacron;
+kernLeft = KO_y;
+kernRight = KO_v;
+layers = (
+{
+layerId = "83692D61-586C-413E-9B5A-1AF652750951";
+shapes = (
+{
+ref = y;
+},
+{
+ref = macroncomb;
+}
+);
+width = 560;
+},
+{
+layerId = m003;
+shapes = (
+{
+ref = y;
+},
+{
+ref = macroncomb;
+}
+);
+width = 560;
+},
+{
+layerId = m004;
+shapes = (
+{
+ref = y;
+},
+{
+ref = macroncomb;
+}
+);
+width = 560;
+}
+);
+unicode = 563;
+}

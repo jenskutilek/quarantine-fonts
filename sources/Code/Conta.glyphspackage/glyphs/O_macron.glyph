@@ -1,0 +1,45 @@
+{
+color = 6;
+glyphname = Omacron;
+kernLeft = KO_O;
+kernRight = KO_O;
+layers = (
+{
+layerId = "83692D61-586C-413E-9B5A-1AF652750951";
+shapes = (
+{
+ref = O;
+},
+{
+ref = macroncomb.case;
+}
+);
+width = 560;
+},
+{
+layerId = m003;
+shapes = (
+{
+ref = O;
+},
+{
+ref = macroncomb.case;
+}
+);
+width = 560;
+},
+{
+layerId = m004;
+shapes = (
+{
+ref = O;
+},
+{
+ref = macroncomb.case;
+}
+);
+width = 560;
+}
+);
+unicode = 332;
+}

@@ -1,0 +1,48 @@
+{
+color = 6;
+glyphname = Zacute;
+kernLeft = KO_Z;
+kernRight = KO_Z;
+layers = (
+{
+layerId = "83692D61-586C-413E-9B5A-1AF652750951";
+shapes = (
+{
+ref = Z;
+},
+{
+pos = (-35,0);
+ref = acutecomb.case;
+}
+);
+width = 480;
+},
+{
+layerId = m003;
+shapes = (
+{
+ref = Z;
+},
+{
+pos = (-35,0);
+ref = acutecomb.case;
+}
+);
+width = 480;
+},
+{
+layerId = m004;
+shapes = (
+{
+ref = Z;
+},
+{
+pos = (-35,0);
+ref = acutecomb.case;
+}
+);
+width = 480;
+}
+);
+unicode = 377;
+}

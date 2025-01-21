@@ -1,0 +1,45 @@
+{
+color = 6;
+glyphname = acaron;
+kernLeft = KO_adieresis;
+kernRight = KO_a;
+layers = (
+{
+layerId = "83692D61-586C-413E-9B5A-1AF652750951";
+shapes = (
+{
+ref = a;
+},
+{
+ref = caroncomb;
+}
+);
+width = 560;
+},
+{
+layerId = m003;
+shapes = (
+{
+ref = a;
+},
+{
+ref = caroncomb;
+}
+);
+width = 560;
+},
+{
+layerId = m004;
+shapes = (
+{
+ref = a;
+},
+{
+ref = caroncomb;
+}
+);
+width = 560;
+}
+);
+unicode = 462;
+}

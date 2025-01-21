@@ -1,0 +1,318 @@
+{
+color = 8;
+export = 0;
+glyphname = K.mono;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (280,0);
+},
+{
+name = top;
+pos = (280,720);
+}
+);
+background = {
+shapes = (
+{
+closed = 1;
+nodes = (
+(180,720,l),
+(100,720,l),
+(100,0,l),
+(180,0,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(493,720,l),
+(401,720,l),
+(153,353,l),
+(237,353,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(409,0,l),
+(509,0,l),
+(247,381,l),
+(155,381,l)
+);
+}
+);
+};
+hints = (
+{
+horizontal = 1;
+options = 4;
+origin = (0,0);
+other1 = (0,0,1,2);
+target = (0,1);
+type = TTInterpolate;
+},
+{
+horizontal = 1;
+options = 4;
+origin = (0,0);
+other1 = (0,0,2,0);
+target = (0,1);
+type = TTInterpolate;
+},
+{
+horizontal = 1;
+options = 4;
+origin = (0,1);
+target = (1,2);
+type = TTShift;
+},
+{
+horizontal = 1;
+options = 4;
+origin = (0,0);
+target = (2,3);
+type = TTShift;
+}
+);
+layerId = "83692D61-586C-413E-9B5A-1AF652750951";
+shapes = (
+{
+closed = 1;
+nodes = (
+(160,0,l),
+(160,720,l),
+(80,720,l),
+(80,0,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(215,353,l),
+(503,720,l),
+(407,720,l),
+(129,353,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(519,0,l),
+(225,381,l),
+(131,381,l),
+(415,0,l)
+);
+}
+);
+width = 560;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (280,0);
+},
+{
+name = top;
+pos = (280,720);
+}
+);
+background = {
+shapes = (
+{
+closed = 1;
+nodes = (
+(180,720,l),
+(100,720,l),
+(100,0,l),
+(180,0,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(493,720,l),
+(401,720,l),
+(153,353,l),
+(237,353,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(409,0,l),
+(509,0,l),
+(247,381,l),
+(155,381,l)
+);
+}
+);
+};
+color = 0;
+hints = (
+{
+horizontal = 1;
+options = 4;
+other1 = (0,0,1,2);
+place = (0,1304.615);
+type = TTInterpolate;
+},
+{
+horizontal = 1;
+options = 4;
+other1 = (0,0,2,0);
+place = (0,1304.615);
+type = TTInterpolate;
+},
+{
+horizontal = 1;
+options = 4;
+place = (-738.462,0);
+type = TTShift;
+},
+{
+horizontal = 1;
+options = 4;
+place = (1458.462,0);
+type = TTShift;
+}
+);
+layerId = m003;
+shapes = (
+{
+closed = 1;
+nodes = (
+(209,0,l),
+(209,720,l),
+(49,720,l),
+(49,0,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(319,339,l),
+(543,720,l),
+(352,720,l),
+(147,339,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(559,0,l),
+(339,395,l),
+(152,395,l),
+(351,0,l)
+);
+}
+);
+width = 560;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (280,0);
+},
+{
+name = top;
+pos = (280,720);
+}
+);
+background = {
+shapes = (
+{
+closed = 1;
+nodes = (
+(180,720,l),
+(100,720,l),
+(100,0,l),
+(180,0,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(493,720,l),
+(401,720,l),
+(153,353,l),
+(237,353,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(409,0,l),
+(509,0,l),
+(247,381,l),
+(155,381,l)
+);
+}
+);
+};
+hints = (
+{
+horizontal = 1;
+options = 4;
+other1 = (0,0,1,2);
+place = (0,150);
+type = TTInterpolate;
+},
+{
+horizontal = 1;
+options = 4;
+other1 = (0,0,2,0);
+place = (0,150);
+type = TTInterpolate;
+},
+{
+horizontal = 1;
+options = 4;
+place = (720,0);
+type = TTShift;
+},
+{
+horizontal = 1;
+options = 4;
+place = (0,0);
+type = TTShift;
+}
+);
+layerId = m004;
+shapes = (
+{
+closed = 1;
+nodes = (
+(112,0,l),
+(112,720,l),
+(110,720,l),
+(110,0,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(114,367,l),
+(464,720,l),
+(461,720,l),
+(111,367,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(480,0,l),
+(114,367,l),
+(111,367,l),
+(477,0,l)
+);
+}
+);
+width = 560;
+}
+);
+}

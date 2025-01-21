@@ -1,0 +1,266 @@
+{
+color = 7;
+glyphname = asterisk;
+kernLeft = KO_asterisk;
+layers = (
+{
+background = {
+shapes = (
+{
+closed = 1;
+nodes = (
+(243,266,l),
+(521,356,l),
+(496,432,l),
+(218,342,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(265,273,l),
+(394,94,l),
+(460,143,l),
+(329,320,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(318,320,l),
+(320,560,l),
+(240,560,l),
+(242,320,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(230,316,l),
+(104,142,l),
+(166,96,l),
+(292,271,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(64,432,l),
+(39,356,l),
+(274,280,l),
+(299,356,l)
+);
+}
+);
+};
+layerId = "83692D61-586C-413E-9B5A-1AF652750951";
+shapes = (
+{
+alignment = -1;
+pos = (0,66);
+ref = _part.asterisk;
+},
+{
+alignment = -1;
+angle = -71.9999;
+pos = (-73,526);
+ref = _part.asterisk;
+},
+{
+alignment = -1;
+angle = 71.9999;
+pos = (460,-7);
+ref = _part.asterisk;
+},
+{
+alignment = -1;
+angle = 143.99988;
+pos = (671,408);
+ref = _part.asterisk;
+},
+{
+alignment = -1;
+angle = -143.99988;
+pos = (342,737);
+ref = _part.asterisk;
+}
+);
+width = 560;
+},
+{
+background = {
+shapes = (
+{
+closed = 1;
+nodes = (
+(243,266,l),
+(521,356,l),
+(496,432,l),
+(218,342,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(265,273,l),
+(394,94,l),
+(460,143,l),
+(329,320,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(318,320,l),
+(320,560,l),
+(240,560,l),
+(242,320,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(230,316,l),
+(104,142,l),
+(166,96,l),
+(292,271,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(64,432,l),
+(39,356,l),
+(274,280,l),
+(299,356,l)
+);
+}
+);
+};
+layerId = m003;
+shapes = (
+{
+alignment = -1;
+pos = (0,66);
+ref = _part.asterisk;
+},
+{
+alignment = -1;
+angle = -71.9999;
+pos = (-73,526);
+ref = _part.asterisk;
+},
+{
+alignment = -1;
+angle = 71.9999;
+pos = (460,-7);
+ref = _part.asterisk;
+},
+{
+alignment = -1;
+angle = 143.99988;
+pos = (671,408);
+ref = _part.asterisk;
+},
+{
+alignment = -1;
+angle = -143.99988;
+pos = (342,737);
+ref = _part.asterisk;
+}
+);
+width = 560;
+},
+{
+background = {
+shapes = (
+{
+closed = 1;
+nodes = (
+(243,266,l),
+(521,356,l),
+(496,432,l),
+(218,342,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(265,273,l),
+(394,94,l),
+(460,143,l),
+(329,320,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(318,320,l),
+(320,560,l),
+(240,560,l),
+(242,320,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(230,316,l),
+(104,142,l),
+(166,96,l),
+(292,271,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(64,432,l),
+(39,356,l),
+(274,280,l),
+(299,356,l)
+);
+}
+);
+};
+layerId = m004;
+shapes = (
+{
+alignment = -1;
+pos = (0,66);
+ref = _part.asterisk;
+},
+{
+alignment = -1;
+angle = -71.9999;
+pos = (-73,526);
+ref = _part.asterisk;
+},
+{
+alignment = -1;
+angle = 71.9999;
+pos = (460,-7);
+ref = _part.asterisk;
+},
+{
+alignment = -1;
+angle = 143.99988;
+pos = (671,408);
+ref = _part.asterisk;
+},
+{
+alignment = -1;
+angle = -143.99988;
+pos = (342,737);
+ref = _part.asterisk;
+}
+);
+width = 560;
+}
+);
+unicode = 42;
+userData = {
+KernOnSpecialSpacing = {
+L = quotes;
+R = quotes;
+};
+};
+}

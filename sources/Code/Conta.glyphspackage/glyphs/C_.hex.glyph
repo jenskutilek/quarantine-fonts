@@ -1,0 +1,591 @@
+{
+color = 4;
+glyphname = C.hex;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (280,0);
+},
+{
+name = top;
+pos = (303,640);
+}
+);
+hints = (
+{
+horizontal = 1;
+options = 4;
+origin = (0,19);
+target = (0,12);
+type = TTStem;
+},
+{
+horizontal = 1;
+options = 4;
+origin = (0,25);
+target = (0,6);
+type = TTStem;
+}
+);
+layerId = "83692D61-586C-413E-9B5A-1AF652750951";
+shapes = (
+{
+closed = 1;
+nodes = (
+(377,-11,o,{
+de.kutilek.instantAxis.effective = (
+"377",
+"-11"
+);
+}),
+(422,19,o,{
+de.kutilek.instantAxis.effective = (
+"422",
+"19"
+);
+}),
+(476,55,c,{
+de.kutilek.instantAxis.effective = (
+"476",
+"55"
+);
+}),
+(444,110,l,{
+de.kutilek.instantAxis.effective = (
+"444",
+"110"
+);
+}),
+(400,83,o,{
+de.kutilek.instantAxis.effective = (
+"400",
+"83"
+);
+}),
+(360,61,o,{
+de.kutilek.instantAxis.effective = (
+"360",
+"61"
+);
+}),
+(308,61,cs,{
+de.kutilek.instantAxis.effective = (
+"308",
+"61"
+);
+}),
+(203,61,o,{
+de.kutilek.instantAxis.effective = (
+"203",
+"61"
+);
+}),
+(150,139,o,{
+de.kutilek.instantAxis.effective = (
+"150",
+"139"
+);
+}),
+(150,320,cs,{
+de.kutilek.instantAxis.effective = (
+"150",
+"320"
+);
+}),
+(150,528,o,{
+de.kutilek.instantAxis.effective = (
+"150",
+"528"
+);
+}),
+(221,579,o,{
+de.kutilek.instantAxis.effective = (
+"221",
+"579"
+);
+}),
+(304,579,cs,{
+de.kutilek.instantAxis.effective = (
+"304",
+"579"
+);
+}),
+(363,579,o,{
+de.kutilek.instantAxis.effective = (
+"363",
+"579"
+);
+}),
+(409,554,o,{
+de.kutilek.instantAxis.effective = (
+"409",
+"554"
+);
+}),
+(443,533,c,{
+de.kutilek.instantAxis.effective = (
+"443",
+"533"
+);
+}),
+(477,590,l,{
+de.kutilek.instantAxis.effective = (
+"477",
+"590"
+);
+}),
+(429,624,o,{
+de.kutilek.instantAxis.effective = (
+"429",
+"624"
+);
+}),
+(374,651,o,{
+de.kutilek.instantAxis.effective = (
+"374",
+"651"
+);
+}),
+(308,651,cs,{
+de.kutilek.instantAxis.effective = (
+"308",
+"651"
+);
+}),
+(155,651,o,{
+de.kutilek.instantAxis.effective = (
+"155",
+"651"
+);
+}),
+(68,543,o,{
+de.kutilek.instantAxis.effective = (
+"68",
+"543"
+);
+}),
+(68,320,cs,{
+de.kutilek.instantAxis.effective = (
+"68",
+"320"
+);
+}),
+(68,91,o,{
+de.kutilek.instantAxis.effective = (
+"68",
+"91"
+);
+}),
+(155,-11,o,{
+de.kutilek.instantAxis.effective = (
+"155",
+"-11"
+);
+}),
+(294,-11,cs,{
+de.kutilek.instantAxis.effective = (
+"294",
+"-11"
+);
+})
+);
+}
+);
+width = 560;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (280,0);
+},
+{
+name = top;
+pos = (303,640);
+}
+);
+hints = (
+{
+horizontal = 1;
+options = 4;
+origin = (0,19);
+target = (0,12);
+type = TTStem;
+},
+{
+horizontal = 1;
+options = 4;
+origin = (0,25);
+target = (0,6);
+type = TTStem;
+}
+);
+layerId = m003;
+shapes = (
+{
+closed = 1;
+nodes = (
+(377,-11,o,{
+de.kutilek.instantAxis.effective = (
+"377",
+"-11"
+);
+}),
+(422,19,o,{
+de.kutilek.instantAxis.effective = (
+"422",
+"19"
+);
+}),
+(476,55,c,{
+de.kutilek.instantAxis.effective = (
+"476",
+"55"
+);
+}),
+(444,110,l,{
+de.kutilek.instantAxis.effective = (
+"444",
+"110"
+);
+}),
+(400,83,o,{
+de.kutilek.instantAxis.effective = (
+"400",
+"83"
+);
+}),
+(360,61,o,{
+de.kutilek.instantAxis.effective = (
+"360",
+"61"
+);
+}),
+(308,61,cs,{
+de.kutilek.instantAxis.effective = (
+"308",
+"61"
+);
+}),
+(203,61,o,{
+de.kutilek.instantAxis.effective = (
+"203",
+"61"
+);
+}),
+(150,139,o,{
+de.kutilek.instantAxis.effective = (
+"150",
+"139"
+);
+}),
+(150,320,cs,{
+de.kutilek.instantAxis.effective = (
+"150",
+"320"
+);
+}),
+(150,528,o,{
+de.kutilek.instantAxis.effective = (
+"150",
+"528"
+);
+}),
+(221,579,o,{
+de.kutilek.instantAxis.effective = (
+"221",
+"579"
+);
+}),
+(304,579,cs,{
+de.kutilek.instantAxis.effective = (
+"304",
+"579"
+);
+}),
+(363,579,o,{
+de.kutilek.instantAxis.effective = (
+"363",
+"579"
+);
+}),
+(409,554,o,{
+de.kutilek.instantAxis.effective = (
+"409",
+"554"
+);
+}),
+(443,533,c,{
+de.kutilek.instantAxis.effective = (
+"443",
+"533"
+);
+}),
+(477,590,l,{
+de.kutilek.instantAxis.effective = (
+"477",
+"590"
+);
+}),
+(429,624,o,{
+de.kutilek.instantAxis.effective = (
+"429",
+"624"
+);
+}),
+(374,651,o,{
+de.kutilek.instantAxis.effective = (
+"374",
+"651"
+);
+}),
+(308,651,cs,{
+de.kutilek.instantAxis.effective = (
+"308",
+"651"
+);
+}),
+(155,651,o,{
+de.kutilek.instantAxis.effective = (
+"155",
+"651"
+);
+}),
+(68,543,o,{
+de.kutilek.instantAxis.effective = (
+"68",
+"543"
+);
+}),
+(68,320,cs,{
+de.kutilek.instantAxis.effective = (
+"68",
+"320"
+);
+}),
+(68,91,o,{
+de.kutilek.instantAxis.effective = (
+"68",
+"91"
+);
+}),
+(155,-11,o,{
+de.kutilek.instantAxis.effective = (
+"155",
+"-11"
+);
+}),
+(294,-11,cs,{
+de.kutilek.instantAxis.effective = (
+"294",
+"-11"
+);
+})
+);
+}
+);
+width = 560;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (280,0);
+},
+{
+name = top;
+pos = (303,640);
+}
+);
+hints = (
+{
+horizontal = 1;
+options = 4;
+origin = (0,19);
+target = (0,12);
+type = TTStem;
+},
+{
+horizontal = 1;
+options = 4;
+origin = (0,25);
+target = (0,6);
+type = TTStem;
+}
+);
+layerId = m004;
+shapes = (
+{
+closed = 1;
+nodes = (
+(377,-11,o,{
+de.kutilek.instantAxis.effective = (
+"377",
+"-11"
+);
+}),
+(422,19,o,{
+de.kutilek.instantAxis.effective = (
+"422",
+"19"
+);
+}),
+(476,55,c,{
+de.kutilek.instantAxis.effective = (
+"476",
+"55"
+);
+}),
+(444,110,l,{
+de.kutilek.instantAxis.effective = (
+"444",
+"110"
+);
+}),
+(400,83,o,{
+de.kutilek.instantAxis.effective = (
+"400",
+"83"
+);
+}),
+(360,61,o,{
+de.kutilek.instantAxis.effective = (
+"360",
+"61"
+);
+}),
+(308,61,cs,{
+de.kutilek.instantAxis.effective = (
+"308",
+"61"
+);
+}),
+(203,61,o,{
+de.kutilek.instantAxis.effective = (
+"203",
+"61"
+);
+}),
+(150,139,o,{
+de.kutilek.instantAxis.effective = (
+"150",
+"139"
+);
+}),
+(150,320,cs,{
+de.kutilek.instantAxis.effective = (
+"150",
+"320"
+);
+}),
+(150,528,o,{
+de.kutilek.instantAxis.effective = (
+"150",
+"528"
+);
+}),
+(221,579,o,{
+de.kutilek.instantAxis.effective = (
+"221",
+"579"
+);
+}),
+(304,579,cs,{
+de.kutilek.instantAxis.effective = (
+"304",
+"579"
+);
+}),
+(363,579,o,{
+de.kutilek.instantAxis.effective = (
+"363",
+"579"
+);
+}),
+(409,554,o,{
+de.kutilek.instantAxis.effective = (
+"409",
+"554"
+);
+}),
+(443,533,c,{
+de.kutilek.instantAxis.effective = (
+"443",
+"533"
+);
+}),
+(477,590,l,{
+de.kutilek.instantAxis.effective = (
+"477",
+"590"
+);
+}),
+(429,624,o,{
+de.kutilek.instantAxis.effective = (
+"429",
+"624"
+);
+}),
+(374,651,o,{
+de.kutilek.instantAxis.effective = (
+"374",
+"651"
+);
+}),
+(308,651,cs,{
+de.kutilek.instantAxis.effective = (
+"308",
+"651"
+);
+}),
+(155,651,o,{
+de.kutilek.instantAxis.effective = (
+"155",
+"651"
+);
+}),
+(68,543,o,{
+de.kutilek.instantAxis.effective = (
+"68",
+"543"
+);
+}),
+(68,320,cs,{
+de.kutilek.instantAxis.effective = (
+"68",
+"320"
+);
+}),
+(68,91,o,{
+de.kutilek.instantAxis.effective = (
+"68",
+"91"
+);
+}),
+(155,-11,o,{
+de.kutilek.instantAxis.effective = (
+"155",
+"-11"
+);
+}),
+(294,-11,cs,{
+de.kutilek.instantAxis.effective = (
+"294",
+"-11"
+);
+})
+);
+}
+);
+width = 560;
+}
+);
+userData = {
+KernOnSpecialSpacing = {
+L = NoKerning;
+R = NoKerning;
+};
+};
+}

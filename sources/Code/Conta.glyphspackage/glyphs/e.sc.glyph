@@ -1,0 +1,198 @@
+{
+color = 9;
+glyphname = e.sc;
+kernLeft = KO_e.sc;
+kernRight = KO_e.sc;
+layers = (
+{
+hints = (
+{
+horizontal = 1;
+options = 4;
+place = (0,72);
+type = TTStem;
+},
+{
+horizontal = 1;
+options = 4;
+place = (640,72);
+type = TTStem;
+},
+{
+horizontal = 1;
+options = 8;
+other1 = (0,3);
+place = (0,150);
+type = TTInterpolate;
+},
+{
+horizontal = 1;
+options = 4;
+place = (286,72);
+type = TTStem;
+}
+);
+layerId = "83692D61-586C-413E-9B5A-1AF652750951";
+shapes = (
+{
+ref = E.hex;
+}
+);
+width = 560;
+},
+{
+associatedMasterId = "83692D61-586C-413E-9B5A-1AF652750951";
+layerId = "E6CE487C-E1FC-470A-BAAF-A504782E6D1F";
+name = "Jan 10 18, 17:22";
+shapes = (
+{
+closed = 1;
+nodes = (
+(471,0,l),
+(471,72,l),
+(172,72,l),
+(172,326,l),
+(431,326,l),
+(431,398,l),
+(172,398,l),
+(172,648,l),
+(467,648,l),
+(467,720,l),
+(92,720,l),
+(92,0,l)
+);
+}
+);
+width = 560;
+},
+{
+hints = (
+{
+horizontal = 1;
+options = 4;
+place = (0,72);
+type = TTStem;
+},
+{
+horizontal = 1;
+options = 4;
+place = (640,72);
+type = TTStem;
+},
+{
+horizontal = 1;
+options = 8;
+other1 = (0,3);
+place = (0,150);
+type = TTInterpolate;
+},
+{
+horizontal = 1;
+options = 4;
+place = (286,72);
+type = TTStem;
+}
+);
+layerId = m003;
+shapes = (
+{
+ref = E.hex;
+}
+);
+width = 560;
+},
+{
+associatedMasterId = m003;
+layerId = "160C37C1-2199-414D-9EEB-1A2AACC092CE";
+name = "Jan 10 18, 17:22";
+shapes = (
+{
+closed = 1;
+nodes = (
+(471,0,l),
+(471,72,l),
+(172,72,l),
+(172,326,l),
+(431,326,l),
+(431,398,l),
+(172,398,l),
+(172,648,l),
+(467,648,l),
+(467,720,l),
+(92,720,l),
+(92,0,l)
+);
+}
+);
+width = 560;
+},
+{
+hints = (
+{
+horizontal = 1;
+options = 4;
+place = (0,72);
+type = TTStem;
+},
+{
+horizontal = 1;
+options = 4;
+place = (640,72);
+type = TTStem;
+},
+{
+horizontal = 1;
+options = 8;
+other1 = (0,3);
+place = (0,150);
+type = TTInterpolate;
+},
+{
+horizontal = 1;
+options = 4;
+place = (286,72);
+type = TTStem;
+}
+);
+layerId = m004;
+shapes = (
+{
+ref = E.hex;
+}
+);
+width = 560;
+},
+{
+associatedMasterId = m004;
+layerId = "DBA7E077-589A-4DD0-A9FB-0DFFFEC5CCAA";
+name = "Jan 10 18, 17:22";
+shapes = (
+{
+closed = 1;
+nodes = (
+(471,0,l),
+(471,72,l),
+(172,72,l),
+(172,326,l),
+(431,326,l),
+(431,398,l),
+(172,398,l),
+(172,648,l),
+(467,648,l),
+(467,720,l),
+(92,720,l),
+(92,0,l)
+);
+}
+);
+width = 560;
+}
+);
+userData = {
+KernOnName = e.sc;
+KernOnSpecialSpacing = {
+L = smallcaps;
+R = smallcaps;
+};
+};
+}

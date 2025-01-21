@@ -1,0 +1,55 @@
+{
+color = 6;
+glyphname = plusminus;
+layers = (
+{
+layerId = "83692D61-586C-413E-9B5A-1AF652750951";
+shapes = (
+{
+pos = (0,-324);
+ref = minus;
+},
+{
+pos = (0,80);
+ref = plus;
+}
+);
+width = 560;
+},
+{
+layerId = m003;
+shapes = (
+{
+pos = (0,-324);
+ref = minus;
+},
+{
+pos = (0,80);
+ref = plus;
+}
+);
+width = 560;
+},
+{
+layerId = m004;
+shapes = (
+{
+pos = (0,-324);
+ref = minus;
+},
+{
+pos = (0,80);
+ref = plus;
+}
+);
+width = 560;
+}
+);
+unicode = 177;
+userData = {
+KernOnSpecialSpacing = {
+L = math;
+R = math;
+};
+};
+}

@@ -1,0 +1,53 @@
+{
+color = 6;
+glyphname = uogonek.sc;
+kernLeft = KO_u.sc;
+kernRight = KO_u.sc;
+layers = (
+{
+layerId = "83692D61-586C-413E-9B5A-1AF652750951";
+shapes = (
+{
+ref = u.sc;
+},
+{
+pos = (3,0);
+ref = ogonekcomb;
+}
+);
+width = 560;
+},
+{
+layerId = m003;
+shapes = (
+{
+ref = u.sc;
+},
+{
+pos = (3,0);
+ref = ogonekcomb;
+}
+);
+width = 560;
+},
+{
+layerId = m004;
+shapes = (
+{
+ref = u.sc;
+},
+{
+pos = (3,0);
+ref = ogonekcomb;
+}
+);
+width = 560;
+}
+);
+userData = {
+KernOnSpecialSpacing = {
+L = smallcaps;
+R = smallcaps;
+};
+};
+}

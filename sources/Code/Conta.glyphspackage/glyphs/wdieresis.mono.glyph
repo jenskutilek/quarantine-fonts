@@ -1,0 +1,44 @@
+{
+color = 8;
+export = 0;
+glyphname = wdieresis.mono;
+layers = (
+{
+layerId = "83692D61-586C-413E-9B5A-1AF652750951";
+shapes = (
+{
+ref = w.mono;
+},
+{
+ref = dieresiscomb;
+}
+);
+width = 560;
+},
+{
+layerId = m003;
+shapes = (
+{
+ref = w.mono;
+},
+{
+pos = (0,-10);
+ref = dieresiscomb;
+}
+);
+width = 560;
+},
+{
+layerId = m004;
+shapes = (
+{
+ref = w.mono;
+},
+{
+ref = dieresiscomb;
+}
+);
+width = 560;
+}
+);
+}

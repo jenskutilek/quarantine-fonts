@@ -1,0 +1,202 @@
+{
+export = 0;
+glyphname = l.prop;
+kernLeft = KO_l.prop;
+kernRight = KO_i.prop;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (240,0);
+},
+{
+name = center;
+pos = (240,360);
+},
+{
+name = top;
+pos = (247,800);
+},
+{
+name = topright;
+pos = (500,800);
+}
+);
+background = {
+shapes = (
+{
+pos = (-40,0);
+ref = l;
+}
+);
+};
+hints = (
+{
+horizontal = 1;
+options = 4;
+origin = (0,10);
+target = (0,8);
+type = TTStem;
+},
+{
+horizontal = 1;
+options = 4;
+origin = (0,8);
+target = (0,2);
+type = TTShift;
+},
+{
+horizontal = 1;
+options = 4;
+origin = (0,4);
+target = (0,7);
+type = TTStem;
+}
+);
+layerId = "83692D61-586C-413E-9B5A-1AF652750951";
+shapes = (
+{
+closed = 1;
+nodes = (
+(420,0,l),
+(420,60,l),
+(280,70,l),
+(280,806,l),
+(244,806,l),
+(70,796,l),
+(70,736,l),
+(200,736,l),
+(200,70,l),
+(60,60,l),
+(60,0,l)
+);
+}
+);
+width = 480;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (240,0);
+},
+{
+name = center;
+pos = (240,360);
+},
+{
+name = top;
+pos = (247,800);
+},
+{
+name = topright;
+pos = (500,800);
+}
+);
+hints = (
+{
+horizontal = 1;
+options = 4;
+place = (0,70);
+type = TTStem;
+},
+{
+horizontal = 1;
+options = 4;
+place = (70,0);
+type = TTShift;
+},
+{
+horizontal = 1;
+options = 4;
+place = (806,70);
+type = TTStem;
+}
+);
+layerId = m003;
+shapes = (
+{
+closed = 1;
+nodes = (
+(451,0,l),
+(451,120,l),
+(320,130,l),
+(320,806,l),
+(250,806,l),
+(39,786,l),
+(39,666,l),
+(160,666,l),
+(160,130,l),
+(29,120,l),
+(29,0,l)
+);
+}
+);
+width = 480;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (240,0);
+},
+{
+name = center;
+pos = (240,360);
+},
+{
+name = top;
+pos = (247,800);
+},
+{
+name = topright;
+pos = (500,800);
+}
+);
+hints = (
+{
+horizontal = 1;
+options = 4;
+place = (0,70);
+type = TTStem;
+},
+{
+horizontal = 1;
+options = 4;
+place = (70,0);
+type = TTShift;
+},
+{
+horizontal = 1;
+options = 4;
+place = (806,70);
+type = TTStem;
+}
+);
+layerId = m004;
+shapes = (
+{
+closed = 1;
+nodes = (
+(400,0,l),
+(400,2,l),
+(241,2,l),
+(241,800,l),
+(238,800,l),
+(90,800,l),
+(90,798,l),
+(239,798,l),
+(239,2,l),
+(80,2,l),
+(80,0,l)
+);
+}
+);
+width = 480;
+}
+);
+userData = {
+KernOnName = l.prop;
+};
+}

@@ -1,0 +1,53 @@
+{
+color = 6;
+glyphname = aring.sc;
+kernLeft = KO_a.sc;
+kernRight = KO_a.sc;
+layers = (
+{
+layerId = "83692D61-586C-413E-9B5A-1AF652750951";
+shapes = (
+{
+ref = a.sc;
+},
+{
+pos = (0,80);
+ref = ringcomb;
+}
+);
+width = 560;
+},
+{
+layerId = m003;
+shapes = (
+{
+ref = a.sc;
+},
+{
+pos = (0,70);
+ref = ringcomb;
+}
+);
+width = 560;
+},
+{
+layerId = m004;
+shapes = (
+{
+ref = a.sc;
+},
+{
+pos = (0,90);
+ref = ringcomb;
+}
+);
+width = 560;
+}
+);
+userData = {
+KernOnSpecialSpacing = {
+L = smallcaps;
+R = smallcaps;
+};
+};
+}

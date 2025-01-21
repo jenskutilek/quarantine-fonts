@@ -1,0 +1,48 @@
+{
+color = 6;
+glyphname = scommaaccent;
+kernLeft = KO_s;
+kernRight = KO_s;
+layers = (
+{
+layerId = "83692D61-586C-413E-9B5A-1AF652750951";
+shapes = (
+{
+ref = s;
+},
+{
+pos = (-65,0);
+ref = commaaccentcomb;
+}
+);
+width = 480;
+},
+{
+layerId = m003;
+shapes = (
+{
+ref = s;
+},
+{
+pos = (-65,0);
+ref = commaaccentcomb;
+}
+);
+width = 480;
+},
+{
+layerId = m004;
+shapes = (
+{
+ref = s;
+},
+{
+pos = (-65,0);
+ref = commaaccentcomb;
+}
+);
+width = 480;
+}
+);
+unicode = 537;
+}

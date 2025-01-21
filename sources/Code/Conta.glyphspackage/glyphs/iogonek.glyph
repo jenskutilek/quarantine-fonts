@@ -1,0 +1,63 @@
+{
+color = 6;
+glyphname = iogonek;
+kernLeft = KO_i;
+layers = (
+{
+layerId = "83692D61-586C-413E-9B5A-1AF652750951";
+shapes = (
+{
+ref = idotless;
+},
+{
+pos = (-1,0);
+ref = dotaccentcomb;
+},
+{
+pos = (134,0);
+ref = ogonekcomb;
+}
+);
+width = 560;
+},
+{
+layerId = m003;
+shapes = (
+{
+ref = idotless;
+},
+{
+pos = (-1,0);
+ref = dotaccentcomb;
+},
+{
+pos = (165,0);
+ref = ogonekcomb;
+}
+);
+width = 560;
+},
+{
+layerId = m004;
+shapes = (
+{
+ref = idotless;
+},
+{
+pos = (-1,0);
+ref = dotaccentcomb;
+},
+{
+pos = (104,0);
+ref = ogonekcomb;
+}
+);
+width = 560;
+}
+);
+unicode = 303;
+userData = {
+KernOnSpecialSpacing = {
+};
+};
+}

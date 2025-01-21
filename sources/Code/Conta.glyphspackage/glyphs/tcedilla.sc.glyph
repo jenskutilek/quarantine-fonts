@@ -1,0 +1,50 @@
+{
+color = 6;
+glyphname = tcedilla.sc;
+kernLeft = KO_t.sc;
+kernRight = KO_t.sc;
+layers = (
+{
+layerId = "83692D61-586C-413E-9B5A-1AF652750951";
+shapes = (
+{
+ref = t.sc;
+},
+{
+alignment = -1;
+pos = (-68,0);
+ref = cedillacomb;
+}
+);
+width = 560;
+},
+{
+layerId = m003;
+shapes = (
+{
+ref = t.sc;
+},
+{
+alignment = -1;
+pos = (-68,0);
+ref = cedillacomb;
+}
+);
+width = 560;
+},
+{
+layerId = m004;
+shapes = (
+{
+ref = t.sc;
+},
+{
+alignment = -1;
+pos = (-68,0);
+ref = cedillacomb;
+}
+);
+width = 560;
+}
+);
+}

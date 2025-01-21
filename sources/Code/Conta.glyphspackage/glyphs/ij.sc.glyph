@@ -1,0 +1,45 @@
+{
+color = 6;
+glyphname = ij.sc;
+layers = (
+{
+layerId = "83692D61-586C-413E-9B5A-1AF652750951";
+shapes = (
+{
+ref = i.sc;
+},
+{
+pos = (480,0);
+ref = j.sc;
+}
+);
+width = 960;
+},
+{
+layerId = m003;
+shapes = (
+{
+ref = i.sc;
+},
+{
+pos = (480,0);
+ref = j.sc;
+}
+);
+width = 960;
+},
+{
+layerId = m004;
+shapes = (
+{
+ref = i.sc;
+},
+{
+pos = (480,0);
+ref = j.sc;
+}
+);
+width = 960;
+}
+);
+}

@@ -1,0 +1,53 @@
+{
+color = 6;
+glyphname = edotaccent.sc;
+kernLeft = KO_e.sc;
+kernRight = KO_e.sc;
+layers = (
+{
+layerId = "83692D61-586C-413E-9B5A-1AF652750951";
+shapes = (
+{
+ref = e.sc;
+},
+{
+pos = (5,80);
+ref = dotaccentcomb;
+}
+);
+width = 560;
+},
+{
+layerId = m003;
+shapes = (
+{
+ref = e.sc;
+},
+{
+pos = (5,70);
+ref = dotaccentcomb;
+}
+);
+width = 560;
+},
+{
+layerId = m004;
+shapes = (
+{
+ref = e.sc;
+},
+{
+pos = (5,90);
+ref = dotaccentcomb;
+}
+);
+width = 560;
+}
+);
+userData = {
+KernOnSpecialSpacing = {
+L = smallcaps;
+R = smallcaps;
+};
+};
+}

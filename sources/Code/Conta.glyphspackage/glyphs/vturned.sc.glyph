@@ -1,0 +1,45 @@
+{
+color = 7;
+glyphname = vturned.sc;
+kernRight = KO_a.sc;
+layers = (
+{
+layerId = "83692D61-586C-413E-9B5A-1AF652750951";
+shapes = (
+{
+alignment = -1;
+angle = 180;
+pos = (560,640);
+ref = v.sc;
+}
+);
+width = 560;
+},
+{
+layerId = m003;
+shapes = (
+{
+alignment = -1;
+angle = 180;
+pos = (560,640);
+ref = v.sc;
+}
+);
+width = 560;
+},
+{
+layerId = m004;
+shapes = (
+{
+alignment = -1;
+angle = 180;
+pos = (560,640);
+ref = v.sc;
+}
+);
+width = 560;
+}
+);
+metricLeft = "=|v.sc";
+metricRight = "=|v.sc";
+}

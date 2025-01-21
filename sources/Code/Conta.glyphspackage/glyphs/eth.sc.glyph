@@ -1,0 +1,67 @@
+{
+color = 7;
+glyphname = eth.sc;
+kernRight = KO_d.sc;
+layers = (
+{
+layerId = "83692D61-586C-413E-9B5A-1AF652750951";
+shapes = (
+{
+ref = d.sc;
+},
+{
+closed = 1;
+nodes = (
+(298,288,l),
+(298,360,l),
+(0,360,l),
+(0,288,l)
+);
+}
+);
+width = 560;
+},
+{
+layerId = m003;
+shapes = (
+{
+ref = d.sc;
+},
+{
+closed = 1;
+nodes = (
+(298,288,l),
+(298,360,l),
+(0,360,l),
+(0,288,l)
+);
+}
+);
+width = 560;
+},
+{
+layerId = m004;
+shapes = (
+{
+ref = d.sc;
+},
+{
+closed = 1;
+nodes = (
+(298,288,l),
+(298,360,l),
+(0,360,l),
+(0,288,l)
+);
+}
+);
+width = 560;
+}
+);
+userData = {
+KernOnSpecialSpacing = {
+L = smallcaps;
+R = smallcaps;
+};
+};
+}

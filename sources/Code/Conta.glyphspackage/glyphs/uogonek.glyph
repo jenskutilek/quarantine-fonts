@@ -1,0 +1,48 @@
+{
+color = 6;
+glyphname = uogonek;
+kernLeft = KO_u;
+kernRight = KO_u;
+layers = (
+{
+layerId = "83692D61-586C-413E-9B5A-1AF652750951";
+shapes = (
+{
+ref = u;
+},
+{
+pos = (130,0);
+ref = ogonekcomb;
+}
+);
+width = 560;
+},
+{
+layerId = m003;
+shapes = (
+{
+ref = u;
+},
+{
+pos = (160,0);
+ref = ogonekcomb;
+}
+);
+width = 560;
+},
+{
+layerId = m004;
+shapes = (
+{
+ref = u;
+},
+{
+pos = (100,0);
+ref = ogonekcomb;
+}
+);
+width = 560;
+}
+);
+unicode = 371;
+}

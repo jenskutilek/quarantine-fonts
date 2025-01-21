@@ -1,0 +1,216 @@
+{
+export = 0;
+glyphname = idotless.prop;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (240,0);
+},
+{
+name = ogonek;
+pos = (420,0);
+},
+{
+name = top;
+pos = (247,560);
+}
+);
+background = {
+shapes = (
+{
+pos = (-40,0);
+ref = idotless;
+}
+);
+};
+hints = (
+{
+horizontal = 1;
+options = 4;
+origin = (0,8);
+target = (0,6);
+type = TTStem;
+},
+{
+horizontal = 1;
+options = 4;
+origin = (0,6);
+target = (0,0);
+type = TTShift;
+},
+{
+horizontal = 1;
+options = 4;
+origin = (0,2);
+target = (0,5);
+type = TTStem;
+}
+);
+layerId = "83692D61-586C-413E-9B5A-1AF652750951";
+shapes = (
+{
+closed = 1;
+nodes = (
+(280,70,l),
+(280,566,l),
+(244,566,l),
+(70,556,l),
+(70,496,l),
+(200,496,l),
+(200,70,l),
+(60,60,l),
+(60,0,l),
+(420,0,l),
+(420,60,l)
+);
+}
+);
+width = 480;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (240,0);
+},
+{
+name = ogonek;
+pos = (451,0);
+},
+{
+name = top;
+pos = (247,570);
+}
+);
+background = {
+shapes = (
+{
+closed = 1;
+nodes = (
+(320,140,l),
+(320,582,l),
+(249,582,l),
+(49,562,l),
+(49,443,l),
+(160,443,l),
+(160,140,l),
+(39,119,l),
+(39,0,l),
+(441,0,l),
+(441,119,l)
+);
+}
+);
+};
+hints = (
+{
+horizontal = 1;
+options = 4;
+place = (0,140);
+type = TTStem;
+},
+{
+horizontal = 1;
+options = 4;
+place = (140,0);
+type = TTShift;
+},
+{
+horizontal = 1;
+options = 4;
+place = (582,139);
+type = TTStem;
+}
+);
+layerId = m003;
+shapes = (
+{
+closed = 1;
+nodes = (
+(320,130,l),
+(320,576,l),
+(250,576,l),
+(39,556,l),
+(39,436,l),
+(160,436,l),
+(160,130,l),
+(29,120,l),
+(29,0,l),
+(451,0,l),
+(451,120,l)
+);
+}
+);
+width = 480;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (240,0);
+},
+{
+name = ogonek;
+pos = (400,0);
+},
+{
+name = top;
+pos = (247,550);
+}
+);
+background = {
+shapes = (
+{
+pos = (-40,0);
+ref = idotless;
+}
+);
+};
+hints = (
+{
+horizontal = 1;
+options = 4;
+origin = (0,8);
+target = (0,6);
+type = TTStem;
+},
+{
+horizontal = 1;
+options = 4;
+origin = (0,6);
+target = (0,0);
+type = TTShift;
+},
+{
+horizontal = 1;
+options = 4;
+origin = (0,2);
+target = (0,5);
+type = TTStem;
+}
+);
+layerId = m004;
+shapes = (
+{
+closed = 1;
+nodes = (
+(241,2,l),
+(241,550,l),
+(239,550,l),
+(90,550,l),
+(90,548,l),
+(239,548,l),
+(239,2,l),
+(80,2,l),
+(80,0,l),
+(400,0,l),
+(400,2,l)
+);
+}
+);
+width = 480;
+}
+);
+}

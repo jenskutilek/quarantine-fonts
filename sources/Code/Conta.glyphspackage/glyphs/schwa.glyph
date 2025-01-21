@@ -1,0 +1,42 @@
+{
+color = 6;
+glyphname = schwa;
+kernLeft = KO_schwa;
+kernRight = KO_schwa;
+layers = (
+{
+layerId = "83692D61-586C-413E-9B5A-1AF652750951";
+shapes = (
+{
+angle = 180;
+pos = (560,560);
+ref = e;
+}
+);
+width = 560;
+},
+{
+layerId = m003;
+shapes = (
+{
+angle = 180;
+pos = (560,570);
+ref = e;
+}
+);
+width = 560;
+},
+{
+layerId = m004;
+shapes = (
+{
+angle = 180;
+pos = (560,550);
+ref = e;
+}
+);
+width = 560;
+}
+);
+unicode = 601;
+}

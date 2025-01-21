@@ -1,0 +1,44 @@
+{
+color = 8;
+export = 0;
+glyphname = wacute.mono;
+layers = (
+{
+layerId = "83692D61-586C-413E-9B5A-1AF652750951";
+shapes = (
+{
+ref = w.mono;
+},
+{
+ref = acutecomb;
+}
+);
+width = 560;
+},
+{
+layerId = m003;
+shapes = (
+{
+ref = w.mono;
+},
+{
+pos = (0,-10);
+ref = acutecomb;
+}
+);
+width = 560;
+},
+{
+layerId = m004;
+shapes = (
+{
+ref = w.mono;
+},
+{
+ref = acutecomb;
+}
+);
+width = 560;
+}
+);
+}

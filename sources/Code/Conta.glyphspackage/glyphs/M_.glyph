@@ -1,0 +1,531 @@
+{
+glyphname = M;
+kernLeft = KO_M;
+kernRight = KO_M;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (360,0);
+},
+{
+name = top;
+pos = (360,720);
+}
+);
+hints = (
+{
+horizontal = 1;
+options = 4;
+origin = (2,3);
+other1 = (0,3,2,1);
+target = (0,2);
+type = TTInterpolate;
+},
+{
+horizontal = 1;
+options = 4;
+origin = (2,3);
+other1 = (1,1,3,2);
+target = (0,2);
+type = TTInterpolate;
+},
+{
+horizontal = 1;
+options = 4;
+origin = (2,3);
+other1 = (2,3,3,0);
+target = (0,2);
+type = TTInterpolate;
+},
+{
+horizontal = 1;
+options = 4;
+origin = (3,3);
+target = (2,3);
+type = TTShift;
+},
+{
+horizontal = 1;
+options = 4;
+origin = (2,1);
+target = (0,2);
+type = TTShift;
+},
+{
+horizontal = 1;
+options = 4;
+origin = (1,1);
+target = (2,1);
+type = TTShift;
+}
+);
+layerId = "83692D61-586C-413E-9B5A-1AF652750951";
+shapes = (
+{
+closed = 1;
+nodes = (
+(122,720,l),
+(72,0,l),
+(148,0,l),
+(198,720,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(522,720,l),
+(572,0,l),
+(648,0,l),
+(598,720,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(163,720,l),
+(309,0,l),
+(387,0,l),
+(241,720,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(339,0,l),
+(411,0,l),
+(557,720,l),
+(485,720,l)
+);
+}
+);
+width = 720;
+},
+{
+associatedMasterId = "83692D61-586C-413E-9B5A-1AF652750951";
+layerId = "D36518EA-A451-49CD-9689-71A006F6C7DE";
+name = "Jan 9 18, 17:31";
+shapes = (
+{
+closed = 1;
+nodes = (
+(120,0,l),
+(120,648,l),
+(280,648,l),
+(280,0,l),
+(360,0,l),
+(360,648,l),
+(520,648,l),
+(520,0,l),
+(600,0,l),
+(600,720,l),
+(40,720,l),
+(40,0,l)
+);
+}
+);
+width = 640;
+},
+{
+associatedMasterId = "83692D61-586C-413E-9B5A-1AF652750951";
+guides = (
+{
+pos = (29,578);
+}
+);
+layerId = "972F3E4A-8DF6-42D8-93D1-10164F196B38";
+name = "Jan 9 18, 17:54";
+shapes = (
+{
+closed = 1;
+nodes = (
+(110,720,l),
+(60,0,l),
+(140,0,l),
+(190,720,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(510,720,l),
+(560,0,l),
+(640,0,l),
+(590,720,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(151,720,l),
+(297,0,l),
+(379,0,l),
+(233,720,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(327,0,l),
+(403,0,l),
+(549,720,l),
+(473,720,l)
+);
+}
+);
+width = 700;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (360,0);
+},
+{
+name = top;
+pos = (360,720);
+}
+);
+color = 0;
+hints = (
+{
+horizontal = 1;
+options = 4;
+origin = (2,3);
+other1 = (0,3,2,1);
+target = (0,2);
+type = TTInterpolate;
+},
+{
+horizontal = 1;
+options = 4;
+origin = (2,3);
+other1 = (1,1,3,2);
+target = (0,2);
+type = TTInterpolate;
+},
+{
+horizontal = 1;
+options = 4;
+origin = (2,3);
+other1 = (2,3,3,0);
+target = (0,2);
+type = TTInterpolate;
+},
+{
+horizontal = 1;
+options = 4;
+origin = (3,3);
+target = (2,3);
+type = TTShift;
+},
+{
+horizontal = 1;
+options = 4;
+origin = (2,1);
+target = (0,2);
+type = TTShift;
+},
+{
+horizontal = 1;
+options = 4;
+origin = (1,1);
+target = (2,1);
+type = TTShift;
+}
+);
+layerId = m003;
+shapes = (
+{
+closed = 1;
+nodes = (
+(69,720,l),
+(45,0,l),
+(197,0,l),
+(221,720,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(498,720,l),
+(523,0,l),
+(675,0,l),
+(650,720,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(152,720,l),
+(258,0,l),
+(414,0,l),
+(308,720,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(318,0,l),
+(462,0,l),
+(567,720,l),
+(423,720,l)
+);
+}
+);
+width = 720;
+},
+{
+associatedMasterId = m003;
+layerId = "4E614B02-1A25-4148-937C-A7E7911AF6E5";
+name = "Jan 9 18, 17:31";
+shapes = (
+{
+closed = 1;
+nodes = (
+(120,0,l),
+(120,648,l),
+(280,648,l),
+(280,0,l),
+(360,0,l),
+(360,648,l),
+(520,648,l),
+(520,0,l),
+(600,0,l),
+(600,720,l),
+(40,720,l),
+(40,0,l)
+);
+}
+);
+width = 640;
+},
+{
+associatedMasterId = m003;
+guides = (
+{
+pos = (29,578);
+}
+);
+layerId = "FD8FE2F0-DA7C-4D71-B2D6-6A85FF632669";
+name = "Jan 9 18, 17:54";
+shapes = (
+{
+closed = 1;
+nodes = (
+(110,720,l),
+(60,0,l),
+(140,0,l),
+(190,720,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(510,720,l),
+(560,0,l),
+(640,0,l),
+(590,720,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(151,720,l),
+(297,0,l),
+(379,0,l),
+(233,720,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(327,0,l),
+(403,0,l),
+(549,720,l),
+(473,720,l)
+);
+}
+);
+width = 700;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (360,0);
+},
+{
+name = top;
+pos = (360,720);
+}
+);
+hints = (
+{
+horizontal = 1;
+options = 4;
+origin = (2,3);
+other1 = (0,3,2,1);
+target = (0,2);
+type = TTInterpolate;
+},
+{
+horizontal = 1;
+options = 4;
+origin = (2,3);
+other1 = (1,1,3,2);
+target = (0,2);
+type = TTInterpolate;
+},
+{
+horizontal = 1;
+options = 4;
+origin = (2,3);
+other1 = (2,3,3,0);
+target = (0,2);
+type = TTInterpolate;
+},
+{
+horizontal = 1;
+options = 4;
+origin = (3,3);
+target = (2,3);
+type = TTShift;
+},
+{
+horizontal = 1;
+options = 4;
+origin = (2,1);
+target = (0,2);
+type = TTShift;
+},
+{
+horizontal = 1;
+options = 4;
+origin = (1,1);
+target = (2,1);
+type = TTShift;
+}
+);
+layerId = m004;
+shapes = (
+{
+closed = 1;
+nodes = (
+(174,720,l),
+(98,0,l),
+(100,0,l),
+(176,720,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(545,720,l),
+(620,0,l),
+(622,0,l),
+(547,720,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(174,720,l),
+(359,0,l),
+(361,0,l),
+(176,720,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(359,0,l),
+(361,0,l),
+(547,720,l),
+(545,720,l)
+);
+}
+);
+width = 720;
+},
+{
+associatedMasterId = m004;
+layerId = "0BCAB725-1E9D-4B62-9B6E-06118841098B";
+name = "Jan 9 18, 17:31";
+shapes = (
+{
+closed = 1;
+nodes = (
+(120,0,l),
+(120,648,l),
+(280,648,l),
+(280,0,l),
+(360,0,l),
+(360,648,l),
+(520,648,l),
+(520,0,l),
+(600,0,l),
+(600,720,l),
+(40,720,l),
+(40,0,l)
+);
+}
+);
+width = 640;
+},
+{
+associatedMasterId = m004;
+guides = (
+{
+pos = (29,578);
+}
+);
+layerId = "BF19DA16-52B9-4316-8C50-4D4143206CC6";
+name = "Jan 9 18, 17:54";
+shapes = (
+{
+closed = 1;
+nodes = (
+(110,720,l),
+(60,0,l),
+(140,0,l),
+(190,720,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(510,720,l),
+(560,0,l),
+(640,0,l),
+(590,720,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(151,720,l),
+(297,0,l),
+(379,0,l),
+(233,720,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(327,0,l),
+(403,0,l),
+(549,720,l),
+(473,720,l)
+);
+}
+);
+width = 700;
+}
+);
+unicode = 77;
+userData = {
+KernOnName = M;
+};
+}

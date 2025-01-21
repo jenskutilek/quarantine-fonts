@@ -1,0 +1,40 @@
+{
+color = 7;
+glyphname = vturned;
+layers = (
+{
+layerId = "83692D61-586C-413E-9B5A-1AF652750951";
+shapes = (
+{
+angle = 180;
+pos = (560,560);
+ref = v;
+}
+);
+width = 560;
+},
+{
+layerId = m003;
+shapes = (
+{
+angle = 180;
+pos = (560,570);
+ref = v;
+}
+);
+width = 560;
+},
+{
+layerId = m004;
+shapes = (
+{
+angle = 180;
+pos = (560,550);
+ref = v;
+}
+);
+width = 560;
+}
+);
+unicode = 652;
+}

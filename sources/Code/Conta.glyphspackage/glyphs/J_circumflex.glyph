@@ -1,0 +1,48 @@
+{
+color = 6;
+glyphname = Jcircumflex;
+kernLeft = KO_J;
+kernRight = KO_J;
+layers = (
+{
+layerId = "83692D61-586C-413E-9B5A-1AF652750951";
+shapes = (
+{
+ref = J;
+},
+{
+pos = (-24,0);
+ref = circumflexcomb.case;
+}
+);
+width = 480;
+},
+{
+layerId = m003;
+shapes = (
+{
+ref = J;
+},
+{
+pos = (-24,0);
+ref = circumflexcomb.case;
+}
+);
+width = 480;
+},
+{
+layerId = m004;
+shapes = (
+{
+ref = J;
+},
+{
+pos = (-24,0);
+ref = circumflexcomb.case;
+}
+);
+width = 480;
+}
+);
+unicode = 308;
+}

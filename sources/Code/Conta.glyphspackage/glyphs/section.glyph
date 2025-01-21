@@ -1,0 +1,25 @@
+{
+color = 0;
+export = 0;
+glyphname = section;
+layers = (
+{
+layerId = "83692D61-586C-413E-9B5A-1AF652750951";
+width = 560;
+},
+{
+layerId = m003;
+width = 560;
+},
+{
+layerId = m004;
+width = 560;
+}
+);
+unicode = 167;
+userData = {
+KernOnSpecialSpacing = {
+R = symbols;
+};
+};
+}

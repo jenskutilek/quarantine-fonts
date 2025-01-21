@@ -1,0 +1,205 @@
+{
+glyphname = dagger;
+kernLeft = KO_dagger;
+layers = (
+{
+hints = (
+{
+horizontal = 1;
+origin = (0,5);
+type = TTSnap;
+},
+{
+horizontal = 1;
+origin = (0,3);
+type = TTSnap;
+},
+{
+horizontal = 1;
+origin = (1,4);
+type = TTSnap;
+},
+{
+horizontal = 1;
+options = 4;
+origin = (1,4);
+target = (1,2);
+type = TTShift;
+},
+{
+horizontal = 1;
+options = 4;
+origin = (1,2);
+target = (1,1);
+type = TTStem;
+},
+{
+horizontal = 1;
+options = 4;
+origin = (1,1);
+target = (1,5);
+type = TTShift;
+}
+);
+layerId = "83692D61-586C-413E-9B5A-1AF652750951";
+shapes = (
+{
+closed = 1;
+nodes = (
+(320,-60,l),
+(320,468,l),
+(323,700,l),
+(237,700,l),
+(240,468,l),
+(240,-60,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(280,409,l),
+(520,406,l),
+(520,482,l),
+(280,479,l),
+(40,482,l),
+(40,406,l)
+);
+}
+);
+width = 560;
+},
+{
+hints = (
+{
+horizontal = 1;
+origin = (0,5);
+type = TTSnap;
+},
+{
+horizontal = 1;
+origin = (0,3);
+type = TTSnap;
+},
+{
+horizontal = 1;
+origin = (1,4);
+type = TTSnap;
+},
+{
+horizontal = 1;
+options = 4;
+origin = (1,4);
+target = (1,2);
+type = TTShift;
+},
+{
+horizontal = 1;
+options = 4;
+origin = (1,2);
+target = (1,1);
+type = TTStem;
+},
+{
+horizontal = 1;
+options = 4;
+origin = (1,1);
+target = (1,5);
+type = TTShift;
+}
+);
+layerId = m003;
+shapes = (
+{
+closed = 1;
+nodes = (
+(320,-60,l),
+(320,468,l),
+(323,700,l),
+(237,700,l),
+(240,468,l),
+(240,-60,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(280,409,l),
+(520,406,l),
+(520,482,l),
+(280,479,l),
+(40,482,l),
+(40,406,l)
+);
+}
+);
+width = 560;
+},
+{
+hints = (
+{
+horizontal = 1;
+origin = (0,5);
+type = TTSnap;
+},
+{
+horizontal = 1;
+origin = (0,3);
+type = TTSnap;
+},
+{
+horizontal = 1;
+origin = (1,4);
+type = TTSnap;
+},
+{
+horizontal = 1;
+options = 4;
+origin = (1,4);
+target = (1,2);
+type = TTShift;
+},
+{
+horizontal = 1;
+options = 4;
+origin = (1,2);
+target = (1,1);
+type = TTStem;
+},
+{
+horizontal = 1;
+options = 4;
+origin = (1,1);
+target = (1,5);
+type = TTShift;
+}
+);
+layerId = m004;
+shapes = (
+{
+closed = 1;
+nodes = (
+(320,-60,l),
+(320,468,l),
+(323,700,l),
+(237,700,l),
+(240,468,l),
+(240,-60,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(280,409,l),
+(520,406,l),
+(520,482,l),
+(280,479,l),
+(40,482,l),
+(40,406,l)
+);
+}
+);
+width = 560;
+}
+);
+unicode = 8224;
+}

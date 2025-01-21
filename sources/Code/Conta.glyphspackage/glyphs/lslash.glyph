@@ -1,0 +1,37 @@
+{
+color = 0;
+export = 0;
+glyphname = lslash;
+kernLeft = KO_l;
+kernRight = KO_l;
+layers = (
+{
+layerId = "83692D61-586C-413E-9B5A-1AF652750951";
+shapes = (
+{
+ref = l;
+}
+);
+width = 560;
+},
+{
+layerId = m003;
+shapes = (
+{
+ref = l;
+}
+);
+width = 560;
+},
+{
+layerId = m004;
+shapes = (
+{
+ref = l;
+}
+);
+width = 560;
+}
+);
+unicode = 322;
+}
