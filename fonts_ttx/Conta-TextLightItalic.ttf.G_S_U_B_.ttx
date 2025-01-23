@@ -1,0 +1,2075 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ttFont ttLibVersion="4.54">
+
+  <GSUB>
+    <Version value="0x00010000"/>
+    <ScriptList>
+      <!-- ScriptCount=2 -->
+      <ScriptRecord index="0">
+        <ScriptTag value="DFLT"/>
+        <Script>
+          <DefaultLangSys>
+            <ReqFeatureIndex value="65535"/>
+            <!-- FeatureCount=8 -->
+            <FeatureIndex index="0" value="0"/>
+            <FeatureIndex index="1" value="1"/>
+            <FeatureIndex index="2" value="2"/>
+            <FeatureIndex index="3" value="3"/>
+            <FeatureIndex index="4" value="7"/>
+            <FeatureIndex index="5" value="8"/>
+            <FeatureIndex index="6" value="9"/>
+            <FeatureIndex index="7" value="10"/>
+          </DefaultLangSys>
+          <!-- LangSysCount=0 -->
+        </Script>
+      </ScriptRecord>
+      <ScriptRecord index="1">
+        <ScriptTag value="latn"/>
+        <Script>
+          <DefaultLangSys>
+            <ReqFeatureIndex value="65535"/>
+            <!-- FeatureCount=8 -->
+            <FeatureIndex index="0" value="0"/>
+            <FeatureIndex index="1" value="1"/>
+            <FeatureIndex index="2" value="2"/>
+            <FeatureIndex index="3" value="3"/>
+            <FeatureIndex index="4" value="7"/>
+            <FeatureIndex index="5" value="8"/>
+            <FeatureIndex index="6" value="9"/>
+            <FeatureIndex index="7" value="10"/>
+          </DefaultLangSys>
+          <!-- LangSysCount=3 -->
+          <LangSysRecord index="0">
+            <LangSysTag value="MOL "/>
+            <LangSys>
+              <ReqFeatureIndex value="65535"/>
+              <!-- FeatureCount=9 -->
+              <FeatureIndex index="0" value="0"/>
+              <FeatureIndex index="1" value="1"/>
+              <FeatureIndex index="2" value="2"/>
+              <FeatureIndex index="3" value="3"/>
+              <FeatureIndex index="4" value="5"/>
+              <FeatureIndex index="5" value="7"/>
+              <FeatureIndex index="6" value="8"/>
+              <FeatureIndex index="7" value="9"/>
+              <FeatureIndex index="8" value="10"/>
+            </LangSys>
+          </LangSysRecord>
+          <LangSysRecord index="1">
+            <LangSysTag value="NLD "/>
+            <LangSys>
+              <ReqFeatureIndex value="65535"/>
+              <!-- FeatureCount=9 -->
+              <FeatureIndex index="0" value="0"/>
+              <FeatureIndex index="1" value="1"/>
+              <FeatureIndex index="2" value="2"/>
+              <FeatureIndex index="3" value="3"/>
+              <FeatureIndex index="4" value="6"/>
+              <FeatureIndex index="5" value="7"/>
+              <FeatureIndex index="6" value="8"/>
+              <FeatureIndex index="7" value="9"/>
+              <FeatureIndex index="8" value="10"/>
+            </LangSys>
+          </LangSysRecord>
+          <LangSysRecord index="2">
+            <LangSysTag value="ROM "/>
+            <LangSys>
+              <ReqFeatureIndex value="65535"/>
+              <!-- FeatureCount=9 -->
+              <FeatureIndex index="0" value="0"/>
+              <FeatureIndex index="1" value="1"/>
+              <FeatureIndex index="2" value="2"/>
+              <FeatureIndex index="3" value="3"/>
+              <FeatureIndex index="4" value="4"/>
+              <FeatureIndex index="5" value="7"/>
+              <FeatureIndex index="6" value="8"/>
+              <FeatureIndex index="7" value="9"/>
+              <FeatureIndex index="8" value="10"/>
+            </LangSys>
+          </LangSysRecord>
+        </Script>
+      </ScriptRecord>
+    </ScriptList>
+    <FeatureList>
+      <!-- FeatureCount=11 -->
+      <FeatureRecord index="0">
+        <FeatureTag value="c2sc"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="10"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="1">
+        <FeatureTag value="calt"/>
+        <Feature>
+          <!-- LookupCount=2 -->
+          <LookupListIndex index="0" value="3"/>
+          <LookupListIndex index="1" value="4"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="2">
+        <FeatureTag value="case"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="7"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="3">
+        <FeatureTag value="ccmp"/>
+        <Feature>
+          <!-- LookupCount=3 -->
+          <LookupListIndex index="0" value="0"/>
+          <LookupListIndex index="1" value="1"/>
+          <LookupListIndex index="2" value="2"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="4">
+        <FeatureTag value="locl"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="5"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="5">
+        <FeatureTag value="locl"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="5"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="6">
+        <FeatureTag value="locl"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="6"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="7">
+        <FeatureTag value="smcp"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="11"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="8">
+        <FeatureTag value="ss01"/>
+        <Feature>
+          <FeatureParamsStylisticSet>
+            <Version value="0"/>
+            <UINameID value="258"/>  <!-- No serifs -->
+          </FeatureParamsStylisticSet>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="12"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="9">
+        <FeatureTag value="ss19"/>
+        <Feature>
+          <FeatureParamsStylisticSet>
+            <Version value="0"/>
+            <UINameID value="257"/>  <!-- Slashed zero -->
+          </FeatureParamsStylisticSet>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="9"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="10">
+        <FeatureTag value="zero"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="8"/>
+        </Feature>
+      </FeatureRecord>
+    </FeatureList>
+    <LookupList>
+      <!-- LookupCount=17 -->
+      <Lookup index="0">
+        <LookupType value="6"/>
+        <LookupFlag value="16"/><!-- useMarkFilteringSet -->
+        <!-- SubTableCount=2 -->
+        <ChainContextSubst index="0" Format="3">
+          <!-- BacktrackGlyphCount=0 -->
+          <!-- InputGlyphCount=1 -->
+          <InputCoverage index="0">
+            <Glyph value="i"/>
+          </InputCoverage>
+          <!-- LookAheadGlyphCount=1 -->
+          <LookAheadCoverage index="0">
+            <Glyph value="uni0308"/>
+            <Glyph value="uni0307"/>
+            <Glyph value="gravecomb"/>
+            <Glyph value="acutecomb"/>
+            <Glyph value="uni0302"/>
+            <Glyph value="uni030C"/>
+            <Glyph value="uni0306"/>
+            <Glyph value="uni030A"/>
+            <Glyph value="tildecomb"/>
+            <Glyph value="uni0304"/>
+          </LookAheadCoverage>
+          <!-- SubstCount=1 -->
+          <SubstLookupRecord index="0">
+            <SequenceIndex value="0"/>
+            <LookupListIndex value="13"/>
+          </SubstLookupRecord>
+        </ChainContextSubst>
+        <ChainContextSubst index="1" Format="3">
+          <!-- BacktrackGlyphCount=0 -->
+          <!-- InputGlyphCount=1 -->
+          <InputCoverage index="0">
+            <Glyph value="j"/>
+          </InputCoverage>
+          <!-- LookAheadGlyphCount=1 -->
+          <LookAheadCoverage index="0">
+            <Glyph value="uni0308"/>
+            <Glyph value="uni0307"/>
+            <Glyph value="gravecomb"/>
+            <Glyph value="acutecomb"/>
+            <Glyph value="uni0302"/>
+            <Glyph value="uni030C"/>
+            <Glyph value="uni0306"/>
+            <Glyph value="uni030A"/>
+            <Glyph value="tildecomb"/>
+            <Glyph value="uni0304"/>
+          </LookAheadCoverage>
+          <!-- SubstCount=1 -->
+          <SubstLookupRecord index="0">
+            <SequenceIndex value="0"/>
+            <LookupListIndex value="13"/>
+          </SubstLookupRecord>
+        </ChainContextSubst>
+        <MarkFilteringSet value="0"/>
+      </Lookup>
+      <Lookup index="1">
+        <LookupType value="6"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=2 -->
+        <ChainContextSubst index="0" Format="3">
+          <!-- BacktrackGlyphCount=1 -->
+          <BacktrackCoverage index="0">
+            <Glyph value="uni0308"/>
+            <Glyph value="uni0307"/>
+            <Glyph value="gravecomb"/>
+            <Glyph value="acutecomb"/>
+            <Glyph value="uni0302"/>
+            <Glyph value="uni030C"/>
+            <Glyph value="uni0306"/>
+            <Glyph value="uni030A"/>
+            <Glyph value="tildecomb"/>
+            <Glyph value="uni0304"/>
+          </BacktrackCoverage>
+          <!-- InputGlyphCount=1 -->
+          <InputCoverage index="0">
+            <Glyph value="uni0308"/>
+            <Glyph value="uni0307"/>
+            <Glyph value="gravecomb"/>
+            <Glyph value="acutecomb"/>
+            <Glyph value="uni0302"/>
+            <Glyph value="uni030C"/>
+            <Glyph value="uni0306"/>
+            <Glyph value="uni030A"/>
+            <Glyph value="tildecomb"/>
+            <Glyph value="uni0304"/>
+          </InputCoverage>
+          <!-- LookAheadGlyphCount=0 -->
+          <!-- SubstCount=1 -->
+          <SubstLookupRecord index="0">
+            <SequenceIndex value="0"/>
+            <LookupListIndex value="14"/>
+          </SubstLookupRecord>
+        </ChainContextSubst>
+        <ChainContextSubst index="1" Format="3">
+          <!-- BacktrackGlyphCount=1 -->
+          <BacktrackCoverage index="0">
+            <Glyph value="A"/>
+            <Glyph value="Aacute"/>
+            <Glyph value="Abreve"/>
+            <Glyph value="uni01CD"/>
+            <Glyph value="Acircumflex"/>
+            <Glyph value="Adieresis"/>
+            <Glyph value="Agrave"/>
+            <Glyph value="Amacron"/>
+            <Glyph value="Aogonek"/>
+            <Glyph value="Aring"/>
+            <Glyph value="Atilde"/>
+            <Glyph value="B"/>
+            <Glyph value="C"/>
+            <Glyph value="Cacute"/>
+            <Glyph value="Ccaron"/>
+            <Glyph value="Ccedilla"/>
+            <Glyph value="Ccircumflex"/>
+            <Glyph value="Cdotaccent"/>
+            <Glyph value="D"/>
+            <Glyph value="Dcaron"/>
+            <Glyph value="Dcroat"/>
+            <Glyph value="Eth"/>
+            <Glyph value="E"/>
+            <Glyph value="Eacute"/>
+            <Glyph value="Ebreve"/>
+            <Glyph value="Ecaron"/>
+            <Glyph value="Ecircumflex"/>
+            <Glyph value="Edieresis"/>
+            <Glyph value="Edotaccent"/>
+            <Glyph value="Egrave"/>
+            <Glyph value="Emacron"/>
+            <Glyph value="Eogonek"/>
+            <Glyph value="uni1EBC"/>
+            <Glyph value="uni018F"/>
+            <Glyph value="F"/>
+            <Glyph value="G"/>
+            <Glyph value="Gbreve"/>
+            <Glyph value="Gcaron"/>
+            <Glyph value="Gcircumflex"/>
+            <Glyph value="uni0122"/>
+            <Glyph value="Gdotaccent"/>
+            <Glyph value="uni1E20"/>
+            <Glyph value="H"/>
+            <Glyph value="Hbar"/>
+            <Glyph value="Hcircumflex"/>
+            <Glyph value="uni1E26"/>
+            <Glyph value="I"/>
+            <Glyph value="Iacute"/>
+            <Glyph value="Ibreve"/>
+            <Glyph value="uni01CF"/>
+            <Glyph value="Icircumflex"/>
+            <Glyph value="Idieresis"/>
+            <Glyph value="Idotaccent"/>
+            <Glyph value="Igrave"/>
+            <Glyph value="Imacron"/>
+            <Glyph value="Iogonek"/>
+            <Glyph value="Itilde"/>
+            <Glyph value="J"/>
+            <Glyph value="uni004A0301"/>
+            <Glyph value="Jcircumflex"/>
+            <Glyph value="K"/>
+            <Glyph value="uni0136"/>
+            <Glyph value="L"/>
+            <Glyph value="Lacute"/>
+            <Glyph value="uni013B"/>
+            <Glyph value="M"/>
+            <Glyph value="N"/>
+            <Glyph value="Nacute"/>
+            <Glyph value="Ncaron"/>
+            <Glyph value="uni0145"/>
+            <Glyph value="uni1E44"/>
+            <Glyph value="Ntilde"/>
+            <Glyph value="O"/>
+            <Glyph value="Oacute"/>
+            <Glyph value="Obreve"/>
+            <Glyph value="uni01D1"/>
+            <Glyph value="Ocircumflex"/>
+            <Glyph value="Odieresis"/>
+            <Glyph value="Ograve"/>
+            <Glyph value="Omacron"/>
+            <Glyph value="Otilde"/>
+            <Glyph value="P"/>
+            <Glyph value="uni1E56"/>
+            <Glyph value="Thorn"/>
+            <Glyph value="Q"/>
+            <Glyph value="R"/>
+            <Glyph value="Racute"/>
+            <Glyph value="Rcaron"/>
+            <Glyph value="uni0156"/>
+            <Glyph value="S"/>
+            <Glyph value="Sacute"/>
+            <Glyph value="Scaron"/>
+            <Glyph value="Scedilla"/>
+            <Glyph value="Scircumflex"/>
+            <Glyph value="uni0218"/>
+            <Glyph value="uni1E9E"/>
+            <Glyph value="T"/>
+            <Glyph value="Tcaron"/>
+            <Glyph value="uni0162"/>
+            <Glyph value="uni021A"/>
+            <Glyph value="U"/>
+            <Glyph value="Uacute"/>
+            <Glyph value="Ubreve"/>
+            <Glyph value="uni01D3"/>
+            <Glyph value="Ucircumflex"/>
+            <Glyph value="Udieresis"/>
+            <Glyph value="Ugrave"/>
+            <Glyph value="Umacron"/>
+            <Glyph value="Uogonek"/>
+            <Glyph value="Uring"/>
+            <Glyph value="Utilde"/>
+            <Glyph value="V"/>
+            <Glyph value="uni0245"/>
+            <Glyph value="W"/>
+            <Glyph value="Wacute"/>
+            <Glyph value="Wcircumflex"/>
+            <Glyph value="Wdieresis"/>
+            <Glyph value="Wgrave"/>
+            <Glyph value="X"/>
+            <Glyph value="uni1E8C"/>
+            <Glyph value="Y"/>
+            <Glyph value="Yacute"/>
+            <Glyph value="Ycircumflex"/>
+            <Glyph value="Ydieresis"/>
+            <Glyph value="Ygrave"/>
+            <Glyph value="uni0232"/>
+            <Glyph value="uni1EF8"/>
+            <Glyph value="Z"/>
+            <Glyph value="Zacute"/>
+            <Glyph value="Zcaron"/>
+            <Glyph value="Zdotaccent"/>
+            <Glyph value="A.hex"/>
+            <Glyph value="B.hex"/>
+            <Glyph value="C.hex"/>
+            <Glyph value="D.hex"/>
+            <Glyph value="E.hex"/>
+            <Glyph value="F.hex"/>
+            <Glyph value="I.sans"/>
+            <Glyph value="I.sans.prop"/>
+          </BacktrackCoverage>
+          <!-- InputGlyphCount=1 -->
+          <InputCoverage index="0">
+            <Glyph value="uni0308"/>
+            <Glyph value="uni0307"/>
+            <Glyph value="gravecomb"/>
+            <Glyph value="acutecomb"/>
+            <Glyph value="uni0302"/>
+            <Glyph value="uni030C"/>
+            <Glyph value="uni0306"/>
+            <Glyph value="uni030A"/>
+            <Glyph value="tildecomb"/>
+            <Glyph value="uni0304"/>
+          </InputCoverage>
+          <!-- LookAheadGlyphCount=0 -->
+          <!-- SubstCount=1 -->
+          <SubstLookupRecord index="0">
+            <SequenceIndex value="0"/>
+            <LookupListIndex value="14"/>
+          </SubstLookupRecord>
+        </ChainContextSubst>
+      </Lookup>
+      <Lookup index="2">
+        <LookupType value="6"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=2 -->
+        <ChainContextSubst index="0" Format="3">
+          <!-- BacktrackGlyphCount=0 -->
+          <!-- InputGlyphCount=1 -->
+          <InputCoverage index="0">
+            <Glyph value="uni0308"/>
+            <Glyph value="uni0307"/>
+            <Glyph value="gravecomb"/>
+            <Glyph value="acutecomb"/>
+            <Glyph value="uni0302"/>
+            <Glyph value="uni030C"/>
+            <Glyph value="uni0306"/>
+            <Glyph value="uni030A"/>
+            <Glyph value="tildecomb"/>
+            <Glyph value="uni0304"/>
+          </InputCoverage>
+          <!-- LookAheadGlyphCount=1 -->
+          <LookAheadCoverage index="0">
+            <Glyph value="uni0308.case"/>
+            <Glyph value="uni0307.case"/>
+            <Glyph value="gravecomb.case"/>
+            <Glyph value="acutecomb.case"/>
+            <Glyph value="uni0302.case"/>
+            <Glyph value="uni030C.case"/>
+            <Glyph value="uni0306.case"/>
+            <Glyph value="uni030A.case"/>
+            <Glyph value="tildecomb.case"/>
+            <Glyph value="uni0304.case"/>
+          </LookAheadCoverage>
+          <!-- SubstCount=1 -->
+          <SubstLookupRecord index="0">
+            <SequenceIndex value="0"/>
+            <LookupListIndex value="14"/>
+          </SubstLookupRecord>
+        </ChainContextSubst>
+        <ChainContextSubst index="1" Format="3">
+          <!-- BacktrackGlyphCount=1 -->
+          <BacktrackCoverage index="0">
+            <Glyph value="uni0308.case"/>
+            <Glyph value="uni0307.case"/>
+            <Glyph value="gravecomb.case"/>
+            <Glyph value="acutecomb.case"/>
+            <Glyph value="uni0302.case"/>
+            <Glyph value="uni030C.case"/>
+            <Glyph value="uni0306.case"/>
+            <Glyph value="uni030A.case"/>
+            <Glyph value="tildecomb.case"/>
+            <Glyph value="uni0304.case"/>
+          </BacktrackCoverage>
+          <!-- InputGlyphCount=1 -->
+          <InputCoverage index="0">
+            <Glyph value="uni0308"/>
+            <Glyph value="uni0307"/>
+            <Glyph value="gravecomb"/>
+            <Glyph value="acutecomb"/>
+            <Glyph value="uni0302"/>
+            <Glyph value="uni030C"/>
+            <Glyph value="uni0306"/>
+            <Glyph value="uni030A"/>
+            <Glyph value="tildecomb"/>
+            <Glyph value="uni0304"/>
+          </InputCoverage>
+          <!-- LookAheadGlyphCount=0 -->
+          <!-- SubstCount=1 -->
+          <SubstLookupRecord index="0">
+            <SequenceIndex value="0"/>
+            <LookupListIndex value="14"/>
+          </SubstLookupRecord>
+        </ChainContextSubst>
+      </Lookup>
+      <Lookup index="3">
+        <LookupType value="6"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=10 -->
+        <ChainContextSubst index="0" Format="3">
+          <!-- BacktrackGlyphCount=0 -->
+          <!-- InputGlyphCount=1 -->
+          <InputCoverage index="0">
+            <Glyph value="hyphen"/>
+          </InputCoverage>
+          <!-- LookAheadGlyphCount=1 -->
+          <LookAheadCoverage index="0">
+            <Glyph value="zero"/>
+            <Glyph value="one"/>
+            <Glyph value="two"/>
+            <Glyph value="three"/>
+            <Glyph value="four"/>
+            <Glyph value="five"/>
+            <Glyph value="six"/>
+            <Glyph value="seven"/>
+            <Glyph value="eight"/>
+            <Glyph value="nine"/>
+            <Glyph value="zero.zero"/>
+          </LookAheadCoverage>
+          <!-- SubstCount=1 -->
+          <SubstLookupRecord index="0">
+            <SequenceIndex value="0"/>
+            <LookupListIndex value="15"/>
+          </SubstLookupRecord>
+        </ChainContextSubst>
+        <ChainContextSubst index="1" Format="1">
+          <Coverage>
+            <Glyph value="hyphen"/>
+          </Coverage>
+          <!-- ChainSubRuleSetCount=1 -->
+          <ChainSubRuleSet index="0">
+            <!-- ChainSubRuleCount=1 -->
+            <ChainSubRule index="0">
+              <!-- BacktrackGlyphCount=0 -->
+              <!-- InputGlyphCount=1 -->
+              <!-- LookAheadGlyphCount=2 -->
+              <LookAhead index="0" value="zero"/>
+              <LookAhead index="1" value="x"/>
+              <!-- SubstCount=1 -->
+              <SubstLookupRecord index="0">
+                <SequenceIndex value="0"/>
+                <LookupListIndex value="15"/>
+              </SubstLookupRecord>
+            </ChainSubRule>
+          </ChainSubRuleSet>
+        </ChainContextSubst>
+        <ChainContextSubst index="2" Format="3">
+          <!-- BacktrackGlyphCount=2 -->
+          <BacktrackCoverage index="0">
+            <Glyph value="x"/>
+          </BacktrackCoverage>
+          <BacktrackCoverage index="1">
+            <Glyph value="zero"/>
+          </BacktrackCoverage>
+          <!-- InputGlyphCount=1 -->
+          <InputCoverage index="0">
+            <Glyph value="A"/>
+            <Glyph value="B"/>
+            <Glyph value="C"/>
+            <Glyph value="D"/>
+            <Glyph value="E"/>
+            <Glyph value="F"/>
+          </InputCoverage>
+          <!-- LookAheadGlyphCount=0 -->
+          <!-- SubstCount=1 -->
+          <SubstLookupRecord index="0">
+            <SequenceIndex value="0"/>
+            <LookupListIndex value="15"/>
+          </SubstLookupRecord>
+        </ChainContextSubst>
+        <ChainContextSubst index="3" Format="3">
+          <!-- BacktrackGlyphCount=3 -->
+          <BacktrackCoverage index="0">
+            <Glyph value="A"/>
+            <Glyph value="B"/>
+            <Glyph value="C"/>
+            <Glyph value="D"/>
+            <Glyph value="E"/>
+            <Glyph value="F"/>
+            <Glyph value="A.hex"/>
+            <Glyph value="B.hex"/>
+            <Glyph value="C.hex"/>
+            <Glyph value="D.hex"/>
+            <Glyph value="E.hex"/>
+            <Glyph value="F.hex"/>
+            <Glyph value="a"/>
+            <Glyph value="b"/>
+            <Glyph value="c"/>
+            <Glyph value="d"/>
+            <Glyph value="e"/>
+            <Glyph value="f"/>
+            <Glyph value="zero"/>
+            <Glyph value="one"/>
+            <Glyph value="two"/>
+            <Glyph value="three"/>
+            <Glyph value="four"/>
+            <Glyph value="five"/>
+            <Glyph value="six"/>
+            <Glyph value="seven"/>
+            <Glyph value="eight"/>
+            <Glyph value="nine"/>
+            <Glyph value="zero.zero"/>
+          </BacktrackCoverage>
+          <BacktrackCoverage index="1">
+            <Glyph value="x"/>
+          </BacktrackCoverage>
+          <BacktrackCoverage index="2">
+            <Glyph value="zero"/>
+          </BacktrackCoverage>
+          <!-- InputGlyphCount=1 -->
+          <InputCoverage index="0">
+            <Glyph value="A"/>
+            <Glyph value="B"/>
+            <Glyph value="C"/>
+            <Glyph value="D"/>
+            <Glyph value="E"/>
+            <Glyph value="F"/>
+          </InputCoverage>
+          <!-- LookAheadGlyphCount=0 -->
+          <!-- SubstCount=1 -->
+          <SubstLookupRecord index="0">
+            <SequenceIndex value="0"/>
+            <LookupListIndex value="15"/>
+          </SubstLookupRecord>
+        </ChainContextSubst>
+        <ChainContextSubst index="4" Format="3">
+          <!-- BacktrackGlyphCount=4 -->
+          <BacktrackCoverage index="0">
+            <Glyph value="A"/>
+            <Glyph value="B"/>
+            <Glyph value="C"/>
+            <Glyph value="D"/>
+            <Glyph value="E"/>
+            <Glyph value="F"/>
+            <Glyph value="A.hex"/>
+            <Glyph value="B.hex"/>
+            <Glyph value="C.hex"/>
+            <Glyph value="D.hex"/>
+            <Glyph value="E.hex"/>
+            <Glyph value="F.hex"/>
+            <Glyph value="a"/>
+            <Glyph value="b"/>
+            <Glyph value="c"/>
+            <Glyph value="d"/>
+            <Glyph value="e"/>
+            <Glyph value="f"/>
+            <Glyph value="zero"/>
+            <Glyph value="one"/>
+            <Glyph value="two"/>
+            <Glyph value="three"/>
+            <Glyph value="four"/>
+            <Glyph value="five"/>
+            <Glyph value="six"/>
+            <Glyph value="seven"/>
+            <Glyph value="eight"/>
+            <Glyph value="nine"/>
+            <Glyph value="zero.zero"/>
+          </BacktrackCoverage>
+          <BacktrackCoverage index="1">
+            <Glyph value="A"/>
+            <Glyph value="B"/>
+            <Glyph value="C"/>
+            <Glyph value="D"/>
+            <Glyph value="E"/>
+            <Glyph value="F"/>
+            <Glyph value="A.hex"/>
+            <Glyph value="B.hex"/>
+            <Glyph value="C.hex"/>
+            <Glyph value="D.hex"/>
+            <Glyph value="E.hex"/>
+            <Glyph value="F.hex"/>
+            <Glyph value="a"/>
+            <Glyph value="b"/>
+            <Glyph value="c"/>
+            <Glyph value="d"/>
+            <Glyph value="e"/>
+            <Glyph value="f"/>
+            <Glyph value="zero"/>
+            <Glyph value="one"/>
+            <Glyph value="two"/>
+            <Glyph value="three"/>
+            <Glyph value="four"/>
+            <Glyph value="five"/>
+            <Glyph value="six"/>
+            <Glyph value="seven"/>
+            <Glyph value="eight"/>
+            <Glyph value="nine"/>
+            <Glyph value="zero.zero"/>
+          </BacktrackCoverage>
+          <BacktrackCoverage index="2">
+            <Glyph value="x"/>
+          </BacktrackCoverage>
+          <BacktrackCoverage index="3">
+            <Glyph value="zero"/>
+          </BacktrackCoverage>
+          <!-- InputGlyphCount=1 -->
+          <InputCoverage index="0">
+            <Glyph value="A"/>
+            <Glyph value="B"/>
+            <Glyph value="C"/>
+            <Glyph value="D"/>
+            <Glyph value="E"/>
+            <Glyph value="F"/>
+          </InputCoverage>
+          <!-- LookAheadGlyphCount=0 -->
+          <!-- SubstCount=1 -->
+          <SubstLookupRecord index="0">
+            <SequenceIndex value="0"/>
+            <LookupListIndex value="15"/>
+          </SubstLookupRecord>
+        </ChainContextSubst>
+        <ChainContextSubst index="5" Format="3">
+          <!-- BacktrackGlyphCount=5 -->
+          <BacktrackCoverage index="0">
+            <Glyph value="A"/>
+            <Glyph value="B"/>
+            <Glyph value="C"/>
+            <Glyph value="D"/>
+            <Glyph value="E"/>
+            <Glyph value="F"/>
+            <Glyph value="A.hex"/>
+            <Glyph value="B.hex"/>
+            <Glyph value="C.hex"/>
+            <Glyph value="D.hex"/>
+            <Glyph value="E.hex"/>
+            <Glyph value="F.hex"/>
+            <Glyph value="a"/>
+            <Glyph value="b"/>
+            <Glyph value="c"/>
+            <Glyph value="d"/>
+            <Glyph value="e"/>
+            <Glyph value="f"/>
+            <Glyph value="zero"/>
+            <Glyph value="one"/>
+            <Glyph value="two"/>
+            <Glyph value="three"/>
+            <Glyph value="four"/>
+            <Glyph value="five"/>
+            <Glyph value="six"/>
+            <Glyph value="seven"/>
+            <Glyph value="eight"/>
+            <Glyph value="nine"/>
+            <Glyph value="zero.zero"/>
+          </BacktrackCoverage>
+          <BacktrackCoverage index="1">
+            <Glyph value="A"/>
+            <Glyph value="B"/>
+            <Glyph value="C"/>
+            <Glyph value="D"/>
+            <Glyph value="E"/>
+            <Glyph value="F"/>
+            <Glyph value="A.hex"/>
+            <Glyph value="B.hex"/>
+            <Glyph value="C.hex"/>
+            <Glyph value="D.hex"/>
+            <Glyph value="E.hex"/>
+            <Glyph value="F.hex"/>
+            <Glyph value="a"/>
+            <Glyph value="b"/>
+            <Glyph value="c"/>
+            <Glyph value="d"/>
+            <Glyph value="e"/>
+            <Glyph value="f"/>
+            <Glyph value="zero"/>
+            <Glyph value="one"/>
+            <Glyph value="two"/>
+            <Glyph value="three"/>
+            <Glyph value="four"/>
+            <Glyph value="five"/>
+            <Glyph value="six"/>
+            <Glyph value="seven"/>
+            <Glyph value="eight"/>
+            <Glyph value="nine"/>
+            <Glyph value="zero.zero"/>
+          </BacktrackCoverage>
+          <BacktrackCoverage index="2">
+            <Glyph value="A"/>
+            <Glyph value="B"/>
+            <Glyph value="C"/>
+            <Glyph value="D"/>
+            <Glyph value="E"/>
+            <Glyph value="F"/>
+            <Glyph value="A.hex"/>
+            <Glyph value="B.hex"/>
+            <Glyph value="C.hex"/>
+            <Glyph value="D.hex"/>
+            <Glyph value="E.hex"/>
+            <Glyph value="F.hex"/>
+            <Glyph value="a"/>
+            <Glyph value="b"/>
+            <Glyph value="c"/>
+            <Glyph value="d"/>
+            <Glyph value="e"/>
+            <Glyph value="f"/>
+            <Glyph value="zero"/>
+            <Glyph value="one"/>
+            <Glyph value="two"/>
+            <Glyph value="three"/>
+            <Glyph value="four"/>
+            <Glyph value="five"/>
+            <Glyph value="six"/>
+            <Glyph value="seven"/>
+            <Glyph value="eight"/>
+            <Glyph value="nine"/>
+            <Glyph value="zero.zero"/>
+          </BacktrackCoverage>
+          <BacktrackCoverage index="3">
+            <Glyph value="x"/>
+          </BacktrackCoverage>
+          <BacktrackCoverage index="4">
+            <Glyph value="zero"/>
+          </BacktrackCoverage>
+          <!-- InputGlyphCount=1 -->
+          <InputCoverage index="0">
+            <Glyph value="A"/>
+            <Glyph value="B"/>
+            <Glyph value="C"/>
+            <Glyph value="D"/>
+            <Glyph value="E"/>
+            <Glyph value="F"/>
+          </InputCoverage>
+          <!-- LookAheadGlyphCount=0 -->
+          <!-- SubstCount=1 -->
+          <SubstLookupRecord index="0">
+            <SequenceIndex value="0"/>
+            <LookupListIndex value="15"/>
+          </SubstLookupRecord>
+        </ChainContextSubst>
+        <ChainContextSubst index="6" Format="3">
+          <!-- BacktrackGlyphCount=6 -->
+          <BacktrackCoverage index="0">
+            <Glyph value="A"/>
+            <Glyph value="B"/>
+            <Glyph value="C"/>
+            <Glyph value="D"/>
+            <Glyph value="E"/>
+            <Glyph value="F"/>
+            <Glyph value="A.hex"/>
+            <Glyph value="B.hex"/>
+            <Glyph value="C.hex"/>
+            <Glyph value="D.hex"/>
+            <Glyph value="E.hex"/>
+            <Glyph value="F.hex"/>
+            <Glyph value="a"/>
+            <Glyph value="b"/>
+            <Glyph value="c"/>
+            <Glyph value="d"/>
+            <Glyph value="e"/>
+            <Glyph value="f"/>
+            <Glyph value="zero"/>
+            <Glyph value="one"/>
+            <Glyph value="two"/>
+            <Glyph value="three"/>
+            <Glyph value="four"/>
+            <Glyph value="five"/>
+            <Glyph value="six"/>
+            <Glyph value="seven"/>
+            <Glyph value="eight"/>
+            <Glyph value="nine"/>
+            <Glyph value="zero.zero"/>
+          </BacktrackCoverage>
+          <BacktrackCoverage index="1">
+            <Glyph value="A"/>
+            <Glyph value="B"/>
+            <Glyph value="C"/>
+            <Glyph value="D"/>
+            <Glyph value="E"/>
+            <Glyph value="F"/>
+            <Glyph value="A.hex"/>
+            <Glyph value="B.hex"/>
+            <Glyph value="C.hex"/>
+            <Glyph value="D.hex"/>
+            <Glyph value="E.hex"/>
+            <Glyph value="F.hex"/>
+            <Glyph value="a"/>
+            <Glyph value="b"/>
+            <Glyph value="c"/>
+            <Glyph value="d"/>
+            <Glyph value="e"/>
+            <Glyph value="f"/>
+            <Glyph value="zero"/>
+            <Glyph value="one"/>
+            <Glyph value="two"/>
+            <Glyph value="three"/>
+            <Glyph value="four"/>
+            <Glyph value="five"/>
+            <Glyph value="six"/>
+            <Glyph value="seven"/>
+            <Glyph value="eight"/>
+            <Glyph value="nine"/>
+            <Glyph value="zero.zero"/>
+          </BacktrackCoverage>
+          <BacktrackCoverage index="2">
+            <Glyph value="A"/>
+            <Glyph value="B"/>
+            <Glyph value="C"/>
+            <Glyph value="D"/>
+            <Glyph value="E"/>
+            <Glyph value="F"/>
+            <Glyph value="A.hex"/>
+            <Glyph value="B.hex"/>
+            <Glyph value="C.hex"/>
+            <Glyph value="D.hex"/>
+            <Glyph value="E.hex"/>
+            <Glyph value="F.hex"/>
+            <Glyph value="a"/>
+            <Glyph value="b"/>
+            <Glyph value="c"/>
+            <Glyph value="d"/>
+            <Glyph value="e"/>
+            <Glyph value="f"/>
+            <Glyph value="zero"/>
+            <Glyph value="one"/>
+            <Glyph value="two"/>
+            <Glyph value="three"/>
+            <Glyph value="four"/>
+            <Glyph value="five"/>
+            <Glyph value="six"/>
+            <Glyph value="seven"/>
+            <Glyph value="eight"/>
+            <Glyph value="nine"/>
+            <Glyph value="zero.zero"/>
+          </BacktrackCoverage>
+          <BacktrackCoverage index="3">
+            <Glyph value="A"/>
+            <Glyph value="B"/>
+            <Glyph value="C"/>
+            <Glyph value="D"/>
+            <Glyph value="E"/>
+            <Glyph value="F"/>
+            <Glyph value="A.hex"/>
+            <Glyph value="B.hex"/>
+            <Glyph value="C.hex"/>
+            <Glyph value="D.hex"/>
+            <Glyph value="E.hex"/>
+            <Glyph value="F.hex"/>
+            <Glyph value="a"/>
+            <Glyph value="b"/>
+            <Glyph value="c"/>
+            <Glyph value="d"/>
+            <Glyph value="e"/>
+            <Glyph value="f"/>
+            <Glyph value="zero"/>
+            <Glyph value="one"/>
+            <Glyph value="two"/>
+            <Glyph value="three"/>
+            <Glyph value="four"/>
+            <Glyph value="five"/>
+            <Glyph value="six"/>
+            <Glyph value="seven"/>
+            <Glyph value="eight"/>
+            <Glyph value="nine"/>
+            <Glyph value="zero.zero"/>
+          </BacktrackCoverage>
+          <BacktrackCoverage index="4">
+            <Glyph value="x"/>
+          </BacktrackCoverage>
+          <BacktrackCoverage index="5">
+            <Glyph value="zero"/>
+          </BacktrackCoverage>
+          <!-- InputGlyphCount=1 -->
+          <InputCoverage index="0">
+            <Glyph value="A"/>
+            <Glyph value="B"/>
+            <Glyph value="C"/>
+            <Glyph value="D"/>
+            <Glyph value="E"/>
+            <Glyph value="F"/>
+          </InputCoverage>
+          <!-- LookAheadGlyphCount=0 -->
+          <!-- SubstCount=1 -->
+          <SubstLookupRecord index="0">
+            <SequenceIndex value="0"/>
+            <LookupListIndex value="15"/>
+          </SubstLookupRecord>
+        </ChainContextSubst>
+        <ChainContextSubst index="7" Format="3">
+          <!-- BacktrackGlyphCount=7 -->
+          <BacktrackCoverage index="0">
+            <Glyph value="A"/>
+            <Glyph value="B"/>
+            <Glyph value="C"/>
+            <Glyph value="D"/>
+            <Glyph value="E"/>
+            <Glyph value="F"/>
+            <Glyph value="A.hex"/>
+            <Glyph value="B.hex"/>
+            <Glyph value="C.hex"/>
+            <Glyph value="D.hex"/>
+            <Glyph value="E.hex"/>
+            <Glyph value="F.hex"/>
+            <Glyph value="a"/>
+            <Glyph value="b"/>
+            <Glyph value="c"/>
+            <Glyph value="d"/>
+            <Glyph value="e"/>
+            <Glyph value="f"/>
+            <Glyph value="zero"/>
+            <Glyph value="one"/>
+            <Glyph value="two"/>
+            <Glyph value="three"/>
+            <Glyph value="four"/>
+            <Glyph value="five"/>
+            <Glyph value="six"/>
+            <Glyph value="seven"/>
+            <Glyph value="eight"/>
+            <Glyph value="nine"/>
+            <Glyph value="zero.zero"/>
+          </BacktrackCoverage>
+          <BacktrackCoverage index="1">
+            <Glyph value="A"/>
+            <Glyph value="B"/>
+            <Glyph value="C"/>
+            <Glyph value="D"/>
+            <Glyph value="E"/>
+            <Glyph value="F"/>
+            <Glyph value="A.hex"/>
+            <Glyph value="B.hex"/>
+            <Glyph value="C.hex"/>
+            <Glyph value="D.hex"/>
+            <Glyph value="E.hex"/>
+            <Glyph value="F.hex"/>
+            <Glyph value="a"/>
+            <Glyph value="b"/>
+            <Glyph value="c"/>
+            <Glyph value="d"/>
+            <Glyph value="e"/>
+            <Glyph value="f"/>
+            <Glyph value="zero"/>
+            <Glyph value="one"/>
+            <Glyph value="two"/>
+            <Glyph value="three"/>
+            <Glyph value="four"/>
+            <Glyph value="five"/>
+            <Glyph value="six"/>
+            <Glyph value="seven"/>
+            <Glyph value="eight"/>
+            <Glyph value="nine"/>
+            <Glyph value="zero.zero"/>
+          </BacktrackCoverage>
+          <BacktrackCoverage index="2">
+            <Glyph value="A"/>
+            <Glyph value="B"/>
+            <Glyph value="C"/>
+            <Glyph value="D"/>
+            <Glyph value="E"/>
+            <Glyph value="F"/>
+            <Glyph value="A.hex"/>
+            <Glyph value="B.hex"/>
+            <Glyph value="C.hex"/>
+            <Glyph value="D.hex"/>
+            <Glyph value="E.hex"/>
+            <Glyph value="F.hex"/>
+            <Glyph value="a"/>
+            <Glyph value="b"/>
+            <Glyph value="c"/>
+            <Glyph value="d"/>
+            <Glyph value="e"/>
+            <Glyph value="f"/>
+            <Glyph value="zero"/>
+            <Glyph value="one"/>
+            <Glyph value="two"/>
+            <Glyph value="three"/>
+            <Glyph value="four"/>
+            <Glyph value="five"/>
+            <Glyph value="six"/>
+            <Glyph value="seven"/>
+            <Glyph value="eight"/>
+            <Glyph value="nine"/>
+            <Glyph value="zero.zero"/>
+          </BacktrackCoverage>
+          <BacktrackCoverage index="3">
+            <Glyph value="A"/>
+            <Glyph value="B"/>
+            <Glyph value="C"/>
+            <Glyph value="D"/>
+            <Glyph value="E"/>
+            <Glyph value="F"/>
+            <Glyph value="A.hex"/>
+            <Glyph value="B.hex"/>
+            <Glyph value="C.hex"/>
+            <Glyph value="D.hex"/>
+            <Glyph value="E.hex"/>
+            <Glyph value="F.hex"/>
+            <Glyph value="a"/>
+            <Glyph value="b"/>
+            <Glyph value="c"/>
+            <Glyph value="d"/>
+            <Glyph value="e"/>
+            <Glyph value="f"/>
+            <Glyph value="zero"/>
+            <Glyph value="one"/>
+            <Glyph value="two"/>
+            <Glyph value="three"/>
+            <Glyph value="four"/>
+            <Glyph value="five"/>
+            <Glyph value="six"/>
+            <Glyph value="seven"/>
+            <Glyph value="eight"/>
+            <Glyph value="nine"/>
+            <Glyph value="zero.zero"/>
+          </BacktrackCoverage>
+          <BacktrackCoverage index="4">
+            <Glyph value="A"/>
+            <Glyph value="B"/>
+            <Glyph value="C"/>
+            <Glyph value="D"/>
+            <Glyph value="E"/>
+            <Glyph value="F"/>
+            <Glyph value="A.hex"/>
+            <Glyph value="B.hex"/>
+            <Glyph value="C.hex"/>
+            <Glyph value="D.hex"/>
+            <Glyph value="E.hex"/>
+            <Glyph value="F.hex"/>
+            <Glyph value="a"/>
+            <Glyph value="b"/>
+            <Glyph value="c"/>
+            <Glyph value="d"/>
+            <Glyph value="e"/>
+            <Glyph value="f"/>
+            <Glyph value="zero"/>
+            <Glyph value="one"/>
+            <Glyph value="two"/>
+            <Glyph value="three"/>
+            <Glyph value="four"/>
+            <Glyph value="five"/>
+            <Glyph value="six"/>
+            <Glyph value="seven"/>
+            <Glyph value="eight"/>
+            <Glyph value="nine"/>
+            <Glyph value="zero.zero"/>
+          </BacktrackCoverage>
+          <BacktrackCoverage index="5">
+            <Glyph value="x"/>
+          </BacktrackCoverage>
+          <BacktrackCoverage index="6">
+            <Glyph value="zero"/>
+          </BacktrackCoverage>
+          <!-- InputGlyphCount=1 -->
+          <InputCoverage index="0">
+            <Glyph value="A"/>
+            <Glyph value="B"/>
+            <Glyph value="C"/>
+            <Glyph value="D"/>
+            <Glyph value="E"/>
+            <Glyph value="F"/>
+          </InputCoverage>
+          <!-- LookAheadGlyphCount=0 -->
+          <!-- SubstCount=1 -->
+          <SubstLookupRecord index="0">
+            <SequenceIndex value="0"/>
+            <LookupListIndex value="15"/>
+          </SubstLookupRecord>
+        </ChainContextSubst>
+        <ChainContextSubst index="8" Format="3">
+          <!-- BacktrackGlyphCount=8 -->
+          <BacktrackCoverage index="0">
+            <Glyph value="A"/>
+            <Glyph value="B"/>
+            <Glyph value="C"/>
+            <Glyph value="D"/>
+            <Glyph value="E"/>
+            <Glyph value="F"/>
+            <Glyph value="A.hex"/>
+            <Glyph value="B.hex"/>
+            <Glyph value="C.hex"/>
+            <Glyph value="D.hex"/>
+            <Glyph value="E.hex"/>
+            <Glyph value="F.hex"/>
+            <Glyph value="a"/>
+            <Glyph value="b"/>
+            <Glyph value="c"/>
+            <Glyph value="d"/>
+            <Glyph value="e"/>
+            <Glyph value="f"/>
+            <Glyph value="zero"/>
+            <Glyph value="one"/>
+            <Glyph value="two"/>
+            <Glyph value="three"/>
+            <Glyph value="four"/>
+            <Glyph value="five"/>
+            <Glyph value="six"/>
+            <Glyph value="seven"/>
+            <Glyph value="eight"/>
+            <Glyph value="nine"/>
+            <Glyph value="zero.zero"/>
+          </BacktrackCoverage>
+          <BacktrackCoverage index="1">
+            <Glyph value="A"/>
+            <Glyph value="B"/>
+            <Glyph value="C"/>
+            <Glyph value="D"/>
+            <Glyph value="E"/>
+            <Glyph value="F"/>
+            <Glyph value="A.hex"/>
+            <Glyph value="B.hex"/>
+            <Glyph value="C.hex"/>
+            <Glyph value="D.hex"/>
+            <Glyph value="E.hex"/>
+            <Glyph value="F.hex"/>
+            <Glyph value="a"/>
+            <Glyph value="b"/>
+            <Glyph value="c"/>
+            <Glyph value="d"/>
+            <Glyph value="e"/>
+            <Glyph value="f"/>
+            <Glyph value="zero"/>
+            <Glyph value="one"/>
+            <Glyph value="two"/>
+            <Glyph value="three"/>
+            <Glyph value="four"/>
+            <Glyph value="five"/>
+            <Glyph value="six"/>
+            <Glyph value="seven"/>
+            <Glyph value="eight"/>
+            <Glyph value="nine"/>
+            <Glyph value="zero.zero"/>
+          </BacktrackCoverage>
+          <BacktrackCoverage index="2">
+            <Glyph value="A"/>
+            <Glyph value="B"/>
+            <Glyph value="C"/>
+            <Glyph value="D"/>
+            <Glyph value="E"/>
+            <Glyph value="F"/>
+            <Glyph value="A.hex"/>
+            <Glyph value="B.hex"/>
+            <Glyph value="C.hex"/>
+            <Glyph value="D.hex"/>
+            <Glyph value="E.hex"/>
+            <Glyph value="F.hex"/>
+            <Glyph value="a"/>
+            <Glyph value="b"/>
+            <Glyph value="c"/>
+            <Glyph value="d"/>
+            <Glyph value="e"/>
+            <Glyph value="f"/>
+            <Glyph value="zero"/>
+            <Glyph value="one"/>
+            <Glyph value="two"/>
+            <Glyph value="three"/>
+            <Glyph value="four"/>
+            <Glyph value="five"/>
+            <Glyph value="six"/>
+            <Glyph value="seven"/>
+            <Glyph value="eight"/>
+            <Glyph value="nine"/>
+            <Glyph value="zero.zero"/>
+          </BacktrackCoverage>
+          <BacktrackCoverage index="3">
+            <Glyph value="A"/>
+            <Glyph value="B"/>
+            <Glyph value="C"/>
+            <Glyph value="D"/>
+            <Glyph value="E"/>
+            <Glyph value="F"/>
+            <Glyph value="A.hex"/>
+            <Glyph value="B.hex"/>
+            <Glyph value="C.hex"/>
+            <Glyph value="D.hex"/>
+            <Glyph value="E.hex"/>
+            <Glyph value="F.hex"/>
+            <Glyph value="a"/>
+            <Glyph value="b"/>
+            <Glyph value="c"/>
+            <Glyph value="d"/>
+            <Glyph value="e"/>
+            <Glyph value="f"/>
+            <Glyph value="zero"/>
+            <Glyph value="one"/>
+            <Glyph value="two"/>
+            <Glyph value="three"/>
+            <Glyph value="four"/>
+            <Glyph value="five"/>
+            <Glyph value="six"/>
+            <Glyph value="seven"/>
+            <Glyph value="eight"/>
+            <Glyph value="nine"/>
+            <Glyph value="zero.zero"/>
+          </BacktrackCoverage>
+          <BacktrackCoverage index="4">
+            <Glyph value="A"/>
+            <Glyph value="B"/>
+            <Glyph value="C"/>
+            <Glyph value="D"/>
+            <Glyph value="E"/>
+            <Glyph value="F"/>
+            <Glyph value="A.hex"/>
+            <Glyph value="B.hex"/>
+            <Glyph value="C.hex"/>
+            <Glyph value="D.hex"/>
+            <Glyph value="E.hex"/>
+            <Glyph value="F.hex"/>
+            <Glyph value="a"/>
+            <Glyph value="b"/>
+            <Glyph value="c"/>
+            <Glyph value="d"/>
+            <Glyph value="e"/>
+            <Glyph value="f"/>
+            <Glyph value="zero"/>
+            <Glyph value="one"/>
+            <Glyph value="two"/>
+            <Glyph value="three"/>
+            <Glyph value="four"/>
+            <Glyph value="five"/>
+            <Glyph value="six"/>
+            <Glyph value="seven"/>
+            <Glyph value="eight"/>
+            <Glyph value="nine"/>
+            <Glyph value="zero.zero"/>
+          </BacktrackCoverage>
+          <BacktrackCoverage index="5">
+            <Glyph value="A"/>
+            <Glyph value="B"/>
+            <Glyph value="C"/>
+            <Glyph value="D"/>
+            <Glyph value="E"/>
+            <Glyph value="F"/>
+            <Glyph value="A.hex"/>
+            <Glyph value="B.hex"/>
+            <Glyph value="C.hex"/>
+            <Glyph value="D.hex"/>
+            <Glyph value="E.hex"/>
+            <Glyph value="F.hex"/>
+            <Glyph value="a"/>
+            <Glyph value="b"/>
+            <Glyph value="c"/>
+            <Glyph value="d"/>
+            <Glyph value="e"/>
+            <Glyph value="f"/>
+            <Glyph value="zero"/>
+            <Glyph value="one"/>
+            <Glyph value="two"/>
+            <Glyph value="three"/>
+            <Glyph value="four"/>
+            <Glyph value="five"/>
+            <Glyph value="six"/>
+            <Glyph value="seven"/>
+            <Glyph value="eight"/>
+            <Glyph value="nine"/>
+            <Glyph value="zero.zero"/>
+          </BacktrackCoverage>
+          <BacktrackCoverage index="6">
+            <Glyph value="x"/>
+          </BacktrackCoverage>
+          <BacktrackCoverage index="7">
+            <Glyph value="zero"/>
+          </BacktrackCoverage>
+          <!-- InputGlyphCount=1 -->
+          <InputCoverage index="0">
+            <Glyph value="A"/>
+            <Glyph value="B"/>
+            <Glyph value="C"/>
+            <Glyph value="D"/>
+            <Glyph value="E"/>
+            <Glyph value="F"/>
+          </InputCoverage>
+          <!-- LookAheadGlyphCount=0 -->
+          <!-- SubstCount=1 -->
+          <SubstLookupRecord index="0">
+            <SequenceIndex value="0"/>
+            <LookupListIndex value="15"/>
+          </SubstLookupRecord>
+        </ChainContextSubst>
+        <ChainContextSubst index="9" Format="3">
+          <!-- BacktrackGlyphCount=9 -->
+          <BacktrackCoverage index="0">
+            <Glyph value="A"/>
+            <Glyph value="B"/>
+            <Glyph value="C"/>
+            <Glyph value="D"/>
+            <Glyph value="E"/>
+            <Glyph value="F"/>
+            <Glyph value="A.hex"/>
+            <Glyph value="B.hex"/>
+            <Glyph value="C.hex"/>
+            <Glyph value="D.hex"/>
+            <Glyph value="E.hex"/>
+            <Glyph value="F.hex"/>
+            <Glyph value="a"/>
+            <Glyph value="b"/>
+            <Glyph value="c"/>
+            <Glyph value="d"/>
+            <Glyph value="e"/>
+            <Glyph value="f"/>
+            <Glyph value="zero"/>
+            <Glyph value="one"/>
+            <Glyph value="two"/>
+            <Glyph value="three"/>
+            <Glyph value="four"/>
+            <Glyph value="five"/>
+            <Glyph value="six"/>
+            <Glyph value="seven"/>
+            <Glyph value="eight"/>
+            <Glyph value="nine"/>
+            <Glyph value="zero.zero"/>
+          </BacktrackCoverage>
+          <BacktrackCoverage index="1">
+            <Glyph value="A"/>
+            <Glyph value="B"/>
+            <Glyph value="C"/>
+            <Glyph value="D"/>
+            <Glyph value="E"/>
+            <Glyph value="F"/>
+            <Glyph value="A.hex"/>
+            <Glyph value="B.hex"/>
+            <Glyph value="C.hex"/>
+            <Glyph value="D.hex"/>
+            <Glyph value="E.hex"/>
+            <Glyph value="F.hex"/>
+            <Glyph value="a"/>
+            <Glyph value="b"/>
+            <Glyph value="c"/>
+            <Glyph value="d"/>
+            <Glyph value="e"/>
+            <Glyph value="f"/>
+            <Glyph value="zero"/>
+            <Glyph value="one"/>
+            <Glyph value="two"/>
+            <Glyph value="three"/>
+            <Glyph value="four"/>
+            <Glyph value="five"/>
+            <Glyph value="six"/>
+            <Glyph value="seven"/>
+            <Glyph value="eight"/>
+            <Glyph value="nine"/>
+            <Glyph value="zero.zero"/>
+          </BacktrackCoverage>
+          <BacktrackCoverage index="2">
+            <Glyph value="A"/>
+            <Glyph value="B"/>
+            <Glyph value="C"/>
+            <Glyph value="D"/>
+            <Glyph value="E"/>
+            <Glyph value="F"/>
+            <Glyph value="A.hex"/>
+            <Glyph value="B.hex"/>
+            <Glyph value="C.hex"/>
+            <Glyph value="D.hex"/>
+            <Glyph value="E.hex"/>
+            <Glyph value="F.hex"/>
+            <Glyph value="a"/>
+            <Glyph value="b"/>
+            <Glyph value="c"/>
+            <Glyph value="d"/>
+            <Glyph value="e"/>
+            <Glyph value="f"/>
+            <Glyph value="zero"/>
+            <Glyph value="one"/>
+            <Glyph value="two"/>
+            <Glyph value="three"/>
+            <Glyph value="four"/>
+            <Glyph value="five"/>
+            <Glyph value="six"/>
+            <Glyph value="seven"/>
+            <Glyph value="eight"/>
+            <Glyph value="nine"/>
+            <Glyph value="zero.zero"/>
+          </BacktrackCoverage>
+          <BacktrackCoverage index="3">
+            <Glyph value="A"/>
+            <Glyph value="B"/>
+            <Glyph value="C"/>
+            <Glyph value="D"/>
+            <Glyph value="E"/>
+            <Glyph value="F"/>
+            <Glyph value="A.hex"/>
+            <Glyph value="B.hex"/>
+            <Glyph value="C.hex"/>
+            <Glyph value="D.hex"/>
+            <Glyph value="E.hex"/>
+            <Glyph value="F.hex"/>
+            <Glyph value="a"/>
+            <Glyph value="b"/>
+            <Glyph value="c"/>
+            <Glyph value="d"/>
+            <Glyph value="e"/>
+            <Glyph value="f"/>
+            <Glyph value="zero"/>
+            <Glyph value="one"/>
+            <Glyph value="two"/>
+            <Glyph value="three"/>
+            <Glyph value="four"/>
+            <Glyph value="five"/>
+            <Glyph value="six"/>
+            <Glyph value="seven"/>
+            <Glyph value="eight"/>
+            <Glyph value="nine"/>
+            <Glyph value="zero.zero"/>
+          </BacktrackCoverage>
+          <BacktrackCoverage index="4">
+            <Glyph value="A"/>
+            <Glyph value="B"/>
+            <Glyph value="C"/>
+            <Glyph value="D"/>
+            <Glyph value="E"/>
+            <Glyph value="F"/>
+            <Glyph value="A.hex"/>
+            <Glyph value="B.hex"/>
+            <Glyph value="C.hex"/>
+            <Glyph value="D.hex"/>
+            <Glyph value="E.hex"/>
+            <Glyph value="F.hex"/>
+            <Glyph value="a"/>
+            <Glyph value="b"/>
+            <Glyph value="c"/>
+            <Glyph value="d"/>
+            <Glyph value="e"/>
+            <Glyph value="f"/>
+            <Glyph value="zero"/>
+            <Glyph value="one"/>
+            <Glyph value="two"/>
+            <Glyph value="three"/>
+            <Glyph value="four"/>
+            <Glyph value="five"/>
+            <Glyph value="six"/>
+            <Glyph value="seven"/>
+            <Glyph value="eight"/>
+            <Glyph value="nine"/>
+            <Glyph value="zero.zero"/>
+          </BacktrackCoverage>
+          <BacktrackCoverage index="5">
+            <Glyph value="A"/>
+            <Glyph value="B"/>
+            <Glyph value="C"/>
+            <Glyph value="D"/>
+            <Glyph value="E"/>
+            <Glyph value="F"/>
+            <Glyph value="A.hex"/>
+            <Glyph value="B.hex"/>
+            <Glyph value="C.hex"/>
+            <Glyph value="D.hex"/>
+            <Glyph value="E.hex"/>
+            <Glyph value="F.hex"/>
+            <Glyph value="a"/>
+            <Glyph value="b"/>
+            <Glyph value="c"/>
+            <Glyph value="d"/>
+            <Glyph value="e"/>
+            <Glyph value="f"/>
+            <Glyph value="zero"/>
+            <Glyph value="one"/>
+            <Glyph value="two"/>
+            <Glyph value="three"/>
+            <Glyph value="four"/>
+            <Glyph value="five"/>
+            <Glyph value="six"/>
+            <Glyph value="seven"/>
+            <Glyph value="eight"/>
+            <Glyph value="nine"/>
+            <Glyph value="zero.zero"/>
+          </BacktrackCoverage>
+          <BacktrackCoverage index="6">
+            <Glyph value="A"/>
+            <Glyph value="B"/>
+            <Glyph value="C"/>
+            <Glyph value="D"/>
+            <Glyph value="E"/>
+            <Glyph value="F"/>
+            <Glyph value="A.hex"/>
+            <Glyph value="B.hex"/>
+            <Glyph value="C.hex"/>
+            <Glyph value="D.hex"/>
+            <Glyph value="E.hex"/>
+            <Glyph value="F.hex"/>
+            <Glyph value="a"/>
+            <Glyph value="b"/>
+            <Glyph value="c"/>
+            <Glyph value="d"/>
+            <Glyph value="e"/>
+            <Glyph value="f"/>
+            <Glyph value="zero"/>
+            <Glyph value="one"/>
+            <Glyph value="two"/>
+            <Glyph value="three"/>
+            <Glyph value="four"/>
+            <Glyph value="five"/>
+            <Glyph value="six"/>
+            <Glyph value="seven"/>
+            <Glyph value="eight"/>
+            <Glyph value="nine"/>
+            <Glyph value="zero.zero"/>
+          </BacktrackCoverage>
+          <BacktrackCoverage index="7">
+            <Glyph value="x"/>
+          </BacktrackCoverage>
+          <BacktrackCoverage index="8">
+            <Glyph value="zero"/>
+          </BacktrackCoverage>
+          <!-- InputGlyphCount=1 -->
+          <InputCoverage index="0">
+            <Glyph value="A"/>
+            <Glyph value="B"/>
+            <Glyph value="C"/>
+            <Glyph value="D"/>
+            <Glyph value="E"/>
+            <Glyph value="F"/>
+          </InputCoverage>
+          <!-- LookAheadGlyphCount=0 -->
+          <!-- SubstCount=1 -->
+          <SubstLookupRecord index="0">
+            <SequenceIndex value="0"/>
+            <LookupListIndex value="15"/>
+          </SubstLookupRecord>
+        </ChainContextSubst>
+      </Lookup>
+      <Lookup index="4">
+        <LookupType value="6"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <ChainContextSubst index="0" Format="1">
+          <Coverage>
+            <Glyph value="x"/>
+          </Coverage>
+          <!-- ChainSubRuleSetCount=1 -->
+          <ChainSubRuleSet index="0">
+            <!-- ChainSubRuleCount=1 -->
+            <ChainSubRule index="0">
+              <!-- BacktrackGlyphCount=1 -->
+              <Backtrack index="0" value="zero"/>
+              <!-- InputGlyphCount=1 -->
+              <!-- LookAheadGlyphCount=0 -->
+              <!-- SubstCount=1 -->
+              <SubstLookupRecord index="0">
+                <SequenceIndex value="0"/>
+                <LookupListIndex value="15"/>
+              </SubstLookupRecord>
+            </ChainSubRule>
+          </ChainSubRuleSet>
+        </ChainContextSubst>
+      </Lookup>
+      <Lookup index="5">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0">
+          <Substitution in="Scedilla" out="uni0218"/>
+          <Substitution in="scedilla" out="uni0219"/>
+          <Substitution in="uni0162" out="uni021A"/>
+          <Substitution in="uni0163" out="uni021B"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="6">
+        <LookupType value="6"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <ChainContextSubst index="0" Format="1">
+          <Coverage>
+            <Glyph value="J"/>
+            <Glyph value="j"/>
+          </Coverage>
+          <!-- ChainSubRuleSetCount=2 -->
+          <ChainSubRuleSet index="0">
+            <!-- ChainSubRuleCount=1 -->
+            <ChainSubRule index="0">
+              <!-- BacktrackGlyphCount=1 -->
+              <Backtrack index="0" value="Iacute"/>
+              <!-- InputGlyphCount=1 -->
+              <!-- LookAheadGlyphCount=0 -->
+              <!-- SubstCount=1 -->
+              <SubstLookupRecord index="0">
+                <SequenceIndex value="0"/>
+                <LookupListIndex value="16"/>
+              </SubstLookupRecord>
+            </ChainSubRule>
+          </ChainSubRuleSet>
+          <ChainSubRuleSet index="1">
+            <!-- ChainSubRuleCount=1 -->
+            <ChainSubRule index="0">
+              <!-- BacktrackGlyphCount=1 -->
+              <Backtrack index="0" value="iacute"/>
+              <!-- InputGlyphCount=1 -->
+              <!-- LookAheadGlyphCount=0 -->
+              <!-- SubstCount=1 -->
+              <SubstLookupRecord index="0">
+                <SequenceIndex value="0"/>
+                <LookupListIndex value="16"/>
+              </SubstLookupRecord>
+            </ChainSubRule>
+          </ChainSubRuleSet>
+        </ChainContextSubst>
+      </Lookup>
+      <Lookup index="7">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0">
+          <Substitution in="acutecomb" out="acutecomb.case"/>
+          <Substitution in="gravecomb" out="gravecomb.case"/>
+          <Substitution in="tildecomb" out="tildecomb.case"/>
+          <Substitution in="uni0302" out="uni0302.case"/>
+          <Substitution in="uni0304" out="uni0304.case"/>
+          <Substitution in="uni0306" out="uni0306.case"/>
+          <Substitution in="uni0307" out="uni0307.case"/>
+          <Substitution in="uni0308" out="uni0308.case"/>
+          <Substitution in="uni030A" out="uni030A.case"/>
+          <Substitution in="uni030C" out="uni030C.case"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="8">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0">
+          <Substitution in="zero" out="zero.zero"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="9">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0">
+          <Substitution in="zero" out="zero.zero"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="10">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0">
+          <Substitution in="A" out="a.sc"/>
+          <Substitution in="Aacute" out="aacute.sc"/>
+          <Substitution in="Abreve" out="abreve.sc"/>
+          <Substitution in="Acircumflex" out="acircumflex.sc"/>
+          <Substitution in="Adieresis" out="adieresis.sc"/>
+          <Substitution in="Agrave" out="agrave.sc"/>
+          <Substitution in="Amacron" out="amacron.sc"/>
+          <Substitution in="Aogonek" out="aogonek.sc"/>
+          <Substitution in="Aring" out="aring.sc"/>
+          <Substitution in="Atilde" out="atilde.sc"/>
+          <Substitution in="B" out="b.sc"/>
+          <Substitution in="C" out="c.sc"/>
+          <Substitution in="Cacute" out="cacute.sc"/>
+          <Substitution in="Ccaron" out="ccaron.sc"/>
+          <Substitution in="Ccedilla" out="ccedilla.sc"/>
+          <Substitution in="Ccircumflex" out="ccircumflex.sc"/>
+          <Substitution in="Cdotaccent" out="cdotaccent.sc"/>
+          <Substitution in="D" out="d.sc"/>
+          <Substitution in="Dcaron" out="dcaron.sc"/>
+          <Substitution in="Dcroat" out="dcroat.sc"/>
+          <Substitution in="E" out="e.sc"/>
+          <Substitution in="Eacute" out="eacute.sc"/>
+          <Substitution in="Ebreve" out="ebreve.sc"/>
+          <Substitution in="Ecaron" out="ecaron.sc"/>
+          <Substitution in="Ecircumflex" out="ecircumflex.sc"/>
+          <Substitution in="Edieresis" out="edieresis.sc"/>
+          <Substitution in="Edotaccent" out="edotaccent.sc"/>
+          <Substitution in="Egrave" out="egrave.sc"/>
+          <Substitution in="Emacron" out="emacron.sc"/>
+          <Substitution in="Eogonek" out="eogonek.sc"/>
+          <Substitution in="Eth" out="eth.sc"/>
+          <Substitution in="F" out="f.sc"/>
+          <Substitution in="G" out="g.sc"/>
+          <Substitution in="Gbreve" out="gbreve.sc"/>
+          <Substitution in="Gcaron" out="gcaron.sc"/>
+          <Substitution in="Gcircumflex" out="gcircumflex.sc"/>
+          <Substitution in="Gdotaccent" out="gdotaccent.sc"/>
+          <Substitution in="H" out="h.sc"/>
+          <Substitution in="Hbar" out="hbar.sc"/>
+          <Substitution in="Hcircumflex" out="hcircumflex.sc"/>
+          <Substitution in="I" out="i.sc"/>
+          <Substitution in="Iacute" out="iacute.sc"/>
+          <Substitution in="Ibreve" out="ibreve.sc"/>
+          <Substitution in="Icircumflex" out="icircumflex.sc"/>
+          <Substitution in="Idieresis" out="idieresis.sc"/>
+          <Substitution in="Igrave" out="igrave.sc"/>
+          <Substitution in="Imacron" out="imacron.sc"/>
+          <Substitution in="Iogonek" out="iogonek.sc"/>
+          <Substitution in="Itilde" out="itilde.sc"/>
+          <Substitution in="J" out="j.sc"/>
+          <Substitution in="Jcircumflex" out="jcircumflex.sc"/>
+          <Substitution in="K" out="k.sc"/>
+          <Substitution in="L" out="l.sc"/>
+          <Substitution in="Lacute" out="lacute.sc"/>
+          <Substitution in="M" out="m.sc"/>
+          <Substitution in="N" out="n.sc"/>
+          <Substitution in="Nacute" out="nacute.sc"/>
+          <Substitution in="Ncaron" out="ncaron.sc"/>
+          <Substitution in="Ntilde" out="ntilde.sc"/>
+          <Substitution in="O" out="o.sc"/>
+          <Substitution in="Oacute" out="oacute.sc"/>
+          <Substitution in="Obreve" out="obreve.sc"/>
+          <Substitution in="Ocircumflex" out="ocircumflex.sc"/>
+          <Substitution in="Odieresis" out="odieresis.sc"/>
+          <Substitution in="Ograve" out="ograve.sc"/>
+          <Substitution in="Omacron" out="omacron.sc"/>
+          <Substitution in="Otilde" out="otilde.sc"/>
+          <Substitution in="P" out="p.sc"/>
+          <Substitution in="Q" out="q.sc"/>
+          <Substitution in="R" out="r.sc"/>
+          <Substitution in="Racute" out="racute.sc"/>
+          <Substitution in="Rcaron" out="rcaron.sc"/>
+          <Substitution in="S" out="s.sc"/>
+          <Substitution in="Sacute" out="sacute.sc"/>
+          <Substitution in="Scaron" out="scaron.sc"/>
+          <Substitution in="Scedilla" out="scedilla.sc"/>
+          <Substitution in="Scircumflex" out="scircumflex.sc"/>
+          <Substitution in="T" out="t.sc"/>
+          <Substitution in="Tcaron" out="tcaron.sc"/>
+          <Substitution in="Thorn" out="thorn.sc"/>
+          <Substitution in="U" out="u.sc"/>
+          <Substitution in="Uacute" out="uacute.sc"/>
+          <Substitution in="Ubreve" out="ubreve.sc"/>
+          <Substitution in="Ucircumflex" out="ucircumflex.sc"/>
+          <Substitution in="Udieresis" out="udieresis.sc"/>
+          <Substitution in="Ugrave" out="ugrave.sc"/>
+          <Substitution in="Umacron" out="umacron.sc"/>
+          <Substitution in="Uogonek" out="uogonek.sc"/>
+          <Substitution in="Uring" out="uring.sc"/>
+          <Substitution in="Utilde" out="utilde.sc"/>
+          <Substitution in="V" out="v.sc"/>
+          <Substitution in="W" out="w.sc"/>
+          <Substitution in="Wacute" out="wacute.sc"/>
+          <Substitution in="Wcircumflex" out="wcircumflex.sc"/>
+          <Substitution in="Wdieresis" out="wdieresis.sc"/>
+          <Substitution in="Wgrave" out="wgrave.sc"/>
+          <Substitution in="X" out="x.sc"/>
+          <Substitution in="Y" out="y.sc"/>
+          <Substitution in="Yacute" out="yacute.sc"/>
+          <Substitution in="Ycircumflex" out="ycircumflex.sc"/>
+          <Substitution in="Ydieresis" out="ydieresis.sc"/>
+          <Substitution in="Ygrave" out="ygrave.sc"/>
+          <Substitution in="Z" out="z.sc"/>
+          <Substitution in="Zacute" out="zacute.sc"/>
+          <Substitution in="Zcaron" out="zcaron.sc"/>
+          <Substitution in="Zdotaccent" out="zdotaccent.sc"/>
+          <Substitution in="uni004A0301" out="uni006A0301.sc"/>
+          <Substitution in="uni0122" out="uni0123.sc"/>
+          <Substitution in="uni0136" out="uni0137.sc"/>
+          <Substitution in="uni013B" out="uni013C.sc"/>
+          <Substitution in="uni0145" out="uni0146.sc"/>
+          <Substitution in="uni0156" out="uni0157.sc"/>
+          <Substitution in="uni0162" out="uni0163.sc"/>
+          <Substitution in="uni018F" out="uni0259.sc"/>
+          <Substitution in="uni01CD" out="uni01CE.sc"/>
+          <Substitution in="uni01D1" out="uni01D2.sc"/>
+          <Substitution in="uni01D3" out="uni01D4.sc"/>
+          <Substitution in="uni0218" out="uni0219.sc"/>
+          <Substitution in="uni021A" out="uni021B.sc"/>
+          <Substitution in="uni0232" out="uni0233.sc"/>
+          <Substitution in="uni0245" out="uni028C.sc"/>
+          <Substitution in="uni1E20" out="uni1E21.sc"/>
+          <Substitution in="uni1E26" out="uni1E27.sc"/>
+          <Substitution in="uni1E56" out="uni1E57.sc"/>
+          <Substitution in="uni1E8C" out="uni1E8D.sc"/>
+          <Substitution in="uni1E9E" out="germandbls.sc"/>
+          <Substitution in="uni1EBC" out="uni1EBD.sc"/>
+          <Substitution in="uni1EF8" out="uni1EF9.sc"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="11">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0">
+          <Substitution in="a" out="a.sc"/>
+          <Substitution in="aacute" out="aacute.sc"/>
+          <Substitution in="abreve" out="abreve.sc"/>
+          <Substitution in="acircumflex" out="acircumflex.sc"/>
+          <Substitution in="adieresis" out="adieresis.sc"/>
+          <Substitution in="agrave" out="agrave.sc"/>
+          <Substitution in="amacron" out="amacron.sc"/>
+          <Substitution in="aogonek" out="aogonek.sc"/>
+          <Substitution in="aring" out="aring.sc"/>
+          <Substitution in="atilde" out="atilde.sc"/>
+          <Substitution in="b" out="b.sc"/>
+          <Substitution in="c" out="c.sc"/>
+          <Substitution in="cacute" out="cacute.sc"/>
+          <Substitution in="ccaron" out="ccaron.sc"/>
+          <Substitution in="ccedilla" out="ccedilla.sc"/>
+          <Substitution in="ccircumflex" out="ccircumflex.sc"/>
+          <Substitution in="cdotaccent" out="cdotaccent.sc"/>
+          <Substitution in="d" out="d.sc"/>
+          <Substitution in="dcroat" out="dcroat.sc"/>
+          <Substitution in="dotlessi" out="dotlessi.sc"/>
+          <Substitution in="e" out="e.sc"/>
+          <Substitution in="eacute" out="eacute.sc"/>
+          <Substitution in="ebreve" out="ebreve.sc"/>
+          <Substitution in="ecaron" out="ecaron.sc"/>
+          <Substitution in="ecircumflex" out="ecircumflex.sc"/>
+          <Substitution in="edieresis" out="edieresis.sc"/>
+          <Substitution in="edotaccent" out="edotaccent.sc"/>
+          <Substitution in="egrave" out="egrave.sc"/>
+          <Substitution in="emacron" out="emacron.sc"/>
+          <Substitution in="eogonek" out="eogonek.sc"/>
+          <Substitution in="f" out="f.sc"/>
+          <Substitution in="g" out="g.sc"/>
+          <Substitution in="gbreve" out="gbreve.sc"/>
+          <Substitution in="gcaron" out="gcaron.sc"/>
+          <Substitution in="gcircumflex" out="gcircumflex.sc"/>
+          <Substitution in="gdotaccent" out="gdotaccent.sc"/>
+          <Substitution in="germandbls" out="germandbls.sc"/>
+          <Substitution in="h" out="h.sc"/>
+          <Substitution in="hbar" out="hbar.sc"/>
+          <Substitution in="hcircumflex" out="hcircumflex.sc"/>
+          <Substitution in="i" out="i.sc"/>
+          <Substitution in="iacute" out="iacute.sc"/>
+          <Substitution in="ibreve" out="ibreve.sc"/>
+          <Substitution in="icircumflex" out="icircumflex.sc"/>
+          <Substitution in="idieresis" out="idieresis.sc"/>
+          <Substitution in="igrave" out="igrave.sc"/>
+          <Substitution in="imacron" out="imacron.sc"/>
+          <Substitution in="iogonek" out="iogonek.sc"/>
+          <Substitution in="itilde" out="itilde.sc"/>
+          <Substitution in="j" out="j.sc"/>
+          <Substitution in="jcircumflex" out="jcircumflex.sc"/>
+          <Substitution in="k" out="k.sc"/>
+          <Substitution in="l" out="l.sc"/>
+          <Substitution in="lacute" out="lacute.sc"/>
+          <Substitution in="m" out="m.sc"/>
+          <Substitution in="n" out="n.sc"/>
+          <Substitution in="nacute" out="nacute.sc"/>
+          <Substitution in="ncaron" out="ncaron.sc"/>
+          <Substitution in="ntilde" out="ntilde.sc"/>
+          <Substitution in="o" out="o.sc"/>
+          <Substitution in="oacute" out="oacute.sc"/>
+          <Substitution in="obreve" out="obreve.sc"/>
+          <Substitution in="ocircumflex" out="ocircumflex.sc"/>
+          <Substitution in="odieresis" out="odieresis.sc"/>
+          <Substitution in="ograve" out="ograve.sc"/>
+          <Substitution in="omacron" out="omacron.sc"/>
+          <Substitution in="otilde" out="otilde.sc"/>
+          <Substitution in="p" out="p.sc"/>
+          <Substitution in="q" out="q.sc"/>
+          <Substitution in="r" out="r.sc"/>
+          <Substitution in="racute" out="racute.sc"/>
+          <Substitution in="rcaron" out="rcaron.sc"/>
+          <Substitution in="s" out="s.sc"/>
+          <Substitution in="sacute" out="sacute.sc"/>
+          <Substitution in="scaron" out="scaron.sc"/>
+          <Substitution in="scedilla" out="scedilla.sc"/>
+          <Substitution in="scircumflex" out="scircumflex.sc"/>
+          <Substitution in="t" out="t.sc"/>
+          <Substitution in="thorn" out="thorn.sc"/>
+          <Substitution in="u" out="u.sc"/>
+          <Substitution in="uacute" out="uacute.sc"/>
+          <Substitution in="ubreve" out="ubreve.sc"/>
+          <Substitution in="ucircumflex" out="ucircumflex.sc"/>
+          <Substitution in="udieresis" out="udieresis.sc"/>
+          <Substitution in="ugrave" out="ugrave.sc"/>
+          <Substitution in="umacron" out="umacron.sc"/>
+          <Substitution in="uni006A0301" out="uni006A0301.sc"/>
+          <Substitution in="uni0123" out="uni0123.sc"/>
+          <Substitution in="uni0137" out="uni0137.sc"/>
+          <Substitution in="uni013C" out="uni013C.sc"/>
+          <Substitution in="uni0146" out="uni0146.sc"/>
+          <Substitution in="uni0157" out="uni0157.sc"/>
+          <Substitution in="uni0163" out="uni0163.sc"/>
+          <Substitution in="uni01CE" out="uni01CE.sc"/>
+          <Substitution in="uni01D2" out="uni01D2.sc"/>
+          <Substitution in="uni01D4" out="uni01D4.sc"/>
+          <Substitution in="uni0219" out="uni0219.sc"/>
+          <Substitution in="uni021B" out="uni021B.sc"/>
+          <Substitution in="uni0233" out="uni0233.sc"/>
+          <Substitution in="uni0237" out="uni0237.sc"/>
+          <Substitution in="uni0259" out="uni0259.sc"/>
+          <Substitution in="uni028C" out="uni028C.sc"/>
+          <Substitution in="uni1E21" out="uni1E21.sc"/>
+          <Substitution in="uni1E27" out="uni1E27.sc"/>
+          <Substitution in="uni1E57" out="uni1E57.sc"/>
+          <Substitution in="uni1E8D" out="uni1E8D.sc"/>
+          <Substitution in="uni1E97" out="uni1E97.sc"/>
+          <Substitution in="uni1EBD" out="uni1EBD.sc"/>
+          <Substitution in="uni1EF9" out="uni1EF9.sc"/>
+          <Substitution in="uogonek" out="uogonek.sc"/>
+          <Substitution in="uring" out="uring.sc"/>
+          <Substitution in="utilde" out="utilde.sc"/>
+          <Substitution in="v" out="v.sc"/>
+          <Substitution in="w" out="w.sc"/>
+          <Substitution in="wacute" out="wacute.sc"/>
+          <Substitution in="wcircumflex" out="wcircumflex.sc"/>
+          <Substitution in="wdieresis" out="wdieresis.sc"/>
+          <Substitution in="wgrave" out="wgrave.sc"/>
+          <Substitution in="x" out="x.sc"/>
+          <Substitution in="y" out="y.sc"/>
+          <Substitution in="yacute" out="yacute.sc"/>
+          <Substitution in="ycircumflex" out="ycircumflex.sc"/>
+          <Substitution in="ydieresis" out="ydieresis.sc"/>
+          <Substitution in="ygrave" out="ygrave.sc"/>
+          <Substitution in="z" out="z.sc"/>
+          <Substitution in="zacute" out="zacute.sc"/>
+          <Substitution in="zcaron" out="zcaron.sc"/>
+          <Substitution in="zdotaccent" out="zdotaccent.sc"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="12">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0">
+          <Substitution in="I" out="I.sans"/>
+          <Substitution in="dotlessi" out="dotlessi.sans"/>
+          <Substitution in="i" out="i.sans"/>
+          <Substitution in="j" out="j.sans"/>
+          <Substitution in="l" out="l.sans"/>
+          <Substitution in="uni0237" out="uni0237.sans"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="13">
+        <LookupType value="1"/>
+        <LookupFlag value="16"/><!-- useMarkFilteringSet -->
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0">
+          <Substitution in="i" out="dotlessi"/>
+          <Substitution in="j" out="uni0237"/>
+        </SingleSubst>
+        <MarkFilteringSet value="0"/>
+      </Lookup>
+      <Lookup index="14">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0">
+          <Substitution in="acutecomb" out="acutecomb.case"/>
+          <Substitution in="gravecomb" out="gravecomb.case"/>
+          <Substitution in="tildecomb" out="tildecomb.case"/>
+          <Substitution in="uni0302" out="uni0302.case"/>
+          <Substitution in="uni0304" out="uni0304.case"/>
+          <Substitution in="uni0306" out="uni0306.case"/>
+          <Substitution in="uni0307" out="uni0307.case"/>
+          <Substitution in="uni0308" out="uni0308.case"/>
+          <Substitution in="uni030A" out="uni030A.case"/>
+          <Substitution in="uni030C" out="uni030C.case"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="15">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0">
+          <Substitution in="A" out="A.hex"/>
+          <Substitution in="B" out="B.hex"/>
+          <Substitution in="C" out="C.hex"/>
+          <Substitution in="D" out="D.hex"/>
+          <Substitution in="E" out="E.hex"/>
+          <Substitution in="F" out="F.hex"/>
+          <Substitution in="hyphen" out="minus"/>
+          <Substitution in="x" out="x.hex"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="16">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0">
+          <Substitution in="J" out="uni004A0301"/>
+          <Substitution in="j" out="uni006A0301"/>
+        </SingleSubst>
+      </Lookup>
+    </LookupList>
+  </GSUB>
+
+</ttFont>

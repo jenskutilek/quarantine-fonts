@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ttFont ttLibVersion="4.54">
+
+  <prep>
+    <assembly>
+      SVTCA[0]	/* SetFPVectorToAxis */
+      PUSHB[ ]	/* 3 values pushed */
+      0 3 15
+      WS[ ]	/* WriteStore */
+      CALL[ ]	/* CallFunction */
+      PUSHB[ ]	/* 1 value pushed */
+      1
+      CALL[ ]	/* CallFunction */
+      PUSHB[ ]	/* 7 values pushed */
+      57 64 2 1 15 2 1
+      RCVT[ ]	/* ReadCVT */
+      WS[ ]	/* WriteStore */
+      WS[ ]	/* WriteStore */
+      RS[ ]	/* ReadStore */
+      EQ[ ]	/* Equal */
+      JROF[ ]	/* JumpRelativeOnFalse */
+      PUSHB[ ]	/* 2 values pushed */
+      46 1
+      RS[ ]	/* ReadStore */
+      PUSHB[ ]	/* 1 value pushed */
+      17
+      LT[ ]	/* LessThan */
+      JROF[ ]	/* JumpRelativeOnFalse */
+      PUSHB[ ]	/* 4 values pushed */
+      7 3 3 1
+      RS[ ]	/* ReadStore */
+      RCVT[ ]	/* ReadCVT */
+      WS[ ]	/* WriteStore */
+      RS[ ]	/* ReadStore */
+      PUSHB[ ]	/* 1 value pushed */
+      93
+      LT[ ]	/* LessThan */
+      JROF[ ]	/* JumpRelativeOnFalse */
+      PUSHB[ ]	/* 3 values pushed */
+      10 3 64
+      WS[ ]	/* WriteStore */
+      JMPR[ ]	/* Jump */
+      PUSHB[ ]	/* 2 values pushed */
+      3 3
+      RS[ ]	/* ReadStore */
+      PUSHB[ ]	/* 1 value pushed */
+      6
+      SUB[ ]	/* Subtract */
+      ROUND[01]	/* Round */
+      WS[ ]	/* WriteStore */
+      PUSHW[ ]	/* 1 value pushed */
+      -52
+      PUSHB[ ]	/* 4 values pushed */
+      1 1 1 1
+      RS[ ]	/* ReadStore */
+      PUSHB[ ]	/* 1 value pushed */
+      3
+      RS[ ]	/* ReadStore */
+      WCVTP[ ]	/* WriteCVTInPixels */
+      RS[ ]	/* ReadStore */
+      ADD[ ]	/* Add */
+      WS[ ]	/* WriteStore */
+      JMPR[ ]	/* Jump */
+      PUSHB[ ]	/* 1 value pushed */
+      44
+      JMPR[ ]	/* Jump */
+      PUSHB[ ]	/* 2 values pushed */
+      36 1
+      RS[ ]	/* ReadStore */
+      PUSHB[ ]	/* 1 value pushed */
+      17
+      LT[ ]	/* LessThan */
+      JROF[ ]	/* JumpRelativeOnFalse */
+      PUSHW[ ]	/* 1 value pushed */
+      -42
+      PUSHB[ ]	/* 8 values pushed */
+      1 1 1 1 4 4 4 1
+      RS[ ]	/* ReadStore */
+      RCVT[ ]	/* ReadCVT */
+      WS[ ]	/* WriteStore */
+      RS[ ]	/* ReadStore */
+      PUSHB[ ]	/* 1 value pushed */
+      2
+      RS[ ]	/* ReadStore */
+      MUL[ ]	/* Multiply */
+      ROUND[01]	/* Round */
+      PUSHB[ ]	/* 1 value pushed */
+      2
+      RS[ ]	/* ReadStore */
+      DIV[ ]	/* Divide */
+      WS[ ]	/* WriteStore */
+      RS[ ]	/* ReadStore */
+      PUSHB[ ]	/* 1 value pushed */
+      4
+      RS[ ]	/* ReadStore */
+      WCVTP[ ]	/* WriteCVTInPixels */
+      RS[ ]	/* ReadStore */
+      ADD[ ]	/* Add */
+      WS[ ]	/* WriteStore */
+      JMPR[ ]	/* Jump */
+      PUSHB[ ]	/* 4 values pushed */
+      6 40 2 3
+      CALL[ ]	/* CallFunction */
+      PUSHB[ ]	/* 4 values pushed */
+      6 40 4 3
+      CALL[ ]	/* CallFunction */
+      PUSHB[ ]	/* 4 values pushed */
+      6 40 6 3
+      CALL[ ]	/* CallFunction */
+      PUSHB[ ]	/* 4 values pushed */
+      12 40 8 3
+      CALL[ ]	/* CallFunction */
+      PUSHB[ ]	/* 4 values pushed */
+      0 40 10 3
+      CALL[ ]	/* CallFunction */
+      PUSHB[ ]	/* 4 values pushed */
+      0 40 12 3
+      CALL[ ]	/* CallFunction */
+      MPPEM[ ]	/* MeasurePixelPerEm */
+      PUSHW[ ]	/* 1 value pushed */
+      4096
+      MUL[ ]	/* Multiply */
+      NEG[ ]	/* Negate */
+      PUSHW[ ]	/* 1 value pushed */
+      15000
+      ADD[ ]	/* Add */
+      PUSHW[ ]	/* 1 value pushed */
+      6400
+      DIV[ ]	/* Divide */
+      PUSHB[ ]	/* 1 value pushed */
+      10
+      SWAP[ ]	/* SwapTopStack */
+      WS[ ]	/* WriteStore */
+      PUSHB[ ]	/* 2 values pushed */
+      0 10
+      RS[ ]	/* ReadStore */
+      GT[ ]	/* GreaterThan */
+      IF[ ]	/* If */
+        PUSHB[ ]	/* 1 value pushed */
+        0
+      ELSE[ ]	/* Else */
+        PUSHB[ ]	/* 1 value pushed */
+        10
+        RS[ ]	/* ReadStore */
+      EIF[ ]	/* EndIf */
+      SCVTCI[ ]	/* SetCVTCutIn */
+      PUSHB[ ]	/* 1 value pushed */
+      13
+      SMD[ ]	/* SetMinimumDistance */
+    </assembly>
+  </prep>
+
+</ttFont>
